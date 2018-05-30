@@ -37,5 +37,5 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "static/fpa.jpg"
-html_logo = "static/fpa.jpg"
+latex_logo = "fpa.jpg"
+html_logo = "fpa.jpg"
