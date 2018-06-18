@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Libro biano innovazione 2018 FPA'
-copyright = '2018, FPA'
+project = 'Libro bianco innovazione 2018 ForumPA'
+copyright = '2018, ForumPA'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
