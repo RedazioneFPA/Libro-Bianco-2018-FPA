@@ -64,7 +64,8 @@ Rapporto centro-periferia
 
 L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un migliore coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio, supportando gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano e a convergere su standard tecnologici e politiche d’innovazione comuni.
 
-.. admonition:: Raccomandazione 3.1b - promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto degli enti del territorio
+.. admonition:: Raccomandazione 3.1b
+promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto degli enti del territorio
 
     Occorre proseguire sulla strada tracciata nel febbraio 2018 con l’approvazione dell’\ |LINK3|\ , accelerando la stipula di accordi o convenzioni territoriali con le singole Regioni per abilitare il loro ruolo di coordinamento a livello territoriale e favorire la trasformazione digitale dei servizi pubblici per i cittadini e imprese.
 
