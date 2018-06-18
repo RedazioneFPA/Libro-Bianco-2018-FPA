@@ -1,8 +1,8 @@
 
-.. _h22212db455941555e116475747b7938:
+.. _h67608311e2b2745df151f1e475623:
 
-1.   Introduzione: dall'Open Government all'Open Governance 
-############################################################
+1.   Dall'Open Government all'Open Governance 
+##############################################
 
 [.....]
 
