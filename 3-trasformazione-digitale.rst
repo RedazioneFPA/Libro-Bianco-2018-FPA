@@ -15,7 +15,7 @@ Per non disperdere gli effetti positivi avviati con il Piano triennale per l’i
 
 \ |STYLE0|\ 
 
-L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un maggiore sforzo di coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio. Le Regioni, in particolare, sono impegnate nel supportare gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano triennale, stimolando i diversi attori a sviluppare una visione omogenea e a convergere su standard tecnologici e politiche d’innovazione comuni.
+L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un maggiore sforzo di coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio, supportando gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano triennale, stimolando i diversi attori a sviluppare una visione omogenea e a convergere su standard tecnologici e politiche d’innovazione comuni.
 
 \ |STYLE1|\ 
 
