@@ -1,0 +1,278 @@
+
+.. _h2f172e3768552216c5625562123366:
+
+4. Politiche verticali per la sostenibilità
+###########################################
+
+[...]
+
+.. _h7072627f221a1d27432953769781c52:
+
+4.1 Sanità
+**********
+
+La popolazione invecchia, le patologie croniche aumentano, e la domanda di assistenza cambia. Dai dati di ricerca 2018 dell’Osservatorio Innovazione Digitale in Sanità del Politecnico di Milano le criticità sono:
+
+\ |STYLE0|\ : l’Italia è il secondo Paese più vecchio del mondo, il più vecchio d'Europa, con una percentuale di ultrasessantacinquenni superiore al 20% e previsioni di crescita oltre il 34% nel 2050.
+Nella regione europea dell’OMS, le malattie croniche colpiscono l’80% delle persone oltre i 65 anni; a fronte di una previsione di invecchiamento della popolazione abbiamo una spesa destinata ad aumentare. 
+La \ |STYLE1|\  sostenuta direttamente dalle famiglie continua a crescere. Dal grafico dell'andamento della spesa sanitaria nel corso degli ultimi anni, si registra una leggera modifica nel rapporto tra quello che è la spesa pubblica e la spesa privata out of pocket. Le previsioni di crescita della spesa al 2025 parlano di una necessità di spesa sanitaria pari a 210 miliardi di euro, che a fronte dei vincoli di bilancio sanitario del nostro Paese saranno sempre più a carico delle famiglie.  Oggi siamo intorno ai 150 miliardi di spesa, circa il 9% del prodotto interno lordo, con un potenziale di efficienza maggiore rispetto ad altri paesi di riferimento europeo.
+
+\ |IMG1|\ 
+
+Dall’incrocio dei dati della spesa sanitaria pro-capite 2016 e l’Euro Health Consumer Index (EHCI) 2016, che confronta i sistemi sanitari europei attraverso una serie di indicatori di percezione della qualità dell'assistenza sanitaria, basata sui tempi di attesa, risultati e affidabilità, si rileva che siamo al 22esimo posto dei 35 paesi europei presenti nella classifica (nel 2012 eravamo al quattordicesimo posto).
+
+In una situazione di forte divario tra quelle che sono le risorse che il sistema mette a disposizione, i bisogni sempre crescenti che la popolazione ha e la qualità percepita che ci vede decrescere al di sotto della media europea, deve inserirsi l’innovazione. Quattro le direttrici di sviluppo: 1. Rinnovamento organizzativo e tecnologico; 2. Empowerment del cittadino paziente; 3. Competenze degli operatori sanitari. 4. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
+
+.. _h6832203f4445585a433f372157667a7c:
+
+Rinnovamento organizzativo del Sistema Sanitario italiano
+=========================================================
+
+Il 15 settembre 2016 è stato firmato l’accordo Stato-Regioni che ha dato vita al Piano Nazionale della Cronicità (PNC). Nella prima parte del documento vengono indicati la strategia complessiva e gli obiettivi di Piano; nella seconda viene individuato un elenco di patologie croniche e, per ciascuna di esse, un inquadramento generale, un elenco delle principali criticità, obiettivi, linee di intervento, risultati attesi e alcuni indicatori per il monitoraggio. 
+
+Il DPCM 12 gennaio 2017 (in sostituzione del DPCM 29 novembre 2001) definisce i nuovi Livelli essenziali di assistenza (LeA), sulla base di quanto disposto nel cosiddetto “Patto per la salute 2014-2016”, prevedendo importanti ampliamenti delle cure che le unità sanitarie di tutto il Paese sono tenute ad assicurare in regime di Servizio sanitario nazionale. 
+
+Serve un programma politico di salvataggio, ecco le raccomandazioni su come innovare. Dovranno essere chiariti i ruoli di Ministero, Regioni e Aziende Sanitarie e i livelli di responsabilità e cooperazione. Il modello organizzativo dell’azienda sanitaria deve raccordarsi con modelli di governance del nostro sistema che oggi varia da regione a regione, serve una necessità di riorganizzazione del modello di assistenza. È necessario un coordinamento di presa delle decisioni tra il livello aziendale e sovraziendale, ad esempio, sul tema della cronicità che pone il focus sulla necessità dei bisogni di presa in carico di pazienti e sulle prestazioni sanitarie continuative.
+
+\ |STYLE2|\ 
+
+.. _h1f2e2a401fb101e18583f591368c1b:
+
+Empowerment e competenze digitali del cittadino paziente
+========================================================
+
+Il 2017, nelle intenzioni del piano “Strategia per la crescita digitale 2014-2020”, avrebbe dovuto essere l’anno di svolta per la digitalizzazione della sanità italiana. All’interno del “Piano Triennale per l’informatica nella PA” (maggio 2017), per l'Ecosistema Sanità sono stati evidenziati tre progetti a titolo esemplificativo: Fascicolo Sanitario Elettronico (FSE), come esempio di infrastruttura abilitante; Centro unico di prenotazione (CUP), da realizzare su tutto il territorio nazionale per favorire l’accesso alle cure e la riduzione dei tempi di attesa; Telemedicina, per migliorare la fruibilità delle cure, dei servizi di diagnosi e della consulenza medica a distanza. 
+
+(\ |STYLE3|\ . 
+L’innovazione digitale abilita i cambiamenti organizzativi su cui spesso viene lamentato un sostanziale isolamento. Occorre una visione sistemica e strategica legata all'impatto delle soluzioni digitali, che si declina in un miglior coordinamento tra le funzioni aziendali deputate al fare innovazione: i sistemi informativi, l’ingegneria clinica, le linee of business o gli attori che lavorano sui processi primari e secondari delle aziende sanitarie.
+
+\ |STYLE4|\  
+
+[...]
+
+\ |STYLE5|\  
+
+Il coinvolgimento di tutti gli attori e il superamento della logica tradizionale a silos sono condizioni prioritarie per attuare la continuità assistenziale, l’integrazione e la presa in carico del paziente e seguirlo longitudinalmente e trasversalmente nei suoi punti di accesso all'interno del SSN.
+
+.. _h737501c1ac6b3461a77254837c59:
+
+Competenze degli operatori nella sanità
+=======================================
+
+I professionisti, i medici e gli infermieri dovrebbero allargare il proprio spettro di competenze da quelle più legate alla loro professione a quelle più legate al digitale, più soft, ma anche più manageriali, secondo un approccio di Innovation Management e quindi di definizione di processi, di regole, di organizzazione, di ruoli deputati all'innovazione. 
+\ |STYLE6|\  
+
+.. _h2a58794280632e323b465a2e5b80283b:
+
+Interazione con i soggetti del mercato dei beni e servizi per la sanità
+=======================================================================
+
+Procurement pubblico/privato
+
+.. _h537236e402f2e20263b59351a391740:
+
+4.2 Lavoro e occupazione
+************************
+
+[...]
+
+.. _h385c12e21d148235e633736645a4:
+
+4.3 Città e territori
+*********************
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+.. _h363438484644623742c5a16533b4570:
+
+Poteri locali e associazionismo comunale
+========================================
+
+La legge 27 dicembre 2017, n.205 ha prorogato ancora una volta (fino al 31 dicembre 2018 e siamo all’ottava proroga) i termini entro i quali i comuni con popolazione inferiore ai 5mila abitanti (fino a 3.000 se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, in primis quello della legge del Rio 56/2014. In Italia abbiamo: 15 regioni a statuto ordinario, 5 regioni a statuto speciale, 73 fusioni (soprattutto a nord) che hanno dato luogo alla soppressione di 186 comuni, numero dei comuni sceso a 7.978 di cui circa il 70% con popolazione inferiore a 5 mila abitanti, 538 unioni di comuni, cui aderiscono 3.104 enti, 14 città metropolitane (alle dieci individuate dalla legge Del Rio si sono aggiunte Palermo, Catania, Messina e Cagliari), 96 province, di cui 76 appartenenti alle regioni a statuto ordinario (Dati IFEL e UPI). Insomma, una situazione variegata, in cui ci sono ancora molti nodi irrisolti. Come procedere per mettere ordine nella legislazione riguardante il riordino degli enti locali e rilanciare a livello nazionale l’associazionismo comunale?
+
+\ |STYLE7|\ 
+
+Questo significa: completamento sul piano costituzionale della Riforma Delrio con la riforma delle Province, definizione delle funzioni fondamentali delle città metropolitane e definizione di un quadro certo di finanza all’interno del quale possano esercitare queste funzioni. Insomma, introdurre una disciplina legislativa statale rispettosa dell’autonomia delle regioni, rivolta a riordinare le province come enti di area vasta e a regolare i relativi rapporti con le regioni e i comuni in maniera larga, ma uniforme nel territorio nazionale.
+
+\ |STYLE8|\ 
+
+Abrogare l’obbligo a carico dei comuni di esercitare in forma associata le funzioni fondamentali; adottare politiche differenziate, di semplificazione e di sostegno dei comuni che si associano, tenendo conto delle diverse caratteristiche territoriali, economiche e sociali; privilegiare le Unioni dei comuni e le Fusioni, considerando le prime come un necessario passaggio verso le seconde che costituiscono un obiettivo primario; favorire la volontarietà dell’associazionismo con un processo di coinvolgimento da condurre insieme con le regioni e le nuove province; superare i limiti demografici per la costituzione di gestioni associate e individuare ambiti omogenei di natura economica e sociale, restando prevalente la contiguità territoriale; introdurre robusti meccanismi incentivanti finanziari (e non soltanto) in modo da creare situazioni attrattive di effettiva convenienza.
+
+.. _h6587c303970e627fb402e33337a:
+
+Rapporto centro-periferie
+=========================
+
+Quali strategie e politiche adottare per gli interventi in ambito urbano? Come sviluppare una politica integrata e coordinata sulle città e prevenire la frammentazione delle risorse a loro destinate? Come mettere in campo politiche di sistema e non settoriali all’interno di un quadro strategico nazionale? Un passaggio necessario è quello di ripensare l’agenda delle priorità della politica pubblica nazionale, dedicando più attenzione al territorio, alle città, ai comuni e alle forme di collaborazione civica e pubblica. In particolare, si devono sostenere i Comuni sul piano della programmazione, della progettazione degli interventi e della previsione di politiche ideali di cambiamento, con particolare attenzione alle aree più degradate e alle periferie. Ecco qualche indicazione.
+
+\ |STYLE9|\ 
+
+Questa dovrebbe assumere la forma di un patto tra amministrazione centrale e autorità urbane ed essere uno strumento concreto attraverso il quale perseguire obiettivi di grande impatto e interesse pubblico. Al centro dell’Agenda Urbana e delle politiche per le città dovrebbero esserci i temi della sostenibilità come proposto dall’“Agenda per lo sviluppo urbano sostenibile” elaborata da ASviS, Urban@it e ad ANCI, che individua gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale per lo Sviluppo Sostenibile e le politiche necessarie. Dovrebbe essere individuato un punto di riferimento all’interno dell’amministrazione centrale che abbia il compito di coordinare le politiche per le città e di definire l’Agenda urbana nazionale, anche attraverso la riattivazione del Cipu. Quest’ultimo punto fa parte anche dei \ |LINK1|\  che sono stati \ |LINK2|\  del Paese.
+
+\ |STYLE10|\ 
+
+Bisogna rendere stabili misure di finanziamento che, ad oggi, sono state straordinarie, andando verso un programma ordinario per le zone maggiormente vulnerabili delle città: un “Piano strategico per le città italiane” di carattere pluriennale. Si deve superare la logica dei bandi, prevedendo un meccanismo di finanziamento continuativo, premessa indispensabile per dare continuità al lavoro di progettualità delle città.
+
+\ |STYLE11|\ 
+
+L’obiettivo è passare dalla straordinarietà della Commissione d’inchiesta all’ordinarietà di una commissione che diventi il luogo dove si esaminano provvedimenti, si acquisiscono pareri, si sviluppano proposte. È un po’ il ruolo che ha la Commissione bicamerale per le questioni regionali, quindi si tratterebbe di affiancare a questo strumento già esistente uno strumento nuovo sul tema delle città e delle periferie.
+
+\ |STYLE12|\ 
+
+Riprendere così la logica della Strategia nazionale per lo sviluppo delle “Aree interne” che mira a garantire l'accessibilità a servizi essenziali, quali istruzione, mobilità e sanità, nei territori interni rurali e prevede per ciascuna area-progetto una strategia di sviluppo con una serie di interventi da attuare attraverso un Accordo di Programma Quadro (APQ).
+
+\ |STYLE13|\ 
+
+Mettere in campo tutte le risorse possibili per mantenere gli impegni che le città hanno assunto nei confronti del governo e dell’Europa, quindi usare le misure complementari e i piani di rafforzamento amministrativo per dare sostegno alle città nella spesa, nel dare attuazione ai progetti presentati e approvati.
+
+\ |STYLE14|\ 
+
+Con il procedere della implementazione delle infrastrutture di comunicazione (banda larga e ultralarga, wifi pubblici, etc.), lo sviluppo tecnologico dei sensori (in grado di raccogliere e trasmettere sempre più ampie quantità e varietà di informazioni), la definizione di sempre più sofisticati modelli e conseguenti applicazioni in grado di trattare quantità enormi di dati va aprendosi una nuova fase nel percorso di digitalizzazione delle città. Le reti funzionali (energia, gas, acqua, trasporti pubblici, illuminazione pubblica) sono in condizione di divenire sempre più “intelligenti” e quindi più efficaci ed efficienti; l’ecosistema urbano può essere sempre più monitorato in tutti i suoi aspetti (produzione e raccolta di rifiuti, qualità dell’aria, sicurezza, traffico, condizione degli edifici e delle infrastrutture); le interazioni sociali (lavoro, consumi, accesso ai servizi, relazioni sociali, partecipazione civile) possono moltiplicarsi e raffinarsi. Si aprono dunque nuove opportunità ma anche nuove criticità sui fronti dell’accesso e dell’utilizzo di queste informazioni sia in forma aggregata sia, potenzialmente, in forma singolare e individuabile.
+
+L’evoluzione di questo percorso dipende dalle relazioni che si instaureranno tra gestori dei servizi, delle reti e dei sensori, amministrazioni locali, cittadini e attori sociali ma un ruolo fondamentale spetta anche al livello nazionale nel promuovere e indirizzare il percorso verso le “città sensibili”. Cosa si dovrebbe fare, quindi, in questa direzione?
+
+\ |STYLE15|\ 
+
+È possibile far emergere da queste trasformazioni nuovi strumenti a disposizione dei cittadini per rendere più consapevoli le loro scelte di comportamento e  consumo, più facile e completo l’accesso ai servizi,  più consistente e influente la loro partecipazione civile. Ma queste opportunità non possono essere prerogativa di una minoranza che dispone delle capacità e degli strumenti per sfruttarle.
+
+\ |STYLE16|\ 
+
+Se nei ranghi delle pubbliche amministrazioni non ci sono persone che hanno le competenze per comprendere e valutare la valenza generale di queste trasformazioni ma anche le loro declinazioni operative si crea uno squilibrio, diviene più difficile indirizzare e gestire la trasformazione. La richiesta allora è duplice: dotare le amministrazioni degli strumenti per formare il personale esistente e consentirgli, in deroga ai vari vincoli, di assumere nuove personale dedicato a questo ambito dell’azione pubblica.
+
+\ |STYLE17|\ 
+
+Questo sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico- privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, magari finanziati con i risparmi realizzati.
+
+\ |STYLE18|\ 
+
+Anche questo aspetto sembra richiedere un approfondimento della regolazione, principalmente, ma non esclusivamente, relativamente alle problematiche della privacy.
+
+\ |STYLE19|\ 
+
+Questo può tradursi nella elaborazione, possibilmente partecipata, di linea guida nazionali e di sedi di interscambio delle esperienze. Un processo di trasformazione delle reti urbane di questa portata e di questa complessità deve fondarsi sull’iniziativa locale, sulla capacità delle singole amministrazioni di individuare necessità e priorità, ma va inserito in un quadro generale che dia la direzione di marcia e supporti tecnicamente e metodologicamente l’azione locale.
+
+.. _h37764334d7631644a305d25706f69:
+
+Sharing Economy
+===============
+
+[...]
+
+.. _h7d77441b36154752a41756f66747b78:
+
+4.4 Energia e ambiente
+**********************
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+.. _h3f1c512d481f17303468601813187d17:
+
+Strategia Nazionale Energetica (SEN)
+====================================
+
+La Strategia Energetica Nazionale, adottata a novembre 2017 rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030. 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta.
+
+La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefigge, assume valore non soltanto per i contenuti che esprime ma anche per il modello partecipativo adottato, essendo il frutto di un percorso partecipato a cui hanno contribuito Regioni, Enti locali e oltre 250 tra associazioni, imprese e mondo della ricerca.
+
+Durante la fase di implementazione della strategia sarà necessario prestare particolare attenzione ad alcuni specifici punti di particolare rilevanza.
+
+\ |STYLE20|\ 
+
+Il modello partecipativo sperimentato con la SEN va esteso anche alle fasi successive che andranno sviluppate: dalle norme agli interventi e strumenti attuativi. Tale modello permette di rafforzare la collaborazione tra Istituzioni ed Aziende e la coerenza delle azioni nel medio-lungo termine, condizioni necessarie per consolidare e portare avanti la Strategia nella prossima legislatura. Non bastano tuttavia PA e imprese, il terzo soggetto da coinvolgere sono i cittadini che avranno un ruolo sempre più rilevante nel raggiungimento degli obiettivi grazie al risparmio energetico ed al mutamento delle abitudini di consumo da parte delle famiglie e delle comunità locali.
+
+\ |STYLE21|\ 
+
+È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di policy making dello Stato rappresentata da Governo e Parlamento.
+
+\ |STYLE22|\ 
+
+Occorre mantenere viva l’attenzione al tema della sostenibilità ambientale, da un lato inserendola in una visione più ampia di sviluppo del Paese legato alla Green economy, dall’altro valutando attentamente l’impatto ambientale delle azioni messe campo su consumo di suolo, qualità dell’aria e delle acque, etc. Sul tema del consumo di suolo, ad esempio, è necessario dotarsi di piani urbanistici coerenti e di una politica di recupero e bonifica dei siti di interesse nazionale che riducano l’occupazione di suolo agricolo.
+
+\ |STYLE23|\  
+
+Per garantire una ricaduta efficace delle diverse misure è necessario prestare maggiore attenzione al coinvolgimento degli enti locali. Le Amministrazioni locali sono soggetti che contribuiscono in maniera rilevante, positivamente o negativamente, al raggiungimento degli obiettivi. Ambiti come la mobilità e l’efficienza energetica, l’illuminazione pubblica, la riqualificazione di edifici pubblici rientrano a pieno titolo tra le funzioni dei Comuni i quali devono certamente veder potenziati gli strumenti a disposizione, sia in termini di incentivi sia in termini di crescita delle capacità e competenze amministrative in ambito energetico.
+
+\ |STYLE24|\ 
+
+Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugli altri Paesi, importando ed esportando effetti rispetto alle altre strategie europee.
+
+.. _h4b5e1465d7f177845f1570254d5c42:
+
+Economia circolare
+==================
+
+[...]
+
+.. _h414b1e7073564b1c6019276d75343944:
+
+4.5 Istruzione e formazione
+***************************
+
+[...]
+
+.. bottom of content
+
+
+.. |STYLE0| replace:: **Invecchiamento della popolazione**
+
+.. |STYLE1| replace:: **spesa sanitaria**
+
+.. |STYLE2| replace:: **Promuovere una governance di ASL/AO/AOU puntando su autonomia, accountability e indipendenza dalla politica**
+
+.. |STYLE3| replace:: **Investire sul digitale in quanto elemento abilitante che va a supportare l’organizzazione complessiva del sistema**
+
+.. |STYLE4| replace:: **Adottare procedure comuni, per mettere a punto modelli condivisi in tutta Italia ed evitare di disperdere risorse ed energie.**
+
+.. |STYLE5| replace:: **Attuare un ripensamento complessivo della gestione dei processi del Servizio Sanitario Nazionale**
+
+.. |STYLE6| replace:: **Raccomandazioni: …**
+
+.. |STYLE7| replace:: **Attuare la Riforma Delrio e lavorare a un riordino e a una riforma organica dei poteri locali (Regioni, Province, Comuni)**
+
+.. |STYLE8| replace:: **Rilanciare l’associazionismo comunale non come obbligo ma come strumento di governo del territorio e occasione di rilancio e di riforma delle istituzioni**
+
+.. |STYLE9| replace:: **Adottare un’Agenda urbana nazionale**
+
+.. |STYLE10| replace:: **Riprendere e sviluppare l’esperienza del Bando periferie**
+
+.. |STYLE11| replace:: **Costituire una Commissione bicamerale per le città e le periferie, come proposto dalla Commissione d’inchiesta parlamentare sulla condizione delle periferie urbane**
+
+.. |STYLE12| replace:: **Realizzare una Strategia per le aree urbane**
+
+.. |STYLE13| replace:: **Dare seguito al PON metro**
+
+.. |STYLE14| replace:: **Piattaforme e servizi per la smart city**
+
+.. |STYLE15| replace:: **Alimentare e sviluppare le iniziative per la diffusione della cultura digitale tra la popolazione, a partire dal livello scolastico**
+
+.. |STYLE16| replace:: **Dotare le amministrazioni pubbliche, in primo luogo quelle locali, delle capacità e competenze per governare consapevolmente questi processi**
+
+.. |STYLE17| replace:: **Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali**
+
+.. |STYLE18| replace:: **Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni**
+
+.. |STYLE19| replace:: **Creare un luogo di regia/consultazione a livello centrale cui le amministrazioni locali possano riferirsi per avere supporto nelle loro scelte e nei loro impegni**
+
+.. |STYLE20| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppare:**
+
+.. |STYLE21| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
+
+.. |STYLE22| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
+
+.. |STYLE23| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
+
+.. |STYLE24| replace:: **Integrare la SEN nel quadro delle strategie europee**
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://asvis.it/home/46-2589/il-video-appello-di-giovanninibrper-una-legislatura-sostenibile#.WqlRNejOXcs" target="_blank">10 punti di ASviS</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://asvis.it/home/46-2694/ladesione-di-partiti-e-movimenti-allappello-asvis-per-una-legislatura-sostenibile#.WqlRX-jOXct" target="_blank">sottoscritti dalle principali forze politiche</a>
+
+
+.. |IMG1| image:: static/4-politiche-sostenibilita_1.jpeg
+   :height: 309 px
+   :width: 582 px
