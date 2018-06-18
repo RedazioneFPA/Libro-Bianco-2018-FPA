@@ -32,7 +32,7 @@ Il Libro bianco sull'innovazione è la raccolta di  (\ |STYLE1|\ )
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Partecipazione
+    :caption: Contributi
 
     partecipazione-libro-bianco
 
