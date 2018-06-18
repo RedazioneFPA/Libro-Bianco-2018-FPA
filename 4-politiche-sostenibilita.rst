@@ -117,37 +117,37 @@ Bisogna rendere stabili misure di finanziamento che, ad oggi, sono state straord
 
 L’obiettivo è passare dalla straordinarietà della Commissione d’inchiesta all’ordinarietà di una commissione che diventi il luogo dove si esaminano provvedimenti, si acquisiscono pareri, si sviluppano proposte. È un po’ il ruolo che ha la Commissione bicamerale per le questioni regionali, quindi si tratterebbe di affiancare a questo strumento già esistente uno strumento nuovo sul tema delle città e delle periferie.
 
-\ |STYLE12|\ 
+\ |STYLE12|\  
 
-Riprendere così la logica della Strategia nazionale per lo sviluppo delle “Aree interne” che mira a garantire l'accessibilità a servizi essenziali, quali istruzione, mobilità e sanità, nei territori interni rurali e prevede per ciascuna area-progetto una strategia di sviluppo con una serie di interventi da attuare attraverso un Accordo di Programma Quadro (APQ).
+Riprendere in ottica urbana la logica della Strategia nazionale per lo sviluppo delle “Aree interne” che mira a garantire l'accessibilità a servizi essenziali, quali istruzione, mobilità e sanità, nei territori interni rurali e prevede per ciascuna area-progetto una strategia di sviluppo con una serie di interventi da attuare attraverso un Accordo di Programma Quadro (APQ).
 
 \ |STYLE13|\ 
 
 Mettere in campo tutte le risorse possibili per mantenere gli impegni che le città hanno assunto nei confronti del governo e dell’Europa, quindi usare le misure complementari e i piani di rafforzamento amministrativo per dare sostegno alle città nella spesa, nel dare attuazione ai progetti presentati e approvati.
 
-\ |STYLE14|\ 
+Piattaforme e servizi per la smart city
 
 Con il procedere della implementazione delle infrastrutture di comunicazione (banda larga e ultralarga, wifi pubblici, etc.), lo sviluppo tecnologico dei sensori (in grado di raccogliere e trasmettere sempre più ampie quantità e varietà di informazioni), la definizione di sempre più sofisticati modelli e conseguenti applicazioni in grado di trattare quantità enormi di dati va aprendosi una nuova fase nel percorso di digitalizzazione delle città. Le reti funzionali (energia, gas, acqua, trasporti pubblici, illuminazione pubblica) sono in condizione di divenire sempre più “intelligenti” e quindi più efficaci ed efficienti; l’ecosistema urbano può essere sempre più monitorato in tutti i suoi aspetti (produzione e raccolta di rifiuti, qualità dell’aria, sicurezza, traffico, condizione degli edifici e delle infrastrutture); le interazioni sociali (lavoro, consumi, accesso ai servizi, relazioni sociali, partecipazione civile) possono moltiplicarsi e raffinarsi. Si aprono dunque nuove opportunità ma anche nuove criticità sui fronti dell’accesso e dell’utilizzo di queste informazioni sia in forma aggregata sia, potenzialmente, in forma singolare e individuabile.
 
 L’evoluzione di questo percorso dipende dalle relazioni che si instaureranno tra gestori dei servizi, delle reti e dei sensori, amministrazioni locali, cittadini e attori sociali ma un ruolo fondamentale spetta anche al livello nazionale nel promuovere e indirizzare il percorso verso le “città sensibili”. Cosa si dovrebbe fare, quindi, in questa direzione?
 
-\ |STYLE15|\ 
+\ |STYLE14|\ 
 
 È possibile far emergere da queste trasformazioni nuovi strumenti a disposizione dei cittadini per rendere più consapevoli le loro scelte di comportamento e  consumo, più facile e completo l’accesso ai servizi,  più consistente e influente la loro partecipazione civile. Ma queste opportunità non possono essere prerogativa di una minoranza che dispone delle capacità e degli strumenti per sfruttarle.
 
-\ |STYLE16|\ 
+\ |STYLE15|\ 
 
 Se nei ranghi delle pubbliche amministrazioni non ci sono persone che hanno le competenze per comprendere e valutare la valenza generale di queste trasformazioni ma anche le loro declinazioni operative si crea uno squilibrio, diviene più difficile indirizzare e gestire la trasformazione. La richiesta allora è duplice: dotare le amministrazioni degli strumenti per formare il personale esistente e consentirgli, in deroga ai vari vincoli, di assumere nuove personale dedicato a questo ambito dell’azione pubblica.
 
-\ |STYLE17|\ 
+\ |STYLE16|\ 
 
 Questo sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico- privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, magari finanziati con i risparmi realizzati.
 
-\ |STYLE18|\ 
+\ |STYLE17|\ 
 
 Anche questo aspetto sembra richiedere un approfondimento della regolazione, principalmente, ma non esclusivamente, relativamente alle problematiche della privacy.
 
-\ |STYLE19|\ 
+\ |STYLE18|\ 
 
 Questo può tradursi nella elaborazione, possibilmente partecipata, di linea guida nazionali e di sedi di interscambio delle esperienze. Un processo di trasformazione delle reti urbane di questa portata e di questa complessità deve fondarsi sull’iniziativa locale, sulla capacità delle singole amministrazioni di individuare necessità e priorità, ma va inserito in un quadro generale che dia la direzione di marcia e supporti tecnicamente e metodologicamente l’azione locale.
 
@@ -176,23 +176,23 @@ La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefi
 
 Durante la fase di implementazione della strategia sarà necessario prestare particolare attenzione ad alcuni specifici punti di particolare rilevanza.
 
-\ |STYLE20|\ 
+\ |STYLE19|\ 
 
 Il modello partecipativo sperimentato con la SEN va esteso anche alle fasi successive che andranno sviluppate: dalle norme agli interventi e strumenti attuativi. Tale modello permette di rafforzare la collaborazione tra Istituzioni ed Aziende e la coerenza delle azioni nel medio-lungo termine, condizioni necessarie per consolidare e portare avanti la Strategia nella prossima legislatura. Non bastano tuttavia PA e imprese, il terzo soggetto da coinvolgere sono i cittadini che avranno un ruolo sempre più rilevante nel raggiungimento degli obiettivi grazie al risparmio energetico ed al mutamento delle abitudini di consumo da parte delle famiglie e delle comunità locali.
 
-\ |STYLE21|\ 
+\ |STYLE20|\ 
 
 È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di policy making dello Stato rappresentata da Governo e Parlamento.
 
-\ |STYLE22|\ 
+\ |STYLE21|\ 
 
 Occorre mantenere viva l’attenzione al tema della sostenibilità ambientale, da un lato inserendola in una visione più ampia di sviluppo del Paese legato alla Green economy, dall’altro valutando attentamente l’impatto ambientale delle azioni messe campo su consumo di suolo, qualità dell’aria e delle acque, etc. Sul tema del consumo di suolo, ad esempio, è necessario dotarsi di piani urbanistici coerenti e di una politica di recupero e bonifica dei siti di interesse nazionale che riducano l’occupazione di suolo agricolo.
 
-\ |STYLE23|\  
+\ |STYLE22|\  
 
 Per garantire una ricaduta efficace delle diverse misure è necessario prestare maggiore attenzione al coinvolgimento degli enti locali. Le Amministrazioni locali sono soggetti che contribuiscono in maniera rilevante, positivamente o negativamente, al raggiungimento degli obiettivi. Ambiti come la mobilità e l’efficienza energetica, l’illuminazione pubblica, la riqualificazione di edifici pubblici rientrano a pieno titolo tra le funzioni dei Comuni i quali devono certamente veder potenziati gli strumenti a disposizione, sia in termini di incentivi sia in termini di crescita delle capacità e competenze amministrative in ambito energetico.
 
-\ |STYLE24|\ 
+\ |STYLE23|\ 
 
 Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugli altri Paesi, importando ed esportando effetti rispetto alle altre strategie europee.
 
@@ -201,7 +201,17 @@ Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugl
 Economia circolare
 ==================
 
-[...]
+Affinché si possa creare una vera economia circolare su scala nazionale, il futuro governo nazionale e tutti i governi cittadini dovrebbero recepire le seguenti indicazioni.
+
+-	Direttive: Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.
+-	Mappatura dell’esistente: l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
+-	Passaporto dei materiali: riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
+-	Creare un hotspot nazionale sulla CE e proseguire il lavoro del MISE/Ministero Ambiente, anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
+-	Circular Public Procerement: Quando si realizzano gare d’appalto è essenziale mettere requisiti di CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Manca uno standard CE, dunque serve impiegare le certificazioni ambientali e sociali esistenti.
+-	Facilitazione : un’agenzia interministeriale che crei le connessioni tra tutti i livelli di governo della città, la società civile e l’impresa. 
+-	Semplificazione: dare alle imprese la possibilità di sviluppare  strategie di innovazione CE   
+-	Formazione e comunicazione: sostenere progetti di studio, ricerca e comunicazione per approfondire gli innumerevoli temi dell’economia circolare 
+-	Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifattura, in sinergia con il mondo Industria 4.0.
 
 .. _h414b1e7073564b1c6019276d75343944:
 
@@ -233,35 +243,33 @@ Economia circolare
 
 .. |STYLE9| replace:: **Adottare un’Agenda urbana nazionale**
 
-.. |STYLE10| replace:: **Riprendere e sviluppare l’esperienza del Bando periferie**
+.. |STYLE10| replace:: **Riprendere e sviluppare l’esperienza del Bando periferie verso un meccanismo di finanziamento continuativo**
 
 .. |STYLE11| replace:: **Costituire una Commissione bicamerale per le città e le periferie, come proposto dalla Commissione d’inchiesta parlamentare sulla condizione delle periferie urbane**
 
-.. |STYLE12| replace:: **Realizzare una Strategia per le aree urbane**
+.. |STYLE12| replace:: **Realizzare una Strategia nazionale per le aree urbane analoga a quella avviata per le Aree interne**
 
-.. |STYLE13| replace:: **Dare seguito al PON metro**
+.. |STYLE13| replace:: **Mettere le città nella condizione di attuare i progetti presentati nell’ambito del PON metro**
 
-.. |STYLE14| replace:: **Piattaforme e servizi per la smart city**
+.. |STYLE14| replace:: **Alimentare e sviluppare le iniziative per la diffusione della cultura digitale tra la popolazione, a partire dal livello scolastico**
 
-.. |STYLE15| replace:: **Alimentare e sviluppare le iniziative per la diffusione della cultura digitale tra la popolazione, a partire dal livello scolastico**
+.. |STYLE15| replace:: **Dotare le amministrazioni pubbliche, in primo luogo quelle locali, delle capacità e competenze per governare consapevolmente questi processi**
 
-.. |STYLE16| replace:: **Dotare le amministrazioni pubbliche, in primo luogo quelle locali, delle capacità e competenze per governare consapevolmente questi processi**
+.. |STYLE16| replace:: **Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali**
 
-.. |STYLE17| replace:: **Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali**
+.. |STYLE17| replace:: **Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni**
 
-.. |STYLE18| replace:: **Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni**
+.. |STYLE18| replace:: **Creare un luogo di regia/consultazione a livello centrale cui le amministrazioni locali possano riferirsi per avere supporto nelle loro scelte e nei loro impegni**
 
-.. |STYLE19| replace:: **Creare un luogo di regia/consultazione a livello centrale cui le amministrazioni locali possano riferirsi per avere supporto nelle loro scelte e nei loro impegni**
+.. |STYLE19| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppare:**
 
-.. |STYLE20| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppare:**
+.. |STYLE20| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
 
-.. |STYLE21| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
+.. |STYLE21| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
 
-.. |STYLE22| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
+.. |STYLE22| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
 
-.. |STYLE23| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
-
-.. |STYLE24| replace:: **Integrare la SEN nel quadro delle strategie europee**
+.. |STYLE23| replace:: **Integrare la SEN nel quadro delle strategie europee**
 
 
 .. |LINK1| raw:: html
