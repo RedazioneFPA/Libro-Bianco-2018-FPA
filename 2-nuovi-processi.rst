@@ -16,6 +16,13 @@
 
 [...]
 
+.. _h303577897b69403f2f4630467ceb:
+
+Lavoro pubblico
+===============
+
+[...]
+
 .. _h1534f3631685e35627950401f181c52:
 
 Dirigenza pubblica
@@ -87,71 +94,45 @@ Smart working
 
 Lo Smart Working (o lavoro agile) è una modalità di esecuzione del rapporto di lavoro subordinato caratterizzato dall'assenza di vincoli orari o spaziali e un'organizzazione per fasi, cicli e obiettivi, stabilita mediante accordo tra dipendente e datore di lavoro; una modalità che aiuta il lavoratore a conciliare i tempi di vita e lavoro e, al contempo, favorire la crescita della sua produttività. La legge 81/2017 \ |STYLE7|\  fornisce una definizione puntuale del Lavoro Agile disciplinandone gli aspetti legati all’adozione all’interno delle organizzazioni. È un cambiamento che necessita, soprattutto in un contesto come quello della Pubblica Amministrazione, l’adozione di un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative, accompagnando il cambiamento culturale a tutti i livelli. Lo smart working rappresenta, dunque, un nuovo approccio manageriale, nel modo di lavorare e collaborare all’interno di una organizzazione, basato su flessibilità organizzativa, autonomia e responsabilizzazione.
 
-Il contesto normativo per la PA
+Il contesto normativo per la PA.
 
-La Legge 124/2015 “Madia”, art. 14 \ |STYLE8|\  introduce la possibilità per le Pubbliche Amministrazioni di sperimentare nei limiti delle risorse nuove modalità spazio-temporali di svolgimento del lavoro mentre la direttiva italiana in materia di smart working - Direttiva 3/2017 [inserire link http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/direttiva-n-3-del-2017-materia-di-lavoro-agile] fornisce le linee guida di attuazione della legge Madia: fissa modalità e criteri di utilizzo dell’istituto e pone l’obiettivo di consentire ad almeno il 10% dei dipendenti pubblici, ove lo richiedano, di avvalersi delle nuove modalità spazio-temporali di svolgimento della prestazione lavorativa. 
+La Legge 124/2015 “Madia”, art. 14 \ |STYLE8|\  introduce la possibilità per le Pubbliche Amministrazioni di sperimentare nei limiti delle risorse nuove modalità spazio-temporali di svolgimento del lavoro mentre la direttiva italiana in materia di smart working - Direttiva 3/2017 \ |STYLE9|\  fornisce le linee guida di attuazione della legge Madia: fissa modalità e criteri di utilizzo dell’istituto e pone l’obiettivo di consentire ad almeno il 10% dei dipendenti pubblici, ove lo richiedano, di avvalersi delle nuove modalità spazio-temporali di svolgimento della prestazione lavorativa. 
 
 Secondo l’indagine Osservatorio della PA (dati Osservatorio Smart Working POLIMI, 2017) in Italia le grandi aziende hanno iniziato a sperimentare il lavoro agile attuandolo con progetti strutturati. In particolare nel 2017 è stato stimato che\*:
 
--il 36% delle grandi aziende ha avviato progetti di smart working;
+* il 36% delle grandi aziende ha avviato progetti di smart working;
 
--il 22% delle PMI ha avviato iniziative di smart working ma solo il 7% attraverso progetti strutturati;
+* il 22% delle PMI ha avviato iniziative di smart working ma solo il 7% attraverso progetti strutturati;
 
--il 5% della PA (il campione preso in analisi comprende 279 Pubbliche Amministrazioni) ha avviato progetti strutturati, + del 4% ha avviato iniziative informali e circa l'8% ne prevede l'introduzione.
+* il 5% della PA (il campione preso in analisi comprende 279 Pubbliche Amministrazioni) ha avviato progetti strutturati, + del 4% ha avviato iniziative informali e circa l'8% ne prevede l'introduzione.
 
 \*305.000 i lavoratori coinvolti.
 
 Se dal punto di vista normativo, la legge sul lavoro agile rappresenta un framework moderno e in alcuni casi più avanzato di quelli presenti anche in altri Paesi europei e costituisce un passo avanti nella diffusione dello Smart Working in Italia, dall’altro lato manca ancora la trasposizione concreta nella struttura organizzativa amministrativa. 
 
-Limitare le conseguenze negative che la burocrazia difensiva può avere sul lavoro agile
+\ |STYLE10|\ 
 
 È opportuno salvaguardare senza appesantire l’attuale quadro normativo esistente, proteggendo la discrezionalità degli enti pubblici nel declinare la flessibilità organizzativa sulle caratteristiche delle proprie attività lavorative e assicura un’ampia applicabilità. È importante favorire un processo in atto che risulterebbe fortemente rallentato in caso di introduzione di adempimenti o vincoli burocratici che ne limiterebbero l’adozione. 
 
 L’aspetto critico che rallenta l’implementazione di questo strumento è il contesto culturale della pubblica amministrazione italiana, che si presenta come impreparata ad adottare un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative. 
 
-Innescare un processo culturale di accettazione dello Smart Working
+\ |STYLE11|\ 
 
 L’introduzione dell’istituto - che non si configura come telelavoro o forma di conciliazione - risulta prioritario per i seguenti tre motivi:
 
-•	valorizzare il potenziale della riforma della PA in termini di meritocrazia e valutazione degli obiettivi e migliorare la qualità del management;
+#. valorizzare il potenziale della riforma della PA in termini di meritocrazia e valutazione degli obiettivi e migliorare la qualità del management;
 
-•	accelerare il processo di trasformazione digitale, introducendo strumenti, metodologie, approcci che consentono di preparare un futuro digitale;
+#. accelerare il processo di trasformazione digitale, introducendo strumenti, metodologie, approcci che consentono di preparare un futuro digitale;
 
-•	innescare pratiche di engagement dei lavoratori della PA, dando un credito di fiducia che li porti a una maggiore voglia innovare con un orientamento al servizio e restituzione al cittadino.
+#. innescare pratiche di engagement dei lavoratori della PA, dando un credito di fiducia che li porti a una maggiore voglia innovare con un orientamento al servizio e restituzione al cittadino.
 
 Altri vantaggi per la PA sono da riscontrarsi nel:
 
-•	possibile risparmio dei costi sul personale impiegato;
+#. possibile risparmio dei costi sul personale impiegato;
 
-•	aumento della produttività, in termini di motivazione ed energie; 
+#. aumento della produttività, in termini di motivazione ed energie; 
 
-•	introduzione di nuovi principi organizzativi maggiormente orientati alla meritocrazia e alla valutazione basata sui risultati.
-
-Le conseguenze positive per la Pa sono da riscontrarsi in
-
-* Possibile risparmio dei costi sul personale impiegato
-
-* Aumento della produttività, in termini di motivazione ed energie 
-
-* Introduzione di nuovi principi organizzativi maggiormente orientati alla meritocrazia e alla valutazione basata sui risultati.
-
-L’aspetto critico che rallenta l’implementazione di questo strumento è il contesto culturale della pubblica amministrazione italiana, che si presenta come impreparata ad adottare un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative. 
-
-Se dal punto di vista normativo, la legge sul lavoro agile rappresenta un framework moderno e in alcuni casi più avanzato di quelli presenti anche in altri Paesi europei e costituisce un passo avanti nella diffusione dello Smart Working in Italia, dall’altro lato manca ancora la trasposizione concreta nella struttura organizzativa amministrativa. 
-
-\ |STYLE9|\ 
-
-E’ opportuno salvaguardare senza appesantire l’attuale quadro normativo esistente, proteggendo la discrezionalità degli enti pubblici nel declinare la flessibilità organizzativa sulle caratteristiche delle proprie attività lavorative e assicura un’ampia applicabilità. È importante favorire un processo in atto che risulterebbe fortemente rallentato in caso di introduzione di adempimenti o vincoli burocratici che ne limiterebbero l’adozione.
-
-\ |STYLE10|\ 
-
-L’introduzione dell’istituto - che non si configura come telelavoro o forma di conciliazione - risulta prioritario per i seguenti tre motivi:
-
-    o Valorizzare il potenziale della riforma della PA in termini di meritocrazia e valutazione degli obiettivi e per migliorare la qualità del management;
-
-    o Accelerare il processo di trasformazione digitale, introducendo strumenti, metodologie, approcci che consentono di preparare un futuro digitale;
-
-    o   Innescare pratiche di engagement dei lavoratori della PA, dando un credito di fiducia che li porti a una maggiore voglia innovare con un orientamento al servizio e restituzione al cittadino.
+#. introduzione di nuovi principi organizzativi maggiormente orientati alla meritocrazia e alla valutazione basata sui risultati.
 
 .. _h4c167f32a141a761c12e338354e72:
 
@@ -176,21 +157,21 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli strum
 
 #. Identificazione di e-leader, dirigenti-manager in grado di accompagnare i propri collaboratori nella transizione.
 
-\ |STYLE11|\  
+\ |STYLE12|\  
 
-Nel capitolo sulla Gestione del cambiamento del Piano Treinnale (\ |STYLE12|\  \ |LINK2|\ ) è stata ribadita la necessità di coordinamento tra soggetti diversi nel ruolo, nella funzione e nell’organizzazione. A fare da raccordo tra questi l’Agenzia per l’Italia digitale, che ha il compito di guidare le attività relative all’evoluzione strategica del sistema informativo della pubblica amministrazione.
+Nel capitolo sulla Gestione del cambiamento del Piano Treinnale (\ |STYLE13|\  \ |LINK2|\ ) è stata ribadita la necessità di coordinamento tra soggetti diversi nel ruolo, nella funzione e nell’organizzazione. A fare da raccordo tra questi l’Agenzia per l’Italia digitale, che ha il compito di guidare le attività relative all’evoluzione strategica del sistema informativo della pubblica amministrazione.
 
 AgID, infatti, promuove la diffusione delle competenze digitali per imprese, cittadini e pubblica amministrazione, e supporta la crescita delle competenze digitali nei diversi ambiti, con iniziative specifiche che coinvolgono:
 
-* le competenze digitali di base (utenti e funzionari amministrativi)
+#. le competenze digitali di base (utenti e funzionari amministrativi)
 
-* le competenze specialistiche (Professionisti ICT)
+#. le competenze specialistiche (Professionisti ICT)
 
-* le competenze di e-leadership (dirigenza)
+#. le competenze di e-leadership (dirigenza)
 
-Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017, la sperimentazione di auto-valutazione (\ |STYLE13|\ ) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello DigCOMP 2.1 (\ |STYLE14|\ ) per gli utenti amministrativi (il modello è stato recentemente \ |LINK3|\  nella sua versione aggiornata dal Team Digitale). 
+Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017, la sperimentazione di auto-valutazione (\ |STYLE14|\ ) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello DigCOMP 2.1 (\ |STYLE15|\ ) per gli utenti amministrativi (il modello è stato recentemente \ |LINK3|\  nella sua versione aggiornata dal Team Digitale). 
 
-\ |STYLE15|\ 
+\ |STYLE16|\ 
 
 Ciò che rimane oscuro è come si passi dal problema alla soluzione, per cui sarebbe prioritario definire una strategia univoca che traduca i risultati dell’assessment iniziale in un piano di formazione immediatamente implementabile. 
 
@@ -207,11 +188,11 @@ L’applicazione del principio di sussidiarietà orizzontale, contenuto all’ul
 
 Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, il quadro si mostra generalmente confuso. Dal punto di vista normativo,oggi sono disponibili tre modalità di accesso: 
 
-#. Accesso agli atti (Legge 241/90) - \ |STYLE16|\  \ |LINK4|\  
+#. Accesso agli atti (Legge 241/90) - \ |STYLE17|\  \ |LINK4|\  
 
-#. Accesso civico (D.lgs. n. 33/2013) - \ |STYLE17|\  \ |LINK5|\   
+#. Accesso civico (D.lgs. n. 33/2013) - \ |STYLE18|\  \ |LINK5|\   
 
-#. Accesso generalizzato previsto dal FOIA - \ |STYLE18|\  \ |LINK6|\ 
+#. Accesso generalizzato previsto dal FOIA - \ |STYLE19|\  \ |LINK6|\ 
 
 Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amministrazioni, responsabili della messa a disposizione dei dati. A questo si aggiunge la mancanza di una cultura della trasparenza al di là delle prescrizioni di legge, che favorisca l’emergere di nuove opportunità per conoscere se stesse in relazione ad altre. 
 
@@ -226,13 +207,13 @@ Nell’ottica del superamento del rapporto bipolare tra istituzioni e cittadino,
 
 Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (adesso non distinguiamo più tra cittadinanza analogica e cittadinanza digitale, entrambe pesano allo stesso modo), sia dal punto di vista dei contenuti che i cittadini producono in qualità di utenti (il cittadino come consumatore non agisce più solo come destinatario finale dell’informazione o del processo, ma diventa risorsa per la quantità di informazioni che produce in prima persona, e che condivide).
 
-\ |STYLE19|\ 
+\ |STYLE20|\ 
 
 Sarà opportuno favorire sempre di più la creazione e la manutenzione dei luoghi dello scambio di informazioni tra cittadini-utenti, formando i cittadini sui diversi strumenti a disposizione, che diano loro la percezione di come le decisioni sono state prese e per quali finalità. Le informazioni dovrebbero essere non solo disponibili, ma anche fruibili per favorire l’empowerment e l’engagement.
 
-\ |STYLE20|\  
+\ |STYLE21|\  
 
-Nella progettazione, ad esempio, di una smart city, i dati forniti dai cittadini come produttori è necessario che diventino beni comuni digitali (\ |STYLE21|\ ) utili attraverso:
+Nella progettazione, ad esempio, di una smart city, i dati forniti dai cittadini come produttori è necessario che diventino beni comuni digitali (\ |STYLE22|\ ) utili attraverso:
 
 * Normazione a livello centrale dei processi di profilazione dell’utente
 
@@ -240,11 +221,11 @@ Nella progettazione, ad esempio, di una smart city, i dati forniti dai cittadini
 
 * Standardizzazione di una cultura civica digitale condivisa  
 
-\ |STYLE22|\ 
+\ |STYLE23|\ 
 
 Le nuove forme di attivismo civico sono nate in maniera spontanea, e hanno finora creato esternalità positive per la comunità intera, non incidendo su risorse pubbliche se non in piccola parte, e facendo trarre vantaggio anche alle pubbliche amministrazioni. Il prossimo passo, dovrebbe essere quello da parte delle istituzioni di recuperare la governance dei processi partecipativi, trainando dall’alto il cittadino, mentre quest’ultimo “preme” dal basso. 
 
-In questo senso, un coordinamento nazionale di quello che è già attivo sui territori  diventa un elemento prioritario nella nuova agenda di governo, che possa fissare degli standard nazionali, limiti di spesa, garanzie di accesso e previsioni di finanziamento regionale, partendo da uno stato dell’arte sulla reale domanda di partecipazione, superando il livello delle linee guida alla consultazione, arrivando a un manuale della partecipazione e dei beni comuni materiali e immateriali (\ |STYLE23|\ ). Un primo tentativo su questo punto è stato presentato lo scorso anno in Camera dei Deputati, come una proposta di legge dal titolo “Più democrazia, più sovranità al cittadino”, che ha proposto la modifica di alcuni articoli del TUEL. 
+In questo senso, un coordinamento nazionale di quello che è già attivo sui territori  diventa un elemento prioritario nella nuova agenda di governo, che possa fissare degli standard nazionali, limiti di spesa, garanzie di accesso e previsioni di finanziamento regionale, partendo da uno stato dell’arte sulla reale domanda di partecipazione, superando il livello delle linee guida alla consultazione, arrivando a un manuale della partecipazione e dei beni comuni materiali e immateriali (\ |STYLE24|\ ). Un primo tentativo su questo punto è stato presentato lo scorso anno in Camera dei Deputati, come una proposta di legge dal titolo “Più democrazia, più sovranità al cittadino”, che ha proposto la modifica di alcuni articoli del TUEL. 
 
 .. _h3be61737757456664d543f19564b:
 
@@ -253,11 +234,11 @@ Trasparenza
 
 Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra la concezione teorica della messa a disposizione dei dati,e quanto accade nella realtà locali e centrali. Se da un punto di vista normativo il quadro è saturo di indicazioni sulle finalità e obiettivi del rilascio in formato aperto dei dati (dalla Legge n°241/1990 sul procedimento amministrativo, al FOIA), dal punto di vista pratico è ancora molto difficile individuare modalità coordinate di applicazione delle norme. 
 
-\ |STYLE24|\ 
+\ |STYLE25|\ 
 
 Risulta ormai necessario e prioritario dare effettivo seguito alle disposizioni previste dal D.Lgs n°33/2013 e successive modifiche, nonché da quanto introdotto con il FOIA, il Freedom of Information Act italiano. In questo senso, sarà utile - e ormai imprescindibile - favorire la conoscenza e la lettura dei dati da parte dei cittadini, offrendo siti leggibili, percorsi semplificati di accesso alle informazioni, interpretazioni e letture dei dati, interpretazioni e letture chiare sulle modalità di accesso oggi disponibili: l’accesso agli atti (Legge 241/90), l’accesso civico (D.lgs. n. 33/2013) e infine l’accesso generalizzato previsto dal FOIA.
 
-\ |STYLE25|\  
+\ |STYLE26|\  
 
 Sulla spinta del FOIA, l’adesione italiana all’Open Government Partnership, iniziativa internazionale che punta a ottenere impegni concreti in termini di promozione della trasparenza e di sostegno alla partecipazione civica, ha visto un sempre maggiore coinvolgimento e investimento in questo percorso. Con il nuovo approccio, diverse amministrazioni e associazioni hanno partecipato ai tavoli, anche se i risultati sono quantomeno controversi. Ad esempio, I tavoli talvolta non sembrano essere stati utilizzati per far incontrare domanda e offerta di dati, ma per lo più è stato chiesto alla società civile di confrontarsi con obiettivi già definitivi dalle amministrazioni e con decisioni già assunte. 
 
@@ -277,11 +258,11 @@ Il processo, in tutti  i casi, sebbene sia da aggiornare, ha presentato già qua
 
 Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili. Nell’ultimo anno a livello normativo, in materia, si segnalano: 
 
-* il Piano triennale [\ |STYLE26|\  \ |LINK7|\ ] che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
+* il Piano triennale [\ |STYLE27|\  \ |LINK7|\ ] che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
 
-* Ia circolare 2/2017 \ |STYLE27|\  del ministro per la semplificazione e la p.a. per l’attuazione delle norme sull’accesso civico generalizzato (c.d. FOIA): le linee guida che offrono un supporto concreto agli enti, sciogliendo dubbi interpretativi e proponendo (allegato 3. Modalità di realizzazione del registro degli accessi) soluzioni tecniche basate sul riuso delle infrastrutture di protocollo esistenti, individuando scenari di varia complessità, ma tutti caratterizzati dal principio dell’integrazione e dell’interoperabilità; 
+* Ia circolare 2/2017 \ |STYLE28|\  del ministro per la semplificazione e la p.a. per l’attuazione delle norme sull’accesso civico generalizzato (c.d. FOIA): le linee guida che offrono un supporto concreto agli enti, sciogliendo dubbi interpretativi e proponendo (allegato 3. Modalità di realizzazione del registro degli accessi) soluzioni tecniche basate sul riuso delle infrastrutture di protocollo esistenti, individuando scenari di varia complessità, ma tutti caratterizzati dal principio dell’integrazione e dell’interoperabilità; 
 
-* l’articolo 40-ter del Codice dell’amministrazione digitale \ |STYLE28|\  “Sistema di ricerca documentale”, finalizzato a sperimentare un sistema “volto a facilitare la ricerca dei documenti soggetti a registrazione di protocollo” e “dei fascicoli dei procedimenti”.
+* l’articolo 40-ter del Codice dell’amministrazione digitale \ |STYLE29|\  “Sistema di ricerca documentale”, finalizzato a sperimentare un sistema “volto a facilitare la ricerca dei documenti soggetti a registrazione di protocollo” e “dei fascicoli dei procedimenti”.
 
 .. _h156b2369601250c4d2a4e4f7254a37:
 
@@ -290,7 +271,7 @@ Conservazione
 
 La conservazione digitale è stata in questi anni al centro di molte iniziative regolamentari, che hanno determinato la nascita di decine di operatori di mercato accreditati, a fronte di un numero molto esiguo di proposte provenienti dal settore pubblico. Il piano triennale ha ipotizzato l’individuazione di poli strategici di conservazione; non è chiara la loro funzione rispetto a quella già svolta dagli operatori accreditati. Il modello di riferimento finora realizzato ha bisogno di ulteriore elaborazione che tenga conto della reale e concreta dimensione del problema, in termini sia quantitativi sia qualitativi.
 
-\ |STYLE29|\ 
+\ |STYLE30|\ 
 
 In particolare va definito il modello organizzativo che riguarda l’archiviazione e la conservazione a norma, su cui il piano triennale è intervenuto riconoscendo il ruolo dell’Archivio centrale dello Stato, ma lasciando parzialmente irrisolto il sistema delle responsabilità istituzionali in tema di vigilanza e la complessità di gestione degli archivi ibridi.
 
@@ -301,7 +282,7 @@ Soluzioni per la gestione documentale
 
 La questione delle piattaforme è un problema di qualità in relazione sia a quelle esistenti, sia alla normativa in materia di riuso del software. Le soluzioni informatiche per la gestione informatica dei documenti e, soprattutto, per la conservazione digitale devono garantire livelli di qualità che permettano la formazione e la tenuta a medio e a lungo termine dei nostri patrimoni di memoria documentaria richiedono.
 
-\ |STYLE30|\  
+\ |STYLE31|\  
 
 Gli strumenti di controllo devono individuare, in maniera ragionata, requisiti funzionali anche in riferimento alla concreta gestione di soluzioni di riuso. Servono check-list per definire i requisiti obbligatori e misurarne il rispetto nei prodotti di mercato. 
 
@@ -312,15 +293,15 @@ Attività di coordinamento e collaborazione
 
 Una chiara distinzione tra indirizzi politici e operatività tecnica di alto livello è, per tutti gli interlocutori, il nodo principale da sciogliere il più rapidamente possibile. 
 
-\ |STYLE31|\ 
+\ |STYLE32|\ 
 
 Va limitata la moltiplicazione di istituzioni con compiti di natura strategica e va affidata alle strutture esistenti (Agid e DGA) ruoli di coordinamento sia nella individuazione di modelli  e standard tecnici di settore sia nel monitoraggio e nella condivisione delle esperienze.
 
-\ |STYLE32|\ 
+\ |STYLE33|\ 
 
 Limitare gli interventi normativi e gestire con un approccio basato sulla cooperazione inter-istituzionale e aperto agli stakeholder i passaggi necessari a completare il quadro regolamentare, inclusa la stesura delle linee guida previste dal dlgs 217/2017 che ha modificato il Codice dell’amministrazione digitale. Servono strumenti e contesti di cooperazione istituzionale che favoriscano la collaborazione e il confronto.
 
-\ |STYLE33|\  
+\ |STYLE34|\  
 
 Le competenze digitali, archivistiche e organizzative sono necessarie. Va promossa la presenza di adeguati profili professionali sia nel settore pubblico che nelle imprese che operano in questo ambito.
 
@@ -329,7 +310,7 @@ Le competenze digitali, archivistiche e organizzative sono necessarie. Va promos
 2.6 Procurement
 ***************
 
-Attraverso il procurement pubblico passa circa il 14 per cento del PIL dell’Unione Europea (cfr. Comunicazione della Commissione Europea del 3.10.2017 (COM)2017 572 final “Appalti pubblici efficaci in Europa e per l'Europa”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte in scia all’evoluzione normativa determinata dalle Direttive Europee del 2014 (Dir. 23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal D.Lgs. 50/2016 \ |STYLE34|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
+Attraverso il procurement pubblico passa circa il 14 per cento del PIL dell’Unione Europea (cfr. Comunicazione della Commissione Europea del 3.10.2017 (COM)2017 572 final “Appalti pubblici efficaci in Europa e per l'Europa”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte in scia all’evoluzione normativa determinata dalle Direttive Europee del 2014 (Dir. 23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal D.Lgs. 50/2016 \ |STYLE35|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
 
 .. _h46254f74f6b37750603e296a675734:
 
@@ -338,7 +319,7 @@ Qualificazione stazioni appaltanti
 
 Uno dei pilastri del nuovo Codice, forse il più importante, è costituito dalla qualificazione delle stazioni appaltanti, dalla loro professionalizzazione e concentrazione. Fin quando questo aspetto della riforma non sarà attuato non vi potrà essere un reale cambiamento del sistema.
 
-\ |STYLE35|\ 
+\ |STYLE36|\ 
 
 La qualificazione delle stazioni appaltanti avrebbe dovuto rappresentare la vera chiave di volta del sistema, ma che è ancora di là da venire e, comunque, difficilmente potrà essere efficacemente realizzata in carenza di adeguati investimenti che non sembrano essere stati previsti.
 
@@ -349,7 +330,7 @@ Valutazione offerta
 
 Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli aspetti tecnici e qualitativi delle offerte, piuttosto che verso la depressione sistematica dei corrispettivi riconosciuti agli offerenti, ha rappresentato forse una delle maggiori conquiste del nuovo Codice. 
 
-\ |STYLE36|\ 
+\ |STYLE37|\ 
 
 Occorre incoraggiare (e anche formare) le stazioni appaltanti ad individuare criteri di valutazione delle offerte che realmente privilegino aspetti qualitativamente rilevanti ed effettivamente necessari, in modo che l’individuazione dell’offerta economicamente più vantaggiosa sulla base del miglior rapporto qualità prezzo non resti un mero esercizio di stile.
 
@@ -360,7 +341,7 @@ Analisi della spesa
 
 Si è fatta forte l’esigenza di un monitoraggio costante dell’andamento  della spesa, a causa di una disponibilità spesso esigua, soprattutto negli enti locali, di risorse. Una moderna analisi della spesa può, quindi, permettere di ridurre i costi e ottimizzare gli acquisti. 
 
-\ |STYLE37|\ 
+\ |STYLE38|\ 
 
 Puntare sull’innovazione, ovvero su moderne soluzioni oggi disponibili sul mercato, come strumento di evoluzione del procurement pubblico e di riqualificazione della spesa pubblica, anche in ottica della riduzione nel medio-lungo termine degli sprechi.
 
@@ -371,7 +352,7 @@ Nuove partnership pubblico-privato
 
 La Corte dei Conti europea (cfr. Rel. N. 9/2018) ha espresso fortissime perplessità sull’utilizzo dello strumento dei partenariati pubblico-privati nell’Unione Europea, evidenziandone le criticità e denunciando una generalizzata carenza di preparazione delle pubbliche amministrazioni nella programmazione e nella gestione delle iniziative che compromette, sul piano operativo, il raggiungimento dei risultati che è ragionevole e lecito attendersi dall’utilizzo dei PPP.
 
-\ |STYLE38|\ 
+\ |STYLE39|\ 
 
 Tra le criticità evidenziate dalla Corte ci è anche la mancanza di strumenti di supporto alle amministrazioni che intendano intraprendere questa strada, ivi compresa la diffusione e condivisione di “buone pratiche”.
 
@@ -382,9 +363,9 @@ Dibattito pubblico
 
 Il decreto del Presidente del Consiglio dei Ministri del 9 maggio 2017 introduce in Italia, ai sensi dell’articolo 22 del decreto legislativo 18 aprile 2016, n. 50, il dibattito pubblico per le grandi opere infrastrutturali e di architettura di rilevanza sociale, aventi impatto sull’ambiente, sulla città o sull’assetto del territorio. Il Decreto individua, nel relativo allegato, le tipologie e le soglie di intervento.
 
-\ |STYLE39|\ 
+\ |STYLE40|\ 
 
-La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come previsto all’art. 8, comma 1.b, della Legge 69/2007 della Regione Toscana \ |STYLE40|\  \ |LINK8|\  \ |STYLE41|\ .
+La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come previsto all’art. 8, comma 1.b, della Legge 69/2007 della Regione Toscana \ |STYLE41|\  \ |LINK8|\  \ |STYLE42|\ .
 
 .. _h67255e551d29733b463a18126c793f:
 
@@ -415,71 +396,73 @@ Acquisti ICT: nuovi modelli di riuso
 
 .. |STYLE8| replace:: **[inserire link http://www.gazzettaufficiale.it/eli/id/2015/08/13/15G00138/sg]**
 
-.. |STYLE9| replace:: **Limitare le conseguenze negative che la burocrazia difensiva può avere sul lavoro agile**
+.. |STYLE9| replace:: **[inserire link http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/direttiva-n-3-del-2017-materia-di-lavoro-agile]**
 
-.. |STYLE10| replace:: **Innescare un processo culturale di accettazione dello Smart Working**
+.. |STYLE10| replace:: **Limitare le conseguenze negative che la burocrazia difensiva può avere sul lavoro agile**
 
-.. |STYLE11| replace:: **E’ necessario creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale**
+.. |STYLE11| replace:: **Innescare un processo culturale di accettazione dello Smart Working**
 
-.. |STYLE12| replace:: **inserire link**
+.. |STYLE12| replace:: **E’ necessario creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale**
 
-.. |STYLE13| replace:: *self-assessment*
+.. |STYLE13| replace:: **inserire link**
 
-.. |STYLE14| replace:: **inserire link https://bit.ly/2q9W3gr**
+.. |STYLE14| replace:: *self-assessment*
 
-.. |STYLE15| replace:: **Colmare la lacuna che esiste tra l’assessment e il piano della formazione**
+.. |STYLE15| replace:: **inserire link https://bit.ly/2q9W3gr**
 
-.. |STYLE16| replace:: **inserire link**
+.. |STYLE16| replace:: **Colmare la lacuna che esiste tra l’assessment e il piano della formazione**
 
 .. |STYLE17| replace:: **inserire link**
 
 .. |STYLE18| replace:: **inserire link**
 
-.. |STYLE19| replace:: **Incentivare l’utilizzo di piattaforme civiche libere**
+.. |STYLE19| replace:: **inserire link**
 
-.. |STYLE20| replace:: **Innescare un processo di datificazione delle città**
+.. |STYLE20| replace:: **Incentivare l’utilizzo di piattaforme civiche libere**
 
-.. |STYLE21| replace:: *digital commons*
+.. |STYLE21| replace:: **Innescare un processo di datificazione delle città**
 
-.. |STYLE22| replace:: **Coordinare a livello centrale le buone pratiche territoriali**
+.. |STYLE22| replace:: *digital commons*
 
-.. |STYLE23| replace:: *Participation Act*
+.. |STYLE23| replace:: **Coordinare a livello centrale le buone pratiche territoriali**
 
-.. |STYLE24| replace:: **Diffondere e monitorare l’effettiva applicazione del diritto di accesso civico**
+.. |STYLE24| replace:: *Participation Act*
 
-.. |STYLE25| replace:: **Potenziare e valorizzare l’adesione italiana all’Open Government Partnership**
+.. |STYLE25| replace:: **Diffondere e monitorare l’effettiva applicazione del diritto di accesso civico**
 
-.. |STYLE26| replace:: **inserire link**
+.. |STYLE26| replace:: **Potenziare e valorizzare l’adesione italiana all’Open Government Partnership**
 
-.. |STYLE27| replace:: **[ inserire link http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/circolare-n-2-2017-attuazione-delle-norme-sull%E2%80%99accesso-civico]**
+.. |STYLE27| replace:: **inserire link**
 
-.. |STYLE28| replace:: **[inserire link https://cad.readthedocs.io/it/v2017-12-13/]**
+.. |STYLE28| replace:: **[ inserire link http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/circolare-n-2-2017-attuazione-delle-norme-sull%E2%80%99accesso-civico]**
 
-.. |STYLE29| replace:: **Definire con maggior chiarezza i modelli organizzativi**
+.. |STYLE29| replace:: **[inserire link https://cad.readthedocs.io/it/v2017-12-13/]**
 
-.. |STYLE30| replace:: **Migliorare gli strumenti di controllo della qualità delle piattaforme**
+.. |STYLE30| replace:: **Definire con maggior chiarezza i modelli organizzativi**
 
-.. |STYLE31| replace:: **Definire in modo chiaro il modello di governance**
+.. |STYLE31| replace:: **Migliorare gli strumenti di controllo della qualità delle piattaforme**
 
-.. |STYLE32| replace:: **Meno norme, più collaborazione per completare il quadro regolamentare**
+.. |STYLE32| replace:: **Definire in modo chiaro il modello di governance**
 
-.. |STYLE33| replace:: **Riconoscere il ruolo cruciale delle competenze tecniche**
+.. |STYLE33| replace:: **Meno norme, più collaborazione per completare il quadro regolamentare**
 
-.. |STYLE34| replace:: **[inserisci link http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2017-05-05&atto.codiceRedazionale=17G00078]**
+.. |STYLE34| replace:: **Riconoscere il ruolo cruciale delle competenze tecniche**
 
-.. |STYLE35| replace:: **Adottare al più presto gli atti attuativi del sistema di qualificazione delle stazioni appaltanti**
+.. |STYLE35| replace:: **[inserisci link http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2017-05-05&atto.codiceRedazionale=17G00078]**
 
-.. |STYLE36| replace:: **Favorire gli strumenti di valutazione e misurazione della qualità che diano garanzia di oggettività e attendibilità**
+.. |STYLE36| replace:: **Adottare al più presto gli atti attuativi del sistema di qualificazione delle stazioni appaltanti**
 
-.. |STYLE37| replace:: **Riqualificare la spesa pubblica**
+.. |STYLE37| replace:: **Favorire gli strumenti di valutazione e misurazione della qualità che diano garanzia di oggettività e attendibilità**
 
-.. |STYLE38| replace:: **Favorire la condivisione delle esperienze e l’open innovation, anche promuovendo piattaforme tecnologiche che ne favoriscano la diffusione**
+.. |STYLE38| replace:: **Riqualificare la spesa pubblica**
 
-.. |STYLE39| replace:: **Dare la possibilità di richiedere il dibattito pubblico a un maggior numero di cittadini**
+.. |STYLE39| replace:: **Favorire la condivisione delle esperienze e l’open innovation, anche promuovendo piattaforme tecnologiche che ne favoriscano la diffusione**
 
-.. |STYLE40| replace:: **[ inserire link**
+.. |STYLE40| replace:: **Dare la possibilità di richiedere il dibattito pubblico a un maggior numero di cittadini**
 
-.. |STYLE41| replace:: **]**
+.. |STYLE41| replace:: **[ inserire link**
+
+.. |STYLE42| replace:: **]**
 
 
 .. |LINK1| raw:: html
