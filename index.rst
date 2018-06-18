@@ -14,10 +14,16 @@ Il Libro bianco sull'innovazione è la raccolta di  (\ |STYLE1|\ )
 
 
 .. toctree::  
-    :maxdepth: 4
-    :caption: Contenuti
+    :maxdepth: 2
+    :caption: Introduzione
 
     introduzione-digital360
+
+
+.. toctree::  
+    :maxdepth: 2
+    :caption: Contenuti
+
     1-introduzione
     2-nuovi-processi
     3-trasformazione-digitale
