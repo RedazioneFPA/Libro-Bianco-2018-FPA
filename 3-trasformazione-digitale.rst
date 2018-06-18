@@ -35,6 +35,21 @@ La normativa attribuisce ad AgID il coordinamento delle attività di progettazio
 
 Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole e il rispetto delle scadenze, a causa di strumenti piuttosto limitati e circoscritti alla semplice \ |STYLE4|\ . Moltissime disposizioni contenute nel CAD e nei relativi atti di attuazione risultano pertanto completamente disattese, o rispettate solo dal punto di vista formale. Una tendenza che comincia a ripresentarsi anche in riferimento ai provvedimenti attuativi del Piano triennale.
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
+.. admonition:: Raccomandazione 3.1a
+
+    Occorre rafforzare i poteri di vigilanza e controllo di AgID, attraverso il conferimento di un potere sanzionatorio contro gli enti inadempienti, tipico delle vere authority. Ovviamente, l’impianto sanzionatorio dovrebbe essere controbilanciato da possibili incentivi per le PA virtusole e da risorse e competenze necessarie a mettere anche gli enti più piccoli nelle condizioni di adeguarsi alla normativa di riferimento.
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h4f2037245c6a7e3873a1a9116968:
 
 Raccomandazione 3.1a: potenziare i poteri di vigilanza e controllo di AgID, introducendo meccanismi sanzionatori in caso di mancato rispetto della normativa sul digitale
