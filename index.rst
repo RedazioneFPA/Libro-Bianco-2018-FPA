@@ -28,7 +28,19 @@ Il Libro bianco sull'innovazione è la raccolta di  (\ |STYLE1|\ )
     2-nuovi-processi
     3-trasformazione-digitale
     4-politiche-sostenibilita
+
+
+.. toctree::  
+    :maxdepth: 2
+    :caption: Partecipazione
+
     partecipazione-libro-bianco
+
+
+.. toctree::  
+    :maxdepth: 2
+    :caption: Team
+
     chi-siamo
 
 
