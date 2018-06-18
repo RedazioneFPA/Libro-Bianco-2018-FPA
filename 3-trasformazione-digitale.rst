@@ -90,6 +90,7 @@ Si tratta, rispettivamente, della quinta e sesta revisione del Codice in 13 anni
 .. admonition:: Raccomandazione 3.1c - Adottare un nuovo approccio alla regolamentazione del digitale, limitando il più possibile gli interventi di carattere legislativo a vantaggio di regolamenti e linee guida
 
     Il livello legislativo contiene già tutto il necessario, e forse anche di più. Nella prossima legislatura sarà necessario ridurre al minimo l’invasività gli interventi normativi in tema di trasformazione digitale, evitando il rischio di ingessare l’innovazione. Eventuali leggi dovranno definire pochi principi generali e di ampio respiro, semplici ed efficienti, in modo da essere applicate a prescindere alle infrastrutture tecnologiche utilizzate. 
+    
     La definizione delle soluzioni dovrà essere rimessa a regolamenti e linee guida, consentendo così un aggiornamento costante rispetto alla continua evoluzione tecnologica. Regolamenti e linee guida dovranno individuare istruzioni chiare per facilitare il più possibile il lavoro degli uffici delle PA. Sarà inoltre importante lasciare sempre più spazio al recepimento diretto di norme e standard Europei, in modo da non aggiungere vincoli e appesantimenti validi solo in Italia, e da promuovere servizi sempre più transeuropei.
 
 .. _h31720172e7192a20d1563751a5f59:
