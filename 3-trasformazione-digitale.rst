@@ -41,7 +41,7 @@ Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole 
 
 
 
-.. admonition:: Raccomandazione 3.1a
+.. admonition:: Raccomandazione 3.1a - potenziare i poteri di vigilanza e controllo di AgID, introducendo meccanismi sanzionatori in caso di mancato rispetto della normativa sul digitale
 
     Occorre rafforzare i poteri di vigilanza e controllo di AgID, attraverso il conferimento di un potere sanzionatorio contro gli enti inadempienti, tipico delle vere authority. Ovviamente, l’impianto sanzionatorio dovrebbe essere controbilanciato da possibili incentivi per le PA virtusole e da risorse e competenze necessarie a mettere anche gli enti più piccoli nelle condizioni di adeguarsi alla normativa di riferimento.
 
