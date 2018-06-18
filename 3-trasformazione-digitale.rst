@@ -76,9 +76,9 @@ Digitale e normativa
 
 L’esigenza di adeguare la normativa di riferimento alle priorità dell’Agenda Digitale e al mutato contesto tecnologico ha portato a ben due interventi di revisione del \ |STYLE6|\ , emanati in attuazione della delega prevista dall’art. 1 della legge delega di riforma della pubblica amministrazione (c.d. Riforma Madia):
 
-* il \ |LINK4|\  che ha, tra le altre cose, introdotto alcuni aspetti migliorativi rispetto alla precedente versione del testo, ampliando alcuni passaggi chiave sulla partecipazione, sulla estensione dei diritti, sull’implementazione delle soluzioni\ [#F3]_\ ;
+* il \ |LINK4|\  che ha, tra le altre cose, introdotto alcuni aspetti migliorativi rispetto alla precedente versione del testo, in particolare riguardo a partecipazione, estensione dei diritti, implementazione delle soluzioni\ [#F3]_\ ;
 
-* il \ |LINK5|\ , resosi necessario per adeguare le disposizioni del CAD al nuovo modello di sviluppo digitale delineato dal Piano triennale, che ha, tra le altre cose, rafforzato i diritti di cittadinanza digitale attraverso l’individuazione di nuovi strumenti e il potenziamento di quelli esistenti (in particolare SPID e domicilio digitale).
+* il \ |LINK5|\ , finalizzato ad adeguare le disposizioni del CAD al nuovo modello di sviluppo delineato dal Piano triennale, e che ha, tra le altre cose, rafforzato i diritti di cittadinanza digitale attraverso l’individuazione di nuovi strumenti e il potenziamento di quelli già esistenti (in particolare SPID e domicilio digitale).
 
 Si tratta, rispettivamente, della quinta e sesta revisione del Codice in 13 anni dalla sua pubblicazione. Interventi che vanno a sommarsi alla pletora di norme primarie e secondarie che ha invaso le PA di adempimenti, producendo una stratificazione ricca di retaggi tecnologici che costituiscono ancora oggi un freno al processo di digitalizzazione.
 
