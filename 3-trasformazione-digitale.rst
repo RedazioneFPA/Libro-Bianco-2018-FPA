@@ -33,7 +33,7 @@ Il ruolo dell’Agenzia per l’Italia Digitale
 
 La normativa attribuisce ad AgID il coordinamento delle attività di progettazione e monitoraggio dell’evoluzione strategica del sistema informativo della Pubblica amministrazione. Ad AgiD sono attribuiti anche poteri di indirizzo, \ |STYLE2|\ \ [#F2]_\ , nonché di \ |STYLE3|\  da parte delle amministrazioni.
 
-Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole e il rispetto delle scadenze, a causa di strumenti piuttosto limitati e circoscritti alla semplice \ |STYLE4|\ . Moltissime disposizioni contenute nel CAD e nei relativi atti di attuazione risultano pertanto completamente disattese, o rispettate solo dal punto di vista formale. Una tendenza che comincia a ripresentarsi anche in riferimento ai provvedimenti attuativi del Piano triennale.
+Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole e il rispetto delle scadenze da parte degli enti, a causa di strumenti piuttosto limitati e circoscritti alla semplice \ |STYLE4|\ . Moltissime disposizioni contenute nel CAD e nei relativi provvedimenti di attuazione risultano pertanto completamente disattese, o rispettate solo dal punto di vista formale. Una tendenza che comincia a ripresentarsi anche in riferimento ai provvedimenti attuativi del Piano triennale.
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -41,7 +41,7 @@ Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole 
 
 
 
-.. admonition:: Raccomandazione 3.1a - potenziare i poteri di vigilanza e controllo di AgID, introducendo meccanismi sanzionatori in caso di mancato rispetto della normativa sul digitale
+.. admonition:: Raccomandazione 3.1a - Potenziare i poteri di vigilanza e controllo di AgID, introducendo meccanismi sanzionatori in caso di mancato rispetto della normativa sul digitale
 
     Occorre rafforzare i poteri di vigilanza e controllo di AgID, attraverso il conferimento di un potere sanzionatorio contro gli enti inadempienti, tipico delle vere authority. Ovviamente, l’impianto sanzionatorio dovrebbe essere controbilanciato da possibili incentivi per le PA virtuose e da risorse e competenze necessarie a mettere anche gli enti più piccoli nelle condizioni di adeguarsi alla normativa di riferimento.
 
@@ -64,7 +64,7 @@ Rapporto centro-periferia
 
 L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un migliore coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio, supportando gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano e a convergere su standard tecnologici e politiche d’innovazione comuni.
 
-.. admonition:: Raccomandazione 3.1b - promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto degli enti del territorio
+.. admonition:: Raccomandazione 3.1b - Promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto degli enti del territorio
 
     Occorre proseguire sulla strada tracciata nel febbraio 2018 con l’approvazione dell’\ |LINK3|\ , accelerando la stipula di accordi o convenzioni territoriali con le singole Regioni per abilitare il loro ruolo di coordinamento a livello territoriale e favorire la trasformazione digitale dei servizi pubblici per i cittadini e imprese.
 
@@ -85,7 +85,6 @@ L’esigenza di adeguare la normativa di riferimento alle priorità dell’Agend
 * il \ |LINK5|\ , finalizzato ad adeguare le disposizioni del CAD al nuovo modello di sviluppo delineato dal Piano triennale, e che ha, tra le altre cose, rafforzato i diritti di cittadinanza digitale attraverso l’individuazione di nuovi strumenti e il potenziamento di quelli già esistenti (in particolare SPID e domicilio digitale).
 
 Si tratta, rispettivamente, della quinta e sesta revisione del Codice in 13 anni dalla sua pubblicazione. Interventi che vanno a sommarsi alla pletora di norme primarie e secondarie che ha invaso le PA di adempimenti, producendo una stratificazione ricca di retaggi tecnologici che costituiscono ancora oggi un freno al processo di digitalizzazione.
-
 
 .. admonition:: Raccomandazione 3.1c - Adottare un nuovo approccio alla regolamentazione del digitale, limitando il più possibile gli interventi di carattere legislativo a vantaggio di regolamenti e linee guida
 
@@ -117,29 +116,24 @@ Da ultimo, il lancio di \ |LINK9|\ , il progetto per sviluppare l'app dei serviz
 
 Le azioni avviate promettono quindi di apportare un beneficio concreto in termini di miglioramento dell'offerta di servizi digitali. Sarà però fondamentale protrarre gli sforzi intrapresi in questi ultimi anni, in modo da rendere effettivi i diritti di cittadinanza digitale sanciti e ulteriormente rafforzati dal recente intervento correttivo al CAD.
 
-.. admonition:: Raccomandazione 3.2a - promuovere i servizi online attraverso attività di comunicazione che mettano in evidenza i benefici concreti derivanti dal loro utilizzo
+.. admonition:: Raccomandazione 3.2a - Promuovere i servizi online attraverso attività di comunicazione che mettano in evidenza i benefici concreti derivanti dal loro utilizzo
 
     In alcuni casi, lo scarso utilizzo dei servizi online della PA è da ricondurre anche alla mancata o errata comunicazione verso il cittadino. Promuovere i servizi online della PA vuol dire innanzitutto evidenziare i vantaggi pratici connessi al loro utilizzo. Le nuove \ |LINK10|\  rappresentano un ottimo punto di partenza. Occorre ora promuoverne l’utilizzo da parte delle amministrazioni, al fine di sviluppare attività di comunicazione efficaci verso l’utenza del proprio territorio.
 
-.. _h7924724d35420733363551db24239:
 
-Raccomandazione 3.2b: Promuovere l’utilizzo dei servizi online attraverso meccanismi incentivanti e politiche di prezzo che ne rendano più appetibile l’utilizzo
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+.. admonition:: Raccomandazione 3.2b - Promuovere l’utilizzo dei servizi online attraverso meccanismi incentivanti e politiche di prezzo che ne rendano più appetibile l’utilizzo
 
-
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|La promozione dei servizi passa anche attraverso meccanismi incentivanti che rendano i servizi online appetibili anche dal punto di vista economico. I servizi di pagamento, ad esempio, risultano quelli maggiormente utilizzati dal cittadino. Per aumentare la loro fruizione per via telematica, si potrebbe ipotizzare l’introduzione di politiche di prezzo, prevedendo un’armonizzazione delle tariffe ritoccate al rialzo e parallelamente uno sconto consistente (es. -25%) per coloro che decidono di pagare on line.|
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-.. _h352c5b24403e451624743328336a22:
-
-Raccomandazione 3.2c: Evangelizzare i cittadini all’utilizzo dei servizi online, accompagnandoli all’utilizzo delle tecnologie presso gli stessi sportelli fisici degli enti
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    La promozione dei servizi passa anche attraverso meccanismi incentivanti che rendano i servizi online appetibili anche dal punto di vista economico. I servizi di pagamento, ad esempio, risultano quelli maggiormente utilizzati dal cittadino. Per aumentare la loro fruizione per via telematica, si potrebbe ipotizzare l’introduzione di politiche di prezzo, prevedendo un’armonizzazione delle tariffe ritoccate al rialzo e parallelamente uno sconto consistente (es. -25%) per coloro che decidono di pagare on line.
 
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|È necessario evangelizzare l’utenza all’utilizzo dei servizi online, sfruttando anche le possibili sinergie con i tradizionali canali di erogazione (sportelli fisici). Nel corso degli ultimi anni, alcune amministrazioni hanno avviato azioni di accompagnamento del cittadino all’uso della tecnologia per quelle categorie di utenti tradizionalmente più restie all’utilizzo dei canali digitali o maggiormente soggette a digital divide. Gli utenti vengono dagli operatori nell’utilizzo delle diverse procedure online, operando direttamente sul sistema in maniera guidata. Occorre mettere a fattor comune queste esperienze, diffondendo tali buone pratiche presso tutte le amministrazioni. Inoltre, le tradizionali iniziative di alfabetizzazione digitale, con alcune azioni di formazione potrebbero essere focalizzate in maniera specifica sull’utilizzo dei servizi online della PA.|
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. admonition:: Raccomandazione 3.2c - Evangelizzare i cittadini all’utilizzo dei servizi online, accompagnandoli all’utilizzo delle tecnologie presso gli stessi sportelli fisici degli enti
+
+    È necessario evangelizzare l’utenza all’utilizzo dei servizi online, sfruttando anche le possibili sinergie con i tradizionali canali di erogazione (sportelli fisici). Nel corso degli ultimi anni, alcune amministrazioni hanno avviato azioni di accompagnamento del cittadino all’uso della tecnologia per quelle categorie di utenti tradizionalmente più restie all’utilizzo dei canali digitali o maggiormente soggette a digital divide. Gli utenti vengono dagli operatori nell’utilizzo delle diverse procedure online, operando direttamente sul sistema in maniera guidata. Occorre mettere a fattor comune queste esperienze, diffondendo tali buone pratiche presso tutte le amministrazioni. Inoltre, le tradizionali iniziative di alfabetizzazione digitale, con alcune azioni di formazione potrebbero essere focalizzate in maniera specifica sull’utilizzo dei servizi online della PA.
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h3a5335406b227b147c2d17805e801d1b:
 
@@ -404,7 +398,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
 .. |STYLE33| replace:: **linee guida del nuovo modello**
 
-.. |STYLE34| replace:: **Garantire la stabilità del quadro di rifermento per un certo periodo di tempo, al fine consenitre a tutte le amministrazioni di completare la transizione al nuovo modello**
+.. |STYLE34| replace:: **Garantire la stabilità del quadro di rifermento per un certo periodo di tempo, al fine consentire a tutte le amministrazioni di completare la transizione al nuovo modello**
 
 .. |STYLE35| replace:: **Promuovere la condivisione di conoscenza e l’ascolto tra amministrazioni sul tema dell’interoperabilità, anche attraverso la costruzione di appositi “luoghi” di confronto**
 
