@@ -154,7 +154,7 @@ Per far fronte alle difficoltà riscontrate nell’adesione delle amministrazion
 
 Tali sforzi vanno ora rilanciati, al fine di dare piena attuazione a una delle componenti principali del nuovo sistema operativo del Paese.
 
-.. admonition:: Raccomandazione 3.2e - Completare il sistema SPID con l’ingresso dei gestori di attributi qualificati e l’adesione dei service provider privati, per garantire la piena diffusione e la sostenibilità del sistema
+.. admonition:: Raccomandazione 3.2f - Completare il sistema SPID con l’ingresso dei gestori di attributi qualificati e l’adesione dei service provider privati, per garantire la piena diffusione e la sostenibilità del sistema
 
     SPID conta oggi più di 4.000 amministrazioni attive (già superato il target di 3.000 per il 2018) e circa 400 tipologie di servizi abilitati. Sin dal momento del suo avvio il sistema ha però sofferto della scarsa diffusione tra i cittadini italiani. A fine 2017 le identità digitali rilasciate erano circa 2 milioni, lontanissime dall’obiettivo originario di 10 milioni\ [#F5]_\ . Eppure, proprio a partire dalla seconda metà del 2017 le identità rilasciate hanno iniziato a crescere in maniera significativa, attestandosi oggi a più di 2,5 milioni.
     SPID rappresenta senza alcun dubbio l’architrave su cui si fondare la cittadinanza digitale, un progetto strategico da rilanciare e completare nel suo disegno originario, in particolare per ciò che attiene:
@@ -165,20 +165,20 @@ Tali sforzi vanno ora rilanciati, al fine di dare piena attuazione a una delle c
 
 .
 
-\ |STYLE16|\ 
+.. admonition:: Raccomandazione 3.2g - Accelerare l’avvio del domicilio digitale attraverso il completamento dell’infrastruttura nazionale per gli avvisi e le notifiche di cortesia
 
-Il disaccoppiamento tra \ |STYLE17|\  e \ |STYLE18|\  previsto dall’ultima modifica del CAD ha posto le basi accelerare la diffusione del primo, in attesa del completamento del secondo. Occorre ora garantire la possibilità al cittadino di comunicare il proprio domicilio digitale, principale strumento di interlocuzione digitale con il cittadino, accelerando la realizzazione dell’\ |STYLE19|\ , sui diversi canali digitali, per un pieno utilizzo dello strumento.
+    Il disaccoppiamento tra \ |STYLE16|\  previsto dall’ultima modifica del CAD ha posto le basi accelerare la diffusione del primo, in attesa del completamento del secondo. Occorre ora garantire la possibilità al cittadino di comunicare il proprio domicilio digitale, principale strumento di interlocuzione digitale con il cittadino, accelerando la realizzazione dell’\ |STYLE17|\  da inviare ai cittadini, sui diversi canali digitali, per un pieno utilizzo dello strumento.
 
 .. _h4d1553674522b373352296513492577:
 
 3.3 Interoperabilità e once only principle
 ******************************************
 
-Una delle principali barriere allo sviluppo di servizi di qualità al cittadino è ancora oggi la mancanza di integrazione tra dati e servizi delle diverse amministrazioni. Il nostro ordinamento prevede già dagli anni 90 il divieto per le amministrazioni di chiedere all’utente dati e informazioni personali già fornite ad altri enti. Un obbligo ormai formalizzato \ |LINK11|\ , con il nome di \ |STYLE20|\ , ma ancora disatteso nei fatti, a causa della scarsa \ |STYLE21|\  dei diversi sistemi informativi della PA.
+Una delle principali barriere allo sviluppo di servizi di qualità al cittadino è ancora oggi la mancanza di integrazione tra dati e servizi delle diverse amministrazioni. Il nostro ordinamento prevede già dagli anni 90 il divieto per le amministrazioni di chiedere all’utente dati e informazioni personali già fornite ad altri enti. Un obbligo ormai formalizzato \ |LINK11|\ , con il nome di \ |STYLE18|\ , ma ancora disatteso nei fatti, a causa della scarsa \ |STYLE19|\  dei diversi sistemi informativi della PA.
 
-\ |STYLE22|\  sancisce il superamento la transizione a un \ |LINK12|\  basato sull’approccio \ |STYLE23|\  e su \ |STYLE24|\  (in particolare OpenAPI), al fine di garantire la corretta interazione tra cittadini, imprese e PA e favorire la condivisione trasparente di dati, informazioni, piattaforme e servizi.
+\ |STYLE20|\  sancisce il superamento la transizione a un \ |LINK12|\  basato sull’approccio \ |STYLE21|\  e su \ |STYLE22|\  (in particolare OpenAPI), al fine di garantire la corretta interazione tra cittadini, imprese e PA e favorire la condivisione trasparente di dati, informazioni, piattaforme e servizi.
 
-In attuazione del Piano, sono state emanate le \ |STYLE25|\ , per il progressivo superamento del precedente modello di SPCoop (Sistema Pubblico di Cooperazione), basato su standard SOAP, e la dismissione dei relativi strumenti (Porte di dominio, Buste eGov, Registro SICA), nonché i primi due capitoli delle \ |STYLE26|\ , attualmente in consultazione (i restanti 3 saranno pubblicati entro l’estate).
+In attuazione del Piano, sono state emanate le \ |STYLE23|\ , per il progressivo superamento del precedente modello di SPCoop (Sistema Pubblico di Cooperazione), basato su standard SOAP, e la dismissione dei relativi strumenti (Porte di dominio, Buste eGov, Registro SICA), nonché i primi due capitoli delle \ |STYLE24|\ , attualmente in consultazione (i restanti 3 saranno pubblicati entro l’estate).
 
 Le linee guida introducono alcuni importanti elementi di novità, introdotti con l’esplicita finalità di superare le difficoltà che hanno limitato la diffusione del modello SPCoop (a fine 2017 le PA aderenti al vecchio sistema erano solo 200, principalmente centrali). Tra queste:
 
@@ -190,33 +190,32 @@ Le linee guida introducono alcuni importanti elementi di novità, introdotti con
 
 Per garantire il successo del nuovo modello sarà tuttavia necessario intraprendere una serie di azioni che ne garantiscano la piena diffusione presso tutte le amministrazioni.
 
-\ |STYLE27|\ 
+.. admonition:: Raccomandazione 3.3a - Garantire la stabilità del quadro di riferimento per un certo periodo di tempo, al fine consentire a tutte le amministrazioni di completare la transizione al nuovo modello
 
-Le soluzioni tecnologiche ed organizzative necessarie a gestire l’interoperabilità richiedono sforzi ed investimenti ingenti, nonché tempi di attuazione presumibilmente non brevi. Occorre pertanto garantire un periodo di assestamento della cornice regolamentare delineata dal Piano Triennale e dalle Linee Guida, al fine di garantire agli organi di governance di sviluppare e applicare il modello, e di consentire a tutte le amministrazioni di aderirvi. Pare quindi opportuno astenersi da interventi normativi e regolatori che possano andare ad incidere sul CAD o sull’impianto definito dalle linee guida, limitandosi tuttalpiù all’integrazione di nuove tecnologie disponibili in un’ottica di aggiornamento continuo del modello.
+    Le soluzioni tecnologiche ed organizzative necessarie a gestire l’interoperabilità richiedono sforzi ed investimenti ingenti, nonché tempi di attuazione presumibilmente non brevi. Occorre pertanto garantire un periodo di assestamento della cornice regolamentare delineata dal Piano Triennale e dalle Linee Guida, al fine di garantire agli organi di governance di sviluppare e applicare il modello, e di consentire a tutte le amministrazioni di aderirvi. Pare quindi opportuno astenersi da interventi normativi e regolatori che possano andare ad incidere sul CAD o sull’impianto definito dalle linee guida, limitandosi tuttalpiù all’integrazione di nuove tecnologie disponibili in un’ottica di aggiornamento continuo del modello.
+    
 
-\ |STYLE28|\ 
 
-Le nuove regole tecniche cadendo in un contesto maggiormente favorevole rispetto a quello che aveva caratterizzato l’avvio di SPCoop nel 2005, soprattutto in termini di consapevolezza sull’importanza di investire sul tema. Tuttavia, per dare gambe all’interoperabilità serve affrontare primariamente il problema della condivisione di conoscenza maturata in questi anni da alcune PA leader e dell’ascolto dei bisogni reciproci delle altre amministrazioni. Occorre quindi un luogo di confronto e contaminazione tra amministrazioni, un vero e proprio \ |STYLE29|\ , sul modello di successo del Forum Nazionale della Fatturazione elettronica. Un luogo di incontro, a partecipazione libera, rivolto principalmente agli enti chiamati a cooperare con AgID nella gestione del catalogo delle API, con una duplice finalità:
+.. admonition:: Raccomandazione 3.3b - Promuovere la condivisione di conoscenza e l’ascolto tra amministrazioni sul tema dell’interoperabilità, anche attraverso la costruzione di appositi “luoghi” di confronto
 
-* momento di conoscenza delle migliori pratiche fatte
+    Le nuove regole tecniche cadendo in un contesto maggiormente favorevole rispetto a quello che aveva caratterizzato l’avvio di SPCoop nel 2005, soprattutto in termini di consapevolezza sull’importanza di investire sul tema. Tuttavia, per dare gambe all’interoperabilità serve affrontare primariamente il problema della condivisione di conoscenza maturata in questi anni da alcune PA leader e dell’ascolto dei bisogni reciproci delle altre amministrazioni. Occorre quindi un luogo di confronto e contaminazione tra amministrazioni, un vero e proprio \ |STYLE25|\ , sul modello di successo del Forum Nazionale della Fatturazione elettronica. Un luogo di incontro, a partecipazione libera, rivolto principalmente agli enti chiamati a cooperare con AgID nella gestione del catalogo delle API, con la duplice finalità di momento di conoscenza delle migliori pratiche fatte e ascolto del reale bisogno delle PA rispetto al dato detenuto dalle altre.
+    
 
-*  ascolto del reale bisogno delle PA rispetto al dato detenuto dalle altre.
 
-\ |STYLE30|\ 
+.. admonition:: Raccomandazione 3.3c - Accompagnare la transizione al nuovo modello promuovendo la condivisione di risorse e competenze tra enti, anche attraverso forme di riuso collaborativo delle soluzioni già sviluppate
 
-Occorre promuovere la consapevolezza che l’investimento in interoperabilità è vantaggioso sia in termini di risparmio futuro, sia di semplicità nello sviluppo e nell’erogazione dei servizi. Tuttavia, l’investimento iniziale
+    Occorre promuovere la consapevolezza che l’investimento in interoperabilità è vantaggioso sia in termini di risparmio futuro, sia di semplicità nello sviluppo e nell’erogazione dei servizi. Tuttavia, l’investimento iniziale
+    Le amministrazioni dovranno essere adeguatamente supportate nell’adozione del nuovo modello, soprattutto su due fronti:
+    
+    * quello delle \ |STYLE26|\ , poiché non tutti gli enti dispongono di quelle necessarie a guidare la transizione e a governare l’attuazione delle nuove regole tecniche;
+    
+    * quello delle \ |STYLE27|\ , poiché il passaggio a un modello fondato su API e micro-servizi richiede investimenti non banali.
+    Sarà quindi fondamentale promuovere forme di condivisione degli investimenti e di \ |STYLE28|\ , attraverso cui ridurre la spesa in capo alla singola amministrazione e mettere a fattor comune le diverse competenze delle amministrazioni, con un vantaggio reciproco.
 
-Le amministrazioni dovranno essere adeguatamente supportate nell’adozione del nuovo modello, soprattutto su due fronti:
 
-* quello delle \ |STYLE31|\ , poiché non tutti gli enti dispongono di quelle necessarie a guidare la transizione e a governare l’attuazione delle nuove regole tecniche;
+.. admonition:: Raccomandazione 3.3d - Assicurare la disponibilità di API relative alle Banche Dati di interesse nazionale, per abilitare lo sviluppo di servizi innovativi verso cittadini, imprese e altre amministrazioni
 
-* quello delle \ |STYLE32|\ , poiché il passaggio a un modello fondato su API e micro-servizi richiede investimenti non banali.
-
-Sarà quindi fondamentale promuovere forme di condivisione degli investimenti e di \ |STYLE33|\ , attraverso cui ridurre la spesa in capo alla singola amministrazione e mettere a fattor comune le diverse competenze delle amministrazioni, con un vantaggio reciproco.
-
-\ |STYLE34|\ 
-
-Le amministrazioni hanno necessità di accedere in maniera API \ |STYLE35|\  alle banche dati di interesse nazionali. Tali dati rappresentano infatti una fonte necessaria allo sviluppo di molti importanti servizi da parte di altre PA. Al momento però, il Piano Triennale non è chiarissimo su questo punto. Occorre quindi esplicitare l’obbligo di utilizzo di OpenAPI anche a questi soggetti. La governance di queste basi dati e il design delle relative API potrebbe essere gestita e presidiata ad AgID, in stretta collaborazione con le amministrazioni detentrici. Questa soluzione è oggi possibile per molte banche dati, anche a legislazione vigente, mentre per alcuni casi specifici (banche dati “protette”) potrebbe essere necessario un intervento normativo ad hoc.
+    Le amministrazioni hanno necessità di accedere in maniera API first alle banche dati di interesse nazionali. Tali dati rappresentano infatti una fonte necessaria allo sviluppo di molti importanti servizi da parte di altre PA. Al momento però, il Piano Triennale non è chiarissimo su questo punto. Occorre quindi esplicitare l’obbligo di utilizzo di OpenAPI anche a questi soggetti. La governance di queste basi dati e il design delle relative API potrebbe essere gestita e presidiata ad AgID, in stretta collaborazione con le amministrazioni detentrici. Questa soluzione è oggi possibile per molte banche dati, anche a legislazione vigente, mentre per alcuni casi specifici (banche dati “protette”) potrebbe essere necessario un intervento normativo ad hoc.
 
 .. _h44592a25610671b6134137149287ee:
 
@@ -225,41 +224,41 @@ Le amministrazioni hanno necessità di accedere in maniera API \ |STYLE35|\  all
 
 Il Piano triennale di AgID ha delineato un percorso volto al consolidamento delle infrastrutture digitali delle PA. La razionalizzazione delle infrastrutture IT rappresenta infatti un elemento cardine della complessiva strategia italiana per la crescita digitale, passaggio necessario per garantire maggiori livelli di efficienza, sicurezza e rapidità nell’erogazione dei servizi a cittadini e imprese.
 
-Il \ |LINK13|\  si articola lungo due direttrici strategiche, strettamente connesse tra loro. Da un lato, la razionalizzazione dei \ |STYLE36|\ , per porre termine alla forte frammentazione delle risorse e alle frequenti situazioni di inadeguatezza tecnologica riscontrate da AgID nella sua attività di ricognizione. Dall’altro, la definizione e la successiva implementazione di un modello strategico evolutivo di \ |STYLE37|\ , paradigma finora applicato in modo estremamente disomogeneo e limitato all’adozione di pochissime soluzioni.
+Il \ |LINK13|\  si articola lungo due direttrici strategiche, strettamente connesse tra loro. Da un lato, la razionalizzazione dei \ |STYLE29|\ , per porre termine alla forte frammentazione delle risorse e alle frequenti situazioni di inadeguatezza tecnologica riscontrate da AgID nella sua attività di ricognizione. Dall’altro, la definizione e la successiva implementazione di un modello strategico evolutivo di \ |STYLE30|\ , paradigma finora applicato in modo estremamente disomogeneo e limitato all’adozione di pochissime soluzioni.
 
-Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui criteri per la \ |LINK14|\  per la PA e per la \ |LINK15|\  per il Cloud della PA. Molti altri dovranno essere completati al più presto, \ |STYLE38|\  il completamento del complesso processo di individuazione, qualificazione e costituzione dei \ |STYLE39|\  (PSN).
+Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui criteri per la \ |LINK14|\  per la PA e per la \ |LINK15|\  per il Cloud della PA. Molti altri dovranno essere completati al più presto, \ |STYLE31|\  il completamento del complesso processo di individuazione, qualificazione e costituzione dei \ |STYLE32|\  (PSN).
 
 Sebbene la strada sia ormai tracciata, è necessario prestare attenzione ad alcuni aspetti di particolare rilevanza strategica.
 
-\ |STYLE40|\ 
+\ |STYLE33|\ 
 
-Il percorso attuativo del processo di razionalizzazione del patrimonio informativo della PA deve tener conto della possibilità di dover riscrivere e migrare tutte le applicazioni, attualmente in esercizio nella pubblica amministrazione, che non siano \ |STYLE41|\  rispetto a un modello di cloud centralizzato. Da un lato l’AgID sta facendo in modo di far convergere in modo cloud centrico, tramite i cosidetti Poli Strategici Nazionali, una serie di centri elaborazione dati (CED) che non sono strategici. Dall’altra parte, affinché questo abbia successo, le piccole amministrazioni vanno accompagnate nel riscrivere il proprio sistema; non tutti i software sono \ |STYLE42|\  e, prima che possano essere migrati in un cloud, la pubblica amministrazione deve sostenere un costo. 
+Il percorso attuativo del processo di razionalizzazione del patrimonio informativo della PA deve tener conto della possibilità di dover riscrivere e migrare tutte le applicazioni, attualmente in esercizio nella pubblica amministrazione, che non siano \ |STYLE34|\  rispetto a un modello di cloud centralizzato. Da un lato l’AgID sta facendo in modo di far convergere in modo cloud centrico, tramite i cosidetti Poli Strategici Nazionali, una serie di centri elaborazione dati (CED) che non sono strategici. Dall’altra parte, affinché questo abbia successo, le piccole amministrazioni vanno accompagnate nel riscrivere il proprio sistema; non tutti i software sono \ |STYLE35|\  e, prima che possano essere migrati in un cloud, la pubblica amministrazione deve sostenere un costo. 
 
 La migrazione delle proprie soluzioni verso i Poli nazionali deve seguire delle regole di accompagnamento, di interoperabilità e di coordinamento nazionale, senza le quale il successo di una rapida centralizzazione può venir meno. Il piano strategico, soprattutto a livello infrastrutturale, ha un senso se viene accompagnato immediatamente da un’analisi costo/benefici dei servizi e delle modalità centralizzate con cui essi devono essere erogati.
 
-\ |STYLE43|\ 
+\ |STYLE36|\ 
 
 Il cloud è un elemento indiscutibile per la trasformazione digitale della PA che deve essere condiviso con tutti gli stakeholder. Le amministrazioni, i fornitori, le rappresentanze dei cittadini e il potere politico dovrebbero comprendere la complessità della trasformazione digitale basata sul cloud, secondo il percorso indicato nel Piano Triennale per l'informatica nella PA, e non limitarsi agli slogan. Accompagnare con la massima concretezza questa fase di trasformazione. 
 
-\ |STYLE44|\ 
+\ |STYLE37|\ 
 
 È un prerequisito indispensabile per lo sviluppo del Piano, dei servizi e dell'impatto di questi sull'economia. La disponibilità di banda è indispensabile per l’attuazione del paradigma cloud.
 
-\ |STYLE45|\ 
+\ |STYLE38|\ 
 
 Sono fra gli aspetti più critici per la trasformazione della PA. Le amministrazioni dovranno conformarsi al timing e alle indicazioni del Piano ma non perdere la loro capacità di innovazione, e per questo serve una strategia di supporto alla crescita di competenze, realizzabile non solo con la formazione ma attraverso la contaminazione, l’acquisizione di nuove competenze, l’eliminazione di silos sia  tecnologici che organizzativi.
 
-\ |STYLE46|\ 
+\ |STYLE39|\ 
 
 Per evitare che ogni amministrazione crei la propria infrastruttura (seppur basata su cloud) non basta un quadro di riferimento ma servono strutture centrali di indirizzo e di coordinamento, come AgID e il Team digitale, eventualmente meglio definite nei loro compiti e con maggiori risorse.
 
-\ |STYLE47|\ 
+\ |STYLE40|\ 
 
 Razionalizzare vuol dire anche superare l’iper-frammentazione. Si deve essere consapevoli che dietro l’attuale frammentazione vivono tante piccole realtà che spesso alimentano l’economia locale. Si apre un problema politico: come integrarle senza inficiare il piano di razionalizzazione?
 
-\ |STYLE48|\ 
+\ |STYLE41|\ 
 
-L’informatica e l’infrastruttura di supporto non sono alcuni fra i tanti strumenti di cui la PA si avvale. Deve crescere la consapevolezza che nella PA l’informatica non è \ |STYLE49|\  strumento ma \ |STYLE50|\  servizio stesso.
+L’informatica e l’infrastruttura di supporto non sono alcuni fra i tanti strumenti di cui la PA si avvale. Deve crescere la consapevolezza che nella PA l’informatica non è \ |STYLE42|\  strumento ma \ |STYLE43|\  servizio stesso.
 
 .. _h8736d7873701357133f28512b1b103b:
 
@@ -268,16 +267,16 @@ L’informatica e l’infrastruttura di supporto non sono alcuni fra i tanti str
 
 [...]
 
-\ |STYLE51|\ 
+\ |STYLE44|\ 
 
 C’è bisogno di regole per la sicurezza perché lo scenario, in termini di minacce, cresce con dimensioni quantiche e, quindi, è necessario poter disporre di standard condivisi ed efficaci. Tuttavia il futuro della trasformazione digitale si basa anche sulla sicurezza; basare la sua implementazione su un sistema sanzionatorio non è sufficiente. Politiche di compliance, come GDPR e NIS, sono utili ma impongono azioni e competenze di analisi dei rischi che non sono necessariamente diffuse in tutto le organizzazioni del Paese. Inoltre, bisogna superare il concetto di misura minima, perché la criticità e la complessità della materia, ma più che altro la sua rapidissima evoluzione, non consentono di poter affrontare il problema con le sole disposizioni minime.
 
-\ |STYLE52|\ 
+\ |STYLE45|\ 
 
 Il tema della sicurezza informatica non prescinde dall’aspetto tecnologico come, allo stesso modo, da quello organizzativo. Particolare attenzione deve essere prestata nella gestione delle forniture e, quindi, in ambito PA, su quello del procurement.
 La sicurezza richiede una compresenza di impegni sul piano tecnologico, dei processi e dei comportamenti, come probabilmente in nessun altro asset. Si deve investire di più sul tema della governance, quanto o addirittura più che sull’aspetto tecnologico, perché il primo è quello che presenta maggiori criticità nell’implementazione, specie a livello di PA. La sicurezza va analizzata sulla base del ciclo di vita delle forniture; la questione della relazione con il fornitore è cruciale per la sicurezza informatica. In questo senso va promosso un modello di governance e investimenti in IT per gli enti locali, attraverso soluzioni consortili; anche perché per fare sicurezza infrastrutturale non si può ragionare su piccola scala.
 
-\ |STYLE53|\ 
+\ |STYLE46|\ 
 
 Le parti più facili del sistema da attaccare e, quindi, più esposte, sono ancora quelle legate alle singole utenze, appannaggio di comportamenti individuali. Per questo rimane cruciale la formazione e lo sviluppo di una cultura della sicurezza. E la tecnologia deve intervenire proprio per supportare le persone nell’arginare l’errore umano. In alcuni casi i modelli tecnologici tendono a eliminare la presenza dati su postazioni e dispositivi end-point per puntare su architetture cloud più stabili e sicure. Del resto procedure digitali richiedono strumenti e dispositivi digitali, nonché standard di servizio adeguati. Questo non esula tuttavia dalla necessità di costruire e promuovere un cambiamento culturale che – al di là dei comportamenti più singolari e aneddotici – garantisca una visione diversa del ruolo di responsabilità e di presidio di ogni singolo utente.
 
@@ -292,12 +291,12 @@ Ovviamente, sarebbe un errore pensare che la blockchain possa o debba essere app
 Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più recenti quello della Pubblica Amministrazione, con l’obiettivo di rendere più semplice il rapporto tra il cittadino e la PA, portando una ventata di innovazione all’interno degli uffici pubblici. Come succede anche in altri settori innovativi, le sperimentazioni in campo sono già diverse, e il punto chiave in questo momento è capire dove effettivamente la blockchain può consentire un salto di qualità in termini di affidabilità, sicurezza e semplificazione della user experience. 
 Su questo tema le indicazioni proposte sono le seguenti.
 
-\ |STYLE54|\ 
+\ |STYLE47|\ 
 
 L’innovazione deve svilupparsi in libertà, confrontarsi con il mercato e i contesti di applicazione, sfidare la propria esistenza sul campo. In un’ottica di open innovation, la blockchain evolve e si sviluppa nel dialogo e confronto tra ricercatori, tecnici, imprenditori, stakeholders e utenti. Tuttavia anche le istituzioni svolgono un loro ruolo specifico e, nel caso della blockchain, questo risiede nell’investimento in dispositivi normativi, sia in chiave di standardizzazione, sia di riconoscimento istituzionale.
 L’Italia, rispetto al primo punto, è chiamata ad assumere un ruolo maggiormente attivo e partecipe sui tavoli in cui si discute e si definisce l’impianto di standardizzazione della tecnologia blockchain; a partire dall’adesione alla European Blockchain Partnership [link: https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership] per passare ad una più efficace partecipazione ai lavori di organizzazioni come UNI.
 
-\ |STYLE55|\ 
+\ |STYLE48|\ 
 
 La tecnologia blockchain consente di sviluppare soluzioni sicure e trasparenti, molto utili ed efficaci nei casi in cui si debba garantire una equidistanza e un ruolo di garanzia (“trust”) nelle transazioni e nelle registrazioni. Investire in questa tecnologia, per i contesti idonei e in cui risulta più efficace, consentirebbe di migliorare alcuni servizi e di fornire quelle garanzie di sicurezza a cui i cittadini e le istituzioni stanno prestando sempre maggiore attenzione.
 In alcuni casi la logica dei Distributed Ledger può davvero svolgere un ruolo rivoluzionario nel ripensare le logiche di funzionamento degli archivi e della registrazione delle transazioni; si tratta di un’opportunità che non può essere persa e che va condivisa a livello europeo e internazionale perché spesso la blockchain è utile proprio nei casi di transazioni internazionali.
@@ -309,7 +308,7 @@ In questo caso la PA svolge un ruolo di regìa e coordinamento; è cruciale la d
 3.6 Dati pubblici
 *****************
 
-Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK16|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK17|\ : l’Italia si posiziona tra i “trendsetter”, ossia i Paesi più avanti rispetto a \ |STYLE56|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE57|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
+Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK16|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK17|\ : l’Italia si posiziona tra i “trendsetter”, ossia i Paesi più avanti rispetto a \ |STYLE49|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE50|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
 
 Questo passo in avanti è da attribuire al modello di gestione dei dati delineati dal \ |LINK18|\  che riconosce negli Open Data una delle leve fondamentali nel processo di trasformazione in atto, che non può prescindere da trasparenza e circolazione di informazioni riutilizzabili. Tra gli elementi delle \ |LINK19|\ , il Piano mette in evidenza infatti il rilascio di dati pubblici secondo il paradigma dell’Open Data e loro riutilizzo, agendo sull’individuazione di basi di dati chiave di particolare interesse per la collettività da liberare, e indicando come strumento di lavoro un paniere dinamico dei dataset.
 
@@ -354,89 +353,75 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
 .. |STYLE15| replace:: **service provider privati**
 
-.. |STYLE16| replace:: **Accelerare l’avvio del domicilio digitale attraverso il completamento dell’infrastruttura nazionale per gli avvisi e le notifiche di cortesia**
+.. |STYLE16| replace:: **domicilio digitale e ANPR**
 
-.. |STYLE17| replace:: **domicilio digitale**
+.. |STYLE17| replace:: **infrastruttura nazionale per l’emissione di avvisi e notifiche di cortesia**
 
-.. |STYLE18| replace:: **ANPR**
+.. |STYLE18| replace:: *once only principle*
 
-.. |STYLE19| replace:: **infrastruttura nazionale per l’emissione di avvisi e notifiche di cortesia da inviare ai cittadini**
+.. |STYLE19| replace:: **interoperabilità**
 
-.. |STYLE20| replace:: *once only principle*
+.. |STYLE20| replace:: **Il Piano triennale per l’informatica nella PA**
 
-.. |STYLE21| replace:: **interoperabilità**
+.. |STYLE21| replace:: **API first**
 
-.. |STYLE22| replace:: **Il Piano triennale per l’informatica nella PA**
+.. |STYLE22| replace:: **standard REST**
 
-.. |STYLE23| replace:: **API first**
+.. |STYLE23| replace:: **linee guida di transizione**
 
-.. |STYLE24| replace:: **standard REST**
+.. |STYLE24| replace:: **linee guida del nuovo modello**
 
-.. |STYLE25| replace:: **linee guida di transizione**
+.. |STYLE25| replace:: **Forum Nazionale dell’Interoperabilità**
 
-.. |STYLE26| replace:: **linee guida del nuovo modello**
+.. |STYLE26| replace:: **competenze**
 
-.. |STYLE27| replace:: **Garantire la stabilità del quadro di riferimento per un certo periodo di tempo, al fine consentire a tutte le amministrazioni di completare la transizione al nuovo modello**
+.. |STYLE27| replace:: **risorse**
 
-.. |STYLE28| replace:: **Promuovere la condivisione di conoscenza e l’ascolto tra amministrazioni sul tema dell’interoperabilità, anche attraverso la costruzione di appositi “luoghi” di confronto**
+.. |STYLE28| replace:: **riuso collaborativo**
 
-.. |STYLE29| replace:: **Forum Nazionale dell’Interoperabilità**
+.. |STYLE29| replace:: **data center pubblici**
 
-.. |STYLE30| replace:: **Accompagnare la transizione al nuovo modello promuovendo la condivisione di risorse e competenze tra enti, anche attraverso forme di riuso collaborativo delle soluzioni già sviluppate**
+.. |STYLE30| replace:: **cloud della PA**
 
-.. |STYLE31| replace:: **competenze**
+.. |STYLE31| replace:: *in primis*
 
-.. |STYLE32| replace:: **risorse**
+.. |STYLE32| replace:: **Poli Strategici Nazionali**
 
-.. |STYLE33| replace:: **riuso collaborativo**
+.. |STYLE33| replace:: **Definire regole chiare  per la migrazione delle applicazioni in esercizio nella PA verso il nuovo modello cloud centralizzato**
 
-.. |STYLE34| replace:: **Assicurare la disponibilità di API relative alle Banche Dati di interesse nazionale, per abilitare lo sviluppo di servizi innovativi verso cittadini, imprese e altre amministrazioni**
+.. |STYLE34| replace:: *compliant*
 
-.. |STYLE35| replace:: *first*
+.. |STYLE35| replace:: *cloud oriented*
 
-.. |STYLE36| replace:: **data center pubblici**
+.. |STYLE36| replace:: **Inserire titolo raccomandazione**
 
-.. |STYLE37| replace:: **cloud della PA**
+.. |STYLE37| replace:: **Rafforzare le infrastrutture di rete**
 
-.. |STYLE38| replace:: *in primis*
+.. |STYLE38| replace:: **Prestare massima attenzione (e investimenti) alle nuove competenze e all’organizzazione**
 
-.. |STYLE39| replace:: **Poli Strategici Nazionali**
+.. |STYLE39| replace:: **Stabilire regole condivise e confermare degli organismi di indirizzo**
 
-.. |STYLE40| replace:: **Definire regole chiare  per la migrazione delle applicazioni in esercizio nella PA verso il nuovo modello cloud centralizzato**
+.. |STYLE40| replace:: **Prestare attenzione al problema sociale delle piccole realtà territoriali**
 
-.. |STYLE41| replace:: *compliant*
+.. |STYLE41| replace:: **Evitare il rischio di arretramento nella visione del ruolo dell’IT**
 
-.. |STYLE42| replace:: *cloud oriented*
+.. |STYLE42| replace:: **uno**
 
-.. |STYLE43| replace:: **Inserire titolo raccomandazione**
+.. |STYLE43| replace:: **il**
 
-.. |STYLE44| replace:: **Rafforzare le infrastrutture di rete**
+.. |STYLE44| replace:: **Promuovere una visione di governance più ampia del problema, al di là del ruolo delle singole norme**
 
-.. |STYLE45| replace:: **Prestare massima attenzione (e investimenti) alle nuove competenze e all’organizzazione**
+.. |STYLE45| replace:: **Adeguare modelli e processi di procurement, per promuovere l’aggiornamento tecnologico**
 
-.. |STYLE46| replace:: **Stabilire regole condivise e confermare degli organismi di indirizzo**
+.. |STYLE46| replace:: **Costruire una cultura della sicurezza che promuova nuovi valori e paradigmi condivisi.**
 
-.. |STYLE47| replace:: **Prestare attenzione al problema sociale delle piccole realtà territoriali**
+.. |STYLE47| replace:: **Fornire supporto allo sviluppo della tecnologia blockchain.**
 
-.. |STYLE48| replace:: **Evitare il rischio di arretramento nella visione del ruolo dell’IT**
+.. |STYLE48| replace:: **Sfruttare la tecnologia blockchain nello sviluppo dei servizi al cittadino e ai sistemi economici.**
 
-.. |STYLE49| replace:: **uno**
+.. |STYLE49| replace:: *Open Data Readiness*
 
-.. |STYLE50| replace:: **il**
-
-.. |STYLE51| replace:: **Promuovere una visione di governance più ampia del problema, al di là del ruolo delle singole norme**
-
-.. |STYLE52| replace:: **Adeguare modelli e processi di procurement, per promuovere l’aggiornamento tecnologico**
-
-.. |STYLE53| replace:: **Costruire una cultura della sicurezza che promuova nuovi valori e paradigmi condivisi.**
-
-.. |STYLE54| replace:: **Fornire supporto allo sviluppo della tecnologia blockchain.**
-
-.. |STYLE55| replace:: **Sfruttare la tecnologia blockchain nello sviluppo dei servizi al cittadino e ai sistemi economici.**
-
-.. |STYLE56| replace:: *Open Data Readiness*
-
-.. |STYLE57| replace:: *Portal Maturity*
+.. |STYLE50| replace:: *Portal Maturity*
 
 
 .. |LINK1| raw:: html
