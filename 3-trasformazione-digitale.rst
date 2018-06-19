@@ -55,7 +55,16 @@ Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole 
 L’esperienza del Team digitale 
 -------------------------------
 
-[...]
+Esiste una sostanziale convergenza degli addetti ai lavori nel ritenere come positiva l’esperienza del Team per la trasformazione digitale. In particolare, vengono messi in evidenza alcuni fattori di successo, riconducibili principalmente a composizione del Team e approccio adottato. 
+
+Per quanto attiene al primo aspetto, è innegabile che l’apertura a persone esterne alla PA, dotate di competenze innovative e per certi versi totalmente nuove nel panorama pubblico, ha consentito di produrre uno shock positivo su una macchina complessa che incontra ancora oggi molte difficoltà a rinnovarsi dall’interno. 
+
+In merito al secondo punto, si segnalano invece gli elementi di profonda discontinuità introdotti dal Team, novità di metodo prima ancora che di merito, come dimostrano la costituzione e lo sviluppo di comunità di pratica e la virata decisa verso il paradigma dell’open source, a dimostrazione della grande importanza riconosciuta ai processi di innovazione “dal basso”, nonché le attività di consulenza e accompagnamento agli enti nel percorso di attuazione del Piano triennale.
+
+.. admonition:: Raccomandazione 3.1b - Valorizzare l’esperienza del Team Digitale, rinnovandolo o estendendo il modello ad altri enti pubblici
+
+    Il Governo dovrebbe valutare, in prima istanza, la possibilità di un rinnovare il Team Digitale, seppur in un quadro regolatorio più chiaro, in particolare per ciò che attiene i rapporti con AgID.
+    In alternativa, il modello del Team potrebbe essere ampliato ed esteso ad altre strutture pubbliche, come Ministeri e altri Enti di particolare rilevanza strategica, creando le condizioni necessarie a replicarne i fattori di successo e abilitando così una rete di team per l’innovazione al servizio del sistema Paese [link a paragrafo 2.2].
 
 .. _h29415f433dad243a5ca42502a5271:
 
@@ -64,14 +73,10 @@ Rapporto centro-periferia
 
 L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un migliore coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio, supportando gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano e a convergere su standard tecnologici e politiche d’innovazione comuni.
 
-.. admonition:: Raccomandazione 3.1b - Promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto degli enti del territorio
+.. admonition:: Raccomandazione 3.1b - Promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto dei soggetti del territorio
 
     Occorre proseguire sulla strada tracciata nel febbraio 2018 con l’approvazione dell’\ |LINK3|\ , accelerando la stipula di accordi o convenzioni territoriali con le singole Regioni per abilitare il loro ruolo di coordinamento a livello territoriale e favorire la trasformazione digitale dei servizi pubblici per i cittadini e imprese.
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
+    Il medesimo approccio potrebbe poi essere esteso a Città Metropolitane e grandi Comuni capoluogo che possono rappresentare un punto di riferimento per gli enti del proprio territorio
 
 .. _h6a11195735e5e1264773137f195965:
 
