@@ -154,7 +154,7 @@ Documenti Societari
 
 .. |STYLE0| replace:: **Editing dei contenuti**
 
-.. |STYLE1| replace:: **Elaborazione testi per visualizzazione su Read the Docs**
+.. |STYLE1| replace:: **Elaborazione materiali per visualizzazione su Read the Docs**
 
 .. |STYLE2| replace:: **FPA**
 
