@@ -201,17 +201,40 @@ Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugl
 Economia circolare
 ==================
 
-Affinché si possa creare una vera economia circolare su scala nazionale, il futuro governo nazionale e tutti i governi cittadini dovrebbero recepire le seguenti indicazioni.
+Progredire verso un’economia circolare costituisce uno dei 17 obiettivi di sviluppo sostenibile dell’Agenda 2030, lanciati dall’ONU nel 2015 (goal 12 - Consumo e produzione responsabili). L'economia circolare segna il passaggio da un modello lineare di produzione a un modello circolare e consiste nell'assunzione di tre semplici assiomi: riciclare (scarti non riutilizzabili), ridurre (sprechi di materie prime) riutilizzare (estendendo il ciclo di vita dei prodotti).
 
--	Direttive: Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.
--	Mappatura dell’esistente: l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
--	Passaporto dei materiali: riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
--	Creare un hotspot nazionale sulla CE e proseguire il lavoro del MISE/Ministero Ambiente, anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
--	Circular Public Procerement: Quando si realizzano gare d’appalto è essenziale mettere requisiti di CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Manca uno standard CE, dunque serve impiegare le certificazioni ambientali e sociali esistenti.
--	Facilitazione : un’agenzia interministeriale che crei le connessioni tra tutti i livelli di governo della città, la società civile e l’impresa. 
--	Semplificazione: dare alle imprese la possibilità di sviluppare  strategie di innovazione CE   
--	Formazione e comunicazione: sostenere progetti di studio, ricerca e comunicazione per approfondire gli innumerevoli temi dell’economia circolare 
--	Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifattura, in sinergia con il mondo Industria 4.0.
+In un’economia circolare i flussi di materiali sono di due tipi: quelli biologici, in grado di essere reintegrati nella biosfera, e quelli tecnici, destinati ad essere rivalorizzati senza entrare nella biosfera». Per realizzarla serve rispettare tre principi. 
+
+Il primo è riscoprire i giacimenti di materia scartata come fonte di materia prima: raccolta dei rifiuti, riciclo, riutilizzo, gestione degli output produttivi, scarti agricoli (bioeconomia).
+
+Il secondo principio è legato alla fine dello spreco d’uso del prodotto (unused value), prima ancora di essere scartato. Favorire condivisione e uso collettivo, introduzione di prodotti di business fondati sul modello Prodotto come Servizio (Paas).
+
+Il terzo principio è fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, refilling, ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
+
+Un ampio slancio a questa economia è dato dal ruolo svolto dalla Pubblica Amministrazione nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese (target 12.6), nel creare nuove opportunità e pratiche di condivisione.
+
+Con il nuovo Codice appalti (D.lgs 50/2016), che conferma quanto previsto dalla L.221/2015, il GPP (Green Public Procurement) è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri ambientali minimi) nelle gare pubbliche. Questo obbligo normativo si incardina perfettamente in un contesto di normativa cogente di derivazione comunitaria, di atti di indirizzo comunitari, di Comunicazioni della Commissione Europea sull’economia circolare (COM (2014) 398 e COM (2015) 614) e sull’uso efficiente delle risorse (COM (2011) 21 e COM (2011) 571) nonché di accordi internazionali, quale l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
+
+Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso 18 aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui rifiuti, sulle discariche, sugli imballaggi e sui veicoli fuori uso, pensato per combinare ambientalismo e crescita economica.
+
+Affinché si possa creare una vera economia circolare su scala nazionale, il futuro governo nazionale e tutti i governi cittadini dovrebbero:
+
+\ |STYLE24|\  (Il pacchetto sull’Economia Circolare sarà pubblicato sulla Gazzetta ufficiale dell’Unione europea dopo l’approvazione formale del Consiglio).
+
+\ |STYLE25|\ : l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
+
+\ |STYLE26|\  riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
+
+\ |STYLE27|\ , anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
+
+\ |STYLE28|\ 
+Quando si realizzano gare d’appalto è essenziale esplicitare i requisiti CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Manca uno standard CE, serve dunque  impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai Criteri ambientali minimi delle aziende rispondenti ai bandi della Pubblica Amministrazione, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
+
+Facilitazione: un’agenzia interministeriale che crei le connessioni tra tutti i livelli di governo della città, la società civile e l’impresa. 
+
+Occorre investire in ricerca e sviluppo, sia presso le università che gli appositi centri (pubblici e privati). Formazione e comunicazione: sostenere progetti di studio, ricerca e comunicazione per approfondire gli innumerevoli temi dell’economia circolare.
+
+Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifattura, in sinergia con il mondo Industria 4.0. - Semplificazione: dare alle imprese la possibilità di sviluppare  strategie di innovazione CE   
 
 .. _h414b1e7073564b1c6019276d75343944:
 
@@ -249,7 +272,7 @@ Affinché si possa creare una vera economia circolare su scala nazionale, il fut
 
 .. |STYLE12| replace:: **Realizzare una Strategia nazionale per le aree urbane analoga a quella avviata per le Aree interne**
 
-.. |STYLE13| replace:: **Mettere le città nella condizione di attuare i progetti presentati nell’ambito del PON metro**
+.. |STYLE13| replace:: **Mettere le città nella condizione di attuare i progetti presentati nell’ambito del PON Metro**
 
 .. |STYLE14| replace:: **Alimentare e sviluppare le iniziative per la diffusione della cultura digitale tra la popolazione, a partire dal livello scolastico**
 
@@ -270,6 +293,16 @@ Affinché si possa creare una vera economia circolare su scala nazionale, il fut
 .. |STYLE22| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
 
 .. |STYLE23| replace:: **Integrare la SEN nel quadro delle strategie europee**
+
+.. |STYLE24| replace:: **Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.**
+
+.. |STYLE25| replace:: **Mappare l’esistente**
+
+.. |STYLE26| replace:: **Definire i criteri per il passaporto dei materiali:**
+
+.. |STYLE27| replace:: **Creare un hotspot nazionale sulla CE e proseguire il lavoro del Ministero dello sviluppo economico e del Ministero dell’Ambiente**
+
+.. |STYLE28| replace:: **Creare uno standard CE**
 
 
 .. |LINK1| raw:: html
