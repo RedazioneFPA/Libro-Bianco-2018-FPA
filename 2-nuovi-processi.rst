@@ -128,6 +128,8 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
     
     #. aumento della produttività, in termini di motivazione ed energie.
 
+|
+
 .. _h4c167f32a141a761c12e338354e72:
 
 Empowerment e competenze digitali
@@ -214,7 +216,6 @@ Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (ades
 .. admonition:: Raccomandazione 2.3b - Incentivare l’utilizzo di piattaforme civiche libere
 
     Sarà opportuno favorire sempre di più la creazione e la manutenzione dei luoghi dello scambio di informazioni tra cittadini-utenti, formando i cittadini sui diversi strumenti a disposizione, che diano loro la percezione di come le decisioni sono state prese e per quali finalità. Le informazioni dovrebbero essere non solo disponibili, ma anche fruibili per favorire l’empowerment e l’engagement.
-    
 
 
 .. admonition:: Raccomandazione 2.3c - Innescare un processo di datificazione delle città
@@ -252,12 +253,20 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
     
     Il processo, in tutti  i casi, sebbene sia da aggiornare, ha presentato già qualche buon risultato in termini di comunicazione e avvicinamento tra istituzioni e cittadini. 
 
+|
+
 .. _h2a174d37473d1b74344d4149311b2744:
 
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico, un "Ufficio comunicazione, stampa e servizi al cittadino" sulla scia di quello proposto dall’Associazione PA Social percorso fatto (con #PASocial
+Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. Le esperienze positive di nuova comunicazione cambiano radicalmente i rapporti tra PA e cittadini.
+
+Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico, un "Ufficio comunicazione, stampa e servizi al cittadino" sulla scia di quello proposto dall’Associazione PA Social percorso fatto (con #PASocial
+
+Presidenza del Consiglio, Ministeri, istituzioni statali e locali, Regioni, Comuni, Camere di Commercio, musei, ospedali e aziende sanitarie, enti culturali e turistici, scuole e università, aziende pubbliche e molte altre strutture con account e profili sui principali social network, con canali pubblici e urp/customer care in chat, con portali e siti web belli per il design e utili per la semplicità di utilizzo
+
+|
 
 .. _h4e473bba6b5871164065555432229:
 
@@ -314,6 +323,8 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 .. admonition:: Raccomandazione 2.5e - Riconoscere il ruolo cruciale delle competenze tecniche
 
     Le competenze digitali archivistiche e organizzative sono necessarie. Va promossa la presenza di adeguati profili professionali sia nel settore pubblico, che nelle imprese che operano in questo ambito.
+
+|
 
 .. _h1821514e204a1f273a6f497d14147a3a:
 
