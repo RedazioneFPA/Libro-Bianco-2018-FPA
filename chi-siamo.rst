@@ -13,13 +13,13 @@ Chi siamo, cosa facciamo
     
     * Andrea Ivan Baldassare (Redazione FPA)
     
-    * Luigi Rosati
+    * Luigi Rosati (Redazione FPA)
     
-    * ……..
+    * Patrizia Fortunato (Redazione FPA)
     
-    * ……
+    * Paola Musolino (Redazione FPA)
     
-    * ….
+    * Michela Stentella (Redazione FPA)
     \ |STYLE1|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
