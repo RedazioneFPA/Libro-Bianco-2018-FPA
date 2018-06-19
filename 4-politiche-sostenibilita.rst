@@ -160,13 +160,6 @@ Con il procedere della implementazione delle infrastrutture di comunicazione (ba
 
     Questo può tradursi nella elaborazione, possibilmente partecipata, di linea guida nazionali e di sedi di interscambio delle esperienze. Un processo di trasformazione delle reti urbane di questa portata e di questa complessità deve fondarsi sull’iniziativa locale, sulla capacità delle singole amministrazioni di individuare necessità e priorità, ma va inserito in un quadro generale che dia la direzione di marcia e supporti tecnicamente e metodologicamente l’azione locale.
 
-.. _h37764334d7631644a305d25706f69:
-
-Sharing Economy
-===============
-
-[...]
-
 |
 
 .. _h7d77441b36154752a41756f66747b78:
@@ -175,82 +168,83 @@ Sharing Economy
 **********************
 
 Negli ultimi anni è aumentato il livello di priorità attribuito alle politiche ambientali, si rilevano diverse iniziative intraprese a livello globale e nazionale per favorire politiche territoriali e inglobare azioni di mitigazione e di adattamento ai cambiamenti climatici nella pianificazione. Nel corso degli ultimi due anni, in Italia, sono state messe in campo una serie di iniziative che traducono in atti concreti l’Accordo di Parigi sui
-cambiamenti climatici, sottoscritto da 175 Paesi ed entrato in vigore il 4 novembre del 2016. La chiave per il futuro è, dunque, l’attuazione dell’Accordo di Parigi nell’ambito del quadro sovraordinato della Strategia Nazionale per lo Sviluppo Sostenibile (SNSvS), presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017. La Strategia declina a livello nazionale gli obiettivi dell’Agenda 2030 per lo Sviluppo Sostenibile delle Nazioni Unite, adottata nel 2015. 
+cambiamenti climatici, sottoscritto da 175 Paesi ed entrato in vigore il 4 novembre del 2016. 
 
-In continuità con gli impegni assunti nell’ambito delle due iniziative internazionali, dal 12 luglio al 18 settembre del 2017 si è svolta la consultazione pubblica sul Documento di inquadramento e posizionamento strategico “Verso un modello di economia circolare per l’Italia”, elaborato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare e dal Ministero dello Sviluppo Economico, che indica gli obiettivi, le misure di policy e gli strumenti da attivare per il riutilizzo dei beni. A livello europeo, molte sono state le novità intercorse nell’ultimo anno. Il 18 aprile scorso  è stato approvato dal Parlamento Europeo il pacchetto legislativo sull’Economia Circolare. La normativa è stata pubblicata nella Gazzetta Ufficiale e dovrà essere recepita dagli Stati membri nei propri ordinamenti, entro il 5 luglio 2020.
+La priorità per il futuro è quindi l’attuazione dell’Accordo di Parigi nell’ambito del quadro sovraordinato della Strategia Nazionale per lo Sviluppo Sostenibile (SNSvS). A livello europeo, molte sono state le novità intercorse nell’ultimo anno. Il 18 aprile scorso  è stato approvato dal Parlamento Europeo il pacchetto legislativo sull’Economia Circolare. La normativa è stata pubblicata nella Gazzetta Ufficiale e dovrà essere recepita dagli Stati membri nei propri ordinamenti, entro il 5 luglio 2020.
 
 .. _h3f1c512d481f17303468601813187d17:
 
 Strategia Nazionale Energetica (SEN)
 ====================================
 
-La Strategia Energetica Nazionale rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030. 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta.
+\ |STYLE10|\ . 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta.
 
-La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefigge, assume valore non soltanto per i contenuti che esprime ma anche per il modello partecipativo adottato, essendo il frutto di un percorso partecipato a cui hanno contribuito Regioni, Enti locali e oltre 250 tra associazioni, imprese e mondo della ricerca.
+La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefigge, assume valore non soltanto per i contenuti che esprime ma anche per il modello partecipativo adottato, essendo il frutto di un percorso partecipato a cui hanno contribuito regioni, EELL e oltre 250 tra associazioni, imprese e mondo della ricerca.
 
-Durante la fase di implementazione della strategia sarà necessario prestare particolare attenzione ad alcuni specifici punti di particolare rilevanza.
+.. admonition:: Raccomandazione 4.4a - Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppate
 
-\ |STYLE10|\ 
+    Tale modello permette di rafforzare la collaborazione tra istituzioni ed aziende e la coerenza delle azioni nel medio-lungo termine, condizioni necessarie per consolidare e portare avanti la Strategia nella prossima legislatura. Non bastano tuttavia PA e imprese, il terzo soggetto da coinvolgere sono i cittadini che avranno un ruolo sempre più rilevante nel raggiungimento degli obiettivi grazie al risparmio energetico ed al mutamento delle abitudini di consumo da parte delle famiglie e delle comunità locali.
 
-Tale modello permette di rafforzare la collaborazione tra Istituzioni ed Aziende e la coerenza delle azioni nel medio-lungo termine, condizioni necessarie per consolidare e portare avanti la Strategia nella prossima legislatura. Non bastano tuttavia PA e imprese, il terzo soggetto da coinvolgere sono i cittadini che avranno un ruolo sempre più rilevante nel raggiungimento degli obiettivi grazie al risparmio energetico ed al mutamento delle abitudini di consumo da parte delle famiglie e delle comunità locali.
 
-\ |STYLE11|\ 
+.. admonition:: Raccomandazione 4.4b - Conferire forza al ruolo dell’Autorità di regolazione per energia, reti e ambiente
 
-È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di policy making dello Stato rappresentata da Governo e Parlamento.
+    È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di \ |STYLE11|\  dello Stato rappresentata da Governo e Parlamento.
 
-\ |STYLE12|\ 
 
-Occorre mantenere viva l’attenzione al tema della sostenibilità ambientale, da un lato inserendola in una visione più ampia di sviluppo del Paese legato alla Green economy, dall’altro valutando attentamente l’impatto ambientale delle azioni messe campo su consumo di suolo, qualità dell’aria e delle acque, etc. Sul tema del consumo di suolo, ad esempio, è necessario dotarsi di piani urbanistici coerenti e di una politica di recupero e bonifica dei siti di interesse nazionale che riducano l’occupazione di suolo agricolo.
+.. admonition:: Raccomandazione 4.4c - Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica
 
-\ |STYLE13|\  
+    Occorre mantenere viva l’attenzione al tema della sostenibilità ambientale, da un lato inserendola in una visione più ampia di sviluppo del Paese legato alla Green economy, dall’altro valutando attentamente l’impatto ambientale delle azioni messe campo su consumo di suolo, qualità dell’aria e delle acque, etc. Sul tema del consumo di suolo, ad esempio, è necessario dotarsi di piani urbanistici coerenti e di una politica di recupero e bonifica dei siti di interesse nazionale che riducano l’occupazione di suolo agricolo.
 
-Per garantire una ricaduta efficace delle diverse misure è necessario prestare maggiore attenzione al coinvolgimento degli enti locali. Le Amministrazioni locali sono soggetti che contribuiscono in maniera rilevante, positivamente o negativamente, al raggiungimento degli obiettivi. Ambiti come la mobilità e l’efficienza energetica, l’illuminazione pubblica, la riqualificazione di edifici pubblici rientrano a pieno titolo tra le funzioni dei Comuni i quali devono certamente veder potenziati gli strumenti a disposizione, sia in termini di incentivi sia in termini di crescita delle capacità e competenze amministrative in ambito energetico.
 
-\ |STYLE14|\ 
+.. admonition:: Raccomandazione 4.4d - Prestare maggiore attenzione e coinvolgimento degli EELL
 
-Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugli altri Paesi, importando ed esportando effetti rispetto alle altre strategie europee.
+    Per garantire una ricaduta efficace delle diverse misure è necessario prestare maggiore attenzione al coinvolgimento degli enti locali. Le amministrazioni locali sono soggetti che contribuiscono in maniera rilevante, positivamente o negativamente, al raggiungimento degli obiettivi. Ambiti come la mobilità e l’efficienza energetica, l’illuminazione pubblica, la riqualificazione di edifici pubblici rientrano a pieno titolo tra le funzioni dei comuni i quali devono certamente veder potenziati gli strumenti a disposizione, sia in termini di incentivi sia in termini di crescita delle capacità e competenze amministrative in ambito energetico.
+
+
+.. admonition:: Raccomandazione 4.4e - Integrare la SEN nel quadro delle strategie europee
+
+    Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugli altri Paesi, importando ed esportando effetti rispetto alle altre strategie europee.
 
 .. _h4b5e1465d7f177845f1570254d5c42:
 
 Economia circolare
 ==================
 
-Progredire verso un’economia circolare costituisce uno dei 17 obiettivi di sviluppo sostenibile dell’Agenda 2030, lanciati dall’ONU nel 2015 (goal 12 - Consumo e produzione responsabili). L'economia circolare segna il passaggio da un modello lineare di produzione a un modello circolare e consiste nell'assunzione di tre semplici assiomi: riciclare (scarti non riutilizzabili), ridurre (sprechi di materie prime) riutilizzare (estendendo il ciclo di vita dei prodotti).
+L'economia circolare segna il passaggio da un modello lineare di produzione a un modello circolare e consiste nell'assunzione di tre semplici assiomi: riciclare (scarti non riutilizzabili), ridurre (sprechi di materie prime) riutilizzare (estendendo il ciclo di vita dei prodotti). In un’economia circolare i flussi di materiali sono di due tipi: quelli biologici, in grado di essere reintegrati nella biosfera, e quelli tecnici, destinati ad essere rivalorizzati senza entrare nella biosfera. Per realizzarla serve rispettare tre principi:
 
-In un’economia circolare i flussi di materiali sono di due tipi: quelli biologici, in grado di essere reintegrati nella biosfera, e quelli tecnici, destinati ad essere rivalorizzati senza entrare nella biosfera». Per realizzarla serve rispettare tre principi. 
+* Riscoprire i giacimenti di materia scartata come fonte di materia prima: raccolta dei rifiuti, riciclo, riutilizzo, gestione degli output produttivi, scarti agricoli (bioeconomia);
 
-Il primo è riscoprire i giacimenti di materia scartata come fonte di materia prima: raccolta dei rifiuti, riciclo, riutilizzo, gestione degli output produttivi, scarti agricoli (bioeconomia).
+* Fine dello spreco d’uso del prodotto (\ |STYLE12|\ ), prima ancora di essere scartato. Favorire condivisione e uso collettivo, con l’introduzione di prodotti di business;
 
-Il secondo principio è legato alla fine dello spreco d’uso del prodotto (unused value), prima ancora di essere scartato. Favorire condivisione e uso collettivo, introduzione di prodotti di business fondati sul modello Prodotto come Servizio (Paas).
+* Fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, \ |STYLE13|\ , ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
 
-Il terzo principio è fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, refilling, ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
+Un ampio slancio a questa economia è dato dal ruolo svolto dalla PA nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese, nel creare nuove opportunità e pratiche di condivisione. 
 
-Un ampio slancio a questa economia è dato dal ruolo svolto dalla Pubblica Amministrazione nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese (target 12.6), nel creare nuove opportunità e pratiche di condivisione. 
-
-Con il nuovo Codice appalti (D.lgs 50/2016, art. 34), che conferma quanto previsto dalla L.221/2015, il GPP (Green Public Procurement) è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri ambientali minimi) nelle gare pubbliche. Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di Comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571 -, di accordi internazionali, quale l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
+\ |STYLE14|\ . Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571, di accordi internazionali, come l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
 
 Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui \ |LINK10|\ , sulle \ |LINK11|\ , sugli \ |LINK12|\  e sui \ |LINK13|\ , pensato per combinare ambientalismo e crescita economica.
 
-Affinché si possa creare una vera economia circolare su scala nazionale, il futuro governo nazionale e tutti i governi cittadini dovrebbero:
+.. admonition:: Raccomandazione 4.4f - Recepire con rapidità le Direttive ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della responsabilità estesa di prodotto
 
-\ |STYLE15|\  
+    Per il nostro Paese il recepimento delle Direttive europee comporterà un profondo rinnovamento della normativa sui rifiuti, lo sviluppo di strumenti di \ |STYLE15|\  e dei mercati di materie prime e seconde, la cooperazione tra regioni sul riciclo e sull’ottimizzazione dei rifiuti, permetterà che qualsiasi persona fisica o giuridica che sviluppi, fabbrichi, trasformi, venda o importi prodotti sia soggetto ad una responsabilità estesa del produttore.
 
-Per il nostro Paese il recepimento delle direttive europee comporterà un profondo rinnovamento della normativa sui rifiuti, lo sviluppo di strumenti di eco-design e dei mercati di materie prime e seconde, la cooperazione tra Regioni sul riciclo e sull’ottimizzazione dei rifiuti, permetterà che qualsiasi persona fisica o giuridica che sviluppi, fabbrichi, trasformi, venda o importi prodotti sia soggetto ad una responsabilità estesa del produttore.
 
-\ |STYLE16|\ : l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
+.. admonition:: Raccomandazione 4.4g - Mappare l’esistente
 
-\ |STYLE17|\  riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
+    l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
 
-\ |STYLE18|\ , anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
 
-\ |STYLE19|\ 
-Quando si realizzano gare d’appalto è essenziale esplicitare i requisiti CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Manca uno standard CE, serve dunque  impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai Criteri ambientali minimi delle aziende rispondenti ai bandi della Pubblica Amministrazione, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
+.. admonition:: Raccomandazione 4.4h - Definire i criteri per il passaporto dei materiali
 
-Facilitazione: un’agenzia interministeriale che crei le connessioni tra tutti i livelli di governo della città, la società civile e l’impresa. 
+    Riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
 
-Occorre investire in ricerca e sviluppo, sia presso le università che gli appositi centri (pubblici e privati). Formazione e comunicazione: sostenere progetti di studio, ricerca e comunicazione per approfondire gli innumerevoli temi dell’economia circolare.
 
-Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifattura, in sinergia con il mondo Industria 4.0. - Semplificazione: dare alle imprese la possibilità di sviluppare  strategie di innovazione CE   
+.. admonition:: Raccomandazione 4.4i - Creare uno standard CE
+
+    Quando si realizzano gare d’appalto è essenziale esplicitare i requisiti CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Serve impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai CAMi delle aziende rispondenti ai bandi della PA, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
+    Occorre investire in ricerca e sviluppo, sia presso le università che gli appositi centri (pubblici e privati); sostenere progetti di studio, ricerca e comunicazione per approfondire gli innumerevoli temi dell’economia circolare; sostenere gli incubatori della CE.
+
+|
 
 .. _h414b1e7073564b1c6019276d75343944:
 
@@ -282,25 +276,17 @@ Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifat
 
 .. |STYLE9| replace:: **Bando periferie, il “Bando per il programma straordinario di intervento per la riqualificazione urbana e la sicurezza delle periferie delle città metropolitane e dei comuni capoluogo di provincia”**
 
-.. |STYLE10| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppate: dalle norme agli interventi e strumenti attuativi**
+.. |STYLE10| replace:: **La Strategia Energetica Nazionale rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030**
 
-.. |STYLE11| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
+.. |STYLE11| replace:: *policy making*
 
-.. |STYLE12| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
+.. |STYLE12| replace:: *unused value*
 
-.. |STYLE13| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
+.. |STYLE13| replace:: *refilling*
 
-.. |STYLE14| replace:: **Integrare la SEN nel quadro delle strategie europee**
+.. |STYLE14| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
 
-.. |STYLE15| replace:: **Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.**
-
-.. |STYLE16| replace:: **Mappare l’esistente**
-
-.. |STYLE17| replace:: **Definire i criteri per il passaporto dei materiali:**
-
-.. |STYLE18| replace:: **Creare un hotspot nazionale sulla CE e proseguire il lavoro del Ministero dello sviluppo economico e del Ministero dell’Ambiente**
-
-.. |STYLE19| replace:: **Creare uno standard CE**
+.. |STYLE15| replace:: *eco-design*
 
 
 .. |LINK1| raw:: html
