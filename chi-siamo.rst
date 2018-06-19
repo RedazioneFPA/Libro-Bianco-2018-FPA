@@ -4,7 +4,22 @@
 Chi siamo
 #########
 
-\ |LINK1|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile.
+
+.. admonition:: Team per la redazione del Libro bianco su “Read the Docs”
+
+    * Marina Bassi (Redazione FPA)
+    
+    * Andrea Ivan Baldassare (Redazione FPA)
+    
+    * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
+    
+    * Luigi Rosati
+    
+    * ……..
+    
+    * ….
+
+\ |LINK2|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile.
 
 \ |STYLE0|\  \ |STYLE1|\  
 
@@ -119,9 +134,9 @@ Formazione
 Documenti Societari
 *******************
 
-\ |LINK2|\ 
-
 \ |LINK3|\ 
+
+\ |LINK4|\ 
 
 
 .. bottom of content
@@ -182,13 +197,17 @@ Documenti Societari
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
+    <a href="http://cirospat.readthedocs.io" target="_blank">Ciro Spataro</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://profilo.forumpa.it/wp-content/uploads/2018/03/FPA_Codice_Etico_DEF.pdf" target="_blank">Codice Etico di Gruppo</a>
+    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
 
 .. |LINK3| raw:: html
+
+    <a href="https://profilo.forumpa.it/wp-content/uploads/2018/03/FPA_Codice_Etico_DEF.pdf" target="_blank">Codice Etico di Gruppo</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://profilo.forumpa.it/wp-content/uploads/2018/03/FPA_Modello_Organizzativo_PARTE_GENERALE_DEF.pdf" target="_blank">Modello di Organizzazione, Gestione e Controllo</a>
 
