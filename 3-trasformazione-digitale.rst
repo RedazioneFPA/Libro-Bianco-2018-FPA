@@ -116,29 +116,9 @@ Da ultimo, il lancio di \ |LINK9|\ , il progetto per sviluppare l'app dei serviz
 
 Le azioni avviate promettono quindi di apportare un beneficio concreto in termini di miglioramento dell'offerta di servizi digitali. Sarà però fondamentale protrarre gli sforzi intrapresi in questi ultimi anni, in modo da rendere effettivi i diritti di cittadinanza digitale sanciti e ulteriormente rafforzati dal recente intervento correttivo al CAD.
 
-.. admonition:: Raccomandazione 3.2a - Promuovere i servizi online attraverso attività di comunicazione che mettano in evidenza i benefici concreti derivanti dal loro utilizzo
+.. admonition:: Raccomandazione 3.2a - rilanciare le azioni in tema di usabilità e accessibilità dei servizi, sviluppando ulteriormente community  s
 
     In alcuni casi, lo scarso utilizzo dei servizi online della PA è da ricondurre anche alla mancata o errata comunicazione verso il cittadino. Promuovere i servizi online della PA vuol dire innanzitutto evidenziare i vantaggi pratici connessi al loro utilizzo. Le nuove \ |LINK10|\  rappresentano un ottimo punto di partenza. Occorre ora promuoverne l’utilizzo da parte delle amministrazioni, al fine di sviluppare attività di comunicazione efficaci verso l’utenza del proprio territorio.
-
-
-.. admonition:: Raccomandazione 3.2b - Promuovere l’utilizzo dei servizi online attraverso meccanismi incentivanti e politiche di prezzo che ne rendano più appetibile l’utilizzo
-
-    La promozione dei servizi passa anche attraverso meccanismi incentivanti che rendano i servizi online appetibili anche dal punto di vista economico. I servizi di pagamento, ad esempio, risultano quelli maggiormente utilizzati dal cittadino. Per aumentare la loro fruizione per via telematica, si potrebbe ipotizzare l’introduzione di politiche di prezzo, prevedendo un’armonizzazione delle tariffe ritoccate al rialzo e parallelamente uno sconto consistente (es. -25%) per coloro che decidono di pagare on line.
-
-
-.. admonition:: Raccomandazione 3.2c - Evangelizzare i cittadini all’utilizzo dei servizi online, accompagnandoli all’utilizzo delle tecnologie presso gli stessi sportelli fisici degli enti
-
-    È necessario evangelizzare l’utenza all’utilizzo dei servizi online, sfruttando anche le possibili sinergie con i tradizionali canali di erogazione (sportelli fisici). Nel corso degli ultimi anni, alcune amministrazioni hanno avviato azioni di accompagnamento del cittadino all’uso della tecnologia per quelle categorie di utenti tradizionalmente più restie all’utilizzo dei canali digitali o maggiormente soggette a digital divide. Gli utenti vengono dagli operatori nell’utilizzo delle diverse procedure online, operando direttamente sul sistema in maniera guidata. Occorre mettere a fattor comune queste esperienze, diffondendo tali buone pratiche presso tutte le amministrazioni. Inoltre, le tradizionali iniziative di alfabetizzazione digitale, con alcune azioni di formazione potrebbero essere focalizzate in maniera specifica sull’utilizzo dei servizi online della PA.
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h3a5335406b227b147c2d17805e801d1b:
-
-Raccomandazione 3.2d: rilanciare le azioni in tema di usabilità e accessibilità dei servizi
--------------------------------------------------------------------------------------------
 
 Occorre non disperdere quanto di buono fatto in questi anni sul tema della \ |STYLE14|\  dei servizi online della PA, proseguendo sulla strada tracciata negli ultimi due anni. Sarà quindi fondamentale sostenere l’ulteriore sviluppo delle le comunità di pratica aperte a sviluppatori esterni alla PA e potenziare gli strumenti di accompagnamento (\ |STYLE15|\ ) messi a disposizione delle amministrazioni e le attività di consulenza sul territorio avviate dal Team Digitale.
 
@@ -151,6 +131,20 @@ Secondo i dati dell’eGov Benchmark 2017, soltanto il 36% dei portali delle amm
 Partire dai bisogni dell’utente vuol dire prendere definitivamente coscienza del fatto che l’accesso a internet avviene sempre meno tramite PC e sempre più tramite dispositivi come smartphone o tablet
 
 L’approccio utilizzato per l’app IO risponde proprio all’esigenza del cittadino di gestire direttamente dal proprio smartphone i rapporti con la Pubblica Amministrazione e l’accesso ai servizi pubblici. Pertanto, anche lo sviluppo di nuovi servizi da parte delle amministrazioni dovrà essere sempre più orientato all’utilizzo tramite dispositivi mobili (\ |STYLE18|\ ). Il mobile può infatti rappresentare l’elemento trainante per la diffusione e l’utilizzo dei servizi.
+
+.. admonition:: Raccomandazione 3.2a - Promuovere i servizi online attraverso attività di comunicazione che mettano in evidenza i benefici concreti derivanti dal loro utilizzo
+
+    In alcuni casi, lo scarso utilizzo dei servizi online della PA è da ricondurre anche alla mancata o errata comunicazione verso il cittadino. Promuovere i servizi online della PA vuol dire innanzitutto evidenziare i vantaggi pratici connessi al loro utilizzo. Le nuove \ |LINK11|\  rappresentano un ottimo punto di partenza. Occorre ora promuoverne l’utilizzo da parte delle amministrazioni, al fine di sviluppare attività di comunicazione efficaci verso l’utenza del proprio territorio.
+
+
+.. admonition:: Raccomandazione 3.2b - Promuovere l’utilizzo dei servizi online attraverso meccanismi incentivanti e politiche di prezzo che ne rendano più appetibile l’utilizzo
+
+    La promozione dei servizi passa anche attraverso meccanismi incentivanti che rendano i servizi online appetibili anche dal punto di vista economico. I servizi di pagamento, ad esempio, risultano quelli maggiormente utilizzati dal cittadino. Per aumentare la loro fruizione per via telematica, si potrebbe ipotizzare l’introduzione di politiche di prezzo, prevedendo un’armonizzazione delle tariffe ritoccate al rialzo e parallelamente uno sconto consistente (es. -25%) per coloro che decidono di pagare on line.
+
+
+.. admonition:: Raccomandazione 3.2c - Evangelizzare i cittadini all’utilizzo dei servizi online, accompagnandoli all’utilizzo delle tecnologie presso gli stessi sportelli fisici degli enti
+
+    È necessario evangelizzare l’utenza all’utilizzo dei servizi online, sfruttando anche le possibili sinergie con i tradizionali canali di erogazione (sportelli fisici). Nel corso degli ultimi anni, alcune amministrazioni hanno avviato azioni di accompagnamento del cittadino all’uso della tecnologia per quelle categorie di utenti tradizionalmente più restie all’utilizzo dei canali digitali o maggiormente soggette a digital divide. Gli utenti vengono dagli operatori nell’utilizzo delle diverse procedure online, operando direttamente sul sistema in maniera guidata. Occorre mettere a fattor comune queste esperienze, diffondendo tali buone pratiche presso tutte le amministrazioni. Inoltre, le tradizionali iniziative di alfabetizzazione digitale, con alcune azioni di formazione potrebbero essere focalizzate in maniera specifica sull’utilizzo dei servizi online della PA.
 
 .. _h41592a1c2b1c191d3f30313258135176:
 
@@ -182,9 +176,9 @@ Il disaccoppiamento tra \ |STYLE24|\  e \ |STYLE25|\  previsto dall’ultima mod
 3.3 Interoperabilità e once only principle
 ******************************************
 
-Una delle principali barriere allo sviluppo di servizi di qualità al cittadino è ancora oggi la mancanza di integrazione tra dati e servizi delle diverse amministrazioni. Il nostro ordinamento prevede già dagli anni 90 il divieto per le amministrazioni di chiedere all’utente dati e informazioni personali già fornite ad altri enti. Un obbligo ormai formalizzato \ |LINK11|\ , con il nome di \ |STYLE27|\ , ma ancora disatteso nei fatti, a causa della scarsa \ |STYLE28|\  dei diversi sistemi informativi della PA.
+Una delle principali barriere allo sviluppo di servizi di qualità al cittadino è ancora oggi la mancanza di integrazione tra dati e servizi delle diverse amministrazioni. Il nostro ordinamento prevede già dagli anni 90 il divieto per le amministrazioni di chiedere all’utente dati e informazioni personali già fornite ad altri enti. Un obbligo ormai formalizzato \ |LINK12|\ , con il nome di \ |STYLE27|\ , ma ancora disatteso nei fatti, a causa della scarsa \ |STYLE28|\  dei diversi sistemi informativi della PA.
 
-\ |STYLE29|\  sancisce il superamento la transizione a un \ |LINK12|\  basato sull’approccio \ |STYLE30|\  e su \ |STYLE31|\  (in particolare OpenAPI), al fine di garantire la corretta interazione tra cittadini, imprese e PA e favorire la condivisione trasparente di dati, informazioni, piattaforme e servizi.
+\ |STYLE29|\  sancisce il superamento la transizione a un \ |LINK13|\  basato sull’approccio \ |STYLE30|\  e su \ |STYLE31|\  (in particolare OpenAPI), al fine di garantire la corretta interazione tra cittadini, imprese e PA e favorire la condivisione trasparente di dati, informazioni, piattaforme e servizi.
 
 In attuazione del Piano, sono state emanate le \ |STYLE32|\ , per il progressivo superamento del precedente modello di SPCoop (Sistema Pubblico di Cooperazione), basato su standard SOAP, e la dismissione dei relativi strumenti (Porte di dominio, Buste eGov, Registro SICA), nonché i primi due capitoli delle \ |STYLE33|\ , attualmente in consultazione (i restanti 3 saranno pubblicati entro l’estate).
 
@@ -233,9 +227,9 @@ Le amministrazioni hanno necessità di accedere in maniera API \ |STYLE42|\  all
 
 Il Piano triennale di AgID ha delineato un percorso volto al consolidamento delle infrastrutture digitali delle PA. La razionalizzazione delle infrastrutture IT rappresenta infatti un elemento cardine della complessiva strategia italiana per la crescita digitale, passaggio necessario per garantire maggiori livelli di efficienza, sicurezza e rapidità nell’erogazione dei servizi a cittadini e imprese.
 
-Il \ |LINK13|\  si articola lungo due direttrici strategiche, strettamente connesse tra loro. Da un lato, la razionalizzazione dei \ |STYLE43|\ , per porre termine alla forte frammentazione delle risorse e alle frequenti situazioni di inadeguatezza tecnologica riscontrate da AgID nella sua attività di ricognizione. Dall’altro, la definizione e la successiva implementazione di un modello strategico evolutivo di \ |STYLE44|\ , paradigma finora applicato in modo estremamente disomogeneo e limitato all’adozione di pochissime soluzioni.
+Il \ |LINK14|\  si articola lungo due direttrici strategiche, strettamente connesse tra loro. Da un lato, la razionalizzazione dei \ |STYLE43|\ , per porre termine alla forte frammentazione delle risorse e alle frequenti situazioni di inadeguatezza tecnologica riscontrate da AgID nella sua attività di ricognizione. Dall’altro, la definizione e la successiva implementazione di un modello strategico evolutivo di \ |STYLE44|\ , paradigma finora applicato in modo estremamente disomogeneo e limitato all’adozione di pochissime soluzioni.
 
-Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui criteri per la \ |LINK14|\  per la PA e per la \ |LINK15|\  per il Cloud della PA. Molti altri dovranno essere completati al più presto, \ |STYLE45|\  il completamento del complesso processo di individuazione, qualificazione e costituzione dei \ |STYLE46|\  (PSN).
+Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui criteri per la \ |LINK15|\  per la PA e per la \ |LINK16|\  per il Cloud della PA. Molti altri dovranno essere completati al più presto, \ |STYLE45|\  il completamento del complesso processo di individuazione, qualificazione e costituzione dei \ |STYLE46|\  (PSN).
 
 Sebbene la strada sia ormai tracciata, è necessario prestare attenzione ad alcuni aspetti di particolare rilevanza strategica.
 
@@ -317,13 +311,13 @@ In questo caso la PA svolge un ruolo di regìa e coordinamento; è cruciale la d
 3.6 Dati pubblici
 *****************
 
-Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK16|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK17|\ : l’Italia si posiziona tra i “trendsetter”, ossia i Paesi più avanti rispetto a \ |STYLE63|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE64|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
+Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK17|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK18|\ : l’Italia si posiziona tra i “trendsetter”, ossia i Paesi più avanti rispetto a \ |STYLE63|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE64|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
 
-Questo passo in avanti è da attribuire al modello di gestione dei dati delineati dal \ |LINK18|\  che riconosce negli Open Data una delle leve fondamentali nel processo di trasformazione in atto, che non può prescindere da trasparenza e circolazione di informazioni riutilizzabili. Tra gli elementi delle \ |LINK19|\ , il Piano mette in evidenza infatti il rilascio di dati pubblici secondo il paradigma dell’Open Data e loro riutilizzo, agendo sull’individuazione di basi di dati chiave di particolare interesse per la collettività da liberare, e indicando come strumento di lavoro un paniere dinamico dei dataset.
+Questo passo in avanti è da attribuire al modello di gestione dei dati delineati dal \ |LINK19|\  che riconosce negli Open Data una delle leve fondamentali nel processo di trasformazione in atto, che non può prescindere da trasparenza e circolazione di informazioni riutilizzabili. Tra gli elementi delle \ |LINK20|\ , il Piano mette in evidenza infatti il rilascio di dati pubblici secondo il paradigma dell’Open Data e loro riutilizzo, agendo sull’individuazione di basi di dati chiave di particolare interesse per la collettività da liberare, e indicando come strumento di lavoro un paniere dinamico dei dataset.
 
  
 
-Nel tentativo di un sempre crescente coordinamento nazionale, attuando i principi di trasparenza e accountability, anche il portale dati.gov.it rafforza la propria centralità. Il monitoraggio dei progetti di trasformazione digitale conferma per gli \ |LINK20|\  ritmi di avanzamento in progressiva crescita: 387 Amministrazioni pubblicano 20.387 dataset, superando i target di dataset posto a 15.000 per il 2018 (dati al 30.04.2018).
+Nel tentativo di un sempre crescente coordinamento nazionale, attuando i principi di trasparenza e accountability, anche il portale dati.gov.it rafforza la propria centralità. Il monitoraggio dei progetti di trasformazione digitale conferma per gli \ |LINK21|\  ritmi di avanzamento in progressiva crescita: 387 Amministrazioni pubblicano 20.387 dataset, superando i target di dataset posto a 15.000 per il 2018 (dati al 30.04.2018).
 
 [...]
 
@@ -503,41 +497,45 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
 .. |LINK11| raw:: html
 
-    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52016DC0179&from=IT" target="_blank">anche a livello europeo</a>
+    <a href="https://comunica-lg.readthedocs.io/it/latest/index.html" target="_blank">Linee guida per la Promozione dei Servizi Digitali</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html" target="_blank">nuovo modello di interoperabilità</a>
+    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52016DC0179&from=IT" target="_blank">anche a livello europeo</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/03_infrastrutture-fisiche.html#data-center-e-cloud" target="_blank">percorso evolutivo delineato dal Piano</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html" target="_blank">nuovo modello di interoperabilità</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://cloud-pa.readthedocs.io/it/latest/circolari/CSP/circolare_qualificazione_CSP_v1.2.html" target="_blank">qualificazione dei Cloud Service Provider (CSP)</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/03_infrastrutture-fisiche.html#data-center-e-cloud" target="_blank">percorso evolutivo delineato dal Piano</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html" target="_blank">qualificazione di servizi Software as a Service (SaaS)</a>
+    <a href="https://cloud-pa.readthedocs.io/it/latest/circolari/CSP/circolare_qualificazione_CSP_v1.2.html" target="_blank">qualificazione dei Cloud Service Provider (CSP)</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://digital-agenda-data.eu/charts/desi-components#chart={%22indicator%22:%22DESI_5A5_OPENDATA%22,%22breakdown-group%22:%22total%22,%22unit-measure%22:%22od_score%22,%22time-period%22:%222018%22}" target="_blank">dal 19° posto del 2017 all’8° posto nel 2018</a>
+    <a href="https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html" target="_blank">qualificazione di servizi Software as a Service (SaaS)</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.europeandataportal.eu/en/highlights/open-data-maturity-europe-2017" target="_blank">Open Data Maturity in Europe 2017</a>
+    <a href="https://digital-agenda-data.eu/charts/desi-components#chart={%22indicator%22:%22DESI_5A5_OPENDATA%22,%22breakdown-group%22:%22total%22,%22unit-measure%22:%22od_score%22,%22time-period%22:%222018%22}" target="_blank">dal 19° posto del 2017 all’8° posto nel 2018</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://pianotriennale-ict.italia.it/" target="_blank">Piano triennale per l’informatica nella Pubblica Amministrazione 2017-2019</a>
+    <a href="https://www.europeandataportal.eu/en/highlights/open-data-maturity-europe-2017" target="_blank">Open Data Maturity in Europe 2017</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html" target="_blank">Infrastrutture Immateriali</a>
+    <a href="https://pianotriennale-ict.italia.it/" target="_blank">Piano triennale per l’informatica nella Pubblica Amministrazione 2017-2019</a>
 
 .. |LINK20| raw:: html
+
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html" target="_blank">Infrastrutture Immateriali</a>
+
+.. |LINK21| raw:: html
 
     <a href="https://avanzamentodigitale.italia.it/it/progetto/open-data" target="_blank">Open Data</a>
 
