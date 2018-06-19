@@ -260,11 +260,9 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. Le esperienze positive di nuova comunicazione cambiano radicalmente i rapporti tra PA e cittadini.
+Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. Presidenza del Consiglio, Ministeri, istituzioni statali e locali, Regioni, Comuni, Camere di Commercio, musei, ospedali e aziende sanitarie, enti culturali e turistici, scuole e università, aziende pubbliche e molte altre strutture con account e profili sui principali social network, con canali pubblici e urp/customer care in chat, con portali e siti web belli per il design e utili per la semplicità di utilizzo. Le esperienze nate di nuova comunicazione cambiano radicalmente i rapporti tra PA e cittadini.
 
 Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico, un "Ufficio comunicazione, stampa e servizi al cittadino" sulla scia di quello proposto dall’Associazione PA Social percorso fatto (con #PASocial
-
-Presidenza del Consiglio, Ministeri, istituzioni statali e locali, Regioni, Comuni, Camere di Commercio, musei, ospedali e aziende sanitarie, enti culturali e turistici, scuole e università, aziende pubbliche e molte altre strutture con account e profili sui principali social network, con canali pubblici e urp/customer care in chat, con portali e siti web belli per il design e utili per la semplicità di utilizzo
 
 |
 
@@ -302,6 +300,11 @@ La questione delle piattaforme è un problema di qualità in relazione sia a que
 .. admonition:: Raccomandazione 2.5b - Migliorare gli strumenti di controllo della qualità delle piattaforme, attraverso la definizione di requisiti funzionali
 
     Gli strumenti di controllo devono individuare, in maniera ragionata, requisiti funzionali anche in riferimento alla concreta gestione di soluzioni di riuso. Servono check-list per definire i requisiti obbligatori e misurarne il rispetto nei prodotti di mercato. 
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h717a41234d77216e31375b1b397e048:
 
@@ -344,6 +347,11 @@ Uno dei pilastri del Nuovo Codice, forse il più importante, è costituito dalla
 
     La qualificazione delle stazioni appaltanti avrebbe dovuto rappresentare la vera chiave di volta del sistema, ma che è ancora di là da venire e, comunque, difficilmente potrà essere efficacemente realizzata in carenza di adeguati investimenti che non sembrano essere stati previsti.
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h156876146c216d117b56377de57c5f:
 
 Valutazione offerta
@@ -354,7 +362,6 @@ Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli asp
 .. admonition:: Raccomandazione 2.6b - Favorire gli strumenti di valutazione e misurazione della qualità che diano garanzia di oggettività e attendibilità
 
     Occorre incoraggiare (e anche formare) le stazioni appaltanti nell’individuare criteri di valutazione delle offerte che realmente privilegino aspetti qualitativamente rilevanti ed effettivamente necessari, in modo che l’individuazione dell’offerta economicamente più vantaggiosa sulla base del miglior rapporto qualità prezzo non resti un mero esercizio di stile.
-    
 
 .. _h3d2231792332f56687a7544693a25:
 
@@ -366,7 +373,11 @@ Si è fatta forte l’esigenza di un monitoraggio costante dell’andamento  del
 .. admonition:: Raccomandazione 2.6c - Riqualificare la spesa pubblica con l’adozione di soluzioni innovative che ne permettano il monitoraggio
 
     Puntare sull’innovazione, ovvero su moderne soluzioni oggi disponibili sul mercato, come strumento di evoluzione del procurement pubblico e di riqualificazione della spesa pubblica, anche in ottica della riduzione nel medio-lungo termine degli sprechi.
-    
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h244d3d595f6d461c761b507f157f551e:
 
@@ -379,6 +390,11 @@ La Corte dei Conti europea (cfr. Rel. N. 9/2018) ha espresso fortissime perpless
 
     Tra le criticità evidenziate dalla Corte c’è anche la mancanza di strumenti di supporto alle amministrazioni che intendano intraprendere questa strada, ivi compresa la diffusione e condivisione di “buone pratiche”.
     
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h25354c1e52671a2d5d75606c54213621:
 
