@@ -384,19 +384,21 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 .. admonition:: Raccomandazione 3.6c - Attivare un monitoraggio continuo dell’impatto del valore economico e sociale dei dati liberati
 
     Gli studi di impatto assumono un ruolo fondamentale. Il monitoraggio dell’impatto dal punto di vista economico e sociale dei dataset liberati deve essere parte integrante del processo di apertura. I benefici e l’impatto degli Open Data a livello economico e sociale risultato ancora poco conosciuti e soprattutto ancora difficili da misurare. Quello che emerge dagli studi presenti è un ecosistema ancora in via di sviluppo.
+    
     L’aspetto del monitoraggio è fondamentale sia dal punto di vista dell’analisi dell’offerta di Open Data che di domanda. I dati infatti vengono liberati, ma non conosciamo chi li riutilizza. La misurazione dell’effettivo riuso e la conoscenza della platea di riutilizzatori sono dimensioni fondamentali del monitoraggio.
 
 
 .. admonition:: Raccomandazione 3.6d - Razionalizzare il sistema normativo per far sì che l’Open Data attraversi tutti i settori della PA in grado di produrre dati e generare informazioni
 
     È necessario incidere sulle norme di settore (edilizia, attività produttive, ecc…) affinché il processo digitale e all’interno di questo la liberazione degli Open Data attraversino verticalmente i settori della PA in grado di mettere a disposizioni dati e produrre informazioni.
-    Questo permette di affermare il concetto di Open Data \ |STYLE60|\  (oltre il concetto di Open Data \ |STYLE61|\ ).
+    
+    Questo permette di affermare il concetto di Open Data by design (oltre il concetto di Open Data by default).
 
 
 .. admonition:: Raccomandazione 3.6e - Puntare sulla qualità, e non sulla quantità dei dataset da pubblicare
 
     L’innesco di meccanismi virtuali di coinvolgimento e monitoraggio/valutazione della qualità dei dataset pubblicati è senz’altro un vantaggio.
-    La qualità del dato e sua disponibilità (\ |STYLE62|\  e non \ |STYLE63|\ ) sono infine strettamente collegati per garantire un processo di liberazione realmente efficace e utile.
+    La qualità del dato e sua disponibilità (data as a service e non data on demand) sono infine strettamente collegati per garantire un processo di liberazione realmente efficace e utile.
 
 
 .. admonition:: Raccomandazione 3.6f - Investire in formazione su Open Data a tutti i livelli per sviluppare una cultura del dato e delle opportunità connesse alla liberazione
@@ -408,8 +410,10 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 .. admonition:: Raccomandazione 3.6g - Definire un modello di governance del dato e progettare automatismi organizzativi e tecnologici
 
     Quello che si configura come sempre più necessario è la definizione di un adeguato modello di governance del dato interno all’amministrazione. Bisognerebbe da questo punto di vista definire un modello a partire dalle buone pratiche italiane e straniere.
-    La \ |STYLE64|\  deve avvalersi sempre più dello sviluppo di automatismi, rispetto ai quali emerge una sempre maggiore necessità di vincoli tecnologici da una parte che orientino in maniera uniforme il lavoro ma anche di una maggiore usabilità degli stessi così da incoraggiarne gli utilizzatori.
-    La \ |STYLE65|\  va collegata anche all’inserimento dei processi di apertura degli open data della valutazione dirigenziale.
+    
+    La data governance deve avvalersi sempre più dello sviluppo di automatismi, rispetto ai quali emerge una sempre maggiore necessità di vincoli tecnologici da una parte che orientino in maniera uniforme il lavoro ma anche di una maggiore usabilità degli stessi così da incoraggiarne gli utilizzatori.
+    
+    La data governance va collegata anche all’inserimento dei processi di apertura degli open data della valutazione dirigenziale.
     Si deve lavorare progressivamente verso un’ingegnerizzazione delle procedure, del metodo e del consolidamento di strutture organizzative incaricate dei processi open data.
 
 
@@ -417,6 +421,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
     Non si può più fare a meno di una visione nazionale e unitaria in materia di Open Data. L’opportunità di un salto più in alto nel coordinamento di tutte le iniziative locali a livello nazionale viene evidenziata peraltro nell’\ |LINK26|\  all’interno del rapporto \ |LINK27|\ . Adesso bisogna fare sistema.
     Da questo punto di vista, l’azione del Data Analytics Framework già si muove in questa direzione. Per i prossimi passi, bisogna insistere sull’apertura delle basi dati chiave, ovvero dataset di particolare interesse perché in grado di rappresentare i fenomeni “in maniera standardizzata a livello nazionale e la cui disponibilità secondo il paradigma dell’open data assume pertanto rilevanza nazionale”\ [#F7]_\ .
+    
     In ultimo, è necessario prendere consapevolezza che il processo di apertura dei dati rappresenta ad oggi ancora un costo per la PA: per fare formazione e per immettere in organico competenze adeguate, per cambiare i processi, per fare cultura e per facilitare le realtà private che possano usare i dati sono necessari investimenti. 
 
 .. _h18245b3727255245e563613d62157:
@@ -450,13 +455,16 @@ Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più 
 .. admonition:: Raccomandazione 3.7a - Fornire supporto allo sviluppo della tecnologia blockchain in ambito PA, anche attraverso una maggiore partecipazione dell’Italia alle iniziative a livello comunitario
 
     L’innovazione deve svilupparsi in libertà, confrontarsi con il mercato e i contesti di applicazione, sfidare la propria esistenza sul campo. In un’ottica di open innovation, la blockchain evolve e si sviluppa nel dialogo e confronto tra ricercatori, tecnici, imprenditori, stakeholders e utenti. Tuttavia anche le istituzioni svolgono un loro ruolo specifico e, nel caso della blockchain, questo risiede nell’investimento in dispositivi normativi, sia in chiave di standardizzazione, sia di riconoscimento istituzionale.
+    
     L’Italia, rispetto al primo punto, è chiamata ad assumere un ruolo maggiormente attivo e partecipe sui tavoli in cui si discute e si definisce l’impianto di standardizzazione della tecnologia blockchain; a partire dall’adesione alla \ |LINK28|\  per passare ad una più efficace partecipazione ai lavori di organizzazioni come UNI.
 
 
 .. admonition:: Raccomandazione 3.7b - Sfruttare la tecnologia blockchain nello sviluppo dei servizi rivolti al cittadino e al sistema economico, soprattutto quelli di carattere transnazionale
 
     La tecnologia blockchain consente di sviluppare soluzioni sicure e trasparenti, molto utili ed efficaci nei casi in cui si debba garantire una equidistanza e un ruolo di garanzia (“trust”) nelle transazioni e nelle registrazioni. Investire in questa tecnologia, per i contesti idonei e in cui risulta più efficace, consentirebbe di migliorare alcuni servizi e di fornire quelle garanzie di sicurezza a cui i cittadini e le istituzioni stanno prestando sempre maggiore attenzione.
-    In alcuni casi la logica dei \ |STYLE66|\  può davvero svolgere un ruolo rivoluzionario nel ripensare le logiche di funzionamento degli archivi e della registrazione delle transazioni. Si tratta di un’opportunità che non può essere persa e che va condivisa a livello europeo e internazionale perché spesso la blockchain è utile proprio nei casi di transazioni internazionali.
+    
+    In alcuni casi la logica dei Distributed Ledger può davvero svolgere un ruolo rivoluzionario nel ripensare le logiche di funzionamento degli archivi e della registrazione delle transazioni. Si tratta di un’opportunità che non può essere persa e che va condivisa a livello europeo e internazionale perché spesso la blockchain è utile proprio nei casi di transazioni internazionali.
+    
     Per fare questo si deve investire in competenze e formazione, favorendo lo sviluppo di iniziative di ricerca, sperimentazione e educazione. E’ necessario favorire il riconoscimento del tema e delle competenze a questo legate, come pure la collaborazione pubblico-privata in iniziative congiunte di sperimentazione e imprenditorialità.
     In questo caso la PA svolge un ruolo di regia e coordinamento: è cruciale la disponibilità e la partecipazione alla costruzione di piattaforme e protocolli condivisi nonché il contributo attivo delle agenzie pubbliche che operano nel settore.
 
@@ -596,20 +604,6 @@ RACCOMANDAZIONI?
 .. |STYLE58| replace:: *stakeholder*
 
 .. |STYLE59| replace:: *Demand Drive*
-
-.. |STYLE60| replace:: *by design*
-
-.. |STYLE61| replace:: *by default*
-
-.. |STYLE62| replace:: *data as a service*
-
-.. |STYLE63| replace:: *data on demand*
-
-.. |STYLE64| replace:: *data governance*
-
-.. |STYLE65| replace:: *data governance*
-
-.. |STYLE66| replace:: *Distributed Ledger*
 
 
 .. |LINK1| raw:: html
