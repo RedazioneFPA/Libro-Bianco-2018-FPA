@@ -155,7 +155,10 @@ La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termin
 
 |
 
+.. _he4566252165161c157d3e4d222b7f:
+
 Piattaforme e servizi per la smart city
+=======================================
 
 Con il procedere della implementazione delle infrastrutture di comunicazione (banda larga e ultralarga, wifi pubblici, etc.), lo sviluppo tecnologico dei sensori (in grado di raccogliere e trasmettere informazioni), la definizione di modelli sempre più sofisticati e conseguenti applicazioni in grado di trattare quantità enormi di dati, va aprendosi una nuova fase nel percorso di digitalizzazione delle città. Le reti funzionali (energia, gas, acqua, trasporti pubblici, illuminazione pubblica) sono in condizione di divenire sempre più “intelligenti” e quindi più efficaci ed efficienti; l’ecosistema urbano può essere sempre più monitorato in tutti i suoi aspetti (produzione e raccolta di rifiuti, qualità dell’aria, sicurezza, traffico, condizione degli edifici e delle infrastrutture); le interazioni sociali (lavoro, consumi, accesso ai servizi, relazioni sociali, partecipazione civile) possono moltiplicarsi e raffinarsi. Si aprono nuove opportunità ma anche nuove criticità sui fronti dell’accesso e dell’utilizzo di queste informazioni sia in forma aggregata sia, potenzialmente, in forma singolare e individuabile.
 
