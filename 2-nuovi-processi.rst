@@ -56,7 +56,7 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
     Molte delle strategie di trasformazione digitale adottate dalle amministrazioni italiane rimangono ancora oggi appannaggio esclusivo della funzione IT. Il risultato è rappresentato da piani concepiti nelle segrete stanze dei tecnologi, di cui le altre funzioni rimangono meri destinatari.
     
-    Una strategia di change management, coerente e di largo respiro, richiede invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare i veri protagonisti dei processi di cambiamento, all’interno di una rete di innovatori, rispetto al quale la direzione IT assumerebbe il ruolo di pivot, soggetto catalizzatore della domanda di innovazione e facilitatore del complessivo processo di trasformazione organizzativa e tecnologica.
+    Una strategia di change management, coerente e di largo respiro, richiede invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare i veri protagonisti dei processi di cambiamento, all’interno di una rete di innovatori, rispetto al quale la direzione IT assumerebbe il ruolo di pivot, soggetto catalizzatore della domanda di innovazione e facilitatore del complessivo processo di trasformazione organizzativa e tecnologica. 
     
     Le modalità di interazione potranno poi variare a seconda delle specificità dell’ente, passando dal coinvolgimento dei referenti delle diverse strutture di business nello sviluppo dei progetti strategici in materia di ICT alla presenza stabile di funzionari informatici in ogni direzione e ufficio, al fine di abilitare una vera “contaminazione digitale” (cit. Luca Attias).
 
