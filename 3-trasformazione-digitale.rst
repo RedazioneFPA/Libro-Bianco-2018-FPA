@@ -45,10 +45,7 @@ Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole 
 
     Occorre rafforzare i poteri di vigilanza e controllo di AgID, attraverso il conferimento di un potere sanzionatorio contro gli enti inadempienti, tipico delle vere authority. Ovviamente, l’impianto sanzionatorio dovrebbe essere controbilanciato da possibili incentivi per le PA virtuose e da risorse e competenze necessarie a mettere anche gli enti più piccoli nelle condizioni di adeguarsi alla normativa di riferimento.
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h79667b1e2c6297a1d667230617e47:
 
@@ -272,11 +269,13 @@ Sebbene la strada sia ormai tracciata, il percorso di attuazione dovrà tener co
 3.5 Sicurezza informatica
 *************************
 
-Il triennio 2016-2018 sarà probabilmente ricordato come quello della presa di coscienza del rischio cyber. Non è infatti un caso che la legislatura appena conclusa sia stata caratterizzata da una produzione normativa e regolamentare senza precedenti che, anche per effetto dell’accelerazione impressa dall’adozione di importanti provvedimenti in ambito UE (\ |LINK16|\  e \ |LINK17|\  su tutti), ha portato non solo alla ridefinizione dell’architettura nazionale e della strategia italiana per la sicurezza, ma anche a una nuova centralità del tema nel percorso evolutivo dell’informatica pubblica.
+Il triennio 2016-2018 sarà probabilmente ricordato come quello della presa di coscienza del rischio cyber e della necessità di un deciso cambio di passo in tema di sicurezza informatica nella pubblica amministrazione. Non è infatti un caso che la legislatura appena conclusa sia stata caratterizzata da una produzione normativa e regolamentare senza precedenti che, anche per effetto dell’accelerazione impressa dall’adozione di importanti provvedimenti in ambito UE (\ |LINK16|\  e \ |LINK17|\  su tutti), ha portato non solo alla ridefinizione dell’architettura nazionale e della strategia italiana per la sicurezza, ma anche a una nuova centralità del tema nel percorso evolutivo dell’informatica pubblica.
 
-Un centralità sancita dallo stesso Piano Triennale di AgID, che non si limita ad annoverare il tema tra le sue componenti, ma identifica la digital security della PA come un elemento di garanzia dell’intero modello evolutivo dell’informatica pubblica.
+Un centralità sancita dallo stesso Piano Triennale di AgID, che non si limita ad annoverare il tema tra le sue componenti, ma identifica il progetto di \ |STYLE36|\  della PA come un elemento di garanzia dell’intero modello evolutivo dell’informatica pubblica.
 
-L’adozione delle \ |LINK18|\  per la PA, il rilascio delle \ |LINK19|\  da parte di AGID, e l’obbligo di adozione dei piani di continuità operativa, prima eliminati e poi reintrodotti (con modifiche) nelle ultime due revisioni del CAD rappresentano solo alcune testimonianze di una rinnovata attenzione del settore pubblico per il tema. 
+L’adozione delle \ |LINK18|\ , il rilascio delle \ |LINK19|\  da parte di AGID e l’obbligo di adozione dei piani di continuità operativa, prima eliminati e poi reintrodotti (con modifiche) nelle ultime due revisioni del CAD rappresentano solo alcune testimonianze di una rinnovata attenzione del settore pubblico per il tema. 
+
+La strada da percorrere è però ancora lunga, sia in termini di completamento del quadro regolatorio (approvazione di due documenti tecnici annunciati dal Piano triennale e originariamente previsti per l’autunno dell’anno scorso\ [#F6]_\ ), sia dal punto di vista dello sviluppo di una cultura della sicurezza adeguata alle nuove sfide. 
 
 |
 
@@ -289,7 +288,7 @@ C’è bisogno di regole per la sicurezza perché lo scenario, in termini di min
 
 .. admonition:: Raccomandazione 3.5a - Adottare un approccio alla normativa tecnica in materia di sicurezza orientata al superamento del concetto di “misura minima”, a vantaggio di standard più avanzati
 
-    Le Misure minime rappresentano un utilissima base di riferimento per tutte le amministrazioni italiane rispetto a ciò che non può assolutamente mancare. Tuttavia, pur costituendo un ottimo punto di partenza, la rapida evoluzione e la crescente complessità delle minacce non consentono più di poter affrontare il problema con le sole disposizioni minime. L’approvazione delle \ |STYLE36|\ , previste dal Piano triennale e originariamente attese per l’autunno 2017, possono rappresentare in questo senso un importante passo in avanti.
+    Le Misure minime rappresentano un utilissima base di riferimento per tutte le amministrazioni italiane rispetto a ciò che non può assolutamente mancare. Tuttavia, pur costituendo un ottimo punto di partenza, la rapida evoluzione e la crescente complessità delle minacce non consentono più di poter affrontare il problema con le sole disposizioni minime. L’approvazione delle \ |STYLE37|\ , previste dal Piano triennale e originariamente attese per l’autunno 2017, possono rappresentare in questo senso un importante passo in avanti.
 
 |
 
@@ -298,14 +297,14 @@ C’è bisogno di regole per la sicurezza perché lo scenario, in termini di min
 Collaborazione tra pubblico e privato
 =====================================
 
-La sfida per l’Italia negli anni a venire è quella di approcciare al tema della sicurezza come sistema Paese. Per far ciò è essenziale che organizzazioni pubbliche e private rafforzino in maniera omogenea, evitando così che un anello debole della catena possa inficiare la sicurezza del sistema nella sua interezza. 
+La sfida per l’Italia negli anni a venire è quella di approcciare al tema della sicurezza come sistema Paese. Per far ciò è essenziale che organizzazioni pubbliche e private si rafforzino in maniera omogenea e reciproca, evitando così che un anello debole della catena possa inficiare la sicurezza del sistema nella sua interezza. 
 
 In questo senso anche esperienze negative o non perfettamente riuscite devono servire come occasione di miglioramento per capire dove si è sbagliato ed aggiustare il tiro. 
 
 .. admonition:: Raccomandazione 3.5b - Sviluppare progetti di collaborazione tra pubblico e privato, a partire dal tema dei presidi di sicurezza e sui meccanismi di condivisione delle informazioni
 
     Le iniziative già consolidate quali il Piano nazionale per la protezione cibernetica e la sicurezza informatica e le Misure minime di sicurezza ICT per le PA vanno affiancate da progetti di collaborazione tra pubblico e privato.  
-    Sarebbe auspicabile che enti pubblici ed aziende collaborassero sempre di più con l’obiettivo di creare un livello minimo di sicurezza integrabile nei presidi di sicurezza, come i \ |STYLE37|\  (SOC) o i \ |STYLE38|\  (CERT), insistendo sui concetti di collaborazione e condivisione delle informazioni, ripensando anche modelli organizzativi tradizionali in ottica di nuove minacce. Iniziative in tal senso sono già in corso e dovranno essere consolidate ed estese.
+    Sarebbe auspicabile che enti pubblici ed aziende collaborassero sempre di più con l’obiettivo di creare un livello minimo di sicurezza integrabile nei presidi di sicurezza, come i \ |STYLE38|\  (SOC) o i \ |STYLE39|\  (CERT), insistendo sui concetti di collaborazione e condivisione delle informazioni e ripensando anche modelli organizzativi tradizionali in ottica di nuove minacce. Iniziative in tal senso sono già in corso e dovranno essere consolidate ed estese.
 
 |
 
@@ -314,20 +313,20 @@ In questo senso anche esperienze negative o non perfettamente riuscite devono se
 Cultura e fattore umano
 =======================
 
-Il miglioramento della sicurezza informatica, anche in termini di data protection, passa dalla migliore comprensione dei comportamenti degli operatori di un’organizzazione e delle diverse modalità con cui le persone interagiscono con i dati critici e la proprietà intellettuale. Oggi non esistono più utenti “neutri” da un punto di vista della sicurezza: o l’utente è perfettamente consapevole di cosa sta facendo, e pone massima attenzione a ciò che fa, oppure rappresenta un rischio per la sicurezza dell’organizzazione.
-Il mantenimento nel tempo di livelli adeguati di \ |STYLE39|\  alla normativa di riferimento non passa necessariamente dalla rivoluzione delle tecnologie già implementate, ma dalla mitigazione del rischio connesso ai comportamenti non adeguati. 
+Il miglioramento della sicurezza informatica passa dalla migliore comprensione dei comportamenti degli operatori di un’organizzazione e delle diverse modalità con cui le persone interagiscono con i dati critici e la proprietà intellettuale. Oggi non esistono più utenti “neutri” da un punto di vista della sicurezza: o l’utente è perfettamente consapevole di cosa sta facendo, e pone massima attenzione a ciò che fa, oppure rappresenta un rischio per la sicurezza dell’organizzazione.
+Il mantenimento nel tempo di livelli adeguati di \ |STYLE40|\  alla normativa di riferimento non passa necessariamente dalla rivoluzione delle tecnologie già implementate, ma dalla mitigazione del rischio connesso ai comportamenti non adeguati. 
 
 Occorre quindi costruire e promuovere un cambiamento culturale che – al di là dei comportamenti più singolari e aneddotici – garantisca una visione diversa del ruolo di responsabilità e di presidio di ogni singolo utente.
 
 .. admonition:: Raccomandazione 3.5c - Promuovere lo sviluppo di attività di sensibilizzazione e informazione costanti nel tempo, secondo una logica iterativa
 
-    Molte PA hanno realizzato in questi anni iniziative volte all’accrescimento della consapevolezza del rischio informatico da parte dell’utenza interna. Esistono in questo senso differenti strumenti (formazione in aula, \ |STYLE40|\ , pillole formative, campagne di \ |STYLE41|\  simulato), utilizzabili anche in maniera combinata. Tuttavia, ciò che emerge maggiormente dall’esperienza maturata dalle amministrazioni più virtuose è l’importanza della \ |STYLE42|\  di queste iniziative, che devono rimanere costanti nel tempo ed essere rimodulate di volta in volta in base ai risultati raggiunti. Pressione e costanza sono quasi sempre più importanti di grandi iniziative \ |STYLE43|\ .
+    Molte PA hanno realizzato in questi anni iniziative volte all’accrescimento della consapevolezza del rischio informatico da parte dell’utenza interna. Esistono in questo senso differenti strumenti (formazione in aula, \ |STYLE41|\ , pillole formative, campagne di \ |STYLE42|\  simulato), utilizzabili anche in maniera combinata. Tuttavia, ciò che emerge maggiormente dall’esperienza maturata dalle amministrazioni più virtuose è l’importanza della \ |STYLE43|\  di queste iniziative, che devono rimanere costanti nel tempo ed essere rimodulate di volta in volta in base ai risultati raggiunti. Pressione e costanza sono quasi sempre più importanti di grandi iniziative \ |STYLE44|\ .
 
 
 .. admonition:: Raccomandazione 3.5d - Legare lo sviluppo di policy e disciplinari ad attività propedeutiche di sensibilizzazione sui rischi connessi al mancato rispetto delle regole
 
-    L’esigenza di sviluppare policy e disciplinari per dare regole chiare agli utenti interni si scontra con comportamenti diffusi che portano al mancato rispetto di tale regole, o nei casi più gravi, nella totale ignoranza della loro stessa esistenza.
-    L’esperienza insegna che le policy vengono effettivamente osservate laddove, a monte della loro pubblicazione, si sia fatta adeguata sensibilizzazione sulla gravità di determinati rischi e sulle relative conseguenze in termini di responsabilità individuale, evidenziando come quelle policy, se opportunamente adottate, rappresentino una risposta sia in termini di risoluzione del problema, sia in termini di tutela per l’utente stesso. 
+    L’esigenza di sviluppare policy e disciplinari per dare regole chiare agli utenti interni si scontra spesso con comportamenti diffusi che portano al mancato rispetto di tale regole, o nei casi più gravi, nella totale ignoranza della loro stessa esistenza.
+    L’esperienza insegna che le policy vengono effettivamente osservate laddove, a monte della loro pubblicazione, si sia fatta adeguata \ |STYLE45|\  sulla gravità di determinati rischi e sulle relative conseguenze in termini di responsabilità individuale, evidenziando come quelle policy, se opportunamente adottate, rappresentino una risposta sia in termini di risoluzione del problema, sia in termini di tutela per l’utente stesso. 
 
 |
 
@@ -336,18 +335,14 @@ Occorre quindi costruire e promuovere un cambiamento culturale che – al di là
 Sicurezza applicativa e della filiera del software
 ==================================================
 
-.. _h6c662496302b2a32a54707c281e7b:
-
-Storicamente sottovalutata come area su cui operare per mitigare appropriatamente il rischio cyber, la sicurezza applicativa rappresenta un aspetto critico su cui concentrarsi anche in ambito pubblico. Un primo passo in tal senso è stato fatto con l’approvazione da parte di AgID delle \ |LINK20|\ . Tuttavia, molto c’è ancora da fare per abilitare processi di gestione dei fornitori da un punto di vista cyber security, acquisizione e sviluppo dei prodotti che possano misurare anticipatamente la sicurezza del proprio portafoglio applicativo.
-================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
+Storicamente sottovalutata come area su cui operare, la sicurezza applicativa rappresenta un aspetto critico su cui concentrarsi anche in ambito pubblico. Un primo passo in tal senso è stato fatto con l’approvazione da parte di AgID delle \ |LINK20|\ . Tuttavia, molto c’è ancora da fare per abilitare processi di gestione dei fornitori da un punto di vista \ |STYLE46|\ , acquisizione e sviluppo dei prodotti che possano misurare anticipatamente la sicurezza del proprio portafoglio applicativo.
 
 .. admonition:: Raccomandazione 3.5e - Condizionare la possibilità di essere fornitori della PA al rispetto di modelli di sviluppo certificati in grado di produrre software sicuro e di alta qualità
 
-    La sicurezza applicativa passa necessariamente da una migliore politica di \ |STYLE44|\ .
-    Molto spesso, la sicurezza non viene considerata adeguatamente in sede di scrittura dei capitolati (tempi e budget non adeguati, ad es. per eseguire \ |STYLE45|\  e agire in caso di rilevazione di problemi) né nella fase di gestione del contratto (es. difetti di fabbricazione scoperti ex post non coperti da garanzia, ma soggetti a nuovi preventivi).
+    La sicurezza applicativa passa necessariamente da una migliore politica di \ |STYLE47|\ .
+    Molto spesso, la sicurezza non viene considerata adeguatamente in sede di scrittura dei capitolati (tempi e budget non adeguati, ad es. per eseguire \ |STYLE48|\  e agire in caso di rilevazione di problemi) né nella fase di gestione del contratto (es. difetti di fabbricazione scoperti ex post non coperti da garanzia, ma soggetti a nuovi preventivi).
     L’importanza dei test è in alcuni casi sottovalutata, con enti che chiedono al proprio fornitore di farne a meno a fronte di uno sconto sul costo della fornitura, non comprendendo che il rischio legato a una vulnerabilità può risultare molto più costoso.
-    Sviluppare in maniera sicura vuol dire trasformare \ |STYLE46|\  e \ |STYLE47|\  in semplici formalità, che riporterebbero tuttalpiù il fisiologico 1-2% di problemi. È quindi necessario un maggiore sforzo da parte di vendor in termini di attenzione alla qualità dei prodotti software per la PA. Sarebbe opportuno richiedere ai propri fornitori l’utilizzo di modelli di sviluppo del software in grado di produrre codice sicuro, facendo del rispetto di cicli di sviluppo certificati una precondizione necessaria a lavorare per la PA.
+    Sviluppare in maniera sicura vuol dire trasformare \ |STYLE49|\  e \ |STYLE50|\  in semplici formalità, che riporterebbero tuttalpiù il fisiologico 1-2% di problemi. È quindi necessario un maggiore sforzo da parte di vendor in termini di attenzione alla qualità dei prodotti software per la PA. Sarebbe opportuno richiedere ai propri fornitori l’utilizzo di modelli di sviluppo del software in grado di produrre codice sicuro, facendo del rispetto di cicli di sviluppo certificati una precondizione necessaria a lavorare per la PA.
 
 |
 
@@ -356,14 +351,14 @@ Storicamente sottovalutata come area su cui operare per mitigare appropriatament
 3.6 Dati pubblici
 *****************
 
-[...]
+I dati rappresentano la materia prima dell’economia digitale. La pubblica amministrazione è il soggetto che produce e utilizza la più grande quantità di dati, dati che se aperti alla collettività svelano tutto il loro potenziale di acceleratori di sviluppo e di crescita. La liberazione e valorizzazione dei dati pubblici rappresenta inoltre uno strumento chiave attraverso cui attuare in pieno l’approccio dell’\ |STYLE51|\  e mettere in pratica i principi di trasparenza, \ |STYLE52|\ , partecipazione e collaborazione.
 
 .. _h104c167e25261f631fb543a6979331c:
 
 Open Data
 =========
 
-Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK21|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK22|\ : l’Italia si posiziona tra i “trendsetter”, ossia i Paesi più avanti rispetto a \ |STYLE48|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE49|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
+Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK21|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK22|\ : l’Italia si posiziona tra i \ |STYLE53|\ , ossia i Paesi più avanti rispetto a \ |STYLE54|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE55|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
 
 Questo passo in avanti è da attribuire al modello di gestione dei dati delineati dal \ |LINK23|\  che riconosce negli Open Data una delle leve fondamentali nel processo di trasformazione in atto, che non può prescindere da trasparenza e circolazione di informazioni riutilizzabili. Tra gli elementi delle \ |LINK24|\ , il Piano mette in evidenza infatti il rilascio di dati pubblici secondo il paradigma dell’Open Data e loro riutilizzo, agendo sull’individuazione di basi di dati chiave di particolare interesse per la collettività da liberare, e indicando come strumento di lavoro un paniere dinamico dei dataset.
 
@@ -372,68 +367,56 @@ Questo passo in avanti è da attribuire al modello di gestione dei dati delineat
 Nel tentativo di un sempre crescente coordinamento nazionale, attuando i principi di trasparenza e accountability, anche il portale dati.gov.it rafforza la propria centralità. Il monitoraggio dei progetti di trasformazione digitale conferma per gli \ |LINK25|\  ritmi di avanzamento in progressiva crescita: 387 Amministrazioni pubblicano 20.387 dataset, superando i target di dataset posto a 15.000 per il 2018 (dati al 30.04.2018).
 
 
-.. admonition:: Raccomandazione 3.6a - Definire un modello di business chiaro e strategico legato alla liberazione e al riuso degli Open data pubblici
+.. admonition:: Raccomandazione 3.6a - Definire un modello di business chiaro e strategico legato alla liberazione e al riuso degli Open Data pubblici
 
-    Emerge forte la necessità di spostare il focus dalla trasparenza alla capacità dell’Open Government Data di generare servizi e business. Per fare questo è necessario in primo luogo ripensare alcune situazioni presenti oggi in Italia che limitano la potenzialità degli Open Data di agire quale asset che essi realmente sono.
-    Tale asset andrebbe ceduto dalla PA, in cambio di applicazioni che la PA non è in grado di sviluppare da sola usando i dati a sua disposizione. Per fare ciò è necessario lavorare e operare per generare servizi e business a partire dai dati aperti. La PA perderebbe introiti diretti ma il volume di business che tale operazione sarebbe in grado di liberare e che tornerebbe, come introiti indiretti, è molto maggiore.  
-    Da questo punto di vista si rendono sempre più necessari sia l’apertura di dati pubblici di alto valore commerciale che la collaborazione con creativi, soggetti competenti, università e start up.
-    La riflessione però si sposta oltre, ad un livello più alto che è quello di un modello di business chiaro e di alto valore strategico. Una volta definito questo, interventi come il DAF diventano tecnicismi necessari di una strategia più complessiva.
+    Si rendono sempre più necessari sia l’apertura di dati pubblici di alto valore commerciale che la collaborazione con creativi, soggetti competenti, università e startup. Una volta definito questo, interventi come il DAF diventano tecnicismi necessari di una strategia più complessiva.
     Da questo punto di vista le proposte sono diverse. Tra queste quella di creare un organismo a partecipazione pubblico-privata e che riconosca nei privati che utilizzano i dati pubblici e che ne fanno profitto i soggetti con cui individuare modelli di business e proposte di soluzioni e prodotti da sviluppare con i dati liberati.
-    All’interno di queste riflessioni si colloca anche quella sul compenso economico alla PA a seguito della liberazione dei dati a sua disposizione. I modelli possibili sono diversi, da quello che fissa delle soglie quantitative di accesso gratuito ai dataset oltre le quali si stabiliscono delle commissioni, a quello che distingue le tipologie di soggetti che possono accedere ai dataset gratuitamente da quelli che devono pagare una \ |STYLE50|\ .
+    All’interno di queste riflessioni si colloca anche quella sul compenso economico alla PA a seguito della liberazione dei dati a sua disposizione. I modelli possibili sono diversi, da quello che fissa delle soglie quantitative di accesso gratuito ai dataset oltre le quali si stabiliscono delle commissioni, a quello che distingue le tipologie di soggetti che possono accedere ai dataset gratuitamente da quelli che devono pagare una \ |STYLE56|\ .
 
 
 .. admonition:: Raccomandazione 3.6b - Accrescere la liberazione di i dati di interesse e ad alto impatto
 
-    I dati della PA sono interessanti, attirano l’attenzione da parte della collettività? Come fare per renderli attraenti?
-    Il processo di liberazione dei dati deve essere sicuramente Demand Driven, cioè deve puntare ad individuare le priorità di rilascio di dati di particolare interesse pubblico e ad alto impatto dal punto di vista sociale ed economico.
-    I momenti di confronto e incontro tra Amministrazioni e stakeholder rappresentano da questo punto di vista delle occasioni importanti di verifica delle esigenze di dati da parte del territorio e di mappatura dei dataset immediatamente “liberabili” oltre che di collaborazione nelle fasi di apertura e valorizzazione.
-    L’approccio Demand Drive e la necessità di comprendere realmente e a monte il potenziale di riuso di dati da liberare non devono però essere però un alibi per arrestare i processi di apertura e di facilitazione delle pratiche di riuso.
+    Il processo di liberazione dei dati deve essere \ |STYLE57|\ , cioè deve puntare ad individuare le priorità di rilascio di dati di particolare interesse pubblico e ad alto impatto dal punto di vista sociale ed economico.
+    I momenti di confronto e incontro tra amministrazioni e \ |STYLE58|\  rappresentano da questo punto di vista delle occasioni importanti di verifica delle esigenze di dati da parte del territorio e di mappatura dei dataset immediatamente “liberabili” oltre che di collaborazione nelle fasi di apertura e valorizzazione.
+    L’approccio \ |STYLE59|\  e la necessità di comprendere realmente e a monte il potenziale di riuso di dati da liberare non devono però essere però un alibi per arrestare i processi di apertura e di facilitazione delle pratiche di riuso.
 
 
 .. admonition:: Raccomandazione 3.6c - Attivare un monitoraggio continuo dell’impatto del valore economico e sociale dei dati liberati
 
-    Per sviluppare e fare cultura sul concetto di dati ad alto valore commerciale, gli studi di impatto assumono un ruolo fondamentale.
-    Il monitoraggio dell’impatto dal punto di vista economico e sociale dei dataset liberati deve essere parte integrante del processo di apertura. I benefici e l’impatto degli open data a livello economico e sociale risultato ancora poco conosciuti e soprattutto ancora difficili da misurare. Quello che emerge dagli studi presenti è un ecosistema ancora in via di sviluppo.
-    L’aspetto del monitoraggio è fondamentale sia dal punto di vista dell’analisi dell’offerta di open data che di domanda. I dati infatti vengono liberati, ma non conosciamo chi li riutilizza. La misurazione dell’effettivo riuso e la conoscenza della platea di riutilizzatori sono dimensioni fondamentali del monitoraggio.
+    Gli studi di impatto assumono un ruolo fondamentale. Il monitoraggio dell’impatto dal punto di vista economico e sociale dei dataset liberati deve essere parte integrante del processo di apertura. I benefici e l’impatto degli Open Data a livello economico e sociale risultato ancora poco conosciuti e soprattutto ancora difficili da misurare. Quello che emerge dagli studi presenti è un ecosistema ancora in via di sviluppo.
+    L’aspetto del monitoraggio è fondamentale sia dal punto di vista dell’analisi dell’offerta di Open Data che di domanda. I dati infatti vengono liberati, ma non conosciamo chi li riutilizza. La misurazione dell’effettivo riuso e la conoscenza della platea di riutilizzatori sono dimensioni fondamentali del monitoraggio.
 
 
 .. admonition:: Raccomandazione 3.6d - Razionalizzare il sistema normativo per far sì che l’Open Data attraversi tutti i settori della PA in grado di produrre dati e generare informazioni
 
-    Se da una parte si evince la necessità di andare oltre la liberazione degli Open Data come mero adempimento rispetto alle norme della trasparenza, di affrancare gli open data dai meri aspetti normativi (contenuti per esempio nel CAD o nel Codice Appalti), dall’altra parte appare sempre più necessario collegare il processo di apertura a procedure e impianti regolatori esterni alle norme sulla produzione degli open data.
-    È necessario incidere per esempio sulle norme di settore (edilizia, attività produttive, ecc…) affinché il processo digitale e all’interno di questo la liberazione degli open data attraversino verticalmente i settori della PA in grado di mettere a disposizioni dati e produrre informazioni.
-    Questo permette di affermare il concetto di open data by design (oltre il concetto di Open Data \ |STYLE51|\ ).
+    È necessario incidere sulle norme di settore (edilizia, attività produttive, ecc…) affinché il processo digitale e all’interno di questo la liberazione degli Open Data attraversino verticalmente i settori della PA in grado di mettere a disposizioni dati e produrre informazioni.
+    Questo permette di affermare il concetto di Open Data \ |STYLE60|\  (oltre il concetto di Open Data \ |STYLE61|\ ).
 
 
 .. admonition:: Raccomandazione 3.6e - Puntare sulla qualità, e non sulla quantità dei dataset da pubblicare
 
-    La liberazione di dataset da parte della PA non può e non deve più essere guidata dalla logica dell’adempimento alle norme in materia di trasparenza. Tale logica ha portato spesso ad una pratica di rilascio in open data di grandi quantità di dataset a scapito di verifiche di qualità.
-    La verifica della qualità dei dataset può scaturire spesso anche dai meccanismi di collaborazione tra PA e società civile attiva nel riuso dei dati. L’innesco di meccanismi virtuali di coinvolgimento e monitoraggio/valutazione della qualità dei dataset pubblicati è senz’altro un vantaggio.
-    La qualità del dato e sua disponibilità (\ |STYLE52|\  e non \ |STYLE53|\ ) sono infine strettamente collegati per garantire un processo di liberazione realmente efficace e utile.
+    L’innesco di meccanismi virtuali di coinvolgimento e monitoraggio/valutazione della qualità dei dataset pubblicati è senz’altro un vantaggio.
+    La qualità del dato e sua disponibilità (\ |STYLE62|\  e non \ |STYLE63|\ ) sono infine strettamente collegati per garantire un processo di liberazione realmente efficace e utile.
 
 
 .. admonition:: Raccomandazione 3.6f - Investire in formazione su Open Data a tutti i livelli per sviluppare una cultura del dato e delle opportunità connesse alla liberazione
 
     La formazione in materia di Open Data è sicuramente uno degli elementi chiave per la creazione un contesto favorevole alla pratica del riuso degli open data ma anche e, per alcuni versi, soprattutto sviluppare conoscenze e competenze necessarie per portare avanti i processi di liberazione e valorizzazione del patrimonio informativo pubblico.
     Formazione e accompagnamento sono quindi necessarie all’interno della PA tra gli operatori e le persone che sono coinvolte nel processo di apertura affinché sviluppino conoscenze e competenze di base, tecniche e approfondimenti In questo caso l’operazione può collocarsi anche a monte del processo di selezione dei corsi-concorsi, attraverso l’inserimento di moduli formativi specifici dedicati al tema dei dati aperti.
-    Nella società civile, già a partire dalle Scuole Secondarie e dalle Università, la formazione è finalizzata a far conoscere i concetti legati al valore del dato e alle opportunità che sono collegate agli open data.
 
 
 .. admonition:: Raccomandazione 3.6g - Definire un modello di governance del dato e progettare automatismi organizzativi e tecnologici
 
     Quello che si configura come sempre più necessario è la definizione di un adeguato modello di governance del dato interno all’amministrazione. Bisognerebbe da questo punto di vista definire un modello a partire dalle buone pratiche italiane e straniere.
-    La data governance deve avvalersi sempre più dello sviluppo di automatismi, rispetto ai quali emerge una sempre maggiore necessità di vincoli tecnologici da una parte che orientino in maniera uniforme il lavoro ma anche di una maggiore usabilità degli stessi così da incoraggiarne gli utilizzatori.
-    La data governance va collegata anche all’inserimento dei processi di apertura degli open data della valutazione dirigenziale.
+    La \ |STYLE64|\  deve avvalersi sempre più dello sviluppo di automatismi, rispetto ai quali emerge una sempre maggiore necessità di vincoli tecnologici da una parte che orientino in maniera uniforme il lavoro ma anche di una maggiore usabilità degli stessi così da incoraggiarne gli utilizzatori.
+    La \ |STYLE65|\  va collegata anche all’inserimento dei processi di apertura degli open data della valutazione dirigenziale.
     Si deve lavorare progressivamente verso un’ingegnerizzazione delle procedure, del metodo e del consolidamento di strutture organizzative incaricate dei processi open data.
 
 
 .. admonition:: Raccomandazione 3.6h - Promuovere un coordinamento nazionale delle iniziative locali e investire in innovazione
 
-    Quello che si configura come sempre più necessario è la definizione di un adeguato modello di governance del dato interno all’amministrazione. Bisognerebbe da questo punto di vista definire un modello a partire dalle buone pratiche italiane e straniere.
-    La data governance deve avvalersi sempre più dello sviluppo di automatismi, rispetto ai quali emerge una sempre maggiore necessità di vincoli tecnologici da una parte che orientino in maniera uniforme il lavoro ma anche di una maggiore usabilità degli stessi così da incoraggiarne gli utilizzatori.
-    La data governance va collegata anche all’inserimento dei processi di apertura degli open data della valutazione dirigenziale.
-    Si deve lavorare progressivamente verso un’ingegnerizzazione delle procedure, del metodo e del consolidamento di strutture organizzative incaricate dei processi open data.
-    Non si può più fare a meno di una vision nazionale e unitaria in materia di Open Data. L’opportunità di un salto più in alto nel coordinamento di tutte le iniziative locali a livello nazionale viene evidenziata peraltro nell’\ |LINK26|\  all’interno del rapporto \ |LINK27|\ . Adesso bisogna fare sistema.
-    Da questo punto di vista, l’azione del Data Analytics Framework già si muove in questa direzione. Per i prossimi passi, bisogna insistere sull’apertura delle basi dati chiave, ovvero dataset di particolare interesse perché in grado di rappresentare i fenomeni “in maniera standardizzata a livello nazionale e la cui disponibilità secondo il paradigma dell’open data assume pertanto rilevanza nazionale”\ [#F6]_\ .
+    Non si può più fare a meno di una visione nazionale e unitaria in materia di Open Data. L’opportunità di un salto più in alto nel coordinamento di tutte le iniziative locali a livello nazionale viene evidenziata peraltro nell’\ |LINK26|\  all’interno del rapporto \ |LINK27|\ . Adesso bisogna fare sistema.
+    Da questo punto di vista, l’azione del Data Analytics Framework già si muove in questa direzione. Per i prossimi passi, bisogna insistere sull’apertura delle basi dati chiave, ovvero dataset di particolare interesse perché in grado di rappresentare i fenomeni “in maniera standardizzata a livello nazionale e la cui disponibilità secondo il paradigma dell’open data assume pertanto rilevanza nazionale”\ [#F7]_\ .
     In ultimo, è necessario prendere consapevolezza che il processo di apertura dei dati rappresenta ad oggi ancora un costo per la PA: per fare formazione e per immettere in organico competenze adeguate, per cambiare i processi, per fare cultura e per facilitare le realtà private che possano usare i dati sono necessari investimenti. 
 
 .. _h18245b3727255245e563613d62157:
@@ -473,7 +456,7 @@ Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più 
 .. admonition:: Raccomandazione 3.7b - Sfruttare la tecnologia blockchain nello sviluppo dei servizi rivolti al cittadino e al sistema economico, soprattutto quelli di carattere transnazionale
 
     La tecnologia blockchain consente di sviluppare soluzioni sicure e trasparenti, molto utili ed efficaci nei casi in cui si debba garantire una equidistanza e un ruolo di garanzia (“trust”) nelle transazioni e nelle registrazioni. Investire in questa tecnologia, per i contesti idonei e in cui risulta più efficace, consentirebbe di migliorare alcuni servizi e di fornire quelle garanzie di sicurezza a cui i cittadini e le istituzioni stanno prestando sempre maggiore attenzione.
-    In alcuni casi la logica dei \ |STYLE54|\  può davvero svolgere un ruolo rivoluzionario nel ripensare le logiche di funzionamento degli archivi e della registrazione delle transazioni. Si tratta di un’opportunità che non può essere persa e che va condivisa a livello europeo e internazionale perché spesso la blockchain è utile proprio nei casi di transazioni internazionali.
+    In alcuni casi la logica dei \ |STYLE66|\  può davvero svolgere un ruolo rivoluzionario nel ripensare le logiche di funzionamento degli archivi e della registrazione delle transazioni. Si tratta di un’opportunità che non può essere persa e che va condivisa a livello europeo e internazionale perché spesso la blockchain è utile proprio nei casi di transazioni internazionali.
     Per fare questo si deve investire in competenze e formazione, favorendo lo sviluppo di iniziative di ricerca, sperimentazione e educazione. E’ necessario favorire il riconoscimento del tema e delle competenze a questo legate, come pure la collaborazione pubblico-privata in iniziative congiunte di sperimentazione e imprenditorialità.
     In questo caso la PA svolge un ruolo di regia e coordinamento: è cruciale la disponibilità e la partecipazione alla costruzione di piattaforme e protocolli condivisi nonché il contributo attivo delle agenzie pubbliche che operano nel settore.
 
@@ -482,7 +465,14 @@ Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più 
 Intelligenza Artificiale
 ========================
 
-[...]
+L’Intelligenza Artificiale (IA) è un paradigma che va sempre più diffondendosi dentro le aziende in quanto fattore tecnologico incredibilmente abilitante, in grado di sollevare le persone dai compiti più semplici per ricollocarle su task dal valore più alto. Oltre che all’interno delle aziende, esistono già diverse applicazioni di questa tecnologia nei sistemi pubblici, come quello scolastico o giudiziario, ma anche nel pubblico impiego o nel sistema sanitario, nella sicurezza o nella gestione delle relazioni coi cittadini. Gli ambiti sono dunque molteplici anche all’interno della PA, che tuttavia non può non tener conto di vizi e criticità portate da una tecnologia così complessa. Su questa consapevolezza si sta muovendo anche l’Agid, che lo scorso settembre ha lanciato una \ |LINK29|\ , che a sua volta ha dato vita a un \ |LINK30|\ , un documento finalizzato a stimolare una riflessione condivisa con gli enti che porti poi alla realizzazione di una vera strategia italiana.
+
+Lo sviluppo di tale strategia non potrà prescindere da alcuni elementi 
+
+L’Italia non è dunque all’anno zero, come testimoniato anche da alcuni esempi che raccontano di una PA viva e curiosa. Per accelerare sullo sviluppo di servizi 4.0, c’è bisogno di una programmazione e di una pianificazione precisa per non disperdere tempo e risorse. Ma la vera sfida si gioca sul fronte etico e sulla necessità di  orientare l’intelligenza artificiale affinché diventi strumento di uguaglianza e crescita sostenibile. 
+
+RACCOMANDAZIONI?
+
 
 .. bottom of content
 
@@ -559,43 +549,67 @@ Intelligenza Artificiale
 
 .. |STYLE35| replace:: **Poli Strategici Nazionali**
 
-.. |STYLE36| replace:: **Regole tecniche per la sicurezza ICT delle PA**
+.. |STYLE36| replace:: *digital security*
 
-.. |STYLE37| replace:: *Security Operation Center*
+.. |STYLE37| replace:: **Regole tecniche per la sicurezza ICT delle PA**
 
-.. |STYLE38| replace:: *Computer Emergency Response Team*
+.. |STYLE38| replace:: *Security Operation Center*
 
-.. |STYLE39| replace:: *compliance*
+.. |STYLE39| replace:: *Computer Emergency Response Team*
 
-.. |STYLE40| replace:: *e-learning*
+.. |STYLE40| replace:: *compliance*
 
-.. |STYLE41| replace:: *phishing*
+.. |STYLE41| replace:: *e-learning*
 
-.. |STYLE42| replace:: **continuità**
+.. |STYLE42| replace:: *phishing*
 
-.. |STYLE43| replace:: *una tantum*
+.. |STYLE43| replace:: **continuità**
 
-.. |STYLE44| replace:: *vendor management*
+.. |STYLE44| replace:: *una tantum*
 
-.. |STYLE45| replace:: *penetration test*
+.. |STYLE45| replace:: **sensibilizzazione**
 
-.. |STYLE46| replace:: *vulnerability assessment*
+.. |STYLE46| replace:: *cyber security*
 
-.. |STYLE47| replace:: *penetration test*
+.. |STYLE47| replace:: *vendor management*
 
-.. |STYLE48| replace:: *Open Data Readiness*
+.. |STYLE48| replace:: *penetration test*
 
-.. |STYLE49| replace:: *Portal Maturity*
+.. |STYLE49| replace:: *vulnerability assessment*
 
-.. |STYLE50| replace:: *fee*
+.. |STYLE50| replace:: *penetration test*
 
-.. |STYLE51| replace:: *by default*
+.. |STYLE51| replace:: *Open Government*
 
-.. |STYLE52| replace:: *data as a service*
+.. |STYLE52| replace:: *accountability*
 
-.. |STYLE53| replace:: *data on demand*
+.. |STYLE53| replace:: *trendsetter*
 
-.. |STYLE54| replace:: *Distributed Ledger*
+.. |STYLE54| replace:: *Open Data Readiness*
+
+.. |STYLE55| replace:: *Portal Maturity*
+
+.. |STYLE56| replace:: *fee*
+
+.. |STYLE57| replace:: *Demand Driven*
+
+.. |STYLE58| replace:: *stakeholder*
+
+.. |STYLE59| replace:: *Demand Drive*
+
+.. |STYLE60| replace:: *by design*
+
+.. |STYLE61| replace:: *by default*
+
+.. |STYLE62| replace:: *data as a service*
+
+.. |STYLE63| replace:: *data on demand*
+
+.. |STYLE64| replace:: *data governance*
+
+.. |STYLE65| replace:: *data governance*
+
+.. |STYLE66| replace:: *Distributed Ledger*
 
 
 .. |LINK1| raw:: html
@@ -688,7 +702,7 @@ Intelligenza Artificiale
 
 .. |LINK23| raw:: html
 
-    <a href="https://pianotriennale-ict.italia.it/" target="_blank">Piano triennale per l’informatica nella Pubblica Amministrazione 2017-2019</a>
+    <a href="https://pianotriennale-ict.italia.it/" target="_blank">Piano triennale per l’informatica nella pubblica amministrazione 2017-2019</a>
 
 .. |LINK24| raw:: html
 
@@ -710,6 +724,14 @@ Intelligenza Artificiale
 
     <a href="https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership" target="_blank">European Blockchain Partnership</a>
 
+.. |LINK29| raw:: html
+
+    <a href="https://ia.italia.it/" target="_blank">Task force sull’Intelligenza Artificiale</a>
+
+.. |LINK30| raw:: html
+
+    <a href="https://ia.italia.it/assets/librobianco.pdf" target="_blank">Libro bianco sul tema</a>
+
 
 
 .. rubric:: Footnotes
@@ -719,7 +741,8 @@ Intelligenza Artificiale
 .. [#f3]  Qui il  `dossier di commento di FPA del settembre 2016 <http://www.forumpa.it/speciale-cad-inizia-la-fase-attuativa-lanalisi-di-fpa-e-dei-nostri-esperti>`__ 
 .. [#f4]  La definizione di questo indicatore è stata modificata. Nel 2017, questa voce misurava la percentuale di utenti di servizi di eGov sul totale di utilizzatori di Internet. Il nuovo indicatore definisce invece gli utenti eGovernment come la percentuale degli utenti Internet tenuti a presentare moduli alla pubblica amministrazione.
 .. [#f5]  10 milioni di utenti previsti per la fine del 2017 dal  `Primo Rapporto di monitoraggio sull’Agenda per la semplificazione <http://www.italiasemplice.gov.it/media/2161/agendasemplificazione_report3042015.pdf>`__  di aprile 2015.
-.. [#f6]  Cit. AgID
+.. [#f6]  Linee guida del modello architetturale di gestione dei servizi critici che le Regole tecniche per la sicurezza ICT delle PA
+.. [#f7]  Cit. AgID
 
 .. |IMG1| image:: static/3-trasformazione-digitale_1.png
    :height: 365 px
