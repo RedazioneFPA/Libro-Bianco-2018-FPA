@@ -20,6 +20,8 @@ Chi siamo, cosa facciamo
     * Paola Musolino (Redazione FPA)
     
     * Michela Stentella (Redazione FPA)
+    
+    * Eleonora Bove (Redazione FPA)
     \ |STYLE1|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
