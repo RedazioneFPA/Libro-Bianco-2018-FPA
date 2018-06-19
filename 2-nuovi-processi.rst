@@ -198,6 +198,8 @@ Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amminist
 
 Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, \ |STYLE24|\ . Siamo in un reale ibrido, dove il digitale è solo una parte del tangibile\ [#F1]_\ . 
 
+|
+
 .. _h13124ee2d297352232d2f4513352431:
 
 Nuove forme di attivismo civico
