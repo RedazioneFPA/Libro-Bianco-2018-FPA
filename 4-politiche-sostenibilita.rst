@@ -81,49 +81,60 @@ Procurement pubblico/privato
 4.3 Città e territori
 *********************
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’\ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE7|\ .
+
+Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE8|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE9|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
+
+.. _he3f663b217b472a24111e1d6e16859:
+
+Coordinamento centro-periferia 
+===============================
+
+Un passaggio necessario è quello di ripensare l’agenda delle priorità della politica pubblica nazionale, dedicando più attenzione al territorio, alle città, ai comuni e alle forme di collaborazione civica e pubblica. In particolare, è necessario che si sostengano i comuni sul piano della programmazione, della progettazione degli interventi e della previsione di politiche ideali di cambiamento, con particolare attenzione alle aree più degradate e alle periferie. 
+
+.. admonition:: Raccomandazione 4.3a - Adottare un’Agenda urbana nazionale che assuma la forma di un patto tra amministrazione centrale e autorità urbane
+
+    L’Agenda urbana nazionale dovrebbe: essere uno strumento concreto attraverso il quale perseguire obiettivi di grande impatto e interesse pubblico e avere al centro i temi della sostenibilità come proposto dall’“\ |LINK3|\ ” elaborata da ASviS, Urban@it e ad ANCI, che individua gli obiettivi che le aree urbane devono raggiungere per attuare la \ |LINK4|\  e le politiche necessarie.
+
+
+.. admonition:: Raccomandazione 4.3b - Individuare un punto di riferimento all’interno dell’amministrazione centrale che abbia il compito di coordinare le politiche per le città e di definire l’Agenda urbana nazionale
+
+    Quest’ultimo punto fa parte dei \ |LINK5|\  che sono stati \ |LINK6|\  del Paese.
+
+
+.. admonition:: Raccomandazione 4.3c - Recuperare e sviluppare l’esperienza del Bando periferie
+
+    Bisogna rendere stabili misure di finanziamento che, ad oggi, sono state straordinarie, andando verso un programma ordinario per le zone maggiormente vulnerabili delle città: un “Piano strategico per le città italiane” di carattere pluriennale. Si deve superare la logica dei bandi, prevedendo un meccanismo di finanziamento continuativo, premessa indispensabile per dare continuità al lavoro di progettualità delle città.
+
+
+.. admonition:: Raccomandazione 4.3d - Costituire una Commissione bicamerale per le città e le periferie, come proposto dalla Commissione d’inchiesta parlamentare sulla condizione delle periferie urbane
+
+    L’obiettivo è passare dalla straordinarietà della Commissione d’inchiesta all’ordinarietà di una Commissione che diventi il luogo dove si esaminano provvedimenti, si acquisiscono pareri, si sviluppano proposte. È un po’ il ruolo che ha la Commissione bicamerale per le questioni regionali, quindi si tratterebbe di affiancare a questo strumento già esistente uno strumento nuovo sul tema delle città e delle periferie.
+
+
+.. admonition:: Raccomandazione 4.3e - Realizzare una Strategia per le aree urbane
+
+    Riprendere la logica della \ |LINK7|\  avviata nel settembre 2012 dall’allora Ministro per la Coesione Territoriale Fabrizio Barca con il supporto di un Comitato Tecnico Aree Interne costituito allo scopo. Obiettivo della Strategia: garantire l'accessibilità a servizi essenziali, quali istruzione, mobilità e sanità, nei territori interni rurali e prevede per ciascuna area-progetto una strategia di sviluppo con una serie di interventi da attuare attraverso un Accordo di Programma Quadro (APQ). Gli interventi previsti dall'APQ sono finanziati a valere sui Fondi europei e sulle risorse stanziate dalla legge di Stabilità.
+
+
+.. admonition:: Raccomandazione 4.3f - Dare seguito al PON Metro, realizzando i progetti approvati
+
+    Mettere in campo tutte le risorse possibili per mantenere gli impegni che le città hanno assunto nei confronti del governo e dell’Europa, quindi usare le misure complementari e i piani di rafforzamento amministrativo per dare sostegno alle città nella spesa, nel dare attuazione ai progetti presentati e approvati.
 
 .. _h363438484644623742c5a16533b4570:
 
 Poteri locali e associazionismo comunale
 ========================================
 
-La legge 27 dicembre 2017, n.205 ha prorogato ancora una volta (fino al 31 dicembre 2018 e siamo all’ottava proroga) i termini entro i quali i comuni con popolazione inferiore ai 5mila abitanti (fino a 3.000 se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, in primis quello della legge Delrio 56/2014. In Italia abbiamo: 15 regioni a statuto ordinario, 5 regioni a statuto speciale, 73 fusioni (soprattutto a nord) che hanno dato luogo alla soppressione di 186 comuni, numero dei comuni sceso a 7.978 di cui circa il 70% con popolazione inferiore a 5 mila abitanti, 538 unioni di comuni, cui aderiscono 3.104 enti, 14 città metropolitane (alle dieci individuate dalla legge Del Rio si sono aggiunte Palermo, Catania, Messina e Cagliari), 96 province, di cui 76 appartenenti alle regioni a statuto ordinario (Dati IFEL e UPI). Insomma, una situazione variegata, in cui ci sono ancora molti nodi irrisolti. Come procedere per mettere ordine nella legislazione riguardante il riordino degli enti locali e rilanciare a livello nazionale l’associazionismo comunale?
-
-\ |STYLE7|\ 
-
-Questo significa: completamento sul piano costituzionale della Riforma Delrio con la riforma delle Province, definizione delle funzioni fondamentali delle città metropolitane e definizione di un quadro certo di finanza all’interno del quale possano esercitare queste funzioni. Insomma, introdurre una disciplina legislativa statale rispettosa dell’autonomia delle regioni, rivolta a riordinare le province come enti di area vasta e a regolare i relativi rapporti con le regioni e i comuni in maniera larga, ma uniforme nel territorio nazionale.
-
-\ |STYLE8|\ 
-
-Abrogare l’obbligo a carico dei comuni di esercitare in forma associata le funzioni fondamentali; adottare politiche differenziate, di semplificazione e di sostegno dei comuni che si associano, tenendo conto delle diverse caratteristiche territoriali, economiche e sociali; privilegiare le Unioni dei comuni e le Fusioni, considerando le prime come un necessario passaggio verso le seconde che costituiscono un obiettivo primario; favorire la volontarietà dell’associazionismo con un processo di coinvolgimento da condurre insieme con le regioni e le nuove province; superare i limiti demografici per la costituzione di gestioni associate e individuare ambiti omogenei di natura economica e sociale, restando prevalente la contiguità territoriale; introdurre robusti meccanismi incentivanti finanziari (e non soltanto) in modo da creare situazioni attrattive di effettiva convenienza.
-
-.. _h6587c303970e627fb402e33337a:
-
-Rapporto centro-periferie
-=========================
-
-Quali strategie e politiche adottare per gli interventi in ambito urbano? Come sviluppare una politica integrata e coordinata sulle città e prevenire la frammentazione delle risorse a loro destinate? Come mettere in campo politiche di sistema e non settoriali all’interno di un quadro strategico nazionale? Un passaggio necessario è quello di ripensare l’agenda delle priorità della politica pubblica nazionale, dedicando più attenzione al territorio, alle città, ai comuni e alle forme di collaborazione civica e pubblica. In particolare, si devono sostenere i Comuni sul piano della programmazione, della progettazione degli interventi e della previsione di politiche ideali di cambiamento, con particolare attenzione alle aree più degradate e alle periferie. Ecco qualche indicazione.
-
-\ |STYLE9|\ 
-
-Questa dovrebbe assumere la forma di un patto tra amministrazione centrale e autorità urbane ed essere uno strumento concreto attraverso il quale perseguire obiettivi di grande impatto e interesse pubblico. Al centro dell’Agenda Urbana e delle politiche per le città dovrebbero esserci i temi della sostenibilità come proposto dall’“Agenda per lo sviluppo urbano sostenibile” elaborata da ASviS, Urban@it e ad ANCI, che individua gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale per lo Sviluppo Sostenibile e le politiche necessarie. Dovrebbe essere individuato un punto di riferimento all’interno dell’amministrazione centrale che abbia il compito di coordinare le politiche per le città e di definire l’Agenda urbana nazionale, anche attraverso la riattivazione del Cipu. Quest’ultimo punto fa parte anche dei \ |LINK1|\  che sono stati \ |LINK2|\  del Paese.
+La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termini entro i quali i comuni con popolazione inferiore ai 5 mila abitanti (fino a 3 mila se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, come quello della \ |LINK9|\ . In Italia abbiamo: 15 regioni a statuto ordinario, 5 regioni a statuto speciale, 73 fusioni (soprattutto a nord) che hanno dato luogo alla soppressione di 186 comuni, numero dei comuni sceso a 7.978 di cui circa il 70% con popolazione inferiore a 5 mila abitanti, 538 unioni di comuni, cui aderiscono 3.104 enti, 14 città metropolitane (alle dieci individuate dalla legge Del Rio si sono aggiunte Palermo, Catania, Messina e Cagliari), 96 province, di cui 76 appartenenti alle regioni a statuto ordinario (Dati IFEL e UPI). Insomma, una situazione variegata, in cui ci sono ancora molti nodi irrisolti. Come procedere per mettere ordine nella legislazione riguardante il riordino degli enti locali e rilanciare a livello nazionale l’associazionismo comunale?
 
 \ |STYLE10|\ 
 
-Bisogna rendere stabili misure di finanziamento che, ad oggi, sono state straordinarie, andando verso un programma ordinario per le zone maggiormente vulnerabili delle città: un “Piano strategico per le città italiane” di carattere pluriennale. Si deve superare la logica dei bandi, prevedendo un meccanismo di finanziamento continuativo, premessa indispensabile per dare continuità al lavoro di progettualità delle città.
+Questo significa: completamento sul piano costituzionale della Riforma Delrio con la riforma delle Province, definizione delle funzioni fondamentali delle città metropolitane e definizione di un quadro certo di finanza all’interno del quale si possano esercitare queste funzioni. Insomma, introdurre una disciplina legislativa statale rispettosa dell’autonomia delle regioni, volta a riordinare le province come enti di area vasta e a regolare i relativi rapporti con le regioni e i comuni in maniera larga ma uniforme nel territorio nazionale.
 
 \ |STYLE11|\ 
 
-L’obiettivo è passare dalla straordinarietà della Commissione d’inchiesta all’ordinarietà di una commissione che diventi il luogo dove si esaminano provvedimenti, si acquisiscono pareri, si sviluppano proposte. È un po’ il ruolo che ha la Commissione bicamerale per le questioni regionali, quindi si tratterebbe di affiancare a questo strumento già esistente uno strumento nuovo sul tema delle città e delle periferie.
-
-\ |STYLE12|\  
-
-Riprendere in ottica urbana la logica della Strategia nazionale per lo sviluppo delle “Aree interne” che mira a garantire l'accessibilità a servizi essenziali, quali istruzione, mobilità e sanità, nei territori interni rurali e prevede per ciascuna area-progetto una strategia di sviluppo con una serie di interventi da attuare attraverso un Accordo di Programma Quadro (APQ).
-
-\ |STYLE13|\ 
-
-Mettere in campo tutte le risorse possibili per mantenere gli impegni che le città hanno assunto nei confronti del governo e dell’Europa, quindi usare le misure complementari e i piani di rafforzamento amministrativo per dare sostegno alle città nella spesa, nel dare attuazione ai progetti presentati e approvati.
+Abrogare l’obbligo a carico dei comuni di esercitare in forma associata le funzioni fondamentali; adottare politiche differenziate, di semplificazione e di sostegno dei comuni che si associano, tenendo conto delle diverse caratteristiche territoriali, economiche e sociali; privilegiare le Unioni dei comuni e le Fusioni, considerando le prime come un necessario passaggio verso le seconde che costituiscono un obiettivo primario; favorire la volontarietà dell’associazionismo con un processo di coinvolgimento da condurre insieme con le regioni e le nuove province; superare i limiti demografici per la costituzione di gestioni associate e individuare ambiti omogenei di natura economica e sociale, mantenendo come prevalente il criterio della contiguità territoriale; introdurre robusti meccanismi incentivanti (finanziari ma non solo) in modo da creare situazioni attrattive di effettiva convenienza.
 
 Piattaforme e servizi per la smart city
 
@@ -131,23 +142,23 @@ Con il procedere della implementazione delle infrastrutture di comunicazione (ba
 
 L’evoluzione di questo percorso dipende dalle relazioni che si instaureranno tra gestori dei servizi, delle reti e dei sensori, amministrazioni locali, cittadini e attori sociali ma un ruolo fondamentale spetta anche al livello nazionale nel promuovere e indirizzare il percorso verso le “città sensibili”. Cosa si dovrebbe fare, quindi, in questa direzione?
 
-\ |STYLE14|\ 
+\ |STYLE12|\ 
 
-È possibile far emergere da queste trasformazioni nuovi strumenti a disposizione dei cittadini per rendere più consapevoli le loro scelte di comportamento e  consumo, più facile e completo l’accesso ai servizi,  più consistente e influente la loro partecipazione civile. Ma queste opportunità non possono essere prerogativa di una minoranza che dispone delle capacità e degli strumenti per sfruttarle.
+È possibile far emergere da queste trasformazioni nuovi strumenti a disposizione dei cittadini per rendere più consapevoli le loro scelte di comportamento e consumo, più facile e completo l’accesso ai servizi, più consistente e influente la loro partecipazione civile. Ma queste opportunità non possono essere prerogativa di una minoranza che dispone delle capacità e degli strumenti per sfruttarle.
 
-\ |STYLE15|\ 
+\ |STYLE13|\ 
 
 Se nei ranghi delle pubbliche amministrazioni non ci sono persone che hanno le competenze per comprendere e valutare la valenza generale di queste trasformazioni ma anche le loro declinazioni operative si crea uno squilibrio, diviene più difficile indirizzare e gestire la trasformazione. La richiesta allora è duplice: dotare le amministrazioni degli strumenti per formare il personale esistente e consentirgli, in deroga ai vari vincoli, di assumere nuove personale dedicato a questo ambito dell’azione pubblica.
 
-\ |STYLE16|\ 
+\ |STYLE14|\ 
 
-Questo sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico- privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, magari finanziati con i risparmi realizzati.
+Questo sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico-privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, magari finanziati con i risparmi realizzati.
 
-\ |STYLE17|\ 
+\ |STYLE15|\ 
 
 Anche questo aspetto sembra richiedere un approfondimento della regolazione, principalmente, ma non esclusivamente, relativamente alle problematiche della privacy.
 
-\ |STYLE18|\ 
+\ |STYLE16|\ 
 
 Questo può tradursi nella elaborazione, possibilmente partecipata, di linea guida nazionali e di sedi di interscambio delle esperienze. Un processo di trasformazione delle reti urbane di questa portata e di questa complessità deve fondarsi sull’iniziativa locale, sulla capacità delle singole amministrazioni di individuare necessità e priorità, ma va inserito in un quadro generale che dia la direzione di marcia e supporti tecnicamente e metodologicamente l’azione locale.
 
@@ -179,23 +190,23 @@ La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefi
 
 Durante la fase di implementazione della strategia sarà necessario prestare particolare attenzione ad alcuni specifici punti di particolare rilevanza.
 
-\ |STYLE19|\ 
+\ |STYLE17|\ 
 
 Tale modello permette di rafforzare la collaborazione tra Istituzioni ed Aziende e la coerenza delle azioni nel medio-lungo termine, condizioni necessarie per consolidare e portare avanti la Strategia nella prossima legislatura. Non bastano tuttavia PA e imprese, il terzo soggetto da coinvolgere sono i cittadini che avranno un ruolo sempre più rilevante nel raggiungimento degli obiettivi grazie al risparmio energetico ed al mutamento delle abitudini di consumo da parte delle famiglie e delle comunità locali.
 
-\ |STYLE20|\ 
+\ |STYLE18|\ 
 
 È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di policy making dello Stato rappresentata da Governo e Parlamento.
 
-\ |STYLE21|\ 
+\ |STYLE19|\ 
 
 Occorre mantenere viva l’attenzione al tema della sostenibilità ambientale, da un lato inserendola in una visione più ampia di sviluppo del Paese legato alla Green economy, dall’altro valutando attentamente l’impatto ambientale delle azioni messe campo su consumo di suolo, qualità dell’aria e delle acque, etc. Sul tema del consumo di suolo, ad esempio, è necessario dotarsi di piani urbanistici coerenti e di una politica di recupero e bonifica dei siti di interesse nazionale che riducano l’occupazione di suolo agricolo.
 
-\ |STYLE22|\  
+\ |STYLE20|\  
 
 Per garantire una ricaduta efficace delle diverse misure è necessario prestare maggiore attenzione al coinvolgimento degli enti locali. Le Amministrazioni locali sono soggetti che contribuiscono in maniera rilevante, positivamente o negativamente, al raggiungimento degli obiettivi. Ambiti come la mobilità e l’efficienza energetica, l’illuminazione pubblica, la riqualificazione di edifici pubblici rientrano a pieno titolo tra le funzioni dei Comuni i quali devono certamente veder potenziati gli strumenti a disposizione, sia in termini di incentivi sia in termini di crescita delle capacità e competenze amministrative in ambito energetico.
 
-\ |STYLE23|\ 
+\ |STYLE21|\ 
 
 Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugli altri Paesi, importando ed esportando effetti rispetto alle altre strategie europee.
 
@@ -214,25 +225,25 @@ Il secondo principio è legato alla fine dello spreco d’uso del prodotto (unus
 
 Il terzo principio è fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, refilling, ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
 
-Un ampio slancio a questa economia è dato dal ruolo svolto dalla Pubblica Amministrazione nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese (target 12.6), nel creare nuove opportunità e pratiche di condivisione.
+Un ampio slancio a questa economia è dato dal ruolo svolto dalla Pubblica Amministrazione nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese (target 12.6), nel creare nuove opportunità e pratiche di condivisione. 
 
-Con il nuovo Codice appalti (D.lgs 50/2016), che conferma quanto previsto dalla L.221/2015, il GPP (Green Public Procurement) è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri ambientali minimi) nelle gare pubbliche. Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di Comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571 -, di accordi internazionali, quale l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
+Con il nuovo Codice appalti (D.lgs 50/2016, art. 34), che conferma quanto previsto dalla L.221/2015, il GPP (Green Public Procurement) è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri ambientali minimi) nelle gare pubbliche. Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di Comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571 -, di accordi internazionali, quale l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
 
 Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui rifiuti, sulle discariche, sugli imballaggi e sui veicoli fuori uso, pensato per combinare ambientalismo e crescita economica.
 
 Affinché si possa creare una vera economia circolare su scala nazionale, il futuro governo nazionale e tutti i governi cittadini dovrebbero:
 
-\ |STYLE24|\  
+\ |STYLE22|\  
 
-Per il nostro Paese il recepimento delle direttive europee comporterà un profondo rinnovamento della normativa sui rifiuti, lo sviluppo di strumenti di eco-design e dei mercati di materie prime e seconde, la cooperazione tra Regioni sul riciclo e sull’ottimizzazione dei rifiuti
+Per il nostro Paese il recepimento delle direttive europee comporterà un profondo rinnovamento della normativa sui rifiuti, lo sviluppo di strumenti di eco-design e dei mercati di materie prime e seconde, la cooperazione tra Regioni sul riciclo e sull’ottimizzazione dei rifiuti, permetterà che qualsiasi persona fisica o giuridica che sviluppi, fabbrichi, trasformi, venda o importi prodotti sia soggetto ad una responsabilità estesa del produttore.
 
-\ |STYLE25|\ : l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
+\ |STYLE23|\ : l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
 
-\ |STYLE26|\  riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
+\ |STYLE24|\  riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
 
-\ |STYLE27|\ , anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
+\ |STYLE25|\ , anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
 
-\ |STYLE28|\ 
+\ |STYLE26|\ 
 Quando si realizzano gare d’appalto è essenziale esplicitare i requisiti CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Manca uno standard CE, serve dunque  impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai Criteri ambientali minimi delle aziende rispondenti ai bandi della Pubblica Amministrazione, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
 
 Facilitazione: un’agenzia interministeriale che crei le connessioni tra tutti i livelli di governo della città, la società civile e l’impresa. 
@@ -265,58 +276,82 @@ Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifat
 
 .. |STYLE6| replace:: **Raccomandazioni: …**
 
-.. |STYLE7| replace:: **Attuare la Riforma Delrio e lavorare a un riordino e a una riforma organica dei poteri locali (Regioni, Province, Comuni)**
+.. |STYLE7| replace:: **riflessione sulla definizione di un’Agenda urbana come strumento di perseguimento degli obiettivi di grande impatto e interesse pubblico**
 
-.. |STYLE8| replace:: **Rilanciare l’associazionismo comunale non come obbligo ma come strumento di governo del territorio e occasione di rilancio e di riforma delle istituzioni**
+.. |STYLE8| replace:: **PON “Città metropolitane 2014 – 2020”**
 
-.. |STYLE9| replace:: **Adottare un’Agenda urbana nazionale**
+.. |STYLE9| replace:: **Bando periferie, il “Bando per il programma straordinario di intervento per la riqualificazione urbana e la sicurezza delle periferie delle città metropolitane e dei comuni capoluogo di provincia”**
 
-.. |STYLE10| replace:: **Riprendere e sviluppare l’esperienza del Bando periferie verso un meccanismo di finanziamento continuativo**
+.. |STYLE10| replace:: **Attuare la Riforma Delrio e lavorare a un riordino e a una riforma organica dei poteri locali (Regioni, Province, Comuni)**
 
-.. |STYLE11| replace:: **Costituire una Commissione bicamerale per le città e le periferie, come proposto dalla Commissione d’inchiesta parlamentare sulla condizione delle periferie urbane**
+.. |STYLE11| replace:: **Rilanciare l’associazionismo comunale non come obbligo ma come strumento di governo del territorio e occasione di riforma delle istituzioni**
 
-.. |STYLE12| replace:: **Realizzare una Strategia nazionale per le aree urbane analoga a quella avviata per le Aree interne**
+.. |STYLE12| replace:: **Alimentare e sviluppare le iniziative per la diffusione della cultura digitale tra la popolazione, a partire dal livello scolastico**
 
-.. |STYLE13| replace:: **Mettere le città nella condizione di attuare i progetti presentati nell’ambito del PON Metro**
+.. |STYLE13| replace:: **Dotare le amministrazioni pubbliche, in primo luogo quelle locali, delle capacità e competenze per governare consapevolmente questi processi**
 
-.. |STYLE14| replace:: **Alimentare e sviluppare le iniziative per la diffusione della cultura digitale tra la popolazione, a partire dal livello scolastico**
+.. |STYLE14| replace:: **Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali**
 
-.. |STYLE15| replace:: **Dotare le amministrazioni pubbliche, in primo luogo quelle locali, delle capacità e competenze per governare consapevolmente questi processi**
+.. |STYLE15| replace:: **Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni**
 
-.. |STYLE16| replace:: **Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali**
+.. |STYLE16| replace:: **Creare un luogo di regia/consultazione a livello centrale cui le amministrazioni locali possano riferirsi per avere supporto nelle loro scelte e nei loro impegni**
 
-.. |STYLE17| replace:: **Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni**
+.. |STYLE17| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppate: dalle norme agli interventi e strumenti attuativi**
 
-.. |STYLE18| replace:: **Creare un luogo di regia/consultazione a livello centrale cui le amministrazioni locali possano riferirsi per avere supporto nelle loro scelte e nei loro impegni**
+.. |STYLE18| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
 
-.. |STYLE19| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppate: dalle norme agli interventi e strumenti attuativi**
+.. |STYLE19| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
 
-.. |STYLE20| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
+.. |STYLE20| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
 
-.. |STYLE21| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
+.. |STYLE21| replace:: **Integrare la SEN nel quadro delle strategie europee**
 
-.. |STYLE22| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
+.. |STYLE22| replace:: **Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.**
 
-.. |STYLE23| replace:: **Integrare la SEN nel quadro delle strategie europee**
+.. |STYLE23| replace:: **Mappare l’esistente**
 
-.. |STYLE24| replace:: **Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.**
+.. |STYLE24| replace:: **Definire i criteri per il passaporto dei materiali:**
 
-.. |STYLE25| replace:: **Mappare l’esistente**
+.. |STYLE25| replace:: **Creare un hotspot nazionale sulla CE e proseguire il lavoro del Ministero dello sviluppo economico e del Ministero dell’Ambiente**
 
-.. |STYLE26| replace:: **Definire i criteri per il passaporto dei materiali:**
-
-.. |STYLE27| replace:: **Creare un hotspot nazionale sulla CE e proseguire il lavoro del Ministero dello sviluppo economico e del Ministero dell’Ambiente**
-
-.. |STYLE28| replace:: **Creare uno standard CE**
+.. |STYLE26| replace:: **Creare uno standard CE**
 
 
 .. |LINK1| raw:: html
 
-    <a href="http://asvis.it/home/46-2589/il-video-appello-di-giovanninibrper-una-legislatura-sostenibile#.WqlRNejOXcs" target="_blank">10 punti di ASviS</a>
+    <a href="http://asvis.it/public/asvis/files/AgendaUrbana.pdf" target="_blank">Strategia Nazionale per lo Sviluppo Sostenibile (SNSvS)</a>
 
 .. |LINK2| raw:: html
 
+    <a href="http://asvis.it/public/asvis/files/AgendaUrbana.pdf" target="_blank">Agenda per lo sviluppo urbano sostenibile</a>
+
+.. |LINK3| raw:: html
+
+    <a href="http://asvis.it/public/asvis/files/AgendaUrbana.pdf" target="_blank">Agenda per lo sviluppo urbano sostenibile</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://www.minambiente.it/pagina/la-strategia-nazionale-lo-sviluppo-sostenibile" target="_blank">Strategia Nazionale per lo Sviluppo Sostenibile</a>
+
+.. |LINK5| raw:: html
+
+    <a href="http://asvis.it/home/46-2589/il-video-appello-di-giovanninibrper-una-legislatura-sostenibile#.WqlRNejOXcs" target="_blank">10 punti di ASviS</a>
+
+.. |LINK6| raw:: html
+
     <a href="http://asvis.it/home/46-2694/ladesione-di-partiti-e-movimenti-allappello-asvis-per-una-legislatura-sostenibile#.WqlRX-jOXct" target="_blank">sottoscritti dalle principali forze politiche</a>
+
+.. |LINK7| raw:: html
+
+    <a href="http://www.agenziacoesione.gov.it/it/arint" target="_blank">Strategia nazionale per lo sviluppo delle “Aree interne”</a>
+
+.. |LINK8| raw:: html
+
+    <a href="http://def.finanze.it/DocTribFrontend/getAttoNormativoDetail.do?ACTION=getArticolo&id=%7b30A3563D-685F-4C90-A0CE-DE89F3CF78EA%7d&codiceOrdinamento=300010001120000&articolo=Articolo%201-com1120" target="_blank">legge 205/2017</a>
+
+.. |LINK9| raw:: html
+
+    <a href="http://www.gazzettaufficiale.it/eli/id/2014/4/7/14G00069/sg" target="_blank">legge Delrio 56/2014</a>
 
 
 .. |IMG1| image:: static/4-politiche-sostenibilita_1.jpeg
