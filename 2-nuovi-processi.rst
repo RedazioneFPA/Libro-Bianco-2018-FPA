@@ -235,6 +235,8 @@ Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (ades
     
     In questo senso, un coordinamento nazionale di quello che è già attivo sui territori  diventa un elemento prioritario nella nuova agenda di governo, che possa fissare degli standard nazionali, limiti di spesa, garanzie di accesso e previsioni di finanziamento regionale, partendo da uno stato dell’arte sulla reale domanda di partecipazione, superando il livello delle linee guida alla consultazione, arrivando a un manuale della partecipazione e dei beni comuni materiali e immateriali (Participation Act). Un primo tentativo su questo punto è stato presentato lo scorso anno in Camera dei Deputati, come una proposta di legge dal titolo “Più democrazia, più sovranità al cittadino”, che ha proposto la modifica di alcuni articoli del TUEL. 
 
+|
+
 .. _h3be61737757456664d543f19564b:
 
 Trasparenza
@@ -260,9 +262,13 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. Presidenza del Consiglio, Ministeri, istituzioni statali e locali, Regioni, Comuni, Camere di Commercio, musei, ospedali e aziende sanitarie, enti culturali e turistici, scuole e università, aziende pubbliche e molte altre strutture con account e profili sui principali social network, con canali pubblici e urp/customer care in chat, con portali e siti web belli per il design e utili per la semplicità di utilizzo. Le esperienze nate di nuova comunicazione cambiano radicalmente i rapporti tra PA e cittadini.
+Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. La PA sembra avviarsi a un rapporto costante con i cittadini e il “servizio” è il primo punto di contatto tra i due soggetti. 
 
-Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico, un "Ufficio comunicazione, stampa e servizi al cittadino" sulla scia di quello proposto dall’Associazione PA Social percorso fatto (con #PASocial
+è quindi sul servizio che si costruisce quella fiducia che purtroppo adesso sta sempre più cominciando a mancare e il DESI, il Digital Economy and Society Index, che è il benchmark della commissione europea per le politiche digitali, vede l'Italia negli ultimi posti per quanto riguarda l’utilizzo dei servizi digitali.
+
+Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico che non possa non prevedere un’interazione molto stretta tra le competenze interne e le risorse specialistiche esterne, tra chi si occupa di comunicazione - social media manager, social media strategist, community organizer -  e coloro che si occupano del digitale - analista dei dati, esperti di monitoraggio ex post, visual design.
+
+Le vecchie divisioni non servono più 
 
 |
 
@@ -279,6 +285,8 @@ Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani con
 
 * l’articolo 40-ter del \ |LINK12|\  “Sistema di ricerca documentale”, finalizzato a sperimentare un sistema “volto a facilitare la ricerca dei documenti soggetti a registrazione di protocollo” e “dei fascicoli dei procedimenti”.
 
+|
+
 .. _h156b2369601250c4d2a4e4f7254a37:
 
 Conservazione
@@ -289,6 +297,8 @@ La conservazione digitale è stata in questi anni al centro di molte iniziative 
 .. admonition:: Raccomandazione 2.5a - Definire con maggior chiarezza i modelli organizzativi dell’archiviazione
 
     In particolare va definito il modello organizzativo che riguarda l’archiviazione e la conservazione a norma, su cui il Piano Triennale è intervenuto riconoscendo il ruolo dell’Archivio centrale dello Stato, ma lasciando parzialmente irrisolto il sistema delle responsabilità istituzionali in tema di vigilanza e la complessità di gestione degli archivi ibridi.
+
+|
 
 .. _h847175f3ab4b793b4368515b35b70:
 
@@ -301,10 +311,7 @@ La questione delle piattaforme è un problema di qualità in relazione sia a que
 
     Gli strumenti di controllo devono individuare, in maniera ragionata, requisiti funzionali anche in riferimento alla concreta gestione di soluzioni di riuso. Servono check-list per definire i requisiti obbligatori e misurarne il rispetto nei prodotti di mercato. 
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h717a41234d77216e31375b1b397e048:
 
@@ -336,6 +343,8 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 
 Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK13|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK14|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
 
+|
+
 .. _h46254f74f6b37750603e296a675734:
 
 Qualificazione stazioni appaltanti
@@ -347,10 +356,7 @@ Uno dei pilastri del Nuovo Codice, forse il più importante, è costituito dalla
 
     La qualificazione delle stazioni appaltanti avrebbe dovuto rappresentare la vera chiave di volta del sistema, ma che è ancora di là da venire e, comunque, difficilmente potrà essere efficacemente realizzata in carenza di adeguati investimenti che non sembrano essere stati previsti.
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h156876146c216d117b56377de57c5f:
 
@@ -363,6 +369,8 @@ Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli asp
 
     Occorre incoraggiare (e anche formare) le stazioni appaltanti nell’individuare criteri di valutazione delle offerte che realmente privilegino aspetti qualitativamente rilevanti ed effettivamente necessari, in modo che l’individuazione dell’offerta economicamente più vantaggiosa sulla base del miglior rapporto qualità prezzo non resti un mero esercizio di stile.
 
+|
+
 .. _h3d2231792332f56687a7544693a25:
 
 Analisi della spesa
@@ -374,10 +382,7 @@ Si è fatta forte l’esigenza di un monitoraggio costante dell’andamento  del
 
     Puntare sull’innovazione, ovvero su moderne soluzioni oggi disponibili sul mercato, come strumento di evoluzione del procurement pubblico e di riqualificazione della spesa pubblica, anche in ottica della riduzione nel medio-lungo termine degli sprechi.
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h244d3d595f6d461c761b507f157f551e:
 
@@ -389,12 +394,8 @@ La Corte dei Conti europea (cfr. Rel. N. 9/2018) ha espresso fortissime perpless
 .. admonition:: Raccomandazione 2.6d - Favorire la condivisione delle esperienze e l’open innovation, anche promuovendo piattaforme tecnologiche che ne favoriscano la diffusione
 
     Tra le criticità evidenziate dalla Corte c’è anche la mancanza di strumenti di supporto alle amministrazioni che intendano intraprendere questa strada, ivi compresa la diffusione e condivisione di “buone pratiche”.
-    
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h25354c1e52671a2d5d75606c54213621:
 
@@ -403,9 +404,9 @@ Dibattito Pubblico
 
 Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lgs. 50/2016, il dibattito pubblico per le grandi opere infrastrutturali e di architettura di rilevanza sociale, aventi impatto sull’ambiente, sulla città o sull’assetto del territorio. Il Decreto individua, nel relativo Allegato, le tipologie e le soglie di intervento.
 
-.. admonition:: Raccomandazione 2.6e - Dare la possibilità di richiedere il dibattito pubblico a un maggior numero di cittadini
+.. admonition:: Raccomandazione 2.6e - Dato un primo coinvolgimento degli stakeholders del territorio al dibattito, si auspica l’apertura a un numero maggiore di cittadini nelle fasi successive del dibattito stesso
 
-    La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come previsto all’art. 8, comma 1.b, della \ |LINK15|\ .
+    La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come, ad esempio, previsto all’art. 8, comma 1.b, della \ |LINK15|\ .
 
 
 .. bottom of content
