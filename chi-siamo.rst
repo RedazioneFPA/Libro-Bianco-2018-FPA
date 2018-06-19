@@ -19,6 +19,11 @@ Chi siamo
     
     * ….
 
+.. _h1d445122d6a85e43702145916035:
+
+FPA
+***
+
 \ |LINK2|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile.
 
 \ |STYLE0|\  \ |STYLE1|\  
