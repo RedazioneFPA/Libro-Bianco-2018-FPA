@@ -152,21 +152,24 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
 .. admonition:: Raccomandazione 2.2h - E’ necessario creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale
 
     Nel capitolo sulla \ |LINK4|\  è stata ribadita la necessità di coordinamento tra soggetti diversi nel ruolo, nella funzione e nell’organizzazione. A fare da raccordo tra questi l’Agenzia per l’Italia digitale, che ha il compito di guidare le attività relative all’evoluzione strategica del sistema informativo della pubblica amministrazione.
+    
     AgID, infatti, promuove la diffusione delle competenze digitali per imprese, cittadini e pubblica amministrazione, e supporta la crescita delle competenze digitali nei diversi ambiti, con iniziative specifiche che coinvolgono:
     
     #. le competenze digitali di base (utenti e funzionari amministrativi)
     
     #. le competenze specialistiche (professionisti ICT)
     
-    #. le competenze di \ |STYLE13|\  (dirigenza)
-    Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017 la sperimentazione di auto-valutazione (\ |STYLE14|\ ) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello \ |LINK5|\  per gli utenti amministrativi (il modello è stato recentemente \ |LINK6|\  nella sua versione aggiornata dal Team Digitale). 
+    #. le competenze di e-leadership (dirigenza)
+    
+    Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017 la sperimentazione di auto-valutazione (self-assessment) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello \ |LINK5|\  per gli utenti amministrativi (il modello è stato recentemente \ |LINK6|\  nella sua versione aggiornata dal Team Digitale). 
     
 
 
 .. admonition:: Raccomandazione 2.2i - Colmare la lacuna che esiste tra l’assessment e il piano della formazione
 
-    Ciò che rimane oscuro è come si passi dal problema alla soluzione, per cui sarebbe prioritario definire una strategia univoca che traduca i risultati dell’\ |STYLE15|\  iniziale in un piano di formazione immediatamente implementabile. 
-    
+    Ciò che rimane oscuro è come si passi dal problema alla soluzione, per cui sarebbe prioritario definire una strategia univoca che traduca i risultati dell’assessment iniziale in un piano di formazione immediatamente implementabile. 
+
+|
 
 .. _h534a132e2c25401a321d975c326c:
 
@@ -175,30 +178,40 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
 
 L’applicazione del principio di sussidiarietà orizzontale, contenuto all’ultimo comma dell’Art. 118 Cost., che disciplina l’autonoma iniziativa dei cittadini, ha ricadute dirette in due settori di indagine:
 
-* Nei meccanismi di rilascio delle informazioni detenute dalle pubbliche amministrazioni ai cittadini, e viceversa, ossia nella gestione delle informazioni rilasciate dai cittadini quotidianamente in qualità di utenti
+* Nei \ |STYLE13|\  detenute dalle pubbliche amministrazioni ai cittadini, e viceversa, ossia nella gestione delle informazioni rilasciate dai cittadini quotidianamente in qualità di utenti
 
-* Nelle nuove forme di attivismo civico esistenti a livello locale o centrale
+* Nelle \ |STYLE14|\  esistenti a livello locale o centrale
 
-Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, il quadro si mostra generalmente confuso. Dal punto di vista normativo,oggi sono disponibili tre modalità di accesso: 
+Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, \ |STYLE15|\ . Dal punto di vista normativo,oggi sono disponibili tre modalità di accesso: 
 
-#. Accesso agli atti (Legge 241/90) - \ |STYLE16|\  \ |LINK7|\  
+#. Accesso agli atti (\ |LINK7|\ );
 
-#. Accesso civico (D.lgs. n. 33/2013) - \ |STYLE17|\  \ |LINK8|\   
+#. Accesso civico (\ |LINK8|\ ); 
 
-#. Accesso generalizzato previsto dal FOIA - \ |STYLE18|\  \ |LINK9|\ 
+#. Accesso generalizzato previsto dal \ |LINK9|\ . 
 
-Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amministrazioni, responsabili della messa a disposizione dei dati. A questo si aggiunge la mancanza di una cultura della trasparenza al di là delle prescrizioni di legge, che favorisca l’emergere di nuove opportunità per conoscere se stesse in relazione ad altre. 
+Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amministrazioni, responsabili della messa a disposizione dei dati. A questo si aggiunge la \ |STYLE16|\  al di là delle prescrizioni di legge, che favorisca l’emergere di nuove opportunità per conoscere se stesse in relazione ad altre. 
 
-Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, una realtà che non distingue più tra essere online e offline. Siamo in un reale ibrido, dove il digitale è solo una parte del tangibile\ [#F1]_\ . Questo è il punto di partenza da considerare per il governo che si insedierà dopo le elezioni. 
+Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, \ |STYLE17|\ . Siamo in un reale ibrido, dove il digitale è solo una parte del tangibile\ [#F1]_\ . 
 
 .. _h13124ee2d297352232d2f4513352431:
 
 Nuove forme di attivismo civico
 ===============================
 
-Nell’ottica del superamento del rapporto bipolare tra istituzioni e cittadino, emerge l’esigenza di un cambio di paradigma nell’elaborazione delle policy pubbliche, che limiti la prepotenza burocratica che ha finora caratterizzato le scelte amministrative. 
+Nell’ottica del superamento del rapporto bipolare tra istituzioni e cittadino, emerge l’\ |STYLE18|\ , che limiti la prepotenza burocratica che ha finora caratterizzato le scelte amministrative. 
 
 Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (adesso non distinguiamo più tra cittadinanza analogica e cittadinanza digitale, entrambe pesano allo stesso modo), sia dal punto di vista dei contenuti che i cittadini producono in qualità di utenti (il cittadino come consumatore non agisce più solo come destinatario finale dell’informazione o del processo, ma diventa risorsa per la quantità di informazioni che produce in prima persona, e che condivide).
+
+
+.. admonition:: Raccomandazione 2.2i - Colmare la lacuna che esiste tra l’assessment e il piano della formazione
+
+    Ciò che rimane oscuro è come si passi dal problema alla soluzione, per cui sarebbe prioritario definire una strategia univoca che traduca i risultati dell’assessment iniziale in un piano di formazione immediatamente implementabile. 
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 \ |STYLE19|\ 
 
@@ -397,17 +410,17 @@ Acquisti ICT: nuovi modelli di riuso
 
 .. |STYLE12| replace:: **Identificazione di e-leader**
 
-.. |STYLE13| replace:: *e-leadership*
+.. |STYLE13| replace:: **meccanismi di rilascio delle informazioni**
 
-.. |STYLE14| replace:: *self-assessment*
+.. |STYLE14| replace:: **nuove forme di attivismo civico**
 
-.. |STYLE15| replace:: *assessment*
+.. |STYLE15| replace:: **il quadro si mostra generalmente confuso**
 
-.. |STYLE16| replace:: **inserire link**
+.. |STYLE16| replace:: **mancanza di una cultura della trasparenza**
 
-.. |STYLE17| replace:: **inserire link**
+.. |STYLE17| replace:: **una realtà che non distingue più tra essere online e offline**
 
-.. |STYLE18| replace:: **inserire link**
+.. |STYLE18| replace:: **esigenza di un cambio di paradigma nell’elaborazione delle policy pubbliche**
 
 .. |STYLE19| replace:: **Incentivare l’utilizzo di piattaforme civiche libere**
 
@@ -470,15 +483,15 @@ Acquisti ICT: nuovi modelli di riuso
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.gazzettaufficiale.it/eli/id/1990/08/18/090G0294/sg" target="_blank">http://www.gazzettaufficiale.it/eli/id/1990/08/18/090G0294/sg</a>
+    <a href="http://www.gazzettaufficiale.it/eli/id/1990/08/18/090G0294/sg" target="_blank">legge sul procedimento amministrativo</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.gazzettaufficiale.it/eli/id/2013/04/05/13G00076/sg" target="_blank">http://www.gazzettaufficiale.it/eli/id/2013/04/05/13G00076/sg</a>
+    <a href="http://www.gazzettaufficiale.it/eli/id/2013/04/05/13G00076/sg" target="_blank">D.lgs. n. 33/2013</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97" target="_blank">http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97</a>
+    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97" target="_blank">FOIA</a>
 
 .. |LINK10| raw:: html
 
