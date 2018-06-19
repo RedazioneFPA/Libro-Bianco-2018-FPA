@@ -44,21 +44,6 @@ Il Libro bianco sull'innovazione è la raccolta di  (\ |STYLE1|\ )
     chi-siamo
 
 
-.. admonition:: Team per la redazione del Libro bianco su “Read the Docs”
-
-    * Marina Bassi (Redazione FPA)
-    
-    * Andrea Ivan Baldassare (Redazione FPA)
-    
-    * \ |LINK2|\  (Comune di Palermo, OpendataSicilia)
-    
-    * Luigi Rosati
-    
-    * ……..
-    
-    * ….
-
-
 ..  Important:: 
 
     \ |IMG2|\  
@@ -81,10 +66,6 @@ Il Libro bianco sull'innovazione è la raccolta di  (\ |STYLE1|\ )
 .. |LINK1| raw:: html
 
     <a href="http://www.forumpa.it/" target="_blank">FPA</a>
-
-.. |LINK2| raw:: html
-
-    <a href="http://cirospat.readthedocs.io" target="_blank">Ciro Spataro</a>
 
 
 .. |IMG1| image:: static/index_1.png
