@@ -1,6 +1,6 @@
 # Libro Bianco 2018 FPA
 
-Il Libro bianco sull'innovazione nasce a conclusione dei lavori del Forum delle Pubbliche Amministrazioni (ForumPA) che si è tenuto a [Roma dal 22 al 24 maggio 2018 e organizzato da FPA](https://forumpa2018.eventifpa.it/it/).
+Il Libro Bianco sull'innovazione nasce a conclusione dei lavori del Forum delle Pubbliche Amministrazioni (ForumPA) che si è tenuto a [Roma dal 22 al 24 maggio 2018 e organizzato da FPA](https://forumpa2018.eventifpa.it/it/).
 
 Il testo del Libro Bianco è consultabile in modalità Read the Docs al link http://forumpa-librobianco-innovazione-2018.readthedocs.io
 
