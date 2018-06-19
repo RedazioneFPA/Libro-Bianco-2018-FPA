@@ -126,41 +126,39 @@ Un passaggio necessario è quello di ripensare l’agenda delle priorità della 
 Poteri locali e associazionismo comunale
 ========================================
 
-La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termini entro i quali i comuni con popolazione inferiore ai 5 mila abitanti (fino a 3 mila se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, come quello della \ |LINK9|\ . In Italia abbiamo: 15 regioni a statuto ordinario, 5 regioni a statuto speciale, 73 fusioni (soprattutto a nord) che hanno dato luogo alla soppressione di 186 comuni, numero dei comuni sceso a 7.978 di cui circa il 70% con popolazione inferiore a 5 mila abitanti, 538 unioni di comuni, cui aderiscono 3.104 enti, 14 città metropolitane (alle dieci individuate dalla legge Del Rio si sono aggiunte Palermo, Catania, Messina e Cagliari), 96 province, di cui 76 appartenenti alle regioni a statuto ordinario (Dati IFEL e UPI). Insomma, una situazione variegata, in cui ci sono ancora molti nodi irrisolti. Come procedere per mettere ordine nella legislazione riguardante il riordino degli enti locali e rilanciare a livello nazionale l’associazionismo comunale?
+La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termini entro i quali i comuni con popolazione inferiore ai 5 mila abitanti (fino a 3 mila se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, come quello della \ |LINK9|\ . 
 
-\ |STYLE10|\ 
+.. admonition:: Raccomandazione 4.3g - Attuare la riforma Delrio, lavorare a un riordino e a una riforma organica dei poteri locali
 
-Questo significa: completamento sul piano costituzionale della Riforma Delrio con la riforma delle Province, definizione delle funzioni fondamentali delle città metropolitane e definizione di un quadro certo di finanza all’interno del quale si possano esercitare queste funzioni. Insomma, introdurre una disciplina legislativa statale rispettosa dell’autonomia delle regioni, volta a riordinare le province come enti di area vasta e a regolare i relativi rapporti con le regioni e i comuni in maniera larga ma uniforme nel territorio nazionale.
+    E’ necessario il completamento sul piano costituzionale della riforma Delrio con la riforma delle Province, definizione delle funzioni fondamentali delle Città metropolitane e definizione di un quadro certo di finanza all’interno del quale si possano esercitare queste funzioni. A questo, va aggiunta l’introduzione di una disciplina legislativa statale rispettosa dell’autonomia delle regioni, volta a riordinare le province come enti di area vasta e a regolare i relativi rapporti con le regioni e i comuni in maniera larga ma uniforme nel territorio nazionale.
 
-\ |STYLE11|\ 
 
-Abrogare l’obbligo a carico dei comuni di esercitare in forma associata le funzioni fondamentali; adottare politiche differenziate, di semplificazione e di sostegno dei comuni che si associano, tenendo conto delle diverse caratteristiche territoriali, economiche e sociali; privilegiare le Unioni dei comuni e le Fusioni, considerando le prime come un necessario passaggio verso le seconde che costituiscono un obiettivo primario; favorire la volontarietà dell’associazionismo con un processo di coinvolgimento da condurre insieme con le regioni e le nuove province; superare i limiti demografici per la costituzione di gestioni associate e individuare ambiti omogenei di natura economica e sociale, mantenendo come prevalente il criterio della contiguità territoriale; introdurre robusti meccanismi incentivanti (finanziari ma non solo) in modo da creare situazioni attrattive di effettiva convenienza.
+.. admonition:: Raccomandazione 4.3h - Rilanciare l’associazionismo comunale come strumento di governo del territorio e occasione di riforma delle istituzioni
+
+    Abrogare l’obbligo a carico dei comuni di esercitare in forma associata le funzioni fondamentali. Adottare politiche differenziate, di semplificazione e di sostegno dei comuni che si associano, tenendo conto delle diverse caratteristiche territoriali, economiche e sociali. Privilegiare le Unioni dei comuni e le fusioni, considerando le prime come un necessario passaggio verso le seconde che costituiscono un obiettivo primario. Favorire la volontarietà dell’associazionismo con un processo di coinvolgimento da condurre insieme con le regioni e le nuove province. Superare i limiti demografici per la costituzione di gestioni associate e individuare ambiti omogenei di natura economica e sociale, mantenendo come prevalente il criterio della contiguità territoriale; introdurre robusti meccanismi incentivanti (finanziari ma non solo) in modo da creare situazioni attrattive di effettiva convenienza.
 
 Piattaforme e servizi per la smart city
 
-Con il procedere della implementazione delle infrastrutture di comunicazione (banda larga e ultralarga, wifi pubblici, etc.), lo sviluppo tecnologico dei sensori (in grado di raccogliere e trasmettere sempre più ampie quantità e varietà di informazioni), la definizione di sempre più sofisticati modelli e conseguenti applicazioni in grado di trattare quantità enormi di dati va aprendosi una nuova fase nel percorso di digitalizzazione delle città. Le reti funzionali (energia, gas, acqua, trasporti pubblici, illuminazione pubblica) sono in condizione di divenire sempre più “intelligenti” e quindi più efficaci ed efficienti; l’ecosistema urbano può essere sempre più monitorato in tutti i suoi aspetti (produzione e raccolta di rifiuti, qualità dell’aria, sicurezza, traffico, condizione degli edifici e delle infrastrutture); le interazioni sociali (lavoro, consumi, accesso ai servizi, relazioni sociali, partecipazione civile) possono moltiplicarsi e raffinarsi. Si aprono dunque nuove opportunità ma anche nuove criticità sui fronti dell’accesso e dell’utilizzo di queste informazioni sia in forma aggregata sia, potenzialmente, in forma singolare e individuabile.
+Con il procedere della implementazione delle infrastrutture di comunicazione (banda larga e ultralarga, wifi pubblici, etc.), lo sviluppo tecnologico dei sensori (in grado di raccogliere e trasmettere informazioni), la definizione di modelli sempre più sofisticati e conseguenti applicazioni in grado di trattare quantità enormi di dati, va aprendosi una nuova fase nel percorso di digitalizzazione delle città. Le reti funzionali (energia, gas, acqua, trasporti pubblici, illuminazione pubblica) sono in condizione di divenire sempre più “intelligenti” e quindi più efficaci ed efficienti; l’ecosistema urbano può essere sempre più monitorato in tutti i suoi aspetti (produzione e raccolta di rifiuti, qualità dell’aria, sicurezza, traffico, condizione degli edifici e delle infrastrutture); le interazioni sociali (lavoro, consumi, accesso ai servizi, relazioni sociali, partecipazione civile) possono moltiplicarsi e raffinarsi. Si aprono nuove opportunità ma anche nuove criticità sui fronti dell’accesso e dell’utilizzo di queste informazioni sia in forma aggregata sia, potenzialmente, in forma singolare e individuabile.
 
-L’evoluzione di questo percorso dipende dalle relazioni che si instaureranno tra gestori dei servizi, delle reti e dei sensori, amministrazioni locali, cittadini e attori sociali ma un ruolo fondamentale spetta anche al livello nazionale nel promuovere e indirizzare il percorso verso le “città sensibili”. Cosa si dovrebbe fare, quindi, in questa direzione?
+.. admonition:: Raccomandazione 4.3i - Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali
 
-\ |STYLE12|\ 
+    Tale raccomandazione vale sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico-privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, finanziati con i risparmi realizzati.
 
-È possibile far emergere da queste trasformazioni nuovi strumenti a disposizione dei cittadini per rendere più consapevoli le loro scelte di comportamento e consumo, più facile e completo l’accesso ai servizi, più consistente e influente la loro partecipazione civile. Ma queste opportunità non possono essere prerogativa di una minoranza che dispone delle capacità e degli strumenti per sfruttarle.
 
-\ |STYLE13|\ 
+.. admonition:: Raccomandazione 4.3i - Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali
 
-Se nei ranghi delle pubbliche amministrazioni non ci sono persone che hanno le competenze per comprendere e valutare la valenza generale di queste trasformazioni ma anche le loro declinazioni operative si crea uno squilibrio, diviene più difficile indirizzare e gestire la trasformazione. La richiesta allora è duplice: dotare le amministrazioni degli strumenti per formare il personale esistente e consentirgli, in deroga ai vari vincoli, di assumere nuove personale dedicato a questo ambito dell’azione pubblica.
+    Tale raccomandazione vale sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico-privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, finanziati con i risparmi realizzati.
 
-\ |STYLE14|\ 
 
-Questo sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico-privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, magari finanziati con i risparmi realizzati.
+.. admonition:: Raccomandazione 4.3l - Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni
 
-\ |STYLE15|\ 
+    Anche questo aspetto sembra richiedere un approfondimento della regolazione, principalmente, ma non esclusivamente, relativamente alle problematiche della privacy.
 
-Anche questo aspetto sembra richiedere un approfondimento della regolazione, principalmente, ma non esclusivamente, relativamente alle problematiche della privacy.
 
-\ |STYLE16|\ 
+.. admonition:: Raccomandazione 4.3m - Creare un luogo di regia/consultazione a livello centrale cui le amministrazioni locali possano riferirsi per avere supporto nelle loro scelte e nei loro impegni
 
-Questo può tradursi nella elaborazione, possibilmente partecipata, di linea guida nazionali e di sedi di interscambio delle esperienze. Un processo di trasformazione delle reti urbane di questa portata e di questa complessità deve fondarsi sull’iniziativa locale, sulla capacità delle singole amministrazioni di individuare necessità e priorità, ma va inserito in un quadro generale che dia la direzione di marcia e supporti tecnicamente e metodologicamente l’azione locale.
+    Questo può tradursi nella elaborazione, possibilmente partecipata, di linea guida nazionali e di sedi di interscambio delle esperienze. Un processo di trasformazione delle reti urbane di questa portata e di questa complessità deve fondarsi sull’iniziativa locale, sulla capacità delle singole amministrazioni di individuare necessità e priorità, ma va inserito in un quadro generale che dia la direzione di marcia e supporti tecnicamente e metodologicamente l’azione locale.
 
 .. _h37764334d7631644a305d25706f69:
 
@@ -168,6 +166,8 @@ Sharing Economy
 ===============
 
 [...]
+
+|
 
 .. _h7d77441b36154752a41756f66747b78:
 
@@ -190,23 +190,23 @@ La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefi
 
 Durante la fase di implementazione della strategia sarà necessario prestare particolare attenzione ad alcuni specifici punti di particolare rilevanza.
 
-\ |STYLE17|\ 
+\ |STYLE10|\ 
 
 Tale modello permette di rafforzare la collaborazione tra Istituzioni ed Aziende e la coerenza delle azioni nel medio-lungo termine, condizioni necessarie per consolidare e portare avanti la Strategia nella prossima legislatura. Non bastano tuttavia PA e imprese, il terzo soggetto da coinvolgere sono i cittadini che avranno un ruolo sempre più rilevante nel raggiungimento degli obiettivi grazie al risparmio energetico ed al mutamento delle abitudini di consumo da parte delle famiglie e delle comunità locali.
 
-\ |STYLE18|\ 
+\ |STYLE11|\ 
 
 È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di policy making dello Stato rappresentata da Governo e Parlamento.
 
-\ |STYLE19|\ 
+\ |STYLE12|\ 
 
 Occorre mantenere viva l’attenzione al tema della sostenibilità ambientale, da un lato inserendola in una visione più ampia di sviluppo del Paese legato alla Green economy, dall’altro valutando attentamente l’impatto ambientale delle azioni messe campo su consumo di suolo, qualità dell’aria e delle acque, etc. Sul tema del consumo di suolo, ad esempio, è necessario dotarsi di piani urbanistici coerenti e di una politica di recupero e bonifica dei siti di interesse nazionale che riducano l’occupazione di suolo agricolo.
 
-\ |STYLE20|\  
+\ |STYLE13|\  
 
 Per garantire una ricaduta efficace delle diverse misure è necessario prestare maggiore attenzione al coinvolgimento degli enti locali. Le Amministrazioni locali sono soggetti che contribuiscono in maniera rilevante, positivamente o negativamente, al raggiungimento degli obiettivi. Ambiti come la mobilità e l’efficienza energetica, l’illuminazione pubblica, la riqualificazione di edifici pubblici rientrano a pieno titolo tra le funzioni dei Comuni i quali devono certamente veder potenziati gli strumenti a disposizione, sia in termini di incentivi sia in termini di crescita delle capacità e competenze amministrative in ambito energetico.
 
-\ |STYLE21|\ 
+\ |STYLE14|\ 
 
 Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugli altri Paesi, importando ed esportando effetti rispetto alle altre strategie europee.
 
@@ -229,21 +229,21 @@ Un ampio slancio a questa economia è dato dal ruolo svolto dalla Pubblica Ammin
 
 Con il nuovo Codice appalti (D.lgs 50/2016, art. 34), che conferma quanto previsto dalla L.221/2015, il GPP (Green Public Procurement) è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri ambientali minimi) nelle gare pubbliche. Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di Comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571 -, di accordi internazionali, quale l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
 
-Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui rifiuti, sulle discariche, sugli imballaggi e sui veicoli fuori uso, pensato per combinare ambientalismo e crescita economica.
+Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui \ |LINK10|\ , sulle \ |LINK11|\ , sugli \ |LINK12|\  e sui \ |LINK13|\ , pensato per combinare ambientalismo e crescita economica.
 
 Affinché si possa creare una vera economia circolare su scala nazionale, il futuro governo nazionale e tutti i governi cittadini dovrebbero:
 
-\ |STYLE22|\  
+\ |STYLE15|\  
 
 Per il nostro Paese il recepimento delle direttive europee comporterà un profondo rinnovamento della normativa sui rifiuti, lo sviluppo di strumenti di eco-design e dei mercati di materie prime e seconde, la cooperazione tra Regioni sul riciclo e sull’ottimizzazione dei rifiuti, permetterà che qualsiasi persona fisica o giuridica che sviluppi, fabbrichi, trasformi, venda o importi prodotti sia soggetto ad una responsabilità estesa del produttore.
 
-\ |STYLE23|\ : l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
+\ |STYLE16|\ : l’Italia oggi offre numerose esperienze di economia circolare. Per una migliore comprensione dell’estensione del fenomeno e una migliore programmazione economica serve mappare con attenzione questi flussi.
 
-\ |STYLE24|\  riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
+\ |STYLE17|\  riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
 
-\ |STYLE25|\ , anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
+\ |STYLE18|\ , anche collaborando con le realtà internazionali (Ellen MacArthur Fundation, Circle Economy, Centro Materia Rinnovabile, Circular Economy Network)
 
-\ |STYLE26|\ 
+\ |STYLE19|\ 
 Quando si realizzano gare d’appalto è essenziale esplicitare i requisiti CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Manca uno standard CE, serve dunque  impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai Criteri ambientali minimi delle aziende rispondenti ai bandi della Pubblica Amministrazione, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
 
 Facilitazione: un’agenzia interministeriale che crei le connessioni tra tutti i livelli di governo della città, la società civile e l’impresa. 
@@ -282,39 +282,25 @@ Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifat
 
 .. |STYLE9| replace:: **Bando periferie, il “Bando per il programma straordinario di intervento per la riqualificazione urbana e la sicurezza delle periferie delle città metropolitane e dei comuni capoluogo di provincia”**
 
-.. |STYLE10| replace:: **Attuare la Riforma Delrio e lavorare a un riordino e a una riforma organica dei poteri locali (Regioni, Province, Comuni)**
+.. |STYLE10| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppate: dalle norme agli interventi e strumenti attuativi**
 
-.. |STYLE11| replace:: **Rilanciare l’associazionismo comunale non come obbligo ma come strumento di governo del territorio e occasione di riforma delle istituzioni**
+.. |STYLE11| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
 
-.. |STYLE12| replace:: **Alimentare e sviluppare le iniziative per la diffusione della cultura digitale tra la popolazione, a partire dal livello scolastico**
+.. |STYLE12| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
 
-.. |STYLE13| replace:: **Dotare le amministrazioni pubbliche, in primo luogo quelle locali, delle capacità e competenze per governare consapevolmente questi processi**
+.. |STYLE13| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
 
-.. |STYLE14| replace:: **Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali**
+.. |STYLE14| replace:: **Integrare la SEN nel quadro delle strategie europee**
 
-.. |STYLE15| replace:: **Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni**
+.. |STYLE15| replace:: **Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.**
 
-.. |STYLE16| replace:: **Creare un luogo di regia/consultazione a livello centrale cui le amministrazioni locali possano riferirsi per avere supporto nelle loro scelte e nei loro impegni**
+.. |STYLE16| replace:: **Mappare l’esistente**
 
-.. |STYLE17| replace:: **Applicare il modello partecipativo, sperimentato con la SEN, anche alle fasi successive che andranno sviluppate: dalle norme agli interventi e strumenti attuativi**
+.. |STYLE17| replace:: **Definire i criteri per il passaporto dei materiali:**
 
-.. |STYLE18| replace:: **Conferire forza al ruolo dell’Autorità di Regolazione per energia, Reti e Ambiente**
+.. |STYLE18| replace:: **Creare un hotspot nazionale sulla CE e proseguire il lavoro del Ministero dello sviluppo economico e del Ministero dell’Ambiente**
 
-.. |STYLE19| replace:: **Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica**
-
-.. |STYLE20| replace:: **Prestare maggiore attenzione e coinvolgimento degli Enti locali**
-
-.. |STYLE21| replace:: **Integrare la SEN nel quadro delle strategie europee**
-
-.. |STYLE22| replace:: **Recepire con rapidità le direttive EU sull’economia circolare ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della Responsabilità Estesa di Prodotto.**
-
-.. |STYLE23| replace:: **Mappare l’esistente**
-
-.. |STYLE24| replace:: **Definire i criteri per il passaporto dei materiali:**
-
-.. |STYLE25| replace:: **Creare un hotspot nazionale sulla CE e proseguire il lavoro del Ministero dello sviluppo economico e del Ministero dell’Ambiente**
-
-.. |STYLE26| replace:: **Creare uno standard CE**
+.. |STYLE19| replace:: **Creare uno standard CE**
 
 
 .. |LINK1| raw:: html
@@ -352,6 +338,22 @@ Innovazione e start-up: sostegno agli incubatori della CE, come Progetto Manifat
 .. |LINK9| raw:: html
 
     <a href="http://www.gazzettaufficiale.it/eli/id/2014/4/7/14G00069/sg" target="_blank">legge Delrio 56/2014</a>
+
+.. |LINK10| raw:: html
+
+    <a href="http://data.consilium.europa.eu/doc/document/PE-11-2018-INIT/en/pdf" target="_blank">rifiuti</a>
+
+.. |LINK11| raw:: html
+
+    <a href="http://data.consilium.europa.eu/doc/document/PE-10-2018-INIT/en/pdf" target="_blank">discariche</a>
+
+.. |LINK12| raw:: html
+
+    <a href="http://data.consilium.europa.eu/doc/document/PE-12-2018-INIT/en/pdf" target="_blank">imballaggi</a>
+
+.. |LINK13| raw:: html
+
+    <a href="http://data.consilium.europa.eu/doc/document/PE-9-2018-INIT/en/pdf" target="_blank">veicoli fuori uso</a>
 
 
 .. |IMG1| image:: static/4-politiche-sostenibilita_1.jpeg
