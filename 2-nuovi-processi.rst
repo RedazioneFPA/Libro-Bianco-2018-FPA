@@ -257,9 +257,9 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-[.....]
+Negli ultimi tre anni social network, chat, siti web più semplici e riconoscibili
 
-|
+i servizi digitali, l’innovazione tecnologica hanno definito i tratti innovativi della nuova comunicazione pubblica. Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico, un "Ufficio comunicazione, stampa e servizi al cittadino" sulla scia di quello proposto dall’Associazione PA Social
 
 .. _h4e473bba6b5871164065555432229:
 
@@ -310,41 +310,42 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 
 .. admonition:: Raccomandazione 2.5d - Meno norme, più collaborazione per completare il quadro regolamentare
 
-    Limitare gli interventi normativi e gestire con un approccio basato sulla cooperazione inter-istituzionale e aperto agli stakeholder i passaggi necessari a completare il quadro regolamentare, inclusa la stesura delle linee guida previste dal D. Lgs. 217/2017 che ha modificato il CAD. Servono strumenti e contesti di cooperazione istituzionale che favoriscano la collaborazione e il confronto.
+    Limitare gli interventi normativi e gestire con un approccio basato sulla cooperazione inter-istituzionale e aperto agli stakeholder i passaggi necessari a completare il quadro regolamentare, inclusa la stesura delle Linee Guida previste dal D. Lgs. 217/2017 che ha modificato il CAD. Servono strumenti e contesti di cooperazione istituzionale che favoriscano la collaborazione e il confronto.
 
 
 .. admonition:: Raccomandazione 2.5e - Riconoscere il ruolo cruciale delle competenze tecniche
 
-    Le competenze digitali, archivistiche e organizzative sono necessarie. Va promossa la presenza di adeguati profili professionali sia nel settore pubblico, che nelle imprese che operano in questo ambito.
+    Le competenze digitali archivistiche e organizzative sono necessarie. Va promossa la presenza di adeguati profili professionali sia nel settore pubblico, che nelle imprese che operano in questo ambito.
 
 .. _h1821514e204a1f273a6f497d14147a3a:
 
 2.6 Procurement
 ***************
 
-Attraverso il procurement pubblico passa circa il 14 per cento del PIL dell’Unione Europea (cfr. Comunicazione della Commissione Europea del 3.10.2017 (COM)2017 572 final “Appalti pubblici efficaci in Europa e per l'Europa”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte in scia all’evoluzione normativa determinata dalle Direttive Europee del 2014 (Dir. 23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK13|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
+Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK13|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK14|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
 
 .. _h46254f74f6b37750603e296a675734:
 
 Qualificazione stazioni appaltanti
 ==================================
 
-Uno dei pilastri del nuovo Codice, forse il più importante, è costituito dalla qualificazione delle stazioni appaltanti, dalla loro professionalizzazione e concentrazione. Fin quando questo aspetto della riforma non sarà attuato non vi potrà essere un reale cambiamento del sistema.
+Uno dei pilastri del Nuovo Codice, forse il più importante, è costituito dalla qualificazione delle stazioni appaltanti, dalla loro professionalizzazione e concentrazione. Fino a quando questo aspetto della riforma non sarà attuato non vi potrà essere un reale cambiamento del sistema.
 
-\ |STYLE28|\ 
+.. admonition:: Raccomandazione 2.6a - Adottare al più presto gli atti attuativi del sistema di qualificazione delle stazioni appaltanti
 
-La qualificazione delle stazioni appaltanti avrebbe dovuto rappresentare la vera chiave di volta del sistema, ma che è ancora di là da venire e, comunque, difficilmente potrà essere efficacemente realizzata in carenza di adeguati investimenti che non sembrano essere stati previsti.
+    La qualificazione delle stazioni appaltanti avrebbe dovuto rappresentare la vera chiave di volta del sistema, ma che è ancora di là da venire e, comunque, difficilmente potrà essere efficacemente realizzata in carenza di adeguati investimenti che non sembrano essere stati previsti.
 
 .. _h156876146c216d117b56377de57c5f:
 
 Valutazione offerta
 ===================
 
-Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli aspetti tecnici e qualitativi delle offerte, piuttosto che verso la depressione sistematica dei corrispettivi riconosciuti agli offerenti, ha rappresentato forse una delle maggiori conquiste del nuovo Codice. 
+Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli aspetti tecnici e qualitativi delle offerte, piuttosto che verso la depressione sistematica dei corrispettivi riconosciuti agli offerenti, ha rappresentato forse una delle maggiori conquiste del Nuovo Codice. 
 
-\ |STYLE29|\ 
+.. admonition:: Raccomandazione 2.6b - Favorire gli strumenti di valutazione e misurazione della qualità che diano garanzia di oggettività e attendibilità
 
-Occorre incoraggiare (e anche formare) le stazioni appaltanti nell’individuare criteri di valutazione delle offerte che realmente privilegino aspetti qualitativamente rilevanti ed effettivamente necessari, in modo che l’individuazione dell’offerta economicamente più vantaggiosa sulla base del miglior rapporto qualità prezzo non resti un mero esercizio di stile.
+    Occorre incoraggiare (e anche formare) le stazioni appaltanti nell’individuare criteri di valutazione delle offerte che realmente privilegino aspetti qualitativamente rilevanti ed effettivamente necessari, in modo che l’individuazione dell’offerta economicamente più vantaggiosa sulla base del miglior rapporto qualità prezzo non resti un mero esercizio di stile.
+    
 
 .. _h3d2231792332f56687a7544693a25:
 
@@ -353,9 +354,10 @@ Analisi della spesa
 
 Si è fatta forte l’esigenza di un monitoraggio costante dell’andamento  della spesa, a causa di una disponibilità spesso esigua, soprattutto negli enti locali, di risorse. Una moderna analisi della spesa può, quindi, permettere di ridurre i costi e ottimizzare gli acquisti. 
 
-\ |STYLE30|\ 
+.. admonition:: Raccomandazione 2.6c - Riqualificare la spesa pubblica con l’adozione di soluzioni innovative che ne permettano il monitoraggio
 
-Puntare sull’innovazione, ovvero su moderne soluzioni oggi disponibili sul mercato, come strumento di evoluzione del procurement pubblico e di riqualificazione della spesa pubblica, anche in ottica della riduzione nel medio-lungo termine degli sprechi.
+    Puntare sull’innovazione, ovvero su moderne soluzioni oggi disponibili sul mercato, come strumento di evoluzione del procurement pubblico e di riqualificazione della spesa pubblica, anche in ottica della riduzione nel medio-lungo termine degli sprechi.
+    
 
 .. _h244d3d595f6d461c761b507f157f551e:
 
@@ -364,20 +366,21 @@ Nuove partnership pubblico-privato
 
 La Corte dei Conti europea (cfr. Rel. N. 9/2018) ha espresso fortissime perplessità sull’utilizzo dello strumento dei partenariati pubblico-privati nell’Unione Europea, evidenziandone le criticità e denunciando una generalizzata carenza di preparazione delle pubbliche amministrazioni nella programmazione e nella gestione delle iniziative che compromette, sul piano operativo, il raggiungimento dei risultati che è ragionevole e lecito attendersi dall’utilizzo dei PPP.
 
-\ |STYLE31|\ 
+.. admonition:: Raccomandazione 2.6d - Favorire la condivisione delle esperienze e l’open innovation, anche promuovendo piattaforme tecnologiche che ne favoriscano la diffusione
 
-Tra le criticità evidenziate dalla Corte ci è anche la mancanza di strumenti di supporto alle amministrazioni che intendano intraprendere questa strada, ivi compresa la diffusione e condivisione di “buone pratiche”.
+    Tra le criticità evidenziate dalla Corte c’è anche la mancanza di strumenti di supporto alle amministrazioni che intendano intraprendere questa strada, ivi compresa la diffusione e condivisione di “buone pratiche”.
+    
 
-.. _h70685171314dba1834f1063251e14:
+.. _h25354c1e52671a2d5d75606c54213621:
 
-Dibattito pubblico
+Dibattito Pubblico
 ==================
 
-Il decreto del Presidente del Consiglio dei Ministri del 9 maggio 2017 introduce in Italia, ai sensi dell’articolo 22 del decreto legislativo 18 aprile 2016, n. 50, il dibattito pubblico per le grandi opere infrastrutturali e di architettura di rilevanza sociale, aventi impatto sull’ambiente, sulla città o sull’assetto del territorio. Il Decreto individua, nel relativo allegato, le tipologie e le soglie di intervento.
+Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lgs. 50/2016, il dibattito pubblico per le grandi opere infrastrutturali e di architettura di rilevanza sociale, aventi impatto sull’ambiente, sulla città o sull’assetto del territorio. Il Decreto individua, nel relativo Allegato, le tipologie e le soglie di intervento.
 
-\ |STYLE32|\ 
+.. admonition:: Raccomandazione 2.6e - Dare la possibilità di richiedere il dibattito pubblico a un maggior numero di cittadini
 
-La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come previsto all’art. 8, comma 1.b, della \ |LINK14|\ 
+    La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come previsto all’art. 8, comma 1.b, della \ |LINK15|\ .
 
 .. _h67255e551d29733b463a18126c793f:
 
@@ -446,16 +449,6 @@ Acquisti ICT: nuovi modelli di riuso
 
 .. |STYLE27| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
 
-.. |STYLE28| replace:: **Adottare al più presto gli atti attuativi del sistema di qualificazione delle stazioni appaltanti**
-
-.. |STYLE29| replace:: **Favorire gli strumenti di valutazione e misurazione della qualità che diano garanzia di oggettività e attendibilità**
-
-.. |STYLE30| replace:: **Riqualificare la spesa pubblica con l’adozione di soluzioni innovative che ne permettano il monitoraggio**
-
-.. |STYLE31| replace:: **Favorire la condivisione delle esperienze e l’open innovation, anche promuovendo piattaforme tecnologiche che ne favoriscano la diffusione**
-
-.. |STYLE32| replace:: **Dare la possibilità di richiedere il dibattito pubblico a un maggior numero di cittadini**
-
 
 .. |LINK1| raw:: html
 
@@ -507,9 +500,13 @@ Acquisti ICT: nuovi modelli di riuso
 
 .. |LINK13| raw:: html
 
-    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2017-05-05&atto.codiceRedazionale=17G00078" target="_blank">D.Lgs. 50/2016</a>
+    <a href="https://ec.europa.eu/transparency/regdoc/rep/1/2017/IT/COM-2017-572-F1-IT-MAIN-PART-1.PDF" target="_blank">Appalti pubblici efficaci in Europa e per l'Europa</a>
 
 .. |LINK14| raw:: html
+
+    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2017-05-05&atto.codiceRedazionale=17G00078" target="_blank">D.Lgs. 50/2016</a>
+
+.. |LINK15| raw:: html
 
     <a href="http://www.regione.toscana.it/documents/10180/11537824/Legge+regionale+N.69+del+2007/e782eb5a-8787-4647-acb6-518b6c56cf8e?version=1.1" target="_blank">Legge 69/2007 della Regione Toscana</a>
 
