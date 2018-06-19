@@ -257,9 +257,7 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi tre anni social network, chat, siti web più semplici e riconoscibili
-
-i servizi digitali, l’innovazione tecnologica hanno definito i tratti innovativi della nuova comunicazione pubblica. Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico, un "Ufficio comunicazione, stampa e servizi al cittadino" sulla scia di quello proposto dall’Associazione PA Social
+Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico, un "Ufficio comunicazione, stampa e servizi al cittadino" sulla scia di quello proposto dall’Associazione PA Social percorso fatto (con #PASocial
 
 .. _h4e473bba6b5871164065555432229:
 
@@ -381,13 +379,6 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 .. admonition:: Raccomandazione 2.6e - Dare la possibilità di richiedere il dibattito pubblico a un maggior numero di cittadini
 
     La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come previsto all’art. 8, comma 1.b, della \ |LINK15|\ .
-
-.. _h67255e551d29733b463a18126c793f:
-
-Acquisti ICT: nuovi modelli di riuso
-====================================
-
-[...]
 
 
 .. bottom of content
