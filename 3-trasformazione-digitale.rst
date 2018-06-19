@@ -66,10 +66,12 @@ In merito al secondo punto, si segnalano invece gli elementi di profonda discont
     Il Governo dovrebbe valutare, in prima istanza, la possibilità di un rinnovare il Team Digitale, seppur in un quadro regolatorio più chiaro, in particolare per ciò che attiene i rapporti con AgID.
     In alternativa, il modello del Team potrebbe essere ampliato ed esteso ad altre strutture pubbliche, come Ministeri e altri Enti di particolare rilevanza strategica, creando le condizioni necessarie a replicarne i fattori di successo e abilitando così una rete di team per l’innovazione al servizio del sistema Paese [link a paragrafo 2.2].
 
-.. _h29415f433dad243a5ca42502a5271:
+|
 
-Rapporto centro-periferia
-=========================
+.. _h711052197b057482f363032456c1575:
+
+Rapporto centro-territorio
+==========================
 
 L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un migliore coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio, supportando gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano e a convergere su standard tecnologici e politiche d’innovazione comuni.
 
@@ -77,6 +79,8 @@ L’attuazione delle varie linee d’azione previste dal Piano triennale passa n
 
     Occorre proseguire sulla strada tracciata nel febbraio 2018 con l’approvazione dell’\ |LINK3|\ , accelerando la stipula di accordi o convenzioni territoriali con le singole Regioni per abilitare il loro ruolo di coordinamento a livello territoriale e favorire la trasformazione digitale dei servizi pubblici per i cittadini e imprese.
     Il medesimo approccio potrebbe poi essere esteso a Città Metropolitane e grandi Comuni capoluogo che possono rappresentare un punto di riferimento per gli enti del proprio territorio
+
+|
 
 .. _h6a11195735e5e1264773137f195965:
 
@@ -107,6 +111,8 @@ Secondo i dati del DESI 2018, l’Italia continua a far registrare prestazioni a
 L’Italia conferma i risultati discreti per livello di disponibilità di servizi online della PA, con risultati superiori (\ |STYLE8|\ ) o poco inferiori (\ |STYLE9|\ ) alla media UE, ma si attesta all’ultimo posto tra i Paesi UE per numero di utenti dei servizi di eGovernment\ [#F4]_\ . Un dato peggiore di quello registrato per l'uso di altre tipologie di servizi online, ma cui fa da contraltare il dato sull’utilizzo dei servizi di sanità digitale, rispetto al quale l’Italia si posizione all’8° posto nella UE 28.
 
 \ |IMG1|\ 
+
+|
 
 .. _h10782517f3647e2f2e5155773c3b45:
 
@@ -147,6 +153,8 @@ Le azioni avviate promettono quindi di apportare un beneficio concreto in termin
 .. admonition:: Raccomandazione 3.2e - Evangelizzare i cittadini all’utilizzo dei servizi online, accompagnandoli all’utilizzo delle tecnologie presso gli stessi sportelli fisici degli enti
 
     È necessario evangelizzare l’utenza all’utilizzo dei servizi online, sfruttando anche le possibili sinergie con i tradizionali canali di erogazione (sportelli fisici). Nel corso degli ultimi anni, alcune amministrazioni hanno avviato azioni di accompagnamento del cittadino all’uso della tecnologia per quelle categorie di utenti tradizionalmente più restie all’utilizzo dei canali digitali o maggiormente soggette a digital divide. Gli utenti vengono dagli operatori nell’utilizzo delle diverse procedure online, operando direttamente sul sistema in maniera guidata. Occorre mettere a fattor comune queste esperienze, diffondendo tali buone pratiche presso tutte le amministrazioni. Inoltre, le tradizionali iniziative di alfabetizzazione digitale, con alcune azioni di formazione potrebbero essere focalizzate in maniera specifica sull’utilizzo dei servizi online della PA.
+
+|
 
 .. _h41592a1c2b1c191d3f30313258135176:
 
@@ -270,20 +278,49 @@ Un centralità sancita dallo stesso Piano Triennale di AgID, che non si limita a
 
 L’adozione delle \ |LINK18|\  per la PA, il rilascio delle \ |LINK19|\  da parte di AGID, e l’obbligo di adozione dei piani di continuità operativa, prima eliminati e poi reintrodotti (con modifiche) nelle ultime due revisioni del CAD rappresentano solo alcune testimonianze di una rinnovata attenzione del settore pubblico per il tema. 
 
-Tuttavia, il delicato momento di transizione (elezioni politiche, scadenza del mandato del DG di AgID, futuro accorpamento del CERT-PA al nuovo CSIRT Italiano) ha forse contribuito a rallentare il processo di attuazione del Piano. Ad oggi mancano infatti all’appello sia le Linee guida del modello architetturale di gestione dei servizi critici che le Regole tecniche per la sicurezza ICT delle PA, due importanti provvedimenti, originariamente previsti per l’autunno 2017. Le regole tecniche, in particolare, forniranno indicazioni sulle misure da adottare in ciascuna componente della Mappa del Modello strategico, obbligando tutte le amministrazioni a dotarsi di un Sistema di gestione della sicurezza delle informazioni (SGSI) e della relativa struttura organizzativa, come anticipato dallo stesso Piano.
+|
 
-\ |STYLE36|\ 
+.. _h49457f3d533d9554877e48795b446d:
 
-C’è bisogno di regole per la sicurezza perché lo scenario, in termini di minacce, cresce con dimensioni quantiche e, quindi, è necessario poter disporre di standard condivisi ed efficaci. Tuttavia il futuro della trasformazione digitale si basa anche sulla sicurezza; basare la sua implementazione su un sistema sanzionatorio non è sufficiente. Politiche di compliance, come GDPR e NIS, sono utili ma impongono azioni e competenze di analisi dei rischi che non sono necessariamente diffuse in tutto le organizzazioni del Paese. Inoltre, bisogna superare il concetto di misura minima, perché la criticità e la complessità della materia, ma più che altro la sua rapidissima evoluzione, non consentono di poter affrontare il problema con le sole disposizioni minime.
+Sicurezza e normativa tecnica
+=============================
 
-\ |STYLE37|\ 
+C’è bisogno di regole per la sicurezza perché lo scenario, in termini di minacce, cresce con dimensioni “quantiche” ed è quindi necessario poter disporre di standard condivisi ed efficaci. Tuttavia, l’approccio fin qui adottato non ha prodotto i risultati sperati, con molte amministrazioni che ancora oggi fanno fatica ad adeguarsi alle recenti disposizioni.
+
+.. admonition:: Raccomandazione 3.5a - Adottare un approccio alla normativa tecnica in materia di sicurezza orientata al superamento del concetto di “misura minima”, a vantaggio di standard più avanzati
+
+    Le Misure minime rappresentano un utilissima base di riferimento per tutte le amministrazioni italiane rispetto a ciò che non può assolutamente mancare. Tuttavia, pur costituendo un ottimo punto di partenza, la rapida evoluzione e la crescente complessità delle minacce non consentono più di poter affrontare il problema con le sole disposizioni minime. L’approvazione delle \ |STYLE36|\ , previste dal Piano triennale e originariamente attese per l’autunno 2017, possono rappresentare in questo senso un importante passo in avanti.
+
+|
+
+.. _h5a5f5e322a50447642a332316f3d2a:
+
+Fattore umano nella sicurezza dei dati e delle informazioni
+===========================================================
+
+Il miglioramento della sicurezza informatica, anche in termini di data protection, passa dalla migliore comprensione dei comportamenti degli operatori di un’organizzazione e delle diverse modalità con cui le persone interagiscono con i dati critici e la proprietà intellettuale. Oggi non esistono più utenti “neutri” da un punto di vista della sicurezza: o l’utente è perfettamente consapevole di cosa sta facendo, e pone massima attenzione a ciò che fa, oppure è un rischio per la sicurezza dell’organizzazione.
+Il mantenimento nel tempo di livelli adeguati di compliance alla normativa di riferimento non passa necessariamente dalla rivoluzione delle tecnologie già implementate, ma dalla mitigazione del rischio connesso ai comportamenti non adeguati.
+
+.. admonition:: Raccomandazione 3.5b - Sensibilizzare gli enti pubblici sull’importanza di sviluppare attività di formazione e informazioni costanti nel tempo, secondo una logica iterativa
+
+    Molte PA hanno realizzato in questi anni iniziative volte all’accrescimento della consapevolezza del rischio informatico da parte dell’utenza interna. Esistono in questo senso differenti strumenti (formazione in aula, \ |STYLE37|\ , pillole formative, campagne di \ |STYLE38|\  simulato), utilizzabili anche in maniera combinata. Tuttavia, ciò che emerge maggiormente dall’esperienza maturata dalle amministrazioni più virtuose è l’importanza della \ |STYLE39|\  di queste iniziative, che devono rimanere costanti nel tempo ed essere rimodulate di volta in volta in base ai risultati raggiunti. Pressione e costanza sono quasi sempre più importanti di grandi iniziative \ |STYLE40|\ .
+
+
+.. admonition:: Raccomandazione 3.5c - Legare lo sviluppo di policy e disciplinari ad attività propedeutiche di sensibilizzazione sui rischi connessi al mancato rispetto delle regole
+
+    L’esigenza di sviluppare policy e disciplinari per dare regole chiare agli utenti interni si scontra con comportamenti diffusi che portano al mancato rispetto di tale regole, o nei casi più gravi, nella totale ignoranza della loro stessa esistenza.
+    L’esperienza insegna che le policy vengono effettivamente osservate laddove, a monte della loro pubblicazione, si sia fatta adeguata sensibilizzazione sulla gravità di determinati rischi e sulle relative conseguenze in termini di responsabilità individuale, evidenziando come quelle policy, se opportunamente adottate, rappresentino una risposta sia in termini di risoluzione del problema, sia in termini di tutela per l’utente stesso. A valle, si rendono poi necessarie attività di enforcement e di audit.
+
+\ |STYLE41|\ 
 
 Il tema della sicurezza informatica non prescinde dall’aspetto tecnologico come, allo stesso modo, da quello organizzativo. Particolare attenzione deve essere prestata nella gestione delle forniture e, quindi, in ambito PA, su quello del procurement.
 La sicurezza richiede una compresenza di impegni sul piano tecnologico, dei processi e dei comportamenti, come probabilmente in nessun altro asset. Si deve investire di più sul tema della governance, quanto o addirittura più che sull’aspetto tecnologico, perché il primo è quello che presenta maggiori criticità nell’implementazione, specie a livello di PA. La sicurezza va analizzata sulla base del ciclo di vita delle forniture; la questione della relazione con il fornitore è cruciale per la sicurezza informatica. In questo senso va promosso un modello di governance e investimenti in IT per gli enti locali, attraverso soluzioni consortili; anche perché per fare sicurezza infrastrutturale non si può ragionare su piccola scala.
 
-\ |STYLE38|\ 
+\ |STYLE42|\ 
 
 Le parti più facili del sistema da attaccare e, quindi, più esposte, sono ancora quelle legate alle singole utenze, appannaggio di comportamenti individuali. Per questo rimane cruciale la formazione e lo sviluppo di una cultura della sicurezza. E la tecnologia deve intervenire proprio per supportare le persone nell’arginare l’errore umano. In alcuni casi i modelli tecnologici tendono a eliminare la presenza dati su postazioni e dispositivi end-point per puntare su architetture cloud più stabili e sicure. Del resto procedure digitali richiedono strumenti e dispositivi digitali, nonché standard di servizio adeguati. Questo non esula tuttavia dalla necessità di costruire e promuovere un cambiamento culturale che – al di là dei comportamenti più singolari e aneddotici – garantisca una visione diversa del ruolo di responsabilità e di presidio di ogni singolo utente.
+
+|
 
 .. _h3c3d77965263074754595e369438:
 
@@ -296,12 +333,12 @@ Ovviamente, sarebbe un errore pensare che la blockchain possa o debba essere app
 Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più recenti quello della Pubblica Amministrazione, con l’obiettivo di rendere più semplice il rapporto tra il cittadino e la PA, portando una ventata di innovazione all’interno degli uffici pubblici. Come succede anche in altri settori innovativi, le sperimentazioni in campo sono già diverse, e il punto chiave in questo momento è capire dove effettivamente la blockchain può consentire un salto di qualità in termini di affidabilità, sicurezza e semplificazione della user experience. 
 Su questo tema le indicazioni proposte sono le seguenti.
 
-\ |STYLE39|\ 
+\ |STYLE43|\ 
 
 L’innovazione deve svilupparsi in libertà, confrontarsi con il mercato e i contesti di applicazione, sfidare la propria esistenza sul campo. In un’ottica di open innovation, la blockchain evolve e si sviluppa nel dialogo e confronto tra ricercatori, tecnici, imprenditori, stakeholders e utenti. Tuttavia anche le istituzioni svolgono un loro ruolo specifico e, nel caso della blockchain, questo risiede nell’investimento in dispositivi normativi, sia in chiave di standardizzazione, sia di riconoscimento istituzionale.
 L’Italia, rispetto al primo punto, è chiamata ad assumere un ruolo maggiormente attivo e partecipe sui tavoli in cui si discute e si definisce l’impianto di standardizzazione della tecnologia blockchain; a partire dall’adesione alla European Blockchain Partnership [link: https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership] per passare ad una più efficace partecipazione ai lavori di organizzazioni come UNI.
 
-\ |STYLE40|\ 
+\ |STYLE44|\ 
 
 La tecnologia blockchain consente di sviluppare soluzioni sicure e trasparenti, molto utili ed efficaci nei casi in cui si debba garantire una equidistanza e un ruolo di garanzia (“trust”) nelle transazioni e nelle registrazioni. Investire in questa tecnologia, per i contesti idonei e in cui risulta più efficace, consentirebbe di migliorare alcuni servizi e di fornire quelle garanzie di sicurezza a cui i cittadini e le istituzioni stanno prestando sempre maggiore attenzione.
 In alcuni casi la logica dei Distributed Ledger può davvero svolgere un ruolo rivoluzionario nel ripensare le logiche di funzionamento degli archivi e della registrazione delle transazioni; si tratta di un’opportunità che non può essere persa e che va condivisa a livello europeo e internazionale perché spesso la blockchain è utile proprio nei casi di transazioni internazionali.
@@ -315,7 +352,7 @@ In questo caso la PA svolge un ruolo di regìa e coordinamento; è cruciale la d
 3.6 Dati pubblici
 *****************
 
-Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK20|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK21|\ : l’Italia si posiziona tra i “trendsetter”, ossia i Paesi più avanti rispetto a \ |STYLE41|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE42|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
+Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK20|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK21|\ : l’Italia si posiziona tra i “trendsetter”, ossia i Paesi più avanti rispetto a \ |STYLE45|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE46|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati). 
 
 Questo passo in avanti è da attribuire al modello di gestione dei dati delineati dal \ |LINK22|\  che riconosce negli Open Data una delle leve fondamentali nel processo di trasformazione in atto, che non può prescindere da trasparenza e circolazione di informazioni riutilizzabili. Tra gli elementi delle \ |LINK23|\ , il Piano mette in evidenza infatti il rilascio di dati pubblici secondo il paradigma dell’Open Data e loro riutilizzo, agendo sull’individuazione di basi di dati chiave di particolare interesse per la collettività da liberare, e indicando come strumento di lavoro un paniere dinamico dei dataset.
 
@@ -400,19 +437,27 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
 .. |STYLE35| replace:: **Poli Strategici Nazionali**
 
-.. |STYLE36| replace:: **Promuovere una visione di governance più ampia del problema, al di là del ruolo delle singole norme**
+.. |STYLE36| replace:: **Regole tecniche per la sicurezza ICT delle PA**
 
-.. |STYLE37| replace:: **Adeguare modelli e processi di procurement, per promuovere l’aggiornamento tecnologico**
+.. |STYLE37| replace:: *e-learning*
 
-.. |STYLE38| replace:: **Costruire una cultura della sicurezza che promuova nuovi valori e paradigmi condivisi.**
+.. |STYLE38| replace:: *phishing*
 
-.. |STYLE39| replace:: **Fornire supporto allo sviluppo della tecnologia blockchain.**
+.. |STYLE39| replace:: **continuità**
 
-.. |STYLE40| replace:: **Sfruttare la tecnologia blockchain nello sviluppo dei servizi al cittadino e ai sistemi economici.**
+.. |STYLE40| replace:: *una tantum*
 
-.. |STYLE41| replace:: *Open Data Readiness*
+.. |STYLE41| replace:: **Adeguare modelli e processi di procurement, per promuovere l’aggiornamento tecnologico**
 
-.. |STYLE42| replace:: *Portal Maturity*
+.. |STYLE42| replace:: **Costruire una cultura della sicurezza che promuova nuovi valori e paradigmi condivisi.**
+
+.. |STYLE43| replace:: **Fornire supporto allo sviluppo della tecnologia blockchain.**
+
+.. |STYLE44| replace:: **Sfruttare la tecnologia blockchain nello sviluppo dei servizi al cittadino e ai sistemi economici.**
+
+.. |STYLE45| replace:: *Open Data Readiness*
+
+.. |STYLE46| replace:: *Portal Maturity*
 
 
 .. |LINK1| raw:: html
