@@ -21,6 +21,8 @@ Con il Piano si definisce per la prima volta un modello di riferimento coerente 
 
 In questo paragrafo vengono trattati alcuni punti relativi alla governance della trasformazione digitale della PA, mentre in quelli successivi vengono affrontate in maniera puntuale alcune possibili azioni relative alle principali componenti strategiche del Piano triennale. 
 
+|
+
 .. _he6c4d56f65233c3b187d12424e1d67:
 
 Strutture di governance
@@ -353,6 +355,8 @@ Storicamente sottovalutata come area su cui operare, la sicurezza applicativa ra
 
 I dati rappresentano la materia prima dell’economia digitale. La pubblica amministrazione è il soggetto che produce e utilizza la più grande quantità di dati, dati che se aperti alla collettività svelano tutto il loro potenziale di acceleratori di sviluppo e di crescita. La liberazione e valorizzazione dei dati pubblici rappresenta inoltre uno strumento chiave attraverso cui attuare in pieno l’approccio dell’\ |STYLE51|\  e mettere in pratica i principi di trasparenza, \ |STYLE52|\ , partecipazione e collaborazione.
 
+|
+
 .. _h104c167e25261f631fb543a6979331c:
 
 Open Data
@@ -404,6 +408,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 .. admonition:: Raccomandazione 3.6f - Investire in formazione su Open Data a tutti i livelli per sviluppare una cultura del dato e delle opportunità connesse alla liberazione
 
     La formazione in materia di Open Data è sicuramente uno degli elementi chiave per la creazione un contesto favorevole alla pratica del riuso degli open data ma anche e, per alcuni versi, soprattutto sviluppare conoscenze e competenze necessarie per portare avanti i processi di liberazione e valorizzazione del patrimonio informativo pubblico.
+    
     Formazione e accompagnamento sono quindi necessarie all’interno della PA tra gli operatori e le persone che sono coinvolte nel processo di apertura affinché sviluppino conoscenze e competenze di base, tecniche e approfondimenti In questo caso l’operazione può collocarsi anche a monte del processo di selezione dei corsi-concorsi, attraverso l’inserimento di moduli formativi specifici dedicati al tema dei dati aperti.
 
 
@@ -424,6 +429,8 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
     
     In ultimo, è necessario prendere consapevolezza che il processo di apertura dei dati rappresenta ad oggi ancora un costo per la PA: per fare formazione e per immettere in organico competenze adeguate, per cambiare i processi, per fare cultura e per facilitare le realtà private che possano usare i dati sono necessari investimenti. 
 
+|
+
 .. _h18245b3727255245e563613d62157:
 
 Data analytics framework
@@ -441,6 +448,8 @@ Data analytics framework
 Gli ultimi anni hanno visto l’affermazione di nuovi trend nel panorama tecnologico nazionale e internazionale. Trend che sono andati a consolidarsi soprattutto nel mondo privato, ma che recentemente hanno iniziato a fare capolino anche nel panorama della pubblica amministrazione. 
 
 Queste tecnologie rappresentano oggi una nuova frontiera per la PA, che offre grandi opportunità in termini di efficientamento della macchina pubblica e di miglioramento dei servizi a cittadini e imprese, in grado di contribuire in maniera sostanziale al raggiungimento degli obiettivi di ammodernamento degli enti pubblici.
+
+|
 
 .. _h3c3d77965263074754595e369438:
 
@@ -468,6 +477,8 @@ Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più 
     Per fare questo si deve investire in competenze e formazione, favorendo lo sviluppo di iniziative di ricerca, sperimentazione e educazione. E’ necessario favorire il riconoscimento del tema e delle competenze a questo legate, come pure la collaborazione pubblico-privata in iniziative congiunte di sperimentazione e imprenditorialità.
     In questo caso la PA svolge un ruolo di regia e coordinamento: è cruciale la disponibilità e la partecipazione alla costruzione di piattaforme e protocolli condivisi nonché il contributo attivo delle agenzie pubbliche che operano nel settore.
 
+|
+
 .. _h3737707c359b52667e5945414d68:
 
 Intelligenza Artificiale
@@ -478,6 +489,8 @@ L’Intelligenza Artificiale (IA) è un paradigma che va sempre più diffondendo
 Lo sviluppo di tale strategia non potrà prescindere da alcuni elementi 
 
 L’Italia non è dunque all’anno zero, come testimoniato anche da alcuni esempi che raccontano di una PA viva e curiosa. Per accelerare sullo sviluppo di servizi 4.0, c’è bisogno di una programmazione e di una pianificazione precisa per non disperdere tempo e risorse. Ma la vera sfida si gioca sul fronte etico e sulla necessità di  orientare l’intelligenza artificiale affinché diventi strumento di uguaglianza e crescita sostenibile. 
+
+|
 
 RACCOMANDAZIONI?
 
