@@ -262,13 +262,9 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi tre anni social network, chat, siti web user-friendly hanno definito i tratti innovativi della nuova comunicazione pubblica. La PA sembra avviarsi a un rapporto costante con i cittadini e il “servizio” è il primo punto di contatto tra i due soggetti. 
+Negli ultimi tre anni social network, chat, siti web user-friendly, hanno definito i tratti innovativi della nuova comunicazione pubblica. Il rapporto tra cittadini e PA  passa, dunque, attraverso un vero rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento delle vecchie divisioni e la proposta di un lavoro da redazione unica e diffusa e il riconoscimento di un profilo unitario, quello del Giornalismo pubblico, con una nuova legge che superi la 150/2000. L’associazione PA Social ha proposto un nuovo modello organizzativo, un "Ufficio comunicazione, stampa e servizi al cittadino"
 
-è quindi sul servizio che si costruisce quella fiducia che purtroppo adesso sta sempre più cominciando a mancare e il DESI, il Digital Economy and Society Index, che è il benchmark della commissione europea per le politiche digitali, vede l'Italia negli ultimi posti per quanto riguarda l’utilizzo dei servizi digitali.
-
-Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico che non possa non prevedere un’interazione molto stretta tra le competenze interne e le risorse specialistiche esterne, tra chi si occupa di comunicazione - social media manager, social media strategist, community organizer -  e coloro che si occupano del digitale - analista dei dati, esperti di monitoraggio ex post, visual design.
-
-Le vecchie divisioni non servono più 
+Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico che non possa non prevedere un’interazione molto stretta tra le competenze interne e  risorse specialistiche esterne, tra chi si occupa di comunicazione - social media manager, social media strategist, community organizer -  coloro che si occupano del digitale - analista dei dati, esperti di monitoraggio ex post, visual design - e le nuove professioni della consultazione pubblica.
 
 |
 
