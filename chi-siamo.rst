@@ -1,8 +1,8 @@
 
-.. _h50118327b2a637b2d465611737a1744:
+.. _h5d1f665a4a1c49161e5d29235f785b12:
 
-Chi siamo
-#########
+Chi siamo, cosa facciamo
+########################
 
 
 .. admonition:: Team per la redazione del Libro bianco su “Read the Docs”
