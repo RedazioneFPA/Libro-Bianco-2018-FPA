@@ -23,6 +23,8 @@ Dall’incrocio dei dati della spesa sanitaria pro-capite 2016 e l’Euro Health
 
 In una situazione di forte divario tra quelle che sono le risorse che il sistema mette a disposizione, i bisogni sempre crescenti che la popolazione ha e la qualità percepita che ci vede decrescere al di sotto della media europea, deve inserirsi l’innovazione. Quattro le direttrici di sviluppo: 1. Rinnovamento organizzativo e tecnologico; 2. Empowerment del cittadino paziente; 3. Competenze degli operatori sanitari. 4. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
 
+|
+
 .. _h6832203f4445585a433f372157667a7c:
 
 Rinnovamento organizzativo del Sistema Sanitario italiano
@@ -35,6 +37,8 @@ Il DPCM 12 gennaio 2017 (in sostituzione del DPCM 29 novembre 2001) definisce i 
 Serve un programma politico di salvataggio, ecco le raccomandazioni su come innovare. Dovranno essere chiariti i ruoli di Ministero, Regioni e Aziende Sanitarie e i livelli di responsabilità e cooperazione. Il modello organizzativo dell’azienda sanitaria deve raccordarsi con modelli di governance del nostro sistema che oggi varia da regione a regione, serve una necessità di riorganizzazione del modello di assistenza. È necessario un coordinamento di presa delle decisioni tra il livello aziendale e sovraziendale, ad esempio, sul tema della cronicità che pone il focus sulla necessità dei bisogni di presa in carico di pazienti e sulle prestazioni sanitarie continuative.
 
 \ |STYLE2|\ 
+
+|
 
 .. _h1f2e2a401fb101e18583f591368c1b:
 
@@ -54,6 +58,8 @@ L’innovazione digitale abilita i cambiamenti organizzativi su cui spesso viene
 
 Il coinvolgimento di tutti gli attori e il superamento della logica tradizionale a silos sono condizioni prioritarie per attuare la continuità assistenziale, l’integrazione e la presa in carico del paziente e seguirlo longitudinalmente e trasversalmente nei suoi punti di accesso all'interno del SSN.
 
+|
+
 .. _h737501c1ac6b3461a77254837c59:
 
 Competenze degli operatori nella sanità
@@ -62,6 +68,8 @@ Competenze degli operatori nella sanità
 I professionisti, i medici e gli infermieri dovrebbero allargare il proprio spettro di competenze da quelle più legate alla loro professione a quelle più legate al digitale, più soft, ma anche più manageriali, secondo un approccio di Innovation Management e quindi di definizione di processi, di regole, di organizzazione, di ruoli deputati all'innovazione. 
 \ |STYLE6|\  
 
+|
+
 .. _h2a58794280632e323b465a2e5b80283b:
 
 Interazione con i soggetti del mercato dei beni e servizi per la sanità
@@ -69,12 +77,16 @@ Interazione con i soggetti del mercato dei beni e servizi per la sanità
 
 Procurement pubblico/privato
 
+|
+
 .. _h537236e402f2e20263b59351a391740:
 
 4.2 Lavoro e occupazione
 ************************
 
 [...]
+
+|
 
 .. _h385c12e21d148235e633736645a4:
 
@@ -84,6 +96,8 @@ Procurement pubblico/privato
 Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’\ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE7|\ .
 
 Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE8|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE9|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
+
+|
 
 .. _he3f663b217b472a24111e1d6e16859:
 
@@ -121,6 +135,8 @@ Un passaggio necessario è quello di ripensare l’agenda delle priorità della 
 
     Mettere in campo tutte le risorse possibili per mantenere gli impegni che le città hanno assunto nei confronti del governo e dell’Europa, quindi usare le misure complementari e i piani di rafforzamento amministrativo per dare sostegno alle città nella spesa, nel dare attuazione ai progetti presentati e approvati.
 
+|
+
 .. _h363438484644623742c5a16533b4570:
 
 Poteri locali e associazionismo comunale
@@ -136,6 +152,8 @@ La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termin
 .. admonition:: Raccomandazione 4.3h - Rilanciare l’associazionismo comunale come strumento di governo del territorio e occasione di riforma delle istituzioni
 
     Abrogare l’obbligo a carico dei comuni di esercitare in forma associata le funzioni fondamentali. Adottare politiche differenziate, di semplificazione e di sostegno dei comuni che si associano, tenendo conto delle diverse caratteristiche territoriali, economiche e sociali. Privilegiare le Unioni dei comuni e le fusioni, considerando le prime come un necessario passaggio verso le seconde che costituiscono un obiettivo primario. Favorire la volontarietà dell’associazionismo con un processo di coinvolgimento da condurre insieme con le regioni e le nuove province. Superare i limiti demografici per la costituzione di gestioni associate e individuare ambiti omogenei di natura economica e sociale, mantenendo come prevalente il criterio della contiguità territoriale; introdurre robusti meccanismi incentivanti (finanziari ma non solo) in modo da creare situazioni attrattive di effettiva convenienza.
+
+|
 
 Piattaforme e servizi per la smart city
 
@@ -172,6 +190,8 @@ cambiamenti climatici, sottoscritto da 175 Paesi ed entrato in vigore il 4 novem
 
 La priorità per il futuro è quindi l’attuazione dell’Accordo di Parigi nell’ambito del quadro sovraordinato della Strategia Nazionale per lo Sviluppo Sostenibile (SNSvS). A livello europeo, molte sono state le novità intercorse nell’ultimo anno. Il 18 aprile scorso  è stato approvato dal Parlamento Europeo il pacchetto legislativo sull’Economia Circolare. La normativa è stata pubblicata nella Gazzetta Ufficiale e dovrà essere recepita dagli Stati membri nei propri ordinamenti, entro il 5 luglio 2020.
 
+|
+
 .. _h3f1c512d481f17303468601813187d17:
 
 Strategia Nazionale Energetica (SEN)
@@ -188,7 +208,7 @@ La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefi
 
 .. admonition:: Raccomandazione 4.4b - Conferire forza al ruolo dell’Autorità di regolazione per energia, reti e ambiente
 
-    È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di \ |STYLE11|\  dello Stato rappresentata da Governo e Parlamento.
+    È opportuno riconoscere e rilanciare il compito dell’Autorità sia di creare un ambiente di mercato in cui l’informazione sia accessibile e trasparente a tutti i soggetti, sia di determinare indirizzi, strumenti efficaci e regole di attuazione della Strategia. Tale funzione è ben distinta dalla funzione di policy making dello Stato rappresentata da Governo e Parlamento.
 
 
 .. admonition:: Raccomandazione 4.4c - Mantenere forte il focus sulla sostenibilità ambientale della Strategia energetica
@@ -205,6 +225,8 @@ La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefi
 
     Oggi una politica energetica attuata in Italia ha riflessi attivi e passivi sugli altri Paesi, importando ed esportando effetti rispetto alle altre strategie europee.
 
+|
+
 .. _h4b5e1465d7f177845f1570254d5c42:
 
 Economia circolare
@@ -214,19 +236,19 @@ L'economia circolare segna il passaggio da un modello lineare di produzione a un
 
 * Riscoprire i giacimenti di materia scartata come fonte di materia prima: raccolta dei rifiuti, riciclo, riutilizzo, gestione degli output produttivi, scarti agricoli (bioeconomia);
 
-* Fine dello spreco d’uso del prodotto (\ |STYLE12|\ ), prima ancora di essere scartato. Favorire condivisione e uso collettivo, con l’introduzione di prodotti di business;
+* Fine dello spreco d’uso del prodotto (\ |STYLE11|\ ), prima ancora di essere scartato. Favorire condivisione e uso collettivo, con l’introduzione di prodotti di business;
 
-* Fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, \ |STYLE13|\ , ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
+* Fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, \ |STYLE12|\ , ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
 
 Un ampio slancio a questa economia è dato dal ruolo svolto dalla PA nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese, nel creare nuove opportunità e pratiche di condivisione. 
 
-\ |STYLE14|\ . Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571, di accordi internazionali, come l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
+\ |STYLE13|\ . Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571, di accordi internazionali, come l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
 
 Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui \ |LINK10|\ , sulle \ |LINK11|\ , sugli \ |LINK12|\  e sui \ |LINK13|\ , pensato per combinare ambientalismo e crescita economica.
 
 .. admonition:: Raccomandazione 4.4f - Recepire con rapidità le Direttive ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della responsabilità estesa di prodotto
 
-    Per il nostro Paese il recepimento delle Direttive europee comporterà un profondo rinnovamento della normativa sui rifiuti, lo sviluppo di strumenti di \ |STYLE15|\  e dei mercati di materie prime e seconde, la cooperazione tra regioni sul riciclo e sull’ottimizzazione dei rifiuti, permetterà che qualsiasi persona fisica o giuridica che sviluppi, fabbrichi, trasformi, venda o importi prodotti sia soggetto ad una responsabilità estesa del produttore.
+    Per il nostro Paese il recepimento delle Direttive europee comporterà un profondo rinnovamento della normativa sui rifiuti, lo sviluppo di strumenti di eco-design e dei mercati di materie prime e seconde, la cooperazione tra regioni sul riciclo e sull’ottimizzazione dei rifiuti, permetterà che qualsiasi persona fisica o giuridica che sviluppi, fabbrichi, trasformi, venda o importi prodotti sia soggetto ad una responsabilità estesa del produttore.
 
 
 .. admonition:: Raccomandazione 4.4g - Mappare l’esistente
@@ -278,15 +300,11 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 
 .. |STYLE10| replace:: **La Strategia Energetica Nazionale rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030**
 
-.. |STYLE11| replace:: *policy making*
+.. |STYLE11| replace:: *unused value*
 
-.. |STYLE12| replace:: *unused value*
+.. |STYLE12| replace:: *refilling*
 
-.. |STYLE13| replace:: *refilling*
-
-.. |STYLE14| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
-
-.. |STYLE15| replace:: *eco-design*
+.. |STYLE13| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
 
 
 .. |LINK1| raw:: html
