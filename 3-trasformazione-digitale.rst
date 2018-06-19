@@ -124,13 +124,13 @@ Da ultimo, il lancio di \ |LINK9|\ , il progetto per sviluppare l'app dei serviz
 
 Le azioni avviate promettono quindi di apportare un beneficio concreto in termini di miglioramento dell'offerta di servizi digitali. Sarà però fondamentale protrarre gli sforzi intrapresi in questi ultimi anni, in modo da rendere effettivi i diritti di cittadinanza digitale sanciti e ulteriormente rafforzati dal recente intervento correttivo al CAD.
 
-.. admonition:: Raccomandazione 3.2a - rilanciare le azioni in tema di usabilità e accessibilità dei servizi, sviluppando ulteriormente community, strumenti e azioni di accompagnamento a favore delle amministrazioni
+.. admonition:: Raccomandazione 3.2a - Rilanciare le azioni in tema di usabilità e accessibilità dei servizi avviate negli anni scorsi, sviluppando ulteriormente community, strumenti di supporto e azioni di accompagnamento a favore delle amministrazioni
 
     Occorre non disperdere quanto di buono fatto in questi anni sul tema della user experience dei servizi online della PA, proseguendo sulla strada tracciata negli ultimi due anni. Sarà quindi fondamentale sostenere l’ulteriore sviluppo delle le comunità di pratica aperte a sviluppatori esterni alla PA, potenziare gli strumenti di accompagnamento (tool kit) messi a disposizione delle amministrazioni e le attività di consulenza sul territorio avviate dal Team Digitale.
     Le azioni potranno essere ulteriormente migliorate attraverso una maggiore attenzione alla misurazione dei risultati ottenuti, prevedendo adeguate forme di verifica e controllo, anche attraverso i feedback con gli utenti e considerando le ottimizzazioni come parte integrante del processo evolutivo, e non solamente come il dettaglio finale non necessario.
 
 
-.. admonition:: Raccomandazione 3.2b - sviluppare servizi mobile first, utilizzando dispositivi mobili come elemento trainante per la diffusione e l’utilizzo dei servizi
+.. admonition:: Raccomandazione 3.2b - Sviluppare servizi mobile first, utilizzando i dispositivi mobili come elemento trainante per la diffusione e l’utilizzo dei servizi
 
     Secondo i dati dell’eGov Benchmark 2017, soltanto il 36% dei portali delle amministrazioni italiane forniscono servizi online attraverso interfacce adattive ai device mobili, a fronte di una media europea del 54%.
     Partire dai bisogni dell’utente vuol dire prendere definitivamente coscienza del fatto che l’accesso a internet avviene sempre meno tramite PC e sempre più tramite dispositivi come smartphone o tablet
@@ -147,7 +147,7 @@ Le azioni avviate promettono quindi di apportare un beneficio concreto in termin
     La promozione dei servizi passa anche attraverso meccanismi incentivanti che rendano i servizi online appetibili anche dal punto di vista economico. I servizi di pagamento, ad esempio, risultano quelli maggiormente utilizzati dal cittadino. Per aumentare la loro fruizione per via telematica, si potrebbe ipotizzare l’introduzione di politiche di prezzo, prevedendo un’armonizzazione delle tariffe ritoccate al rialzo e parallelamente uno sconto consistente (es. -25%) per coloro che decidono di pagare on line.
 
 
-.. admonition:: Raccomandazione 3.2e - Evangelizzare i cittadini all’utilizzo dei servizi online, accompagnandoli all’utilizzo delle tecnologie presso gli stessi sportelli fisici degli enti
+.. admonition:: Raccomandazione 3.2e - Evangelizzare i cittadini all’utilizzo dei servizi online, accompagnandoli all’utilizzo delle tecnologie con azioni di presa in carico presso gli stessi sportelli fisici degli enti e azioni di formazione mirate
 
     È necessario evangelizzare l’utenza all’utilizzo dei servizi online, sfruttando anche le possibili sinergie con i tradizionali canali di erogazione (sportelli fisici). Nel corso degli ultimi anni, alcune amministrazioni hanno avviato azioni di accompagnamento del cittadino all’uso della tecnologia per quelle categorie di utenti tradizionalmente più restie all’utilizzo dei canali digitali o maggiormente soggette a digital divide. Gli utenti vengono dagli operatori nell’utilizzo delle diverse procedure online, operando direttamente sul sistema in maniera guidata. Occorre mettere a fattor comune queste esperienze, diffondendo tali buone pratiche presso tutte le amministrazioni. Inoltre, le tradizionali iniziative di alfabetizzazione digitale, con alcune azioni di formazione potrebbero essere focalizzate in maniera specifica sull’utilizzo dei servizi online della PA.
 
