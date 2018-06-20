@@ -56,9 +56,13 @@ A ciascun tema corrisponde un paragrafo, che contiene:
 
 * una \ |STYLE7|\ , corredata da dati e statistiche relative alla situazione attuale, da una ricognizione di piani, programmi e normative sviluppare nel corso della passata legislatura e da un’analisi del loro stato di attuazione;
 
-* l’indicazione delle \ |STYLE8|\ , individuate nell’ambito dell’analisi preparatoria pre-Forum PA e approfondite nel corso dei principali appuntamenti della Manifestazione di maggio;
+* l’indicazione delle \ |STYLE8|\ , individuate dai protagonisti della community di FPA coinvolti nell’analisi preparatoria pre-Forum PA e nei principali appuntamenti della Manifestazione di maggio;
 
-* una \ |STYLE9|\  inerenti ciascuna priorità d’azione, sviluppate a margine del dibattito svolto in alcuni convegni selezionati di Forum PA 2018. Le raccomandazioni contenute in ciascun paragrafo differiscono in base al grado di maturità del tema trattato. Queste possono quindi consistere in semplici suggerimenti o “punti di attenzione”, segnalazioni di azioni auspicate, fino a vere e proprie proposte operative.
+* una \ |STYLE9|\  inerenti ciascuna priorità d’azione, sviluppate a margine del dibattito svolto in alcuni convegni selezionati di Forum PA 2018.
+
+Le raccomandazioni contenute in ciascun paragrafo differiscono tra loro in base al grado di maturità del tema trattato; possono quindi consistere in semplici suggerimenti o “punti di attenzione”, segnalazioni di azioni auspicate, o vere e proprie proposte operative.
+
+Le raccomandazioni non rappresentano necessariamente la posizione di FPA o dei membri della community coinvolti nel processo di elaborazione del documento, ma costituiscono il risultato di una lavoro di sintesi che si propone come il punto di partenza di una più ampia riflessione sulle proposte avanzate nel documento.
 
 
 .. bottom of content
