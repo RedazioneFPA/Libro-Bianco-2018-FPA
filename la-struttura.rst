@@ -22,9 +22,9 @@ I tre capitoli successivi sono invece dedicati a tre grandi \ |STYLE1|\  tematic
 
     * gestione documentale;
 
-    * procurement pubblico.
+    * procurement pubblico;
 
-* il capitolo 3 è dedicato in maniera specifica al processo di \ |STYLE3|\ , e in particolare allo stato di avanzamento dei più importanti progetti strategici dell’Agenda Digitale italiana e al percorso di attuazione principali componenti del Piano triennale per l’informatica nella PA:
+* il capitolo 3 è dedicato in maniera specifica al processo di \ |STYLE3|\ , e in particolare allo stato di avanzamento dei più importanti progetti strategici dell’Agenda Digitale italiana e al percorso di attuazione delle principali componenti del Piano triennale per l’informatica nella PA:
 
     * governance dell’innovazione;
 
@@ -38,7 +38,7 @@ I tre capitoli successivi sono invece dedicati a tre grandi \ |STYLE1|\  tematic
 
     * dati pubblici;
 
-    * tecnologie emergenti.
+    * tecnologie emergenti;
 
 * il capitolo 4 è dedicato alle principali \ |STYLE5|\  monitorate da FPA nel quadro della strategia italiana per il raggiungimento degli Obiettivi di Sviluppo Sostenibile (\ |STYLE6|\ , SDGs) sanciti dall’Agenda 2030 dell’ONU:
 
@@ -52,7 +52,14 @@ I tre capitoli successivi sono invece dedicati a tre grandi \ |STYLE1|\  tematic
 
     * istruzione e formazione.
 
-Ciascuno dei tre capitoli 
+Ciascun tema corrisponde a un paragrafo, che contiene:
+
+* una \ |STYLE7|\ , corredata da dati e statistiche relative alla situazione attuale, da una ricognizione di piani, programmi e normative sviluppare nel corso della passata legislatura e da un’analisi del loro stato di attuazione;
+
+* l’indicazione delle \ |STYLE8|\ , individuate nell’ambito dell’analisi preparatoria pre-Forum PA e approfondite nel corso dei principali appuntamenti organizzati durante la Manifestazione di maggio;
+
+* una \ |STYLE9|\  inerenti ciascuna priorità d’azione e sviluppate a margine del dibattito svolto in alcuni convegni selezionati di Forum PA 2018. Le raccomandazioni contenute in ciascun paragrafo differiscono a seconda del grado di maturità di ciascun tema. Queste possono quindi consistere in semplici suggerimenti o “punti di attenzione”, segnalazioni di azioni auspicate, fino a vere e proprie proposte operative.
+
 
 .. bottom of content
 
@@ -70,3 +77,9 @@ Ciascuno dei tre capitoli
 .. |STYLE5| replace:: *Politiche verticali per la sostenibilità*
 
 .. |STYLE6| replace:: *Sustainable Development Goals*
+
+.. |STYLE7| replace:: **sintesi dello scenario attuale**
+
+.. |STYLE8| replace:: **principali priorità su cui agire**
+
+.. |STYLE9| replace:: **lista di raccomandazioni**
