@@ -17,11 +17,11 @@
 La sostenibilità del nostro Sistema Sanitario e, soprattutto, il suo carattere universalistico sono messe alla prova dalla divaricazione tra risorse disponibili e bisogni dei cittadini. 
 Nei prossimi anni l’invecchiamento demografico e l’aumento della speranza di vita faranno lievitare la domanda di assistenza e cura: con il 21,8% dei cittadini over 65 e il 6,5% over 80, l’Italia è il Paese più vecchio in Europa, e si posiziona al secondo posto nel mondo, preceduto solo dal Giappone. La bassa natalità è destinata a peggiorare la situazione: si prevede che nel 2050 gli anziani sopra i 65 anni saranno il 34,6% della popolazione, mentre gli ultraottantenni raggiungeranno quota 14,9%. A ciò si aggiunge che l’aspettativa di vita in buona salute all’età di 65 anni in Italia è tra le più basse nei paesi OCSE, con 7,5 anni senza disabilità per le donne e circa 7,8 anni per gli uomini. 
 
-\ |IMG1|\ 
+inserire foto italiani sempre più anziani
 
 A fronte di questo la spesa sanitaria pubblica, negli ultimi anni, è stata praticamente stabile, ma è cresciuta la componente a carico delle famiglie: nel 2016 in Italia sono stati spesi circa 150 miliardi di euro per la Sanità, di cui circa 112 a carico del Sistema Sanitario Nazionale e 37 di “out of pocket” e a carico di assicurazione private. Si tratta di una cifra complessiva apparentemente enorme, ma in realtà moderata se rapportata al PIL e confrontata con altri Paesi europei: infatti, rappresenta “appena” l’8,9% del reddito nazionale, una percentuale decisamente inferiore a quella di altri Paesi come Germania (11,3%), Francia (11%) e Regno unito (9,7%). Occorre, inoltre, sottolineare che tale spesa è stata pressoché stabile negli ultimi anni (nel 2012 la spesa complessiva era di 144,5 miliardi, di cui 34 privata) ma che la spesa out of pocket ha aumentato la sua incidenza sul totale. Se, come risulta da stime recenti, la spesa sanitaria nazionale dovesse salire nel 2025 a 210 miliardi di euro, una larga parte degli ulteriori 60 miliardi necessari a coprire tale fabbisogno potrebbe essere a carico delle famiglie: molte di esse, anche nel cosiddetto ceto medio, si troverebbero nella sostanziale impossibilità di accedere alle cure, producendo fenomeni preoccupanti di disuguaglianza e degrado sociale. I dati Eurostat relativi al 2016 mostrano, infatti, come oltre il 20% della popolazione abbia avuto difficoltà elevata o moderata nel permettersi le cure.
 
-\ |IMG2|\ 
+inserire foto spesa sanitaria
 
 L’equilibrio necessario non potrà essere raggiunto penalizzando la qualità dei servizi sanitari.  Invece, secondo l’ultimo rapporto Euro Health Consumer Index, l’Italia è passata, tra il 2010 e il 2017, dal 14° al 22° posto delle 35 nazioni censite a livello europeo per performance del sistema sanitario: siamo tra i peggiori Paesi per accessibilità ai servizi e tempi di attesa, gestione dei pazienti anziani sul territorio e possibilità di offrire cure di nuova generazione. 
 In questa situazione di forte divario tra risorse disponibili e bisogni crescenti della popolazione l’unica risposta è l’innovazione indirizzata a:
@@ -48,7 +48,7 @@ Occorre:
 
 * Mettere in rete i care-giver, anche informali (badanti) e curarne la formazione.
 
-* Consolidare la collaborazione orizzontale tra ASL. AO, AOU ripensando in digitale i processi attuali e condividendo saperi e esperienze (repository condivisi di progetti, soluzioni…).
+* Consolidare la collaborazione orizzontale tra ASL, AO, AOU ripensando in digitale i processi attuali e condividendo saperi e esperienze (repository condivisi di progetti, soluzioni…).
 
 \ |STYLE1|\ 
 
@@ -467,11 +467,3 @@ Secondo i dati forniti dall’Osservatorio digitale del Miur sono più di 8.000 
 
     <a href="http://data.consilium.europa.eu/doc/document/PE-9-2018-INIT/en/pdf" target="_blank">veicoli fuori uso</a>
 
-
-.. |IMG1| image:: static/4-politiche-sostenibilita_1.jpeg
-   :height: 304 px
-   :width: 601 px
-
-.. |IMG2| image:: static/4-politiche-sostenibilita_2.jpeg
-   :height: 309 px
-   :width: 582 px
