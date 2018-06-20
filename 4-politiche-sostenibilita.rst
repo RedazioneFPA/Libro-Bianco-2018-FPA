@@ -33,41 +33,65 @@ In questa situazione di forte divario tra risorse disponibili e bisogni crescent
 
 \ |STYLE0|\ 
 Occorre:
-•	Riorganizzare, basandosi anche sugli strumenti digitali disponibili, l’integrazione delle AO e AOU con le iniziative socio-assistenziali
-•	Potenziare le equipe territoriali e il ruolo dell’infermiere di territorio 
-•	Riorganizzare la rete della medicina di prossimità, promuovendo l’integrazione e la collaborazione dei MMG e dei PLS con le ASL, AO e AOU (sviluppo e diffusione di strumenti di condivisione delle informazioni come Cartella Clinica Elettronica, FSE)
-•	Costruire un modello di presa in carico in cui l'azienda sanitaria svolga un ruolo di regia e integrazione tra gli attori che operano con il cittadino, utilizzando le tecnologie per il telemonitoraggio, la telemedicina, la teleassistenza 
-•	Mettere in rete i care-giver, anche informali (badanti) e curarne la formazione
-•	Consolidare la collaborazione orizzontale tra ASL. AO, AOU ripensando in digitale i processi attuali e condividendo saperi e esperienze (repository condivisi di progetti, soluzioni…)
+
+* Riorganizzare, basandosi anche sugli strumenti digitali disponibili, l’integrazione delle AO e AOU con le iniziative socio-assistenziali
+
+* Potenziare le equipe territoriali e il ruolo dell’infermiere di territorio 
+
+* Riorganizzare la rete della medicina di prossimità, promuovendo l’integrazione e la collaborazione dei MMG e dei PLS con le ASL, AO e AOU (sviluppo e diffusione di strumenti di condivisione delle informazioni come Cartella Clinica Elettronica, FSE)
+
+* Costruire un modello di presa in carico in cui l'azienda sanitaria svolga un ruolo di regia e integrazione tra gli attori che operano con il cittadino, utilizzando le tecnologie per il telemonitoraggio, la telemedicina, la teleassistenza 
+
+* Mettere in rete i care-giver, anche informali (badanti) e curarne la formazione
+
+* Consolidare la collaborazione orizzontale tra ASL. AO, AOU ripensando in digitale i processi attuali e condividendo saperi e esperienze (repository condivisi di progetti, soluzioni…).
 
 \ |STYLE1|\ 
 
 Il patrimonio di dati preziosissimi destinati a crescere per mole e rilevanza rischia a causa della digitalizzazione ancora parziale e disomogenea del nostro SSN di rilevarsi nei fatti non disponibile o inutilizzabile. In questo modo si penalizza l’appropriatezza terapeutica e si agisce con ritardo e poca incisività su sprechi e possibili abusi. I dati ci servono per migliorare le performance ed il modello di funzionamento degli Enti del SSN. 
 Occorre:
-•	Stabilire processi e policy di Data Governance per avere dati di qualità ed efficienza nella loro gestione
-•	Creare un mix di competenze, favorendo la cooperazione strutturata di data scientist con i leader del cambiamento, i process owner e gli esperti di dominio
+
+* Stabilire processi e policy di Data Governance per avere dati di qualità ed efficienza nella loro gestione
+
+* Creare un mix di competenze, favorendo la cooperazione strutturata di data scientist con i leader del cambiamento, i process owner e gli esperti di dominio
 
 \ |STYLE2|\ 
 
-Il cittadino deve essere sempre più al centro del Sistema Sanitario, attivo e partecipe nella corretta gestione della propria salute. Anche in questo ambito il digitale può giocare un ruolo fondamentale
+Il cittadino deve essere sempre più al centro del Sistema Sanitario, attivo e partecipe nella corretta gestione della propria salute. Anche in questo ambito il digitale può giocare un ruolo fondamentale.
+
 Riguardo l’accesso ai servizi:
-•	Attuare un approccio multicanale, tradizionale e digitale (incrementare la diffusione di SPID, attraverso la consegna di credenziali presso le strutture di cura o indagine diagnostica)
-•	Semplificare l’accesso reso difficile da interpretazione rigida e formale della protezione dei dati personali  
-•	Adottare tecnologie (es. app) il più possibile simili a quelle d’uso comune
-•	Accelerare il processo di diffusione del FSE (con PDTA integrati)
+
+* Attuare un approccio multicanale, tradizionale e digitale (incrementare la diffusione di SPID, attraverso la consegna di credenziali presso le strutture di cura o indagine diagnostica);
+
+* Semplificare l’accesso reso difficile da interpretazione rigida e formale della protezione dei dati personali;  
+
+* Adottare tecnologie (es. app) il più possibile simili a quelle d’uso comune;
+
+* Accelerare il processo di diffusione del FSE (con PDTA integrati).
+
 Riguardo la comunicazione:
-•	Spostare la comunicazione circa i servizi offerti e la prevenzione dai siti internet degli Enti agli strumenti che i cittadini ritengono propri (Social network)
-•	Profilazione degli assistiti (cfr. raccomandazione dati) per personalizzare l'informazione, la comunicazione, i canali
+
+* Spostare la comunicazione circa i servizi offerti e la prevenzione dai siti internet degli Enti agli strumenti che i cittadini ritengono propri (Social network);
+
+* Profilazione degli assistiti (cfr. raccomandazione dati) per personalizzare l'informazione, la comunicazione, i canali.
 
 \ |STYLE3|\ 
 
 La spesa digitale in Sanità è frammentata e cresce con lentezza.  Le complicazioni introdotte dalle norme sulla trasparenza; dal nuovo codice degli appalti; a volte, la scarsa conoscenza di strumenti di acquisto innovativi (Procedure competitive con negoziazione, Nuovo dialogo competitivo, Partenariato per l’innovazione) da parte delle funzioni aziendali responsabili ha prodotto una burocrazia difensiva che, di fronte a troppe norme non definite, si astiene dal prendere decisioni che possano comportare rischi. Tali vincoli normativi sono incompatibili con chi deve erogare servizi sanitari e con il mandato delle Direzioni Aziendali.
-•	Diffondere l’uso intelligentemente delle convenzioni Consip: SGI e SPC
-•	Far precedere le Gare Consip da una fase di analisi dei fabbisogni contestualizzata sui processi standardizzabili in modo da creare le condizioni per un utilizzo uniforme/focalizzato delle convenzioni 
-•	Creare catalogo delle soluzioni e Certificazione soluzioni (Ministero della Salute, AGID, FIASO, FederSanità, Agenas, ASSINTER, UniIndustria, Confindustria Digitale…)
-•	Realizzare un Osservatorio nazionale dei prezzi
-•	Sviluppare competenze all’interno delle Centrali acquisti (ma anche all’interno di Regioni, ASL, AO, AOU) e favorire l’integrazione tra le figure preposte nelle Organizzazioni all’innovazione con la funzione acquisti.
-•	Redarre manuali operativi per indicare come si utilizzano gli strumenti di procurement innovativo (sottoporre proposta ad ANAC e Corte dei Conti)
+
+* Diffondere l’uso intelligentemente delle convenzioni Consip: SGI e SPC
+
+* Far precedere le Gare Consip da una fase di analisi dei fabbisogni contestualizzata sui processi standardizzabili in modo da creare le condizioni per un utilizzo uniforme/focalizzato delle convenzioni. 
+
+* Creare catalogo delle soluzioni e Certificazione soluzioni (Ministero della Salute, AGID, FIASO, FederSanità, Agenas, ASSINTER, UniIndustria, Confindustria Digitale…).
+
+* Realizzare un Osservatorio nazionale dei prezzi.
+
+* Sviluppare competenze all’interno delle Centrali acquisti (ma anche all’interno di Regioni, ASL, AO, AOU) e favorire l’integrazione tra le figure preposte nelle Organizzazioni all’innovazione con la funzione acquisti.
+
+* Redigere manuali operativi per indicare come si utilizzano gli strumenti di procurement innovativo (sottoporre proposta ad ANAC e Corte dei Conti).
+
+|
 
 .. _h537236e402f2e20263b59351a391740:
 
@@ -75,6 +99,11 @@ La spesa digitale in Sanità è frammentata e cresce con lentezza.  Le complicaz
 ************************
 
 I dati ISTAT mostrano che un tasso di occupazione al 58%, il livello più alto dal 2009, pur "rimanendo 0,7 punti al di sotto del picco del 2008", il valore massimo pre-crisi. Lo stesso discorso vale per il numero di occupati, che sono risultati 23 milioni e 23 mila (con una crescita dell'1,2%, ovvero 265 mila persone in più al lavoro). L'aumento della presenza al lavoro "per il secondo anno consecutivo coinvolge anche i giovani di 15-34 anni, fascia di età in cui gli occupati sono saliti di 45mila unità (+0,9%). \ |STYLE4|\ : Nord, Centro e Sud mostrano infatti tutti un'occupazione in recupero, tuttavia mentre nel Centro-Nord il tasso di occupazione raggiunge livelli pressoché analoghi a quelli del 2008, arrivando al 66,7% nel Nord e 62,8% nel Centro, nel Mezzogiorno l'indicatore è ancora al di sotto del 2008 di 2,0 punti (44,0%). Il tasso di disoccupazione è sceso nel 2017 di 0,5 punti percentuali, dall'11,7% all'11,2% dell'anno precedente: si tratta del livello più basso dal 2013. Calano anche gli inattivi (coloro che non cercano né hanno occupazione). La discesa della disoccupazione "è più forte per i più giovani in confronto ai 35-49enni mentre per gli ultra 50enni aumenta sia il numero di disoccupati sia il tasso di disoccupazione".
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h6f18b668701d1e14511e767856665d:
 
@@ -85,7 +114,7 @@ Secondo Eurostat, nel 2017 i NEET italiani (\ |STYLE5|\ ) sono il 25,7%, dieci p
 
 L’ANPAL ha provveduto a istituire il nuovo “Incentivo Occupazione Giovani” per promuovere l’occupazione dei NEET di età compresa tra i 16 e i 29 anni che hanno aderito al programma. Si tratta di una misura rivolta ai datori di lavoro che effettuino assunzioni di giovani da gennaio 2017 a dicembre 2018, con contratto a tempo indeterminato (anche \ |STYLE7|\ ), contratto di apprendistato professionalizzante o contratto a tempo determinato della durata di almeno 6 mesi. Le risorse stanziate ammontano a circa 200 milioni di euro e sono indirizzate a tutto il territorio nazionale, ad eccezione della Provincia Autonoma di Bolzano. A fine giugno 2017 le domande presentate erano state quasi 50.000, di cui oltre il 60% sono state confermate.
 
-Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Sociali ha previsto un conguaglio contributivo per i datori di lavoro che, nel corso del 2017, senza esservi tenuti, assumano giovani di età compresa tra i 15 e i 24 anni, o alternativamente soggetti di età superiore ai 25 anni privi di impiego regolarmente retribuito da almeno 6 mesi. La sede di lavoro deve essere localizzata in una delle regioni del Sud e il rapporto di lavoro deve necessariamente essere instaurato attraverso un contratto a tempo indeterminato o di apprendistato professionalizzante.
+Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Sociali ha previsto un conguaglio contributivo per i datori di lavoro che, nel corso del 2017, senza esservi tenuti, assumano giovani di età compresa tra i 15 e i 24 anni, o alternativamente soggetti di età superiore ai 25 anni privi d'impiego regolarmente retribuito da almeno 6 mesi. La sede di lavoro deve essere localizzata in una delle regioni del Sud e il rapporto di lavoro deve necessariamente essere instaurato attraverso un contratto a tempo indeterminato o di apprendistato professionalizzante.
 
 .. _h30466d3fa51716603e3e2b5a24c:
 
