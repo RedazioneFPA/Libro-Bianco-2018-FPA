@@ -36,10 +36,7 @@ I risultati emersi sono stati raccolti in questa prima versione Libro Bianco, al
 
 |
 
-.. _h1d4b77b6626776b6a5240597d5b6d9:
-
-Consultazione pubblica
-----------------------
+\ |STYLE5|\ 
 
 Il libro bianco non è il punto di arrivo, ma rappresenta il tassello iniziale di un percorso di confronto che proseguirà per il tutto 2018.
 
@@ -47,7 +44,7 @@ Il Libro Bianco viene infatti posto in consultazione, in un’ottica di aggiorna
 
 Una prima fase di consultazione, avviata il 21 giugno 2018 e finalizzata a validare il lavoro di rielaborazione svolto da FPA, ha visto il coinvolgimento di una platea ristretta composta da:
 
-* contributori della rubrica \ |STYLE5|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
+* contributori della rubrica \ |STYLE6|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
 
 * moderatori e relatori dei convegni di FORUM PA 2018 finalizzati all’elaborazione delle Raccomandazioni.
 
@@ -69,7 +66,9 @@ A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione 
 
 .. |STYLE4| replace:: **raccomandazioni**
 
-.. |STYLE5| replace:: *Caro governo*
+.. |STYLE5| replace:: **Consultazione pubblica**
+
+.. |STYLE6| replace:: *Caro governo*
 
 
 .. |LINK1| raw:: html
