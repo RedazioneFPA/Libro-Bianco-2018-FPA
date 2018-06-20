@@ -17,7 +17,7 @@ Il Libro bianco sull'innovazione è la raccolta di  ………………… (\ |ST
     :maxdepth: 2
     :caption: Introduzione
 
-    #InnovationFirst
+    InnovationFirst
 
 
 .. toctree::  
