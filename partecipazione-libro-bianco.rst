@@ -4,7 +4,7 @@
 Partecipa alla redazione del Libro bianco
 #########################################
 
-Il Libro bianco dell'innovazione della Pubblica Amministrazione è in consultazione per un ampia condivisione.
+Il Libro bianco sull'innovazione della Pubblica Amministrazione è in consultazione per un ampia condivisione.
 
 Al fine di offrire la possibilità di partecipazione è stata predisposta una modalità di interazione da parte degli utenti attraverso l'uso dello strumento \ |LINK1|\  curato dal team \ |LINK2|\ . 
 
