@@ -34,7 +34,7 @@ In questa fase delicata di cambiamento di Legislatura e di Governo appare quanto
 
 .. admonition:: Raccomandazione 2.1a - Adottare una drastica riduzione della produzione normativa in tema di pubblica amministrazione, concentrandosi invece su semplificazione e azioni di accompagnamento
 
-    Si chiede al nuovo Governo una moratoria legislativa sui temi della pubblica amministrazione. Basta leggi, o almeno si pratichi una drastica riduzione lasciando solo i provvedimenti che servano a ridurre altre leggi, a diminuire significativamente gli adempimenti, a semplificare i procedimenti e tagliare gli oneri amministrativi in un’azione di semplificazione che richiede tenace pazienza. Non è tempo questo di nuove norme, ma di manuali, di azioni di accompagnamento e di “cura” delle riforme. In particolare per un tema così delicato, come il lavoro pubblico, che interessa la professionalità e la vita stessa di oltre tre milioni di cittadini, è importante impegnarsi in un lavoro continuo orientato alla crescita delle persone in un clima di ritrovata fiducia: fiducia della politica verso l’amministrazione, dei lavoratori pubblici verso la politica, dei cittadini verso entrambi.
+    Si chiede al nuovo Governo una moratoria legislativa sui temi della Pubblica Amministrazione. Basta leggi, o almeno si pratichi una drastica riduzione lasciando solo i provvedimenti che servano a ridurre altre leggi, a diminuire significativamente gli adempimenti, a semplificare i procedimenti e tagliare gli oneri amministrativi in un’azione di semplificazione che richiede tenace pazienza. Non è tempo questo di nuove norme, ma di manuali, di azioni di accompagnamento e di “cura” delle riforme. In particolare per un tema così delicato, come il lavoro pubblico, che interessa la professionalità e la vita stessa di oltre tre milioni di cittadini, è importante impegnarsi in un lavoro continuo orientato alla crescita delle persone in un clima di ritrovata fiducia: fiducia della politica verso l’amministrazione, dei lavoratori pubblici verso la politica, dei cittadini verso entrambi.
 
 
 .. admonition:: Raccomandazione 2.1b - Valorizzare le buone pratiche realizzate dagli enti italiani e promuoverne la diffusione
@@ -237,7 +237,7 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
     L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE11|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della tradizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD.
     
-    La relazione finale della \ |LINK1|\  della PA ha evidenziato il grave ritardo delle PA nel rispetto di tale adempimento. Nella prossima legislatura sarà fondamentale monitorare e promuovere l’attuazione alla previsione dell’art 17 del CAD, almeno nelle amministrazioni più grandi.
+    La \ |LINK1|\  della \ |LINK2|\  della PA ha evidenziato il grave ritardo delle PA nel rispetto di tale adempimento. Nella prossima legislatura sarà fondamentale monitorare e promuovere l’attuazione alla previsione dell’\ |LINK3|\ , almeno nelle amministrazioni più grandi.
     
     Nelle amministrazioni più piccole, dove questo modello pare inapplicabile a causa della carenza di competenze e risorse, bisognerà invece promuovere la forma associata per lo svolgimento delle funzioni del responsabile per la transizione al digitale, come previsto dallo stesso art. 17 del CAD.
 
@@ -255,9 +255,9 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 Smart working
 =============
 
-Lo \ |STYLE15|\  (o Lavoro Agile) è una modalità di esecuzione del rapporto di lavoro subordinato caratterizzato dall'assenza di vincoli orari o spaziali e un'organizzazione per fasi, cicli e obiettivi, stabilita mediante accordo tra dipendente e datore di lavoro; una modalità che aiuta il lavoratore a conciliare i tempi di vita e lavoro e, al contempo, favorire la crescita della sua produttività. La \ |LINK2|\  fornisce una definizione puntuale del Lavoro Agile disciplinandone gli aspetti legati all’adozione all’interno delle organizzazioni. È un cambiamento che necessita l’adozione di un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative, accompagnando il cambiamento culturale a tutti i livelli. Lo \ |STYLE16|\  rappresenta, dunque, un nuovo approccio manageriale, nel modo di lavorare e collaborare all’interno di una organizzazione, basato su flessibilità organizzativa, autonomia e responsabilizzazione.
+Lo \ |STYLE15|\  (o Lavoro Agile) è una modalità di esecuzione del rapporto di lavoro subordinato caratterizzato dall'assenza di vincoli orari o spaziali e un'organizzazione per fasi, cicli e obiettivi, stabilita mediante accordo tra dipendente e datore di lavoro; una modalità che aiuta il lavoratore a conciliare i tempi di vita e lavoro e, al contempo, favorire la crescita della sua produttività. La \ |LINK4|\  fornisce una definizione puntuale del Lavoro Agile disciplinandone gli aspetti legati all’adozione all’interno delle organizzazioni. È un cambiamento che necessita l’adozione di un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative, accompagnando il cambiamento culturale a tutti i livelli. Lo \ |STYLE16|\  rappresenta, dunque, un nuovo approccio manageriale, nel modo di lavorare e collaborare all’interno di una organizzazione, basato su flessibilità organizzativa, autonomia e responsabilizzazione.
 
-L’art. 14 della legge Madia introduce la possibilità per le pubbliche amministrazioni di sperimentare nuove modalità spazio-temporali di svolgimento del lavoro. Allo stesso modo, la \ |LINK3|\  sullo \ |STYLE17|\  fornisce le Linee Guida di attuazione della legge Madia, fissando modalità e criteri di utilizzo dell’istituto, e ponendo l’obiettivo di consentire ad almeno il 10% dei dipendenti pubblici, ove lo richiedano, di avvalersi delle nuove modalità spazio-temporali di svolgimento della prestazione lavorativa. 
+L’art. 14 della legge Madia introduce la possibilità per le pubbliche amministrazioni di sperimentare nuove modalità spazio-temporali di svolgimento del lavoro. Allo stesso modo, la \ |LINK5|\  sullo \ |STYLE17|\  fornisce le Linee Guida di attuazione della legge Madia, fissando modalità e criteri di utilizzo dell’istituto, e ponendo l’obiettivo di consentire ad almeno il 10% dei dipendenti pubblici, ove lo richiedano, di avvalersi delle nuove modalità spazio-temporali di svolgimento della prestazione lavorativa. 
 
 Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework moderno e in alcuni casi più avanzato di quelli presenti anche in altri Paesi europei e costituisce un passo avanti nella diffusione dello \ |STYLE18|\  in Italia. Contestualmente, si registra ancora la mancanza di una trasposizione concreta nella struttura organizzativa amministrativa. 
 
@@ -310,7 +310,7 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
 
 .. admonition:: Raccomandazione 2.2h - E’ necessario creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale
 
-    Nel capitolo sulla \ |LINK4|\  è stata ribadita la necessità di coordinamento tra soggetti diversi nel ruolo, nella funzione e nell’organizzazione. A fare da raccordo tra questi l’Agenzia per l’Italia digitale, che ha il compito di guidare le attività relative all’evoluzione strategica del sistema informativo della pubblica amministrazione.
+    Nel capitolo sulla \ |LINK6|\  è stata ribadita la necessità di coordinamento tra soggetti diversi nel ruolo, nella funzione e nell’organizzazione. A fare da raccordo tra questi l’Agenzia per l’Italia digitale, che ha il compito di guidare le attività relative all’evoluzione strategica del sistema informativo della pubblica amministrazione.
     
     AgID, infatti, promuove la diffusione delle competenze digitali per imprese, cittadini e pubblica amministrazione, e supporta la crescita delle competenze digitali nei diversi ambiti, con iniziative specifiche che coinvolgono:
     
@@ -320,7 +320,7 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
     
     #. le competenze di e-leadership (dirigenza)
     
-    Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017 la sperimentazione di auto-valutazione (self-assessment) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello \ |LINK5|\  per gli utenti amministrativi (il modello è stato recentemente \ |LINK6|\  nella sua versione aggiornata dal Team Digitale). 
+    Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017 la sperimentazione di auto-valutazione (self-assessment) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello \ |LINK7|\  per gli utenti amministrativi (il modello è stato recentemente \ |LINK8|\  nella sua versione aggiornata dal Team Digitale). 
     
 
 
@@ -343,11 +343,11 @@ L’applicazione del principio di sussidiarietà orizzontale, contenuto all’ul
 
 Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, \ |STYLE28|\ . Dal punto di vista normativo,oggi sono disponibili tre modalità di accesso: 
 
-#. Accesso agli atti (\ |LINK7|\ );
+#. Accesso agli atti (\ |LINK9|\ );
 
-#. Accesso civico (\ |LINK8|\ ); 
+#. Accesso civico (\ |LINK10|\ ); 
 
-#. Accesso generalizzato previsto dal \ |LINK9|\ . 
+#. Accesso generalizzato previsto dal \ |LINK11|\ . 
 
 Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amministrazioni, responsabili della messa a disposizione dei dati. A questo si aggiunge la \ |STYLE29|\  al di là delle prescrizioni di legge, che favorisca l’emergere di nuove opportunità per conoscere se stesse in relazione ad altre. 
 
@@ -419,9 +419,32 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi tre anni social network, chat, siti web user-friendly, hanno definito i tratti innovativi della nuova comunicazione pubblica. Il rapporto tra cittadini e PA  passa, dunque, attraverso un vero rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso e il riconoscimento di un profilo unitario, quello del giornalista pubblico, con una nuova legge che superi la 150/2000. L’associazione PA Social ha proposto un nuovo modello organizzativo, un "Ufficio comunicazione, stampa e servizi al cittadino"
+Negli ultimi anni l’accelerazione imposta dal digitale - social network, chat, siti web user-friendly – ha definito i tratti innovativi della nuova comunicazione pubblica. 
+Il rapporto tra cittadini e PA deve necessariamente passare attraverso un rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento di una cornice normativa rimasta immutata, quella della legge 150/2000, che ha vissuto in questi 18 anni un lento percorso di attuazione, nonostante contenesse le premesse per una comunicazione capace di rispondere all’esigenza di informare i cittadini.
 
-Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico che non possa non prevedere un’interazione molto stretta tra le competenze interne e  risorse specialistiche esterne, tra chi si occupa di comunicazione - social media manager, social media strategist, community organizer -  coloro che si occupano del digitale - analista dei dati, esperti di monitoraggio ex post, visual design - e le nuove professioni della consultazione pubblica.
+L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel decreto legislativo n. 97 del 2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del decreto 33 del 2013; raccomanda l’uso sistematico e professionale dei social media. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i social network per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
+Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e Istruzione e Ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. È stata anche firmata una dichiarazione congiunta tra Federazione nazionale della Stampa italiana e l’Aran - Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni -  in cui è stato ribadito che le attività relative all’informazione della pubblica amministrazione (come l'adesione alla Casagit, all’Inpgi) doveno essere gestite con le associazioni di categoria (sindacato e giornalisti). Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione.
+
+Il lavoro sulla qualità dei servizi e delle informazioni e sulla qualità del rapporto con il cittadino porta con sé l’esigenza di ripensare ai nuovi linguaggi e alla grammatica dei siti. L’Agenzia per l’Italia digitale ha fornito \ |LINK13|\ , ora in consultazione.
+
+Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK14|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente web analytics, test usabilità, \ |LINK15|\ .
+
+La sfida del cambiamento è stata affrontata da alcune realtà associative come PASocial, che ha proposto lo scorso anno un \ |LINK16|\ , un modello agile applicabile a leggi vigenti, e modulabile sulla struttura di qualsiasi ente e territorio di riferimento. La prima raccomandazione riguarda un nuovo modello organizzativo.
+
+\ |STYLE33|\ . 
+Le richieste dei cittadini impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso e il riconoscimento di un profilo unitario, quello del giornalista pubblico;
+
+\ |STYLE34|\ . 
+Occorre non solo il riconoscimento di nuove figure professionali e di un nuovo modello orgarganizzativo per garantire all’ente la necessaria cultura al cambiamento e la reale attuazione dell’open government.  I tempi sono ormai maturi per considerare approcci nuovi anche per la comunicazione interna, nuovi modelli di lavoro agile, nuovi metodi di formazione continua, nuovi criteri di valutazione basati su reali indicatori di qualità.
+
+\ |STYLE35|\ . 
+L’Autorità sui compiti di regolazione ha esplicite competenze nell’ambito del mainstream, nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’hate speech e alle fake news).
+
+\ |STYLE36|\ . 
+Deve sapersi concentrare sulle persone e scardinare l’eccesso di burocrazia che ancora inquina princìpi gestionali e modelli organizzativi pubblici: per questo deve potersi sorreggere su una comunicazione basata su nuovi schemi, nuovi ruoli, nuovi compiti, nuove professionalità. 
+
+\ |STYLE37|\ 
+Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del civic hacking.
 
 |
 
@@ -430,13 +453,13 @@ Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare
 2.5 Gestione documentale
 ************************
 
-Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE33|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
+Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE38|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
 
-* il \ |LINK10|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
+* il \ |LINK17|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
 
-* Ia \ |LINK11|\  del Ministro per la semplificazione e la PA per l’attuazione delle norme sull’accesso civico generalizzato (FOIA): le Linee Guida che offrono un supporto concreto agli enti, sciogliendo dubbi interpretativi e proponendo (all’Allegato 3. Modalità di realizzazione del registro degli accessi) soluzioni tecniche basate sul riuso delle infrastrutture di protocollo esistenti, individuando scenari di varia complessità, ma tutti caratterizzati dal principio dell’integrazione e dell’interoperabilità; 
+* Ia \ |LINK18|\  del Ministro per la semplificazione e la PA per l’attuazione delle norme sull’accesso civico generalizzato (FOIA): le Linee Guida che offrono un supporto concreto agli enti, sciogliendo dubbi interpretativi e proponendo (all’Allegato 3. Modalità di realizzazione del registro degli accessi) soluzioni tecniche basate sul riuso delle infrastrutture di protocollo esistenti, individuando scenari di varia complessità, ma tutti caratterizzati dal principio dell’integrazione e dell’interoperabilità; 
 
-* l’articolo 40-ter del \ |LINK12|\  “Sistema di ricerca documentale”, finalizzato a sperimentare un sistema “volto a facilitare la ricerca dei documenti soggetti a registrazione di protocollo” e “dei fascicoli dei procedimenti”.
+* l’articolo 40-ter del \ |LINK19|\  “Sistema di ricerca documentale”, finalizzato a sperimentare un sistema “volto a facilitare la ricerca dei documenti soggetti a registrazione di protocollo” e “dei fascicoli dei procedimenti”.
 
 |
 
@@ -494,7 +517,7 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 2.6 Procurement pubblico
 ************************
 
-Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK13|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK14|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
+Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK20|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK21|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
 
 |
 
@@ -559,7 +582,7 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. admonition:: Raccomandazione 2.6e - Dato un primo coinvolgimento degli stakeholders del territorio al dibattito, si auspica l’apertura a un numero maggiore di cittadini nelle fasi successive del dibattito stesso
 
-    La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come, ad esempio, previsto all’art. 8, comma 1.b, della \ |LINK15|\ .
+    La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come, ad esempio, previsto all’art. 8, comma 1.b, della \ |LINK22|\ .
 
 
 .. bottom of content
@@ -631,66 +654,104 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE32| replace:: **dal punto di vista pratico è ancora molto difficile individuare modalità coordinate di applicazione delle norme**
 
-.. |STYLE33| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
+.. |STYLE33| replace:: **Serve un modello organizzativo unico**
+
+.. |STYLE34| replace:: **La comunicazione deve acquisire dignità nel sistema pianificatoria degli enti pubblici e occupare il giusto ruolo nel processo e negli obiettivi generali di performance**
+
+.. |STYLE35| replace:: **Si auspica un aggiornamento delle competenze su cui l'Autorità per le Garanzie nelle Comunicazioni è chiamata a operare**
+
+.. |STYLE36| replace:: **L’intera organizzazione pubblica deve sapersi adattare velocemente alle trasformazioni sociali e tecnologiche**
+
+.. |STYLE37| replace:: **Serve una nuova legge sulla comunicazione**
+
+.. |STYLE38| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
 
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.camera.it/leg17/436?shadow_organo_parlamentare=2708" target="_blank">Commissione parlamentare di inchiesta sulla digitalizzazione</a>
+    <a href="https://relazione-commissione-digitale.readthedocs.io" target="_blank">relazione finale</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.gazzettaufficiale.it/eli/id/2017/06/13/17G00096/sg" target="_blank">legge 81/2017</a>
+    <a href="http://www.camera.it/leg17/436?shadow_organo_parlamentare=2708" target="_blank">Commissione parlamentare di inchiesta sulla digitalizzazione</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/direttiva-n-3-del-2017-materia-di-lavoro-agile" target="_blank">Direttiva 3/2017</a>
+    <a href="https://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art17.html" target="_blank">art 17 del CAD</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/10_gestione-del-cambiamento.html" target="_blank">Gestione del cambiamento del Piano Triennale</a>
+    <a href="http://www.gazzettaufficiale.it/eli/id/2017/06/13/17G00096/sg" target="_blank">legge 81/2017</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC106281/web-digcomp2.1pdf_(online).pdf" target="_blank">DigCOMP 2.1</a>
+    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/direttiva-n-3-del-2017-materia-di-lavoro-agile" target="_blank">Direttiva 3/2017</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/sezione2.html" target="_blank">tradotto in italiano</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/10_gestione-del-cambiamento.html" target="_blank">Gestione del cambiamento del Piano Triennale</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.gazzettaufficiale.it/eli/id/1990/08/18/090G0294/sg" target="_blank">legge sul procedimento amministrativo</a>
+    <a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC106281/web-digcomp2.1pdf_(online).pdf" target="_blank">DigCOMP 2.1</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.gazzettaufficiale.it/eli/id/2013/04/05/13G00076/sg" target="_blank">D.lgs. n. 33/2013</a>
+    <a href="http://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/sezione2.html" target="_blank">tradotto in italiano</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97" target="_blank">FOIA</a>
+    <a href="http://www.gazzettaufficiale.it/eli/id/1990/08/18/090G0294/sg" target="_blank">legge sul procedimento amministrativo</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/" target="_blank">Piano Triennale</a>
+    <a href="http://www.gazzettaufficiale.it/eli/id/2013/04/05/13G00076/sg" target="_blank">D.lgs. n. 33/2013</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/circolare-n-2-2017-attuazione-delle-norme-sull%E2%80%99accesso-civico" target="_blank">circolare 2/2017</a>
+    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97" target="_blank">FOIA</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">CAD</a>
+    <a href="http://open.gov.it/wp-content/uploads/2017/02/2017.01.12-Terzo-Piano-Azione-Nazionale-OGP-Finale-definitivo.pdf" target="_blank">3° Piano d’azione Open Government In Italia (2016 – 2018)</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://ec.europa.eu/transparency/regdoc/rep/1/2017/IT/COM-2017-572-F1-IT-MAIN-PART-1.PDF" target="_blank">Appalti pubblici efficaci in Europa e per l'Europa</a>
+    <a href="http://design-italia.readthedocs.io/it/stable" target="_blank">Linee guida per il design dei servizi digitali della Pubblica Amministrazione</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2017-05-05&atto.codiceRedazionale=17G00078" target="_blank">D.Lgs. 50/2016</a>
+    <a href="https://designers.italia.it/" target="_blank">Designer Italia</a>
 
 .. |LINK15| raw:: html
+
+    <a href="https://italia.github.io/design-web-toolkit/" target="_blank">web toolkit</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://www.pasocial.info/wp-content/uploads/2017/07/Nuova-organizzazione-comunicazione.pdf" target="_blank">"Ufficio comunicazione, stampa e servizi al cittadino"</a>
+
+.. |LINK17| raw:: html
+
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/" target="_blank">Piano Triennale</a>
+
+.. |LINK18| raw:: html
+
+    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/circolare-n-2-2017-attuazione-delle-norme-sull%E2%80%99accesso-civico" target="_blank">circolare 2/2017</a>
+
+.. |LINK19| raw:: html
+
+    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">CAD</a>
+
+.. |LINK20| raw:: html
+
+    <a href="https://ec.europa.eu/transparency/regdoc/rep/1/2017/IT/COM-2017-572-F1-IT-MAIN-PART-1.PDF" target="_blank">Appalti pubblici efficaci in Europa e per l'Europa</a>
+
+.. |LINK21| raw:: html
+
+    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2017-05-05&atto.codiceRedazionale=17G00078" target="_blank">D.Lgs. 50/2016</a>
+
+.. |LINK22| raw:: html
 
     <a href="http://www.regione.toscana.it/documents/10180/11537824/Legge+regionale+N.69+del+2007/e782eb5a-8787-4647-acb6-518b6c56cf8e?version=1.1" target="_blank">Legge 69/2007 della Regione Toscana</a>
 
