@@ -48,7 +48,7 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 
     \ |IMG2|\  
     
-    Il presente documento è rilasciato da FPA con licenza CC BY NC SA
+    Il presente documento è rilasciato da FPA con licenza \ |LINK1|\ 
 
 
 .. bottom of content
@@ -62,6 +62,12 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 .. |REPLACE1| raw:: html
 
     <a href="https://twitter.com/FPA_net?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FPA_net</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+.. |LINK1| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
+
+
 .. |IMG1| image:: static/index_1.png
    :height: 121 px
    :width: 185 px
@@ -69,3 +75,4 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 .. |IMG2| image:: static/index_2.png
    :height: 44 px
    :width: 126 px
+   :target: https://creativecommons.org/licenses/by-nc-sa/3.0/it/
