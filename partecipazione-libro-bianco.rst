@@ -4,11 +4,11 @@
 Partecipa alla redazione del Libro bianco
 #########################################
 
-Il Libro bianco dell'innovazione è in consultazione per un ampia condivisione.
+Il Libro bianco dell'innovazione della Pubblica Amministrazione è in consultazione per un ampia condivisione.
 
-Al fine di dare la possibilità di partecipazione è stata predisposta una modalità di interazione da parte degli utenti attraverso l'uso dello strumento \ |LINK1|\  curato dal team \ |LINK2|\ . 
+Al fine di offrire la possibilità di partecipazione è stata predisposta una modalità di interazione da parte degli utenti attraverso l'uso dello strumento \ |LINK1|\  curato dal team \ |LINK2|\ . 
 
-Cliccando su \ |LINK3|\   è possibile selezionare una parola o una frase e automaticamente si aprirà una finestra in cui è possibile editare testo.
+Cliccando su \ |LINK3|\   è possibile selezionare una parola o una frase e automaticamente si aprirà una finestra in cui è possibile editare testo per il commento.
 
 Per usare questo strumento (\ |LINK4|\ ) è necessario creare un account \ |STYLE0|\ , ma è procedura semplice che necessita di pochi secondi.
 
@@ -16,9 +16,9 @@ Ogni commento è pubblico e viene inserito online lateralmente al corpo del test
 
 \ |IMG1|\ 
 
-\ |STYLE1|\  - i commenti editati vengono rilasciati con \ |LINK5|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
+\ |STYLE1|\  - i commenti editati dagli utenti vengono rilasciati con \ |LINK5|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
 
-Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale del Libro Bianco da inviare al nuovo Governo.
+Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
 
 
 .. bottom of content
@@ -31,19 +31,19 @@ Alla fine del periodo di consultazione del Libro bianco tutti i commenti verrann
 
 .. |LINK1| raw:: html
 
-    <a href="https://via.hypothes.is" target="_blank">https://via.hypothes.is</a>
+    <a href="https://via.hypothes.is" target="_blank">via.hypothes.is</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://web.hypothes.is" target="_blank">https://web.hypothes.is</a>
+    <a href="https://web.hypothes.is" target="_blank">web.hypothes.is</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://via.hypothes.is/http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">https://via.hypothes.is/http://forumpa-librobianco-innovazione-2018.readthedocs.io</a>
+    <a href="https://via.hypothes.is/http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">via.hypothes.is/http://forumpa-librobianco-innovazione-2018.readthedocs.io</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://via.hypothes.is" target="_blank">https://via.hypothes.is</a>
+    <a href="https://via.hypothes.is" target="_blank">via.hypothes.is</a>
 
 .. |LINK5| raw:: html
 
