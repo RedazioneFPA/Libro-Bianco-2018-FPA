@@ -25,6 +25,8 @@ Lavoro nelle pubbliche amministrazioni
 
 Probabilmente, vista anche la lentezza della divulgazione di dati certificati sul lavoro pubblico che è ferma alla situazione a fine 2016, molti degli effetti delle riforme ancora non sono diventati visibili. Ma al momento nei dati del pubblico impiego non c’è alcuna rivoluzione. I dipendenti pubblici italiani sono 3,2 milioni\ [#F1]_\ , ancora in calo perché gli effetti dei piani di assunzione inizieranno a dispiegare i loro effetti solo nel 2018, con 246 mila persone uscite e non rimpiazzate dal 2008. Oggi la PA italiana può contare su 70% in meno di dipendenti rispetto alla Germania, il 65% rispetto all’Inghilterra e il 60% della Francia. Pochi i volti nuovi, con appena 64 mila “nuovi dipendenti pubblici”, mentre aumentano i precari, che raggiungono quota 314mila, 25.000 in più rispetto al 2015, su cui ancora non si vedono gli effetti delle recenti politiche di stabilizzazione. Un personale vecchio - età media di 50,34 anni che cresce di 6 mesi ogni anno, oltre 450.000 over 60 -, per il 62% costituito da diplomati, che fa sempre meno formazione (6/7 ore di media ogni anno). Lo stipendio medio è di 34.500 euro, sostanzialmente lo stesso dal 2009, con molte differenze tra i comparti, dai 138 mila euro della magistratura ai 28,4 mila del personale della scuola. Ma la spesa per la collettività è sempre di meno: ammonta a 160 miliardi di euro il costo per tutto il personale della PA, 10 miliardi in meno rispetto al 2009, un risparmio che porta l’Italia in linea con i principali Paesi europei. E ciascun cittadino italiano spende per il lavoro dei dipendenti pubblici 2.632 euro l’anno.
 
+|
+
 .. _h693217415e466b4a60506471791685f:
 
 Continuità dell’impegno, reputazione e immagine del lavoro pubblico
@@ -41,10 +43,7 @@ In questa fase delicata di cambiamento di Legislatura e di Governo appare quanto
 
     Appare necessario, per quell’indispensabile ripristino delle condizioni della fiducia, avere la massima attenzione alle diversità di ogni tipologia di amministrazione, dal piccolo comune al grande ente centrale, mettendo in evidenza sempre le tante eccellenze presenti, nate spesso dell’impegno di una unità organizzativa e dei suoi dirigenti, che devono trovare pubblicità, apprezzamento dell’opinione pubblica, effettivi riconoscimenti da parte del Governo centrale. Anche appoggiandosi a agenzie indipendenti, il Governo dovrebbe curare un catalogo ricco e aggiornato di “buoni esempi”, che porti con sé anche la strumentazione amministrativa utile per replicarlo.
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h232ae76582662f6c324a672c434574:
 
@@ -77,10 +76,7 @@ Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa
 
     Occorre curare un rilancio della formazione dei dipendenti pubblici, che sconta uno sciagurato taglio del 50% deciso con la legge finanziaria per il 2009, e che può contare ora di molto meno di quell’1% della massa salariale che pure era nella legge sin dal Ministro Frattini (2001/2002). Una formazione che sia empowerment delle organizzazioni, costruzione di comunità educanti, nascita di gruppi di miglioramento, ma anche formazione puntuale su temi che sono ora indispensabili per qualsiasi lavoratore pubblico. Le risorse della programmazione europea sono indispensabili per questo obiettivo e non vanno disperse in mille rivoli.
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h1e634c1e1b2236b4274246683e757a:
 
@@ -109,6 +105,8 @@ Ci troviamo quindi in una situazione in cui gli altri due decreti sono operativi
 
 Che ce ne fosse bisogno è indubbio: giungla retributiva, carriere chiuse, scarsa chiarezza nei meccanismi di assegnazione degli incarichi, poca flessibilità sono difetti immediatamente visibili in una dirigenza che soffre anche per un’età avanzata, per uno squilibrio nelle qualifiche che vede una assoluta predominanza dei saperi giuridici e una quasi totale assenza di saperi tecnici, per una marcata differenza tra amministrazioni sia nelle retribuzioni, figlie di privilegi incrostati, sia nel numero assoluto rispetto ai dipendenti.
 
+|
+
 .. _h10486ed452e671c436c114950d1c5b:
 
 Incarichi fiduciari, spoil system, rapporto con la politica
@@ -122,10 +120,7 @@ La dicotomia tra chi vorrebbe una dirigenza di carriera, diciamo sul modello fra
 
     Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di \ |STYLE1|\ &\ |STYLE2|\ , nel secondo verificar una ragionevole rotazione degli incarichi.
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h1941c193c13197b491346697565374d:
 
@@ -158,6 +153,8 @@ Valutazione delle performance
 
 La valutazione è stata oggetto di numerose e diverse riforme nell’ultimo ventennio, tutte probabilmente giustificate, ma che non sono riuscite a far uscire tale pratica dal novero degli adempimenti e delle carte da riempire. La cultura della valutazione non può essere lasciata né alla legge, né tantomeno ad una classe di tecnocrati. Essa deve ispirare tutta la programmazione sia da parte della politica che individua gli obiettivi, sia da parte dell’amministrazione che definisce I modi dell’attuazione.
 
+|
+
 .. _h78286e174b754435352c464754a6a:
 
 Il ruolo della valutazione
@@ -169,6 +166,8 @@ La valutazione, oggetto di innumerevoli e sovrapposte riforme,  è  stata insiem
 
     È necessario che passi nei comportamenti delle organizzazioni il principio che la valutazione è parte fondamentale della programmazione, e che gli indicatori e gli strumenti vanno definiti in quella fase, in questo senso la valutazione deve prendere in considerazione soprattutto gli \ |STYLE5|\ , i benefici effettivi per il pubblico target. Già il D.lgs. 74/2017 nell’ambito della riforma Madia lo stabilisce con chiarezza individuando degli obiettivi “generali” della Repubblica.
     Sarà poi necessario che gli organismi preposti (in questo momento il Dipartimento della Funzione Pubblica) non assegnino alla valutazione compiti impossibili. Non ha senso valutare organizzazioni che non hanno organici adeguati per numero o competenze, non hanno modelli organizzativi efficaci, non hanno la gestione di adeguate risorse né economiche né strumentali.
+
+|
 
 .. _h49237f4220751e45162d1b33371a7f4c:
 
