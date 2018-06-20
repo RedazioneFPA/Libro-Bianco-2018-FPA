@@ -38,7 +38,7 @@ L’intera Manifestazione è stata concepita come un importante momento di confr
 
 Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati con lo specifico obiettivo di redigere alcune possibili \ |STYLE2|\  per valorizzare quanto si è già fatto, individuare quanto rimane ancora da fare (definendo una chiara gerarchia di priorità) ed esaminare con onestà le iniziative che si sono rivelate sbagliate o che non hanno prodotto i risultati sperati.
 
-I risultati emersi sono stati raccolti in questa prima versione Libro Bianco, al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK3|\ . I contenuti del Libro non rappresentano quindi la posizione finale di FPA e di coloro che hanno contribuito alla redazione, ma vogliono piuttosto costituire la base di una più ampia riflessione condivisa sulle proposte avanzate nel documento.
+I risultati emersi sono stati raccolti in questa prima versione Libro Bianco, al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK3|\ . 
 
 |
 
