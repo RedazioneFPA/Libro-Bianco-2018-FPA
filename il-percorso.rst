@@ -13,7 +13,7 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 Ascolto della community
 -----------------------
 
-Il percorso è stato avviato alla fine dello scorso anno con una prima fase di ascolto della community di innovatori di FPA, finalizzato a raccogliere commenti, riflessioni e suggerimenti sullo stato dell’arte relativo ad alcuni temi di particolare rilevanza strategica: dalla riforma della PA alla trasformazione digitale, dalla sanità al procurement pubblico, dalle politiche urbane alle quelle per il lavoro e l’istruzione. 
+Il percorso è stato avviato alla fine dello scorso anno con una prima fase di ascolto della community di innovatori di FPA, finalizzato a raccogliere commenti, riflessioni e suggerimenti sullo stato dell’arte di alcuni temi di particolare rilevanza strategica: dalla riforma della PA alla trasformazione digitale, dalla sanità al procurement pubblico, dalle politiche urbane alle quelle per il lavoro e l’istruzione. 
 
 Per ciascun tema, abbiamo chiesto alla nostra community di rispondere a tre domande chiave:
 
@@ -21,7 +21,7 @@ Per ciascun tema, abbiamo chiesto alla nostra community di rispondere a tre doma
 
 * quali sono le iniziative e i progetti che non hanno prodotti i risultati sperati e che necessitano quindi di essere aggiornati, o in alcuni casi, abbandonati?
 
-* quali cose nuova è importante mettere nel programma della prossima legislatura? 
+* quali cose nuove è importante mettere nel programma della prossima legislatura? 
 
 Ne è scaturito un ricco patrimonio di contributi e spunti, in gran parte raccolti nella nostra \ |LINK1|\ .
 
@@ -36,7 +36,7 @@ L’analisi svolta nei primi mesi del 2018 ha contribuito ad alimentare il ricco
 
 L’intera Manifestazione è stata concepita come un importante momento di confronto, elaborazione e proposizione finalizzato alla redazione di un programma d’innovazione della PA da mettere, con determinazione, sulla scrivania del nuovo Governo. Un confronto che ha visto la partecipazione di oltre 16.000 innovatori che hanno partecipato ai quasi 250 incontri in programma.
 
-Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati con lo specifico obiettivo di redigere alcune possibili \ |STYLE2|\  per valorizzare quanto si è già fatto, individuare quanto rimane ancora da fare (definendo una chiara gerarchia di priorità) ed esaminare con onestà le iniziative che si sono rivelate sbagliate o che non hanno prodotto i risultati sperati.
+Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati con lo specifico obiettivo di redigere alcune possibili \ |STYLE2|\  per valorizzare quanto si è già fatto, individuare quanto rimane ancora da fare (definendo una chiara gerarchia di priorità) ed esaminare con onestà le iniziative che si sono rivelate sbagliate o che non hanno prodotto i risultati attesi.
 
 I risultati emersi sono stati raccolti in questa prima versione Libro Bianco, al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK3|\ . 
 
@@ -47,7 +47,7 @@ I risultati emersi sono stati raccolti in questa prima versione Libro Bianco, al
 Consultazione pubblica
 ----------------------
 
-Il libro bianco non è il punto di arrivo, ma rappresenta il tassello iniziale di un percorso di confronto che proseguirà per il tutto 2018.
+Il Libro Bianco non è il punto di arrivo, ma rappresenta il tassello iniziale di un percorso di confronto che proseguirà per il tutto 2018.
 
 Il Libro Bianco viene infatti posto in consultazione, in un’ottica di aggiornamento continuo.
 
@@ -55,9 +55,9 @@ Una prima fase di consultazione, avviata il 21 giugno 2018 e finalizzata a valid
 
 * contributori della rubrica \ |STYLE3|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
 
-* moderatori e relatori dei convegni di FORUM PA 2018 finalizzati all’elaborazione delle Raccomandazioni.
+* moderatori e relatori dei convegni di FORUM PA 2018 finalizzati all’elaborazione delle raccomandazioni.
 
-A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione pubblica: si tratta del primo tassello di un percorso collaborativo che ci accompagnerà per il resto dell'anno.
+A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione pubblica.
 
 \ |LINK4|\ 
 
