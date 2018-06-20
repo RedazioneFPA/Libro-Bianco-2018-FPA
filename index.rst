@@ -3,14 +3,18 @@
 
 \ |IMG1|\ 
 
-.. _h1e4484f123d30447f254436043372:
+.. _h4c627b4b7731570491e1ae1dc5b5d:
 
-Libro bianco sull’innovazione, edizione 2018 ForumPA
-####################################################
+Libro bianco sull’innovazione della PA
+######################################
 
-Il Libro bianco sull'innovazione nasce a conclusione dei lavori del \ |STYLE0|\  (ForumPA) che si è tenuto a Roma dal 22 al 24 maggio 2018 e organizzato da \ |LINK1|\ .
+Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire di un’\ |STYLE1|\ .
 
-Il Libro bianco sull'innovazione è la raccolta di  ………………… (\ |STYLE1|\ )
+Il percorso, avviato alla fine dello scorso anno con una prima fase di ascolto della community, ha visto nella \ |STYLE2|\  (Roma, 22-24 maggio) un importante momento di advocacy partecipativa, finalizzata a sostenere la centralità dei processi di innovazione in atto e a scongiurare il completo reset dei processi avviati. Obiettivo finale è la sensibiizzazione di chi sarà deputato a gestire la modernizzazione della PA a non essere tentato da nuove rivoluzioni, ma a condividere un percorso capace di valorizzare le cose già fatte ed individuare il metodo migliore per aggiungerne di nuove.
+
+L’intera Manifestazione è stata progettata come un momento di confronto, elaborazione e proposizione, di cui questo Libro Bianco rappresenta il risultato, che FPA pone oggi all’attenzione del Governo.
+
+Il libro bianco non è però un punto di arrivo, ma rappresenta il primo tassello iniziale di un percorso di confronto che proseguirà per il tutto 2018.
 
 
 .. toctree::  
@@ -54,20 +58,16 @@ Il Libro bianco sull'innovazione è la raccolta di  ………………… (\ |ST
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Forum delle Pubbliche Amministrazioni**
+.. |STYLE0| replace:: **Libro bianco sull'innovazione della PA**
 
-.. |STYLE1| replace:: **max 15 righe**
+.. |STYLE1| replace:: **agenda dell’innovazione per la nuova legislatura**
+
+.. |STYLE2| replace:: **29° edizione di FORUM PA**
 
 
 .. |REPLACE1| raw:: html
 
     <a href="https://twitter.com/FPA_net?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FPA_net</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-.. |LINK1| raw:: html
-
-    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
-
-
 .. |IMG1| image:: static/index_1.png
    :height: 121 px
    :width: 185 px
