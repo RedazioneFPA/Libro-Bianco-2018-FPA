@@ -342,7 +342,10 @@ Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni
 
 |
 
+.. _h1781b5637121a342c773516481b13b:
+
 Scuola digitale 
+================
 
 Secondo i dati forniti dall’Osservatorio digitale del Miur sono più di 8.000 i docenti animatori digitali formati con il compito di portare innovazione nelle scuole di competenza. L’attività dell’animatore digitale, secondo quanto previsto dal PNSD, dovrebbe essere sostenuta da un finanziamento annuale di 1000 euro a scuola. Riguardo alla disponibilità di dedicata alla didattica digitale, hanno risposto 8088 scuole del I° ciclo e 891 del II° ciclo, per un totale di 8549 scuole, meno del 30% del totale delle oltre 27mila scuole interpellate. La risposta è molto positiva: oltre il 95% di quelle del I° ciclo (7692 scuole) e il 96% di quelle del II° (857 scuole) dicono di avere una connettività dedicata alla didattica digitale. 
 
