@@ -23,11 +23,11 @@ A fronte di questo la spesa sanitaria pubblica, negli ultimi anni, è stata prat
 L’equilibrio necessario non potrà essere raggiunto penalizzando la qualità dei servizi sanitari.  Invece, secondo l’ultimo rapporto Euro Health Consumer Index, l’Italia è passata, tra il 2010 e il 2017, dal 14° al 22° posto delle 35 nazioni censite a livello europeo per performance del sistema sanitario: siamo tra i peggiori Paesi per accessibilità ai servizi e tempi di attesa, gestione dei pazienti anziani sul territorio e possibilità di offrire cure di nuova generazione. 
 In questa situazione di forte divario tra risorse disponibili e bisogni crescenti della popolazione l’unica risposta è l’innovazione indirizzata a:
 
-#. Rinnovamento organizzativo e tecnologico
+#. Rinnovamento organizzativo e tecnologico.
 
-#. Empowerment del cittadino paziente
+#. Empowerment del cittadino paziente.
 
-#. Competenze degli operatori sanitari
+#. Competenze degli operatori sanitari.
 
 #. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
 
@@ -35,15 +35,15 @@ In questa situazione di forte divario tra risorse disponibili e bisogni crescent
 
 Occorre:
 
-* Riorganizzare, basandosi anche sugli strumenti digitali disponibili, l’integrazione delle AO e AOU con le iniziative socio-assistenziali
+* Riorganizzare, basandosi anche sugli strumenti digitali disponibili, l’integrazione delle AO e AOU con le iniziative socio-assistenziali.
 
-* Potenziare le equipe territoriali e il ruolo dell’infermiere di territorio 
+* Potenziare le equipe territoriali e il ruolo dell’infermiere di territorio.
 
-* Riorganizzare la rete della medicina di prossimità, promuovendo l’integrazione e la collaborazione dei MMG e dei PLS con le ASL, AO e AOU (sviluppo e diffusione di strumenti di condivisione delle informazioni come Cartella Clinica Elettronica, FSE)
+* Riorganizzare la rete della medicina di prossimità, promuovendo l’integrazione e la collaborazione dei MMG e dei PLS con le ASL, AO e AOU (sviluppo e diffusione di strumenti di condivisione delle informazioni come Cartella Clinica Elettronica, FSE).
 
-* Costruire un modello di presa in carico in cui l'azienda sanitaria svolga un ruolo di regia e integrazione tra gli attori che operano con il cittadino, utilizzando le tecnologie per il telemonitoraggio, la telemedicina, la teleassistenza 
+* Costruire un modello di presa in carico in cui l'azienda sanitaria svolga un ruolo di regia e integrazione tra gli attori che operano con il cittadino, utilizzando le tecnologie per il telemonitoraggio, la telemedicina, la teleassistenza. 
 
-* Mettere in rete i care-giver, anche informali (badanti) e curarne la formazione
+* Mettere in rete i care-giver, anche informali (badanti) e curarne la formazione.
 
 * Consolidare la collaborazione orizzontale tra ASL. AO, AOU ripensando in digitale i processi attuali e condividendo saperi e esperienze (repository condivisi di progetti, soluzioni…).
 
@@ -52,9 +52,9 @@ Occorre:
 Il patrimonio di dati preziosissimi destinati a crescere per mole e rilevanza rischia a causa della digitalizzazione ancora parziale e disomogenea del nostro SSN di rilevarsi nei fatti non disponibile o inutilizzabile. In questo modo si penalizza l’appropriatezza terapeutica e si agisce con ritardo e poca incisività su sprechi e possibili abusi. I dati ci servono per migliorare le performance ed il modello di funzionamento degli Enti del SSN. 
 Occorre:
 
-* Stabilire processi e policy di Data Governance per avere dati di qualità ed efficienza nella loro gestione
+* Stabilire processi e policy di Data Governance per avere dati di qualità ed efficienza nella loro gestione.
 
-* Creare un mix di competenze, favorendo la cooperazione strutturata di data scientist con i leader del cambiamento, i process owner e gli esperti di dominio
+* Creare un mix di competenze, favorendo la cooperazione strutturata di data scientist con i leader del cambiamento, i process owner e gli esperti di dominio.
 
 \ |STYLE2|\ 
 
@@ -101,10 +101,7 @@ La spesa digitale in Sanità è frammentata e cresce con lentezza.  Le complicaz
 
 I dati ISTAT mostrano che un tasso di occupazione al 58%, il livello più alto dal 2009, pur "rimanendo 0,7 punti al di sotto del picco del 2008", il valore massimo pre-crisi. Lo stesso discorso vale per il numero di occupati, che sono risultati 23 milioni e 23 mila (con una crescita dell'1,2%, ovvero 265 mila persone in più al lavoro). L'aumento della presenza al lavoro "per il secondo anno consecutivo coinvolge anche i giovani di 15-34 anni, fascia di età in cui gli occupati sono saliti di 45mila unità (+0,9%). \ |STYLE4|\ : Nord, Centro e Sud mostrano infatti tutti un'occupazione in recupero, tuttavia mentre nel Centro-Nord il tasso di occupazione raggiunge livelli pressoché analoghi a quelli del 2008, arrivando al 66,7% nel Nord e 62,8% nel Centro, nel Mezzogiorno l'indicatore è ancora al di sotto del 2008 di 2,0 punti (44,0%). Il tasso di disoccupazione è sceso nel 2017 di 0,5 punti percentuali, dall'11,7% all'11,2% dell'anno precedente: si tratta del livello più basso dal 2013. Calano anche gli inattivi (coloro che non cercano né hanno occupazione). La discesa della disoccupazione "è più forte per i più giovani in confronto ai 35-49enni mentre per gli ultra 50enni aumenta sia il numero di disoccupati sia il tasso di disoccupazione".
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h6f18b668701d1e14511e767856665d:
 
@@ -117,12 +114,16 @@ L’ANPAL ha provveduto a istituire il nuovo “Incentivo Occupazione Giovani”
 
 Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Sociali ha previsto un conguaglio contributivo per i datori di lavoro che, nel corso del 2017, senza esservi tenuti, assumano giovani di età compresa tra i 15 e i 24 anni, o alternativamente soggetti di età superiore ai 25 anni privi d'impiego regolarmente retribuito da almeno 6 mesi. La sede di lavoro deve essere localizzata in una delle regioni del Sud e il rapporto di lavoro deve necessariamente essere instaurato attraverso un contratto a tempo indeterminato o di apprendistato professionalizzante.
 
+|
+
 .. _h30466d3fa51716603e3e2b5a24c:
 
 Alternanza scuola-lavoro
 ========================
 
 Al fine di “incrementare l’alternanza scuola-lavoro nel secondo ciclo di istruzione”, così come sancito all’art. 1 comma 7 lettera o) della legge 107/2015, e di promuovere l’occupazione dei giovani in procinto di uscire dal circuito formativo, la legge di bilancio 2016 ha previsto misure di sostegno all’occupazione per i soggetti che abbiano partecipato ai programmi di alternanza scuola-lavoro o svolto un periodo di apprendistato. Si prevede l’esonero dal versamento dei contributi previdenziali (per un periodo massimo di tre anni e nel limite di 3.250 euro all’anno per ciascun lavoratore) per i datori di lavoro che tra l’inizio del 2017 e la fine del 2018 procedano all’assunzione con contratto a tempo indeterminato, entro 6 mesi dall’acquisizione per titolo di studio, di numerose categorie di giovani.
+
+|
 
 .. _h6d4665a325a1f6593912d43613d54:
 
@@ -141,6 +142,8 @@ Un passo in avanti per favorire l’ammodernamento del sistema produttivo e gara
 Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’\ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE8|\ .
 
 Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE9|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE10|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
+
+|
 
 .. _he3f663b217b472a24111e1d6e16859:
 
@@ -324,7 +327,7 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Spostare le cure dall’ospedale al territorio e definire processi di presa in carico dei sempre più numerosi pazienti cronici**
+.. |STYLE0| replace:: **Spostare le cure dall’ospedale al territorio e definire processi di presa in carico dei sempre più numerosi pazienti cronici.**
 
 .. |STYLE1| replace:: **Realizzare applicazioni per valorizzare il flusso di informazioni che il SSN produce quotidianamente**
 
