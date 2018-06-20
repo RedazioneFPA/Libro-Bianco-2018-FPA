@@ -420,22 +420,19 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 **************************
 
 Negli ultimi anni l’accelerazione imposta dal digitale - social network, chat, siti web user-friendly – ha definito i tratti innovativi della nuova comunicazione pubblica. 
-Il rapporto tra cittadini e PA deve necessariamente passare attraverso un rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento di una cornice normativa rimasta immutata, quella della legge 150/2000, che ha vissuto in questi 18 anni un lento percorso di attuazione, nonostante contenesse le premesse per una comunicazione capace di rispondere all’esigenza di informare i cittadini.
+Il rapporto tra cittadini e PA passa attraverso un rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento di una cornice normativa rimasta immutata, quella della legge 150/2000, che ha vissuto in questi 18 anni un lento percorso di attuazione, nonostante contenesse le premesse per una comunicazione capace di rispondere all’esigenza di informare i cittadini.
 
-L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel decreto legislativo n. 97 del 2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del decreto 33 del 2013; raccomanda l’uso sistematico e professionale dei social media. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i social network per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
-Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e Istruzione e Ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. È stata anche firmata una dichiarazione congiunta tra Federazione nazionale della Stampa italiana e l’Aran - Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni -  in cui è stato ribadito che le attività relative all’informazione della pubblica amministrazione (come l'adesione alla Casagit, all’Inpgi) doveno essere gestite con le associazioni di categoria (sindacato e giornalisti). Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione.
+L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel decreto legislativo n. 97 del 2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del decreto 33 del 2013: raccomanda l’uso sistematico e professionale dei social media e riconosce il ruolo del cittadino-valutatore. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i social network per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
+Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e istruzione e ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. È stata anche firmata una dichiarazione congiunta tra Federazione nazionale della Stampa italiana e l’Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni - Aran -   in cui è stato ribadito che le attività relative all’informazione della pubblica amministrazione (come l'adesione alla Casagit, all’Inpgi) devono essere gestite con le associazioni di categoria (sindacato e giornalisti). Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione.
 
 Il lavoro sulla qualità dei servizi e delle informazioni e sulla qualità del rapporto con il cittadino porta con sé l’esigenza di ripensare ai nuovi linguaggi e alla grammatica dei siti. L’Agenzia per l’Italia digitale ha fornito \ |LINK13|\ , ora in consultazione.
 
 Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK14|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente web analytics, test usabilità, \ |LINK15|\ .
 
-La sfida del cambiamento è stata affrontata da alcune realtà associative come PASocial, che ha proposto lo scorso anno un \ |LINK16|\ , un modello agile applicabile a leggi vigenti, e modulabile sulla struttura di qualsiasi ente e territorio di riferimento. La prima raccomandazione riguarda un nuovo modello organizzativo.
-
 \ |STYLE33|\ . 
-Le richieste dei cittadini impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso e il riconoscimento di un profilo unitario, quello del giornalista pubblico;
+I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, customer satisfaction), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, social media manager, social media strategist e community organizer). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
 
-\ |STYLE34|\ . 
-Occorre non solo il riconoscimento di nuove figure professionali e di un nuovo modello orgarganizzativo per garantire all’ente la necessaria cultura al cambiamento e la reale attuazione dell’open government.  I tempi sono ormai maturi per considerare approcci nuovi anche per la comunicazione interna, nuovi modelli di lavoro agile, nuovi metodi di formazione continua, nuovi criteri di valutazione basati su reali indicatori di qualità.
+\ |STYLE34|\ , secondo criteri di valutazione basati su reali indicatori di qualità.
 
 \ |STYLE35|\ . 
 L’Autorità sui compiti di regolazione ha esplicite competenze nell’ambito del mainstream, nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’hate speech e alle fake news).
@@ -455,11 +452,11 @@ Manca invece un forte supporto (politico e normativo) che ne legittimi la funzio
 
 Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE38|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
 
-* il \ |LINK17|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
+* il \ |LINK16|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
 
-* Ia \ |LINK18|\  del Ministro per la semplificazione e la PA per l’attuazione delle norme sull’accesso civico generalizzato (FOIA): le Linee Guida che offrono un supporto concreto agli enti, sciogliendo dubbi interpretativi e proponendo (all’Allegato 3. Modalità di realizzazione del registro degli accessi) soluzioni tecniche basate sul riuso delle infrastrutture di protocollo esistenti, individuando scenari di varia complessità, ma tutti caratterizzati dal principio dell’integrazione e dell’interoperabilità; 
+* Ia \ |LINK17|\  del Ministro per la semplificazione e la PA per l’attuazione delle norme sull’accesso civico generalizzato (FOIA): le Linee Guida che offrono un supporto concreto agli enti, sciogliendo dubbi interpretativi e proponendo (all’Allegato 3. Modalità di realizzazione del registro degli accessi) soluzioni tecniche basate sul riuso delle infrastrutture di protocollo esistenti, individuando scenari di varia complessità, ma tutti caratterizzati dal principio dell’integrazione e dell’interoperabilità; 
 
-* l’articolo 40-ter del \ |LINK19|\  “Sistema di ricerca documentale”, finalizzato a sperimentare un sistema “volto a facilitare la ricerca dei documenti soggetti a registrazione di protocollo” e “dei fascicoli dei procedimenti”.
+* l’articolo 40-ter del \ |LINK18|\  “Sistema di ricerca documentale”, finalizzato a sperimentare un sistema “volto a facilitare la ricerca dei documenti soggetti a registrazione di protocollo” e “dei fascicoli dei procedimenti”.
 
 |
 
@@ -517,7 +514,7 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 2.6 Procurement pubblico
 ************************
 
-Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK20|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK21|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
+Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK19|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK20|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
 
 |
 
@@ -582,7 +579,7 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. admonition:: Raccomandazione 2.6e - Dato un primo coinvolgimento degli stakeholders del territorio al dibattito, si auspica l’apertura a un numero maggiore di cittadini nelle fasi successive del dibattito stesso
 
-    La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come, ad esempio, previsto all’art. 8, comma 1.b, della \ |LINK22|\ .
+    La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come, ad esempio, previsto all’art. 8, comma 1.b, della \ |LINK21|\ .
 
 
 .. bottom of content
@@ -656,9 +653,9 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE33| replace:: **Serve un modello organizzativo unico**
 
-.. |STYLE34| replace:: **La comunicazione deve acquisire dignità nel sistema pianificatoria degli enti pubblici e occupare il giusto ruolo nel processo e negli obiettivi generali di performance**
+.. |STYLE34| replace:: **La comunicazione deve acquisire dignità nel sistema pianificatorio degli enti pubblici e occupare un ruolo nel processo e negli obiettivi generali di performance**
 
-.. |STYLE35| replace:: **Si auspica un aggiornamento delle competenze su cui l'Autorità per le Garanzie nelle Comunicazioni è chiamata a operare**
+.. |STYLE35| replace:: **Si auspica un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni**
 
 .. |STYLE36| replace:: **L’intera organizzazione pubblica deve sapersi adattare velocemente alle trasformazioni sociali e tecnologiche**
 
@@ -729,29 +726,25 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.pasocial.info/wp-content/uploads/2017/07/Nuova-organizzazione-comunicazione.pdf" target="_blank">"Ufficio comunicazione, stampa e servizi al cittadino"</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/" target="_blank">Piano Triennale</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/" target="_blank">Piano Triennale</a>
+    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/circolare-n-2-2017-attuazione-delle-norme-sull%E2%80%99accesso-civico" target="_blank">circolare 2/2017</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/01-06-2017/circolare-n-2-2017-attuazione-delle-norme-sull%E2%80%99accesso-civico" target="_blank">circolare 2/2017</a>
+    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">CAD</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">CAD</a>
+    <a href="https://ec.europa.eu/transparency/regdoc/rep/1/2017/IT/COM-2017-572-F1-IT-MAIN-PART-1.PDF" target="_blank">Appalti pubblici efficaci in Europa e per l'Europa</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://ec.europa.eu/transparency/regdoc/rep/1/2017/IT/COM-2017-572-F1-IT-MAIN-PART-1.PDF" target="_blank">Appalti pubblici efficaci in Europa e per l'Europa</a>
-
-.. |LINK21| raw:: html
-
     <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2017-05-05&atto.codiceRedazionale=17G00078" target="_blank">D.Lgs. 50/2016</a>
 
-.. |LINK22| raw:: html
+.. |LINK21| raw:: html
 
     <a href="http://www.regione.toscana.it/documents/10180/11537824/Legge+regionale+N.69+del+2007/e782eb5a-8787-4647-acb6-518b6c56cf8e?version=1.1" target="_blank">Legge 69/2007 della Regione Toscana</a>
 
