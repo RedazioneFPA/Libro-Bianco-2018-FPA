@@ -13,9 +13,9 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 Ascolto della community
 -----------------------
 
-Il percorso è stato avviato alla fine dello scorso anno con una prima fase di ascolto della community di innovatori di FPA, finalizzato a raccogliere commenti, riflessioni e suggerimenti sullo stato dell’arte relativo ad alcuni temi di particolare rilevanza strategica: dalla riforma della PA alla trasformazione digitale, dalla sanità al procurement pubblico, dalle politiche urbane alle politiche per il lavoro e l’istruzione. 
+Il percorso è stato avviato alla fine dello scorso anno con una prima fase di ascolto della community di innovatori di FPA, finalizzato a raccogliere commenti, riflessioni e suggerimenti sullo stato dell’arte relativo ad alcuni temi di particolare rilevanza strategica: dalla riforma della PA alla trasformazione digitale, dalla sanità al procurement pubblico, dalle politiche urbane alle quelle per il lavoro e l’istruzione. 
 
-Per ciascun tema, abbiamo chiesto di rispondere a tre domande chiave:
+Per ciascun tema, abbiamo chiesto alla nostra community di rispondere a tre domande chiave:
 
 * cosa non dobbiamo assolutamente rischiare di perdere di quanto fatto in questi ultimi anni?
 
@@ -34,9 +34,11 @@ Forum PA 2018
 
 L’analisi svolta nei primi mesi del 2018 ha contribuito ad alimentare il ricco programma congressuale della \ |LINK2|\  (Roma, 22-24 maggio 2018).
 
-L’intera Manifestazione è stata concepita come un importante momento di advocacy partecipativa, finalizzata a sostenere la centralità dei processi di innovazione in atto e a scongiurare il completo reset dei processi avviati. Un confronto che ha visto la partecipazione di oltre 16.000 innovatori che hanno partecipato ai quasi 250 incontri in programma.
+L’intera Manifestazione è stata concepita come un importante momento di confronto, elaborazione e proposizione finalizzato alla redazione di un programma d’innovazione della PA da mettere, con determinazione, sulla scrivania del nuovo Governo. Un confronto che ha visto la partecipazione di oltre 16.000 innovatori che hanno partecipato ai quasi 250 incontri in programma.
 
-Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati come veri e propri momenti di confronto, elaborazione e proposizione, finalizzati alla redazione di alcune raccomandazioni da porre all’attenzione del Governo, raccolte in questo Libro Bianco al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK3|\ .
+Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati con lo specifico obiettivo di redigere alcune possibili \ |STYLE2|\  per valorizzare quanto si è già fatto, individuare quanto rimane ancora da fare (definendo una chiara gerarchia di priorità) ed esaminare con onestà le iniziative che si sono rivelate sbagliate o che non hanno prodotto i risultati sperati.
+
+I risultati emersi sono stati in questa prima versione Libro Bianco, al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK3|\ .
 
 |
 
@@ -51,7 +53,7 @@ Il Libro Bianco viene infatti posto in consultazione, in un’ottica di aggiorna
 
 Una prima fase di consultazione, avviata il 21 giugno 2018 e finalizzata a validare il lavoro di rielaborazione svolto da FPA, ha visto il coinvolgimento di una platea ristretta composta da:
 
-* contributori della rubrica \ |STYLE2|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
+* contributori della rubrica \ |STYLE3|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
 
 * moderatori e relatori dei convegni di FORUM PA 2018 finalizzati all’elaborazione delle Raccomandazioni.
 
@@ -67,7 +69,9 @@ A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione 
 
 .. |STYLE1| replace:: **agenda dell’innovazione per la XVIII legislatura**
 
-.. |STYLE2| replace:: *Caro governo*
+.. |STYLE2| replace:: **raccomandazioni**
+
+.. |STYLE3| replace:: *Caro governo*
 
 
 .. |LINK1| raw:: html
