@@ -786,7 +786,7 @@ L’Italia non è dunque all’anno zero, come testimoniato anche da alcuni esem
 .. [#f4]  La definizione di questo indicatore è stata modificata. Nel 2017, questa voce misurava la percentuale di utenti di servizi di eGov sul totale di utilizzatori di Internet. Il nuovo indicatore definisce invece gli utenti eGovernment come la percentuale degli utenti Internet tenuti a presentare moduli alla pubblica amministrazione.
 .. [#f5]  10 milioni di utenti previsti per la fine del 2017 dal  `Primo Rapporto di monitoraggio sull’Agenda per la semplificazione <http://www.italiasemplice.gov.it/media/2161/agendasemplificazione_report3042015.pdf>`__  di aprile 2015.
 .. [#f6]  Le misure minime sono state sviluppate in maniera modulare, in modo da non costringere le PA a introdurre misure esagerate rispetto alla propria organizzazione. I controlli sono quindi divisi in tre gruppi progressivi: livello minimo, standard e alto. Il livello minimo è quello obbligatorio per tutte le PA, indipendentemente da natura e dimensione, e rappresenta la soglia di sicurezza sotto il quale nessuna amministrazione dovrebbe scendere. 
-.. [#f7]  Come ad esempio le comunità Spaghetti Open Data e OpendataSicilia
+.. [#f7]  Come ad esempio le comunità  `Spaghetti Open Data <http://spaghettiopendata.org/>`__  e  `OpendataSicilia <http://opendatasicilia.it/>`__ 
 .. [#f8]  Cit. AgID
 
 .. |IMG1| image:: static/3-trasformazione-digitale_1.png
