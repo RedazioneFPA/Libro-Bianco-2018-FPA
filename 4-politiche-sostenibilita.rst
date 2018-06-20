@@ -11,80 +11,95 @@
 4.1 Sanità
 **********
 
-La popolazione invecchia, le patologie croniche aumentano, e la domanda di assistenza cambia. Dai dati di ricerca 2018 dell’Osservatorio Innovazione Digitale in Sanità del Politecnico di Milano le criticità sono:
-
-\ |STYLE0|\ : l’Italia è il secondo Paese più vecchio del mondo, il più vecchio d'Europa, con una percentuale di ultrasessantacinquenni superiore al 20% e previsioni di crescita oltre il 34% nel 2050.
-Nella regione europea dell’OMS, le malattie croniche colpiscono l’80% delle persone oltre i 65 anni; a fronte di una previsione di invecchiamento della popolazione abbiamo una spesa destinata ad aumentare. 
-La \ |STYLE1|\  sostenuta direttamente dalle famiglie continua a crescere. Dal grafico dell'andamento della spesa sanitaria nel corso degli ultimi anni, si registra una leggera modifica nel rapporto tra quello che è la spesa pubblica e la spesa privata out of pocket. Le previsioni di crescita della spesa al 2025 parlano di una necessità di spesa sanitaria pari a 210 miliardi di euro, che a fronte dei vincoli di bilancio sanitario del nostro Paese saranno sempre più a carico delle famiglie.  Oggi siamo intorno ai 150 miliardi di spesa, circa il 9% del prodotto interno lordo, con un potenziale di efficienza maggiore rispetto ad altri paesi di riferimento europeo.
+La sostenibilità del nostro Sistema Sanitario e, soprattutto, il suo carattere universalistico sono messe alla prova dalla divaricazione tra risorse disponibili e bisogni dei cittadini. 
+Nei prossimi anni l’invecchiamento demografico e l’aumento della speranza di vita faranno lievitare la domanda di assistenza e cura: con il 21,8% dei cittadini over 65 e il 6,5% over 80, l’Italia è il Paese più vecchio in Europa, e si posiziona al secondo posto nel mondo, preceduto solo dal Giappone. La bassa natalità è destinata a peggiorare la situazione: si prevede che nel 2050 gli anziani sopra i 65 anni saranno il 34,6% della popolazione, mentre gli ultraottantenni raggiungeranno quota 14,9%. A ciò si aggiunge che l’aspettativa di vita in buona salute all’età di 65 anni in Italia è tra le più basse nei paesi OCSE, con 7,5 anni senza disabilità per le donne e circa 7,8 anni per gli uomini. 
 
 \ |IMG1|\ 
 
-Dall’incrocio dei dati della spesa sanitaria pro-capite 2016 e l’Euro Health Consumer Index (EHCI) 2016, che confronta i sistemi sanitari europei attraverso una serie di indicatori di percezione della qualità dell'assistenza sanitaria, basata sui tempi di attesa, risultati e affidabilità, si rileva che siamo al 22esimo posto dei 35 paesi europei presenti nella classifica (nel 2012 eravamo al quattordicesimo posto).
+A fronte di questo la spesa sanitaria pubblica, negli ultimi anni, è stata praticamente stabile, ma è cresciuta la componente a carico delle famiglie: nel 2016 in Italia sono stati spesi circa 150 miliardi di euro per la Sanità, di cui circa 112 a carico del Sistema Sanitario Nazionale e 37 di “out of pocket” e a carico di assicurazione private. Si tratta di una cifra complessiva apparentemente enorme, ma in realtà moderata se rapportata al PIL e confrontata con altri Paesi europei: infatti, rappresenta “appena” l’8,9% del reddito nazionale, una percentuale decisamente inferiore a quella di altri Paesi come Germania (11,3%), Francia (11%) e Regno unito (9,7%). Occorre, inoltre, sottolineare che tale spesa è stata pressoché stabile negli ultimi anni (nel 2012 la spesa complessiva era di 144,5 miliardi, di cui 34 privata) ma che la spesa out of pocket ha aumentato la sua incidenza sul totale. Se, come risulta da stime recenti, la spesa sanitaria nazionale dovesse salire nel 2025 a 210 miliardi di euro, una larga parte degli ulteriori 60 miliardi necessari a coprire tale fabbisogno potrebbe essere a carico delle famiglie: molte di esse, anche nel cosiddetto ceto medio, si troverebbero nella sostanziale impossibilità di accedere alle cure, producendo fenomeni preoccupanti di disuguaglianza e degrado sociale. I dati Eurostat relativi al 2016 mostrano, infatti, come oltre il 20% della popolazione abbia avuto difficoltà elevata o moderata nel permettersi le cure.
 
-In una situazione di forte divario tra quelle che sono le risorse che il sistema mette a disposizione, i bisogni sempre crescenti che la popolazione ha e la qualità percepita che ci vede decrescere al di sotto della media europea, deve inserirsi l’innovazione. Quattro le direttrici di sviluppo: 1. Rinnovamento organizzativo e tecnologico; 2. Empowerment del cittadino paziente; 3. Competenze degli operatori sanitari. 4. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
+\ |IMG2|\ 
 
-|
+L’equilibrio necessario non potrà essere raggiunto penalizzando la qualità dei servizi sanitari.  Invece, secondo l’ultimo rapporto Euro Health Consumer Index, l’Italia è passata, tra il 2010 e il 2017, dal 14° al 22° posto delle 35 nazioni censite a livello europeo per performance del sistema sanitario: siamo tra i peggiori Paesi per accessibilità ai servizi e tempi di attesa, gestione dei pazienti anziani sul territorio e possibilità di offrire cure di nuova generazione. 
+In questa situazione di forte divario tra risorse disponibili e bisogni crescenti della popolazione l’unica risposta è l’innovazione indirizzata a:
 
-.. _h6832203f4445585a433f372157667a7c:
+#. Rinnovamento organizzativo e tecnologico
 
-Rinnovamento organizzativo del Sistema Sanitario italiano
-=========================================================
+#. Empowerment del cittadino paziente
 
-Il 15 settembre 2016 è stato firmato l’accordo Stato-Regioni che ha dato vita al Piano Nazionale della Cronicità (PNC). Nella prima parte del documento vengono indicati la strategia complessiva e gli obiettivi di Piano; nella seconda viene individuato un elenco di patologie croniche e, per ciascuna di esse, un inquadramento generale, un elenco delle principali criticità, obiettivi, linee di intervento, risultati attesi e alcuni indicatori per il monitoraggio. 
+#. Competenze degli operatori sanitari
 
-Il DPCM 12 gennaio 2017 (in sostituzione del DPCM 29 novembre 2001) definisce i nuovi Livelli essenziali di assistenza (LeA), sulla base di quanto disposto nel cosiddetto “Patto per la salute 2014-2016”, prevedendo importanti ampliamenti delle cure che le unità sanitarie di tutto il Paese sono tenute ad assicurare in regime di Servizio sanitario nazionale. 
+#. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
 
-Serve un programma politico di salvataggio, ecco le raccomandazioni su come innovare. Dovranno essere chiariti i ruoli di Ministero, Regioni e Aziende Sanitarie e i livelli di responsabilità e cooperazione. Il modello organizzativo dell’azienda sanitaria deve raccordarsi con modelli di governance del nostro sistema che oggi varia da regione a regione, serve una necessità di riorganizzazione del modello di assistenza. È necessario un coordinamento di presa delle decisioni tra il livello aziendale e sovraziendale, ad esempio, sul tema della cronicità che pone il focus sulla necessità dei bisogni di presa in carico di pazienti e sulle prestazioni sanitarie continuative.
+\ |STYLE0|\ 
+Occorre:
+•	Riorganizzare, basandosi anche sugli strumenti digitali disponibili, l’integrazione delle AO e AOU con le iniziative socio-assistenziali
+•	Potenziare le equipe territoriali e il ruolo dell’infermiere di territorio 
+•	Riorganizzare la rete della medicina di prossimità, promuovendo l’integrazione e la collaborazione dei MMG e dei PLS con le ASL, AO e AOU (sviluppo e diffusione di strumenti di condivisione delle informazioni come Cartella Clinica Elettronica, FSE)
+•	Costruire un modello di presa in carico in cui l'azienda sanitaria svolga un ruolo di regia e integrazione tra gli attori che operano con il cittadino, utilizzando le tecnologie per il telemonitoraggio, la telemedicina, la teleassistenza 
+•	Mettere in rete i care-giver, anche informali (badanti) e curarne la formazione
+•	Consolidare la collaborazione orizzontale tra ASL. AO, AOU ripensando in digitale i processi attuali e condividendo saperi e esperienze (repository condivisi di progetti, soluzioni…)
+
+\ |STYLE1|\ 
+
+Il patrimonio di dati preziosissimi destinati a crescere per mole e rilevanza rischia a causa della digitalizzazione ancora parziale e disomogenea del nostro SSN di rilevarsi nei fatti non disponibile o inutilizzabile. In questo modo si penalizza l’appropriatezza terapeutica e si agisce con ritardo e poca incisività su sprechi e possibili abusi. I dati ci servono per migliorare le performance ed il modello di funzionamento degli Enti del SSN. 
+Occorre:
+•	Stabilire processi e policy di Data Governance per avere dati di qualità ed efficienza nella loro gestione
+•	Creare un mix di competenze, favorendo la cooperazione strutturata di data scientist con i leader del cambiamento, i process owner e gli esperti di dominio
 
 \ |STYLE2|\ 
 
-|
+Il cittadino deve essere sempre più al centro del Sistema Sanitario, attivo e partecipe nella corretta gestione della propria salute. Anche in questo ambito il digitale può giocare un ruolo fondamentale
+Riguardo l’accesso ai servizi:
+•	Attuare un approccio multicanale, tradizionale e digitale (incrementare la diffusione di SPID, attraverso la consegna di credenziali presso le strutture di cura o indagine diagnostica)
+•	Semplificare l’accesso reso difficile da interpretazione rigida e formale della protezione dei dati personali  
+•	Adottare tecnologie (es. app) il più possibile simili a quelle d’uso comune
+•	Accelerare il processo di diffusione del FSE (con PDTA integrati)
+Riguardo la comunicazione:
+•	Spostare la comunicazione circa i servizi offerti e la prevenzione dai siti internet degli Enti agli strumenti che i cittadini ritengono propri (Social network)
+•	Profilazione degli assistiti (cfr. raccomandazione dati) per personalizzare l'informazione, la comunicazione, i canali
 
-.. _h1f2e2a401fb101e18583f591368c1b:
+\ |STYLE3|\ 
 
-Empowerment e competenze digitali del cittadino paziente
-========================================================
-
-Il 2017, nelle intenzioni del piano “Strategia per la crescita digitale 2014-2020”, avrebbe dovuto essere l’anno di svolta per la digitalizzazione della sanità italiana. All’interno del “Piano Triennale per l’informatica nella PA” (maggio 2017), per l'Ecosistema Sanità sono stati evidenziati tre progetti a titolo esemplificativo: Fascicolo Sanitario Elettronico (FSE), come esempio di infrastruttura abilitante; Centro unico di prenotazione (CUP), da realizzare su tutto il territorio nazionale per favorire l’accesso alle cure e la riduzione dei tempi di attesa; Telemedicina, per migliorare la fruibilità delle cure, dei servizi di diagnosi e della consulenza medica a distanza. 
-
-(\ |STYLE3|\ . 
-L’innovazione digitale abilita i cambiamenti organizzativi su cui spesso viene lamentato un sostanziale isolamento. Occorre una visione sistemica e strategica legata all'impatto delle soluzioni digitali, che si declina in un miglior coordinamento tra le funzioni aziendali deputate al fare innovazione: i sistemi informativi, l’ingegneria clinica, le linee of business o gli attori che lavorano sui processi primari e secondari delle aziende sanitarie.
-
-\ |STYLE4|\  
-
-[...]
-
-\ |STYLE5|\  
-
-Il coinvolgimento di tutti gli attori e il superamento della logica tradizionale a silos sono condizioni prioritarie per attuare la continuità assistenziale, l’integrazione e la presa in carico del paziente e seguirlo longitudinalmente e trasversalmente nei suoi punti di accesso all'interno del SSN.
-
-|
-
-.. _h737501c1ac6b3461a77254837c59:
-
-Competenze degli operatori nella sanità
-=======================================
-
-I professionisti, i medici e gli infermieri dovrebbero allargare il proprio spettro di competenze da quelle più legate alla loro professione a quelle più legate al digitale, più soft, ma anche più manageriali, secondo un approccio di Innovation Management e quindi di definizione di processi, di regole, di organizzazione, di ruoli deputati all'innovazione. 
-\ |STYLE6|\  
-
-|
-
-.. _h2a58794280632e323b465a2e5b80283b:
-
-Interazione con i soggetti del mercato dei beni e servizi per la sanità
-=======================================================================
-
-Procurement pubblico/privato
-
-|
+La spesa digitale in Sanità è frammentata e cresce con lentezza.  Le complicazioni introdotte dalle norme sulla trasparenza; dal nuovo codice degli appalti; a volte, la scarsa conoscenza di strumenti di acquisto innovativi (Procedure competitive con negoziazione, Nuovo dialogo competitivo, Partenariato per l’innovazione) da parte delle funzioni aziendali responsabili ha prodotto una burocrazia difensiva che, di fronte a troppe norme non definite, si astiene dal prendere decisioni che possano comportare rischi. Tali vincoli normativi sono incompatibili con chi deve erogare servizi sanitari e con il mandato delle Direzioni Aziendali.
+•	Diffondere l’uso intelligentemente delle convenzioni Consip: SGI e SPC
+•	Far precedere le Gare Consip da una fase di analisi dei fabbisogni contestualizzata sui processi standardizzabili in modo da creare le condizioni per un utilizzo uniforme/focalizzato delle convenzioni 
+•	Creare catalogo delle soluzioni e Certificazione soluzioni (Ministero della Salute, AGID, FIASO, FederSanità, Agenas, ASSINTER, UniIndustria, Confindustria Digitale…)
+•	Realizzare un Osservatorio nazionale dei prezzi
+•	Sviluppare competenze all’interno delle Centrali acquisti (ma anche all’interno di Regioni, ASL, AO, AOU) e favorire l’integrazione tra le figure preposte nelle Organizzazioni all’innovazione con la funzione acquisti.
+•	Redarre manuali operativi per indicare come si utilizzano gli strumenti di procurement innovativo (sottoporre proposta ad ANAC e Corte dei Conti)
 
 .. _h537236e402f2e20263b59351a391740:
 
 4.2 Lavoro e occupazione
 ************************
 
-[...]
+I dati ISTAT mostrano che un tasso di occupazione al 58%, il livello più alto dal 2009, pur "rimanendo 0,7 punti al di sotto del picco del 2008", il valore massimo pre-crisi. Lo stesso discorso vale per il numero di occupati, che sono risultati 23 milioni e 23 mila (con una crescita dell'1,2%, ovvero 265 mila persone in più al lavoro). L'aumento della presenza al lavoro "per il secondo anno consecutivo coinvolge anche i giovani di 15-34 anni, fascia di età in cui gli occupati sono saliti di 45mila unità (+0,9%). \ |STYLE4|\ : Nord, Centro e Sud mostrano infatti tutti un'occupazione in recupero, tuttavia mentre nel Centro-Nord il tasso di occupazione raggiunge livelli pressoché analoghi a quelli del 2008, arrivando al 66,7% nel Nord e 62,8% nel Centro, nel Mezzogiorno l'indicatore è ancora al di sotto del 2008 di 2,0 punti (44,0%). Il tasso di disoccupazione è sceso nel 2017 di 0,5 punti percentuali, dall'11,7% all'11,2% dell'anno precedente: si tratta del livello più basso dal 2013. Calano anche gli inattivi (coloro che non cercano né hanno occupazione). La discesa della disoccupazione "è più forte per i più giovani in confronto ai 35-49enni mentre per gli ultra 50enni aumenta sia il numero di disoccupati sia il tasso di disoccupazione".
+
+.. _h6f18b668701d1e14511e767856665d:
+
+Occupazione giovanile
+=====================
+
+Secondo Eurostat, nel 2017 i NEET italiani (\ |STYLE5|\ ) sono il 25,7%, dieci punti sopra la media europea che è pari al 14,3%. Emergono differenze tra le diverse aree del Paese: secondo ISTAT, infatti, i NEET sono il 17% al Nord, il 20,4% al Centro e il 34,2% nel Mezzogiorno. \ |STYLE6|\ . Oggi l’incidenza dei NEET è simile sia per i giovani con licenza media (22,7%) sia per quelli con diploma o laurea (22,9%), mentre è significativamente superiore per chi ha un diploma di scuola superiore (26,1%).
+
+L’ANPAL ha provveduto a istituire il nuovo “Incentivo Occupazione Giovani” per promuovere l’occupazione dei NEET di età compresa tra i 16 e i 29 anni che hanno aderito al programma. Si tratta di una misura rivolta ai datori di lavoro che effettuino assunzioni di giovani da gennaio 2017 a dicembre 2018, con contratto a tempo indeterminato (anche \ |STYLE7|\ ), contratto di apprendistato professionalizzante o contratto a tempo determinato della durata di almeno 6 mesi. Le risorse stanziate ammontano a circa 200 milioni di euro e sono indirizzate a tutto il territorio nazionale, ad eccezione della Provincia Autonoma di Bolzano. A fine giugno 2017 le domande presentate erano state quasi 50.000, di cui oltre il 60% sono state confermate.
+
+Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Sociali ha previsto un conguaglio contributivo per i datori di lavoro che, nel corso del 2017, senza esservi tenuti, assumano giovani di età compresa tra i 15 e i 24 anni, o alternativamente soggetti di età superiore ai 25 anni privi di impiego regolarmente retribuito da almeno 6 mesi. La sede di lavoro deve essere localizzata in una delle regioni del Sud e il rapporto di lavoro deve necessariamente essere instaurato attraverso un contratto a tempo indeterminato o di apprendistato professionalizzante.
+
+.. _h30466d3fa51716603e3e2b5a24c:
+
+Alternanza scuola-lavoro
+========================
+
+Al fine di “incrementare l’alternanza scuola-lavoro nel secondo ciclo di istruzione”, così come sancito all’art. 1 comma 7 lettera o) della legge 107/2015, e di promuovere l’occupazione dei giovani in procinto di uscire dal circuito formativo, la legge di bilancio 2016 ha previsto misure di sostegno all’occupazione per i soggetti che abbiano partecipato ai programmi di alternanza scuola-lavoro o svolto un periodo di apprendistato. Si prevede l’esonero dal versamento dei contributi previdenziali (per un periodo massimo di tre anni e nel limite di 3.250 euro all’anno per ciascun lavoratore) per i datori di lavoro che tra l’inizio del 2017 e la fine del 2018 procedano all’assunzione con contratto a tempo indeterminato, entro 6 mesi dall’acquisizione per titolo di studio, di numerose categorie di giovani.
+
+.. _h6d4665a325a1f6593912d43613d54:
+
+Industria 4.0
+=============
+
+Un passo in avanti per favorire l’ammodernamento del sistema produttivo e garantire significativi aumenti di produttività e competitività soprattutto al comparto industriale anche attraverso la digitalizzazione della filiera grazie all’utilizzo delle nuove tecnologie. Approvato in via definitiva con la Legge di Bilancio per il 2017, il Piano prevede: super/iper ammortamento per nuovi investimenti innovativi, il credito d’imposta sugli investimenti in R&S e della nuova Sabatini, che si uniscono alle misure per le start-up e le PMI innovative e al rafforzamento del Fondo Centrale di Garanzia. Il Governo ha stanziato risorse per circa 13 miliardi di euro nel periodo 2017-2024 e stima che solo nel 2017 tali misure possano mobilitare nuovi investimenti privati per circa 10 miliardi di euro.
 
 |
 
@@ -93,11 +108,9 @@ Procurement pubblico/privato
 4.3 Città e territori
 *********************
 
-Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’\ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE7|\ .
+Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’\ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE8|\ .
 
-Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE8|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE9|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
-
-|
+Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE9|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE10|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
 
 .. _he3f663b217b472a24111e1d6e16859:
 
@@ -200,7 +213,7 @@ La priorità per il futuro è quindi l’attuazione dell’Accordo di Parigi nel
 Strategia Nazionale Energetica (SEN)
 ====================================
 
-\ |STYLE10|\ . 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta.
+\ |STYLE11|\ . 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta.
 
 La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefigge, assume valore non soltanto per i contenuti che esprime ma anche per il modello partecipativo adottato, essendo il frutto di un percorso partecipato a cui hanno contribuito regioni, EELL e oltre 250 tra associazioni, imprese e mondo della ricerca.
 
@@ -239,13 +252,13 @@ L'economia circolare segna il passaggio da un modello lineare di produzione a un
 
 * Riscoprire i giacimenti di materia scartata come fonte di materia prima: raccolta dei rifiuti, riciclo, riutilizzo, gestione degli output produttivi, scarti agricoli (bioeconomia);
 
-* Fine dello spreco d’uso del prodotto (\ |STYLE11|\ ), prima ancora di essere scartato. Favorire condivisione e uso collettivo, con l’introduzione di prodotti di business;
+* Fine dello spreco d’uso del prodotto (\ |STYLE12|\ ), prima ancora di essere scartato. Favorire condivisione e uso collettivo, con l’introduzione di prodotti di business;
 
-* Fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, \ |STYLE12|\ , ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
+* Fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, \ |STYLE13|\ , ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
 
 Un ampio slancio a questa economia è dato dal ruolo svolto dalla PA nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese, nel creare nuove opportunità e pratiche di condivisione. 
 
-\ |STYLE13|\ . Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571, di accordi internazionali, come l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
+\ |STYLE14|\ . Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571, di accordi internazionali, come l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
 
 Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui \ |LINK10|\ , sulle \ |LINK11|\ , sugli \ |LINK12|\  e sui \ |LINK13|\ , pensato per combinare ambientalismo e crescita economica.
 
@@ -281,33 +294,35 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Invecchiamento della popolazione**
+.. |STYLE0| replace:: **Spostare le cure dall’ospedale al territorio e definire processi di presa in carico dei sempre più numerosi pazienti cronici**
 
-.. |STYLE1| replace:: **spesa sanitaria**
+.. |STYLE1| replace:: **Realizzare applicazioni per valorizzare il flusso di informazioni che il SSN produce quotidianamente**
 
-.. |STYLE2| replace:: **Promuovere una governance di ASL/AO/AOU puntando su autonomia, accountability e indipendenza dalla politica**
+.. |STYLE2| replace:: **Costruire rapporto di fiducia tra cittadini e Enti della sanità**
 
-.. |STYLE3| replace:: **Investire sul digitale in quanto elemento abilitante che va a supportare l’organizzazione complessiva del sistema**
+.. |STYLE3| replace:: **Semplificare il procurement dell’innovazione digitale**
 
-.. |STYLE4| replace:: **Adottare procedure comuni, per mettere a punto modelli condivisi in tutta Italia ed evitare di disperdere risorse ed energie.**
+.. |STYLE4| replace:: **Aumentano soprattutto i posti di lavoro a tempo determinato e sono ancora grandi le distanze tra le aree del Paese**
 
-.. |STYLE5| replace:: **Attuare un ripensamento complessivo della gestione dei processi del Servizio Sanitario Nazionale**
+.. |STYLE5| replace:: *Not in education, employment or training*
 
-.. |STYLE6| replace:: **Raccomandazioni: …**
+.. |STYLE6| replace:: **La crisi ha profondamente cambiato anche l’incidenza dei NEET con riferimento al livello di istruzione: se, infatti, nel 2008 questi erano maggiormente diffusi fra i giovani con solo la licenza media, negli anni della crisi la crescita ha riguardato principalmente giovani con medio e alto titolo di studio**
 
-.. |STYLE7| replace:: **riflessione sulla definizione di un’Agenda urbana come strumento di perseguimento degli obiettivi di grande impatto e interesse pubblico**
+.. |STYLE7| replace:: *part-time*
 
-.. |STYLE8| replace:: **PON “Città metropolitane 2014 – 2020”**
+.. |STYLE8| replace:: **riflessione sulla definizione di un’Agenda urbana come strumento di perseguimento degli obiettivi di grande impatto e interesse pubblico**
 
-.. |STYLE9| replace:: **Bando periferie, il “Bando per il programma straordinario di intervento per la riqualificazione urbana e la sicurezza delle periferie delle città metropolitane e dei comuni capoluogo di provincia”**
+.. |STYLE9| replace:: **PON “Città metropolitane 2014 – 2020”**
 
-.. |STYLE10| replace:: **La Strategia Energetica Nazionale rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030**
+.. |STYLE10| replace:: **Bando periferie, il “Bando per il programma straordinario di intervento per la riqualificazione urbana e la sicurezza delle periferie delle città metropolitane e dei comuni capoluogo di provincia”**
 
-.. |STYLE11| replace:: *unused value*
+.. |STYLE11| replace:: **La Strategia Energetica Nazionale rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030**
 
-.. |STYLE12| replace:: *refilling*
+.. |STYLE12| replace:: *unused value*
 
-.. |STYLE13| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
+.. |STYLE13| replace:: *refilling*
+
+.. |STYLE14| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
 
 
 .. |LINK1| raw:: html
@@ -364,5 +379,9 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 
 
 .. |IMG1| image:: static/4-politiche-sostenibilita_1.jpeg
+   :height: 304 px
+   :width: 601 px
+
+.. |IMG2| image:: static/4-politiche-sostenibilita_2.jpeg
    :height: 309 px
    :width: 582 px
