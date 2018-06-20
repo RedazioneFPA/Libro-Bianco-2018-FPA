@@ -18,7 +18,7 @@ Ogni commento è pubblico e viene inserito online lateralmente al corpo del test
 
 \ |STYLE1|\  - i commenti editati vengono rilasciati con \ |LINK5|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
 
-Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati per l'integrazione nella versione finale della pubblicazione da inviare al nuovo Governo.
+Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale del Libro Bianco da inviare al nuovo Governo.
 
 
 .. bottom of content
