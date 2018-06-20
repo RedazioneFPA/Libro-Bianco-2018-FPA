@@ -8,7 +8,7 @@
 Libro bianco sull’innovazione della PA
 ######################################
 
-Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire di un’\ |STYLE1|\ . 
+Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire un’\ |STYLE1|\ . 
 
 
 .. toctree::  
