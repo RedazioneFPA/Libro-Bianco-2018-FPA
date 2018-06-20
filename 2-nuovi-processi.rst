@@ -30,7 +30,7 @@ Probabilmente, vista anche la lentezza della divulgazione di dati certificati su
 Continuità dell’impegno, reputazione e immagine del lavoro pubblico
 -------------------------------------------------------------------
 
-In questa fase delicata di cambiamento di Legislatura e di Governo appare quantomai necessario una doppia azione della politica tesa da una parte a non ricominciare da zero cancellando un quinquennio di riforme importanti e ancora non metabolizzate, dall’altra a ridare fiducia e reputazione ad un comparto, come quello del lavoro pubblico, che ha subito negli ultimi dieci anni pesantissimi attacchi che ne hanno minato sia la credibilità sia la fiducia.
+In questa fase delicata di cambiamento di Legislatura e di Governo appare quanto mai necessario una doppia azione della politica tesa da una parte a non ricominciare da zero cancellando un quinquennio di riforme importanti e ancora non metabolizzate, dall’altra a ridare fiducia e reputazione ad un comparto, come quello del lavoro pubblico, che ha subito negli ultimi dieci anni pesantissimi attacchi che ne hanno minato sia la credibilità sia la fiducia.
 
 .. admonition:: Raccomandazione 2.1a - Adottare una drastica riduzione della produzione normativa in tema di pubblica amministrazione, concentrandosi invece su semplificazione e azioni di accompagnamento
 
@@ -40,6 +40,11 @@ In questa fase delicata di cambiamento di Legislatura e di Governo appare quanto
 .. admonition:: Raccomandazione 2.1b - Valorizzare le buone pratiche realizzate dagli enti italiani e promuoverne la diffusione
 
     Appare necessario, per quell’indispensabile ripristino delle condizioni della fiducia, avere la massima attenzione alle diversità di ogni tipologia di amministrazione, dal piccolo comune al grande ente centrale, mettendo in evidenza sempre le tante eccellenze presenti, nate spesso dell’impegno di una unità organizzativa e dei suoi dirigenti, che devono trovare pubblicità, apprezzamento dell’opinione pubblica, effettivi riconoscimenti da parte del Governo centrale. Anche appoggiandosi a agenzie indipendenti, il Governo dovrebbe curare un catalogo ricco e aggiornato di “buoni esempi”, che porti con sé anche la strumentazione amministrativa utile per replicarlo.
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h232ae76582662f6c324a672c434574:
 
@@ -414,7 +419,7 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi tre anni social network, chat, siti web user-friendly, hanno definito i tratti innovativi della nuova comunicazione pubblica. Il rapporto tra cittadini e PA  passa, dunque, attraverso un vero rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento delle vecchie divisioni e la proposta di un lavoro da redazione unica e diffusa e il riconoscimento di un profilo unitario, quello del Giornalismo pubblico, con una nuova legge che superi la 150/2000. L’associazione PA Social ha proposto un nuovo modello organizzativo, un "Ufficio comunicazione, stampa e servizi al cittadino"
+Negli ultimi tre anni social network, chat, siti web user-friendly, hanno definito i tratti innovativi della nuova comunicazione pubblica. Il rapporto tra cittadini e PA  passa, dunque, attraverso un vero rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso e il riconoscimento di un profilo unitario, quello del giornalista pubblico, con una nuova legge che superi la 150/2000. L’associazione PA Social ha proposto un nuovo modello organizzativo, un "Ufficio comunicazione, stampa e servizi al cittadino"
 
 Due i fattori che possono permettere alle pubbliche amministrazioni di sfruttare le opportunità offerte dalla rivoluzione in atto: la crescita delle competenze e l'adozione di un modello organizzativo unico che non possa non prevedere un’interazione molto stretta tra le competenze interne e  risorse specialistiche esterne, tra chi si occupa di comunicazione - social media manager, social media strategist, community organizer -  coloro che si occupano del digitale - analista dei dati, esperti di monitoraggio ex post, visual design - e le nuove professioni della consultazione pubblica.
 
