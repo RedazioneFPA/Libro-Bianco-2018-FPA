@@ -51,9 +51,9 @@ Il Libro Bianco viene infatti posto in consultazione, in un’ottica di aggiorna
 
 Una prima fase di consultazione, avviata il 21 giugno 2018 e finalizzata a validare il lavoro di rielaborazione svolto da FPA, ha visto il coinvolgimento di una platea ristretta composta da:
 
-* moderatori e relatori dei convegni di FORUM PA 2018 finalizzati all’elaborazione delle Raccomandazioni;
+* contributori della rubrica \ |STYLE2|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
 
-* contributori della rubrica \ |STYLE2|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima del Forum di maggio.
+* moderatori e relatori dei convegni di FORUM PA 2018 finalizzati all’elaborazione delle Raccomandazioni.
 
 A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione pubblica: si tratta del primo tassello di un percorso collaborativo che ci accompagnerà per il resto dell'anno.
 
