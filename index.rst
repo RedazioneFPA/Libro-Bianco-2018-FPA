@@ -44,8 +44,6 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 
 ..  Important:: 
 
-    \ |IMG1|\  
-    
     Il presente documento è rilasciato da FPA con licenza \ |LINK1|\ 
 
 
@@ -65,7 +63,3 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
 
-
-.. |IMG1| image:: static/index_1.png
-   :height: 44 px
-   :width: 126 px
