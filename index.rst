@@ -54,7 +54,7 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Libro bianco sull'innovazione della PA**
+.. |STYLE0| replace:: **Libro bianco sull'innovazione della Pubblica Amministrazione**
 
 .. |STYLE1| replace:: **agenda dell’innovazione per la nuova legislatura**
 
