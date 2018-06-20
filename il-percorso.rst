@@ -32,11 +32,11 @@ Ne è scaturita un ricco patrimonio di contributi e spunti, in gran parte raccol
 Forum PA 2018
 -------------
 
-L’analisi svolta nei primi mesi del 2018 ha contribuito ad alimentare il ricco programma congressuale della 29° edizione di FORUM PA (Roma, 22-24 maggio 2018).
+L’analisi svolta nei primi mesi del 2018 ha contribuito ad alimentare il ricco programma congressuale della \ |LINK2|\  (Roma, 22-24 maggio 2018).
 
 L’intera Manifestazione è stata concepita come un importante momento di advocacy partecipativa, finalizzata a sostenere la centralità dei processi di innovazione in atto e a scongiurare il completo reset dei processi avviati. Un confronto che ha visto la partecipazione di oltre 16.000 innovatori che hanno partecipato ai quasi 250 incontri in programma.
 
-Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati come veri e propri momenti di confronto, elaborazione e proposizione, finalizzati alla redazione di alcune raccomandazioni da porre all’attenzione del Governo, raccolte in questo Libro Bianco al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK2|\ .
+Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati come veri e propri momenti di confronto, elaborazione e proposizione, finalizzati alla redazione di alcune raccomandazioni da porre all’attenzione del Governo, raccolte in questo Libro Bianco al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK3|\ .
 
 |
 
@@ -57,7 +57,7 @@ Una prima fase di consultazione, avviata il 21 giugno 2018 e finalizzata a valid
 
 A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione pubblica: si tratta del primo tassello di un percorso collaborativo che ci accompagnerà per il resto dell'anno.
 
-\ |LINK3|\ 
+\ |LINK4|\ 
 
 
 .. bottom of content
@@ -76,9 +76,13 @@ A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione 
 
 .. |LINK2| raw:: html
 
-    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io/it/latest/chi-siamo.html#chi-siamo-cosa-facciamo" target="_blank">team di FPA</a>
+    <a href="https://forumpa2018.eventifpa.it/it/" target="_blank">29° edizione di FORUM PA</a>
 
 .. |LINK3| raw:: html
+
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io/it/latest/chi-siamo.html#chi-siamo-cosa-facciamo" target="_blank">team di FPA</a>
+
+.. |LINK4| raw:: html
 
     <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io/it/latest/partecipazione-libro-bianco.html#partecipa-alla-redazione-del-libro-bianco" target="_blank">Clicca qui per scoprire come contribuire alla redazione del Libro Bianco</a>
 
