@@ -451,10 +451,7 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 
 .. admonition:: Raccomandazione 2.4e - Adottare una nuova legge sulla comunicazione
 
-    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del civic hacking.
-
-\ |STYLE41|\ 
-Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del civic hacking.
+    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del \ |STYLE41|\ .
 
 |
 
@@ -680,7 +677,7 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE40| replace:: *fake news*
 
-.. |STYLE41| replace:: **Serve una nuova legge sulla comunicazione**
+.. |STYLE41| replace:: *civic hacking*
 
 .. |STYLE42| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
 
