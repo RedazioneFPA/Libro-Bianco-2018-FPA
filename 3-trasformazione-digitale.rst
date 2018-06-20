@@ -451,12 +451,66 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
 |
 
-.. _h18245b3727255245e563613d62157:
+.. _h11f7147784836741386a2d592351:
 
-Data analytics framework
-========================
+Data & Analytics Framework
+==========================
 
-[...]
+Il \ |LINK29|\  (DAF) è il grande progetto di coordinamento a livello nazionale della gestione dei dati delle Pubbliche Amministrazioni. Il DAF disegna una strada comune per le Amministrazioni e vuole essere la strumento per tradurre concretamente la strategia di valorizzazione del patrimonio dati del nostro Paese.
+
+Il DAF è parte integrante del Piano Triennale e con l’ultima riforma del CAD, all’art 50-ter il sistema normativo ha introdotto la Piattaforma Digitale Nazionale dei Dati (nome tecnico del DAF).
+
+I principi alla base di questo strumento sono:
+
+* l’\ |LINK30|\ , ovvero il superamento della logica dei “silos” i dati;
+
+* la standardizzazione, ovvero la possibilità di far dialogare basi di dati;
+
+* il dato come bene comune, da cui estrarre valore e conoscenza e per mettere a punto azioni di policy making adeguate.
+
+Il DAF è in primis una piattaforma tecnologica con un grande data lake e una struttura big data. Il DAF mette inoltre a disposizione delle Amministrazioni degli strumenti per la standardizzazione delle procedure di lavoro con i dati. È attualmente in corso la fase di messa in produzione del DAF per le singole PA.
+
+In questa fase importante, a partire dall’esperienza di Amministrazioni che stanno sperimentando il DAF e di imprese che lavorano nel mondo dei dati, ci siamo chiesti su cosa sia necessario puntare per far sì che questo grande progetto a livello nazionale avanzi efficacemente
+
+
+.. admonition:: Raccomandazione 3.6i - Definire azioni di rafforzamento delle competenze necessarie per operare con il DAF, specialmente in ambito creazione e analisi di dataset
+
+    Le linee di azione sono due: da una parte la massima valorizzazione delle competenze interne alla PA e dall’altro un utilizzo di partnership con privato per far crescere competenze interne e far crescere il progetto DAF.
+    Necessario l’inserimento di personale giovane, formato su questi temi, per far crescere il personale di età media presente nella PA volenteroso di apprendere.
+    Incidere sullo sviluppo delle competenze di analisi del dato. Usare a tal fine gli strumenti e le linee guida messe a disposizione all’interno del DAF che permettono di supportare le risorse delle diverse PA nello sviluppo delle competenze “tecniche” (statistico-matematiche) necessarie a svolgere le operazioni di gestione del dato.
+    Strutturare dei meccanismi che permettano alle amministrazioni di lavorare fianco a fianco con il Team di esperti che lavora al DAF al fine di operare un’azione di trasferimento delle competenze nelle singole PA e di prioritizzare gli interventi da compiere. Da questo punto di vista è necessario definire degli strumenti sia pratici (documenti / sistemi per la strutturazione e la sottomissione delle idee) sia organizzativi (linee guida, modelli, ecc.).
+    Strutturare degli interventi di coaching da parte delle PA più grandi (es. regioni, comuni particolarmente grandi, ecc.) nell’accompagnamento delle PA più piccole all’interno del DAF, così da svolgere un ruolo di “collante” tra il DAF e le piccole PA locali.
+    Dare spazio ad interventi di formazione per insegnare alle amministrazioni l’utilizzo degli strumenti già ad oggi messi a disposizione dal DAF.
+
+
+.. admonition:: Raccomandazione 3.6l - Lanciare una comunicazione capillare che permetta alle Amministrazioni di comprendere i benefici del DAF
+
+    Avere una piattaforma come quella del DAF consente di svolgere attività che oggi le Amministrazioni non sono in grado di realizzare da sole. Un’azione capillare e diffusa sui vantaggi che un’Amministrazione trae dall’utilizzo di uno strumento di questo tipo permetterebbe da una parte di accelerare il processo di adesione al DAF e dall’altra di fare sistema.
+    Molto spesso per esempio le Amministrazioni si trovano ad acquisire le stesse banche dati a pagamento dal privato. Sarebbe necessaria una maggiore sinergia tra PA per far sì che le informazioni acquistate una volta possano essere messe a disposizione delle altre PA. La sinergia permetterebbe peraltro di rompere i silos, abbattendo la resistenza a cedere il dato acquisito.
+
+
+.. admonition:: Raccomandazione 3.6m - Individuare le modalità per dedicare risorse economiche a progetti di implementazione del DAF all’interno delle singole pubbliche amministrazioni
+
+    Sarebbe opportuno studiare ed implementare nuovi strumenti con cui le singole PA possano trovare le risorse necessarie ad affrontare i progetti in ambito DAF o rendere più flessibili quelle forme già previste nell’ambito del Codice degli Appalti.
+
+
+.. admonition:: Raccomandazione 3.6n - Facilitare e stimolare la condivisione dei dati e delle relative analisi nonché la collaborazione tra le diverse PA
+
+    Mettere maggiormente a fattor comune il lavoro fatto da alcune PA, soprattutto quelle centrali per facilitare il lavoro delle PA locali andando anche a standardizzare i dataset e le analisi condivise. Redigere delle linee guida su come strutturare determinati tipi di analisi, così da standardizzare il metodo di lavoro (facilitando anche PA più piccole che hanno meno risorse, sia umane che economiche, a disposizione).
+    Istituire dei meccanismi, operativi, organizzativi e tecnologici, volti a migliorare la comunicazione delle attività svolte all’interno del DAF, così da evitare la duplicazione degli sforzi e, contemporaneamente, ispirare altre PA su possibili analisi da svolgere.
+
+
+.. admonition:: Raccomandazione 3.6o - Migliorare la qualità dei dati raccolti, prodotti e condivisi
+
+    Prevedere dei piani di formazione / comunicazione volti a diffondere la cultura del dato e l’importanza della qualità di questo all’interno delle PA a tutti i livelli.
+    Diffondere le linee guida strutturate all’interno del DAF e/o da altre PA centrali (es. ISTAT) al fine di uniformare alcune procedure di raccolta dei dati, data quality, metadatazione dei dataset.
+    Uno dei punti tipicamente collegati alla metadatazione dei dataset è quello delle ontologie. Sarebbe opportuno mappare le ontologie già create dalle PA centrali sui temi di loro interesse, così da utilizzarle come punto di partenza rispetto ai dataset che le PA locali potranno poi andare a creare e monitorare nel tempo l’evoluzione di queste ontologie, così da tenerle sempre aggiornate rispetto alle esigenze delle PA di tutti i livelli, mantenendo un governo centrale che eviti rilavorazioni e duplicazioni degli sforzi.
+    Avere dati di qualità significa poter rappresentare fedelmente i fenomeni. È necessario anche creare la cultura e la conoscenza di cosa significhi rappresentare i dati in modo efficace. Per questo motivo sarebbe utile creare delle linee guida con gli elementi essenziali da rispettare nella rappresentazione dei dati, oltre a \ |STYLE66|\  che rendano più semplice selezionare il tipo di rappresentazione in base alla tipologia di analisi di cui si vuole comunicare il risultato.
+
+
+.. admonition:: Raccomandazione 3.6p - Definire e rafforzare progetti di partnership pubblico privato
+
+    La collaborazione pubblico – privato diventa strategica per far progredire il progetto. Sarebbe necessario a questo livello istituire dei tavoli di lavoro con aziende private: da un lato per coinvolgere i data provider per acquisire in modo centralizzato i dati da rendere poi disponibili a tutte le PA (questo processo oggi esiste, ma viene gestito singolarmente dalle PA, portando così a sprechi per acquisti ripetuti) e standardizzare insieme a loro i formati in cui queste informazioni vengono rese disponibili; dall’altro potrebbe coinvolgere anche i software vendor così da fare leva sulle loro esperienze (sia in campo pubblico che privato) e supportare le PA locali nell’identificazione di eventuali fabbisogni esterni alla logica del DAF.
 
 |
 
@@ -485,7 +539,7 @@ Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più 
 
     L’innovazione deve svilupparsi in libertà, confrontarsi con il mercato e i contesti di applicazione, sfidare la propria esistenza sul campo. In un’ottica di open innovation, la blockchain evolve e si sviluppa nel dialogo e confronto tra ricercatori, tecnici, imprenditori, stakeholders e utenti. Tuttavia anche le istituzioni svolgono un loro ruolo specifico e, nel caso della blockchain, questo risiede nell’investimento in dispositivi normativi, sia in chiave di standardizzazione, sia di riconoscimento istituzionale.
     
-    L’Italia, rispetto al primo punto, è chiamata ad assumere un ruolo maggiormente attivo e partecipe sui tavoli in cui si discute e si definisce l’impianto di standardizzazione della tecnologia blockchain; a partire dall’adesione alla \ |LINK29|\  per passare ad una più efficace partecipazione ai lavori di organizzazioni come UNI.
+    L’Italia, rispetto al primo punto, è chiamata ad assumere un ruolo maggiormente attivo e partecipe sui tavoli in cui si discute e si definisce l’impianto di standardizzazione della tecnologia blockchain; a partire dall’adesione alla \ |LINK31|\  per passare ad una più efficace partecipazione ai lavori di organizzazioni come UNI.
 
 
 .. admonition:: Raccomandazione 3.7b - Sfruttare la tecnologia blockchain nello sviluppo dei servizi rivolti al cittadino e al sistema economico, soprattutto quelli di carattere transnazionale
@@ -504,7 +558,7 @@ Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più 
 Intelligenza Artificiale
 ========================
 
-L’Intelligenza Artificiale (IA) è un paradigma che va sempre più diffondendosi dentro le aziende in quanto fattore tecnologico incredibilmente abilitante, in grado di sollevare le persone dai compiti più semplici per ricollocarle su task dal valore più alto. Oltre che all’interno delle aziende, esistono già diverse applicazioni di questa tecnologia nei sistemi pubblici, come quello scolastico o giudiziario, ma anche nel pubblico impiego o nel sistema sanitario, nella sicurezza o nella gestione delle relazioni coi cittadini. Gli ambiti sono dunque molteplici anche all’interno della PA, che tuttavia non può non tener conto di vizi e criticità portate da una tecnologia così complessa. Su questa consapevolezza si sta muovendo anche l’Agid, che lo scorso settembre ha lanciato una \ |LINK30|\ , che a sua volta ha dato vita a un \ |LINK31|\ , un documento finalizzato a stimolare una riflessione condivisa con gli enti che porti poi alla realizzazione di una vera strategia italiana.
+L’Intelligenza Artificiale (IA) è un paradigma che va sempre più diffondendosi dentro le aziende in quanto fattore tecnologico incredibilmente abilitante, in grado di sollevare le persone dai compiti più semplici per ricollocarle su task dal valore più alto. Oltre che all’interno delle aziende, esistono già diverse applicazioni di questa tecnologia nei sistemi pubblici, come quello scolastico o giudiziario, ma anche nel pubblico impiego o nel sistema sanitario, nella sicurezza o nella gestione delle relazioni coi cittadini. Gli ambiti sono dunque molteplici anche all’interno della PA, che tuttavia non può non tener conto di vizi e criticità portate da una tecnologia così complessa. Su questa consapevolezza si sta muovendo anche l’Agid, che lo scorso settembre ha lanciato una \ |LINK32|\ , che a sua volta ha dato vita a un \ |LINK33|\ , un documento finalizzato a stimolare una riflessione condivisa con gli enti che porti poi alla realizzazione di una vera strategia italiana.
 
 L’Italia non è dunque all’anno zero, come testimoniato anche da alcuni esempi che raccontano di una PA viva e curiosa. Per accelerare sullo sviluppo di servizi 4.0, c’è bisogno di una programmazione e di una pianificazione precisa per non disperdere tempo e risorse. 
 
@@ -651,6 +705,8 @@ L’Italia non è dunque all’anno zero, come testimoniato anche da alcuni esem
 
 .. |STYLE65| replace:: **governance del dato**
 
+.. |STYLE66| replace:: *cheat sheets*
+
 
 .. |LINK1| raw:: html
 
@@ -766,13 +822,21 @@ L’Italia non è dunque all’anno zero, come testimoniato anche da alcuni esem
 
 .. |LINK29| raw:: html
 
-    <a href="https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership" target="_blank">European Blockchain Partnership</a>
+    <a href="https://teamdigitale.governo.it/it/projects/daf.htm" target="_blank">Data & Analytics Framework</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://ia.italia.it/" target="_blank">Task force sull’Intelligenza Artificiale</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io/it/latest/3-trasformazione-digitale.html#interoperabilita-e-once-only-principle" target="_blank">interoperabilità</a>
 
 .. |LINK31| raw:: html
+
+    <a href="https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership" target="_blank">European Blockchain Partnership</a>
+
+.. |LINK32| raw:: html
+
+    <a href="https://ia.italia.it/" target="_blank">Task force sull’Intelligenza Artificiale</a>
+
+.. |LINK33| raw:: html
 
     <a href="https://ia.italia.it/assets/librobianco.pdf" target="_blank">Libro bianco sul tema</a>
 
