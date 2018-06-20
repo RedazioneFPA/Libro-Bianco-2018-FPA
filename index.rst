@@ -21,7 +21,8 @@ Il libro bianco non è però un punto di arrivo, ma rappresenta il tassello iniz
     :maxdepth: 2
     :caption: Introduzione
 
-    Presentazione
+    perche-questo-libro-bianco
+    il-percorso
 
 
 .. toctree::  
