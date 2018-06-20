@@ -8,7 +8,7 @@ Il Libro Bianco sull’Innovazione della PA è strutturato in 4 capitoli.
 
 Il capitolo introduttivo, intitolato \ |STYLE0|\ , illustra la visione di fondo del documento, descrivendo il cambio di paradigma necessario a favorire il cambiamento e contrastare la burocrazia difensiva all’interno della PA italiana, attraverso il coinvolgimento dei diversi attori pubblici, privati e del non profit nella progettazione e gestione dei servizi avanzati. 
 
-I tre capitoli successivi sono invece dedicati a tre grandi \ |STYLE1|\  tematici, corrispondenti ai tre principali percorsi di Forum PA 2018:
+I tre capitoli successivi sono invece dedicati a tre grandi \ |STYLE1|\  tematici, corrispondenti ai principali percorsi di Forum PA 2018:
 
 * il capitolo 2, intitolato \ |STYLE2|\  è dedicato ad alcuni dei principali processi di trasformazione organizzativa attualmente in corso all’interno delle pubbliche amministrazioni, abilitati dall’uso sapiente delle tecnologie digitali:
 
@@ -52,13 +52,13 @@ I tre capitoli successivi sono invece dedicati a tre grandi \ |STYLE1|\  tematic
 
     * istruzione e formazione.
 
-Ciascun tema corrisponde a un paragrafo, che contiene:
+A ciascun tema corrisponde un paragrafo, che contiene:
 
 * una \ |STYLE7|\ , corredata da dati e statistiche relative alla situazione attuale, da una ricognizione di piani, programmi e normative sviluppare nel corso della passata legislatura e da un’analisi del loro stato di attuazione;
 
-* l’indicazione delle \ |STYLE8|\ , individuate nell’ambito dell’analisi preparatoria pre-Forum PA e approfondite nel corso dei principali appuntamenti organizzati durante la Manifestazione di maggio;
+* l’indicazione delle \ |STYLE8|\ , individuate nell’ambito dell’analisi preparatoria pre-Forum PA e approfondite nel corso dei principali appuntamenti della Manifestazione di maggio;
 
-* una \ |STYLE9|\  inerenti ciascuna priorità d’azione e sviluppate a margine del dibattito svolto in alcuni convegni selezionati di Forum PA 2018. Le raccomandazioni contenute in ciascun paragrafo differiscono a seconda del grado di maturità di ciascun tema. Queste possono quindi consistere in semplici suggerimenti o “punti di attenzione”, segnalazioni di azioni auspicate, fino a vere e proprie proposte operative.
+* una \ |STYLE9|\  inerenti ciascuna priorità d’azione, sviluppate a margine del dibattito svolto in alcuni convegni selezionati di Forum PA 2018. Le raccomandazioni contenute in ciascun paragrafo differiscono in base al grado di maturità del tema trattato. Queste possono quindi consistere in semplici suggerimenti o “punti di attenzione”, segnalazioni di azioni auspicate, fino a vere e proprie proposte operative.
 
 
 .. bottom of content
