@@ -8,13 +8,7 @@
 Libro bianco sull’innovazione della PA
 ######################################
 
-Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire di un’\ |STYLE1|\ .
-
-Il percorso, avviato alla fine dello scorso anno con una prima fase di ascolto della community, ha visto nella \ |STYLE2|\  (Roma, 22-24 maggio) un importante momento di advocacy partecipativa, finalizzata a sostenere la centralità dei processi di innovazione in atto e a scongiurare il completo reset dei processi avviati. Obiettivo finale è la sensibilizzazione di chi sarà deputato a gestire la modernizzazione della PA a non essere tentato da nuove rivoluzioni, ma a condividere un percorso capace di valorizzare le cose già fatte ed individuare il metodo migliore per aggiungerne di nuove.
-
-L’intera Manifestazione è stata progettata come un momento di confronto, elaborazione e proposizione, di cui questo Libro Bianco rappresenta il risultato, che FPA pone oggi all’attenzione del Governo.
-
-Il libro bianco non è però un punto di arrivo, ma rappresenta il tassello iniziale di un percorso di confronto che proseguirà per il tutto 2018.
+Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire di un’\ |STYLE1|\ . 
 
 
 .. toctree::  
@@ -63,8 +57,6 @@ Il libro bianco non è però un punto di arrivo, ma rappresenta il tassello iniz
 .. |STYLE0| replace:: **Libro bianco sull'innovazione della PA**
 
 .. |STYLE1| replace:: **agenda dell’innovazione per la nuova legislatura**
-
-.. |STYLE2| replace:: **29° edizione di FORUM PA**
 
 
 .. |REPLACE1| raw:: html
