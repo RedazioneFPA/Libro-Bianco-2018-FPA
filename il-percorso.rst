@@ -8,7 +8,10 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 
 |
 
-\ |STYLE2|\ 
+.. _ha68a5e401b4c2e30384463794e70:
+
+Ascolto della community
+-----------------------
 
 Il percorso è stato avviato alla fine dello scorso anno con una prima fase di ascolto della community di innovatori di FPA, finalizzato a raccogliere commenti, riflessioni e suggerimenti sullo stato dell’arte relativo ad alcuni temi di particolare rilevanza strategica: dalla riforma della PA alla trasformazione digitale, dalla sanità al procurement pubblico, dalle politiche urbane alle quelle per il lavoro e l’istruzione. 
 
@@ -24,19 +27,25 @@ Ne è scaturita un ricco patrimonio di contributi e spunti, in gran parte raccol
 
 |
 
-\ |STYLE3|\ 
+.. _h184a70514c582d2814251f67186c1b6c:
+
+Forum PA 2018
+-------------
 
 L’analisi svolta nei primi mesi del 2018 ha contribuito ad alimentare il ricco programma congressuale della \ |LINK2|\  (Roma, 22-24 maggio 2018).
 
 L’intera Manifestazione è stata concepita come un importante momento di confronto, elaborazione e proposizione finalizzato alla redazione di un programma d’innovazione della PA da mettere, con determinazione, sulla scrivania del nuovo Governo. Un confronto che ha visto la partecipazione di oltre 16.000 innovatori che hanno partecipato ai quasi 250 incontri in programma.
 
-Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati con lo specifico obiettivo di redigere alcune possibili \ |STYLE4|\  per valorizzare quanto si è già fatto, individuare quanto rimane ancora da fare (definendo una chiara gerarchia di priorità) ed esaminare con onestà le iniziative che si sono rivelate sbagliate o che non hanno prodotto i risultati sperati.
+Tra questi, sono stati selezionati circa 20 tra convegni e grandi scenari, progettati con lo specifico obiettivo di redigere alcune possibili \ |STYLE2|\  per valorizzare quanto si è già fatto, individuare quanto rimane ancora da fare (definendo una chiara gerarchia di priorità) ed esaminare con onestà le iniziative che si sono rivelate sbagliate o che non hanno prodotto i risultati sperati.
 
 I risultati emersi sono stati raccolti in questa prima versione Libro Bianco, al termine di una fase di rielaborazione e sistematizzazione curata dal \ |LINK3|\ . I contenuti del Libro non rappresentano quindi la posizione finale di FPA e di coloro che hanno contribuito alla redazione, ma vogliono piuttosto costituire la base di una più ampia riflessione condivisa sulle proposte avanzate nel documento.
 
 |
 
-\ |STYLE5|\ 
+.. _h1d4b77b6626776b6a5240597d5b6d9:
+
+Consultazione pubblica
+----------------------
 
 Il libro bianco non è il punto di arrivo, ma rappresenta il tassello iniziale di un percorso di confronto che proseguirà per il tutto 2018.
 
@@ -44,7 +53,7 @@ Il Libro Bianco viene infatti posto in consultazione, in un’ottica di aggiorna
 
 Una prima fase di consultazione, avviata il 21 giugno 2018 e finalizzata a validare il lavoro di rielaborazione svolto da FPA, ha visto il coinvolgimento di una platea ristretta composta da:
 
-* contributori della rubrica \ |STYLE6|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
+* contributori della rubrica \ |STYLE3|\  e più in generale, alla fase di analisi preparatoria svolta da FPA prima di maggio; 
 
 * moderatori e relatori dei convegni di FORUM PA 2018 finalizzati all’elaborazione delle Raccomandazioni.
 
@@ -60,15 +69,9 @@ A partire dal 28 giugno, il Libro Bianco è pubblicato e posto in consultazione 
 
 .. |STYLE1| replace:: **agenda dell’innovazione per la XVIII legislatura**
 
-.. |STYLE2| replace:: **Ascolto della community**
+.. |STYLE2| replace:: **raccomandazioni**
 
-.. |STYLE3| replace:: **Forum PA 2018**
-
-.. |STYLE4| replace:: **raccomandazioni**
-
-.. |STYLE5| replace:: **Consultazione pubblica**
-
-.. |STYLE6| replace:: *Caro governo*
+.. |STYLE3| replace:: *Caro governo*
 
 
 .. |LINK1| raw:: html
