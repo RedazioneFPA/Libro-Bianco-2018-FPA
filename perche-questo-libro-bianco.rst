@@ -4,6 +4,5 @@
 Perché questo Libro Bianco
 ##########################
 
-123
 
 .. bottom of content
