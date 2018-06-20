@@ -32,6 +32,7 @@ In questa situazione di forte divario tra risorse disponibili e bisogni crescent
 #. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
 
 \ |STYLE0|\ 
+
 Occorre:
 
 * Riorganizzare, basandosi anche sugli strumenti digitali disponibili, l’integrazione delle AO e AOU con le iniziative socio-assistenziali
