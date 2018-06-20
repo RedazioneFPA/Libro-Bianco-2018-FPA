@@ -158,11 +158,7 @@ La valutazione è stata oggetto di numerose e diverse riforme nell’ultimo vent
 Il ruolo della valutazione
 --------------------------
 
-.. _hf551f5268254d96a4e4f1a5b78335:
-
 La valutazione, oggetto di innumerevoli e sovrapposte riforme,  è  stata insieme sopravvalutata nei suoi effetti sistemici, minimizzata negli effettivi impatti sia individuali  che per le organizzazioni e infine trascurata nella sua esecuzione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 .. admonition:: Raccomandazione 2.1m - inserire titolo
 
