@@ -69,4 +69,3 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 .. |IMG1| image:: static/index_1.png
    :height: 44 px
    :width: 126 px
-   :target: https://creativecommons.org/licenses/by-nc-sa/3.0/it/
