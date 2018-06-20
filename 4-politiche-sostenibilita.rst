@@ -356,7 +356,7 @@ Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni
     
     * Nel rapporto con il territorio e con le aziende anche per progetti (sviluppare l’imprenditorialità giovanile). 
     
-    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE16|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocraticizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti).
+    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE16|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocratizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti).
 
 |
 
