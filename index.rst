@@ -70,9 +70,9 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
 
 
-.. |IMG1| image:: static/index_1.png
-   :height: 100 px
-   :width: 465 px
+.. |IMG1| image:: static/index_1.jpeg
+   :height: 106 px
+   :width: 164 px
 
 .. |IMG2| image:: static/index_2.png
    :height: 44 px
