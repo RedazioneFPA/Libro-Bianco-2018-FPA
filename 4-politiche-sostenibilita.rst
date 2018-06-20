@@ -320,7 +320,7 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 4.5 Istruzione e formazione
 ***************************
 
-In Italia rimane tra le più basse di Europa, e sotto la media europea (39%), la percentuale di coloro che hanno un livello di formazione terziario: parliamo del 26% di giovani adulti tra i 30 e i 34 anni. Continua l’allarme circa l’elevata quota (tra il 15% e il 25%) di quindicenni che non raggiunge la soglia minima delle competenze giudicate indispensabili per potersi orientare negli studi, sul lavoro e più in generale nella vita; e continua anche la presenza di crescenti divari di genere nelle materie scientifiche e in matematica (indagini PISA 2015 e TIMSS 2015). Entrambe le questioni sono entrate nell’agenda politica, con l’alternanza scuola-lavoro (ASL) obbligatoria per tutti gli studenti di tutte le scuole superiori (introdotta dalla legge 107/2015) e la recente istituzione del “mese delle STEM" da parte del Miur, in collaborazione con il Dipartimento delle Pari Opportunità, che promuove le discipline STEM (Science, Technology, Engineering e Mathematics) tra le studentesse delle scuole di ogni ordine e grado. A queste si è aggiunto a gennaio 2018 il documento della cabina di regia per la lotta alla dispersione scolastica e alla povertà educativa del Miur.
+In Italia rimane tra le più basse di Europa, e sotto la media europea (39%), la percentuale di coloro che hanno un livello di formazione terziario: parliamo del 26% di giovani adulti tra i 30 e i 34 anni. Continua l’allarme circa l’elevata quota (tra il 15% e il 25%) di quindicenni che non raggiunge la soglia minima delle competenze giudicate indispensabili per potersi orientare negli studi, sul lavoro e più in generale nella vita; e continua anche la presenza di crescenti divari di genere nelle materie scientifiche e in matematica (indagini PISA 2015 e TIMSS 2015). Entrambe le questioni sono entrate nell’agenda politica, con l’alternanza scuola-lavoro (ASL) obbligatoria per tutti gli studenti di tutte le scuole superiori (introdotta dalla legge 107/2015) e la recente istituzione del “mese delle STEM" da parte del Miur, in collaborazione con il Dipartimento delle Pari Opportunità, che promuove le discipline STEM (\ |STYLE15|\ ) tra le studentesse delle scuole di ogni ordine e grado. A queste si è aggiunto a gennaio 2018 il documento della cabina di regia per la lotta alla dispersione scolastica e alla povertà educativa del Miur.
 
 |
 
@@ -331,6 +331,11 @@ La Buona Scuola
 
 Ad aprile 2017 otto dei nove decreti attuativi previsti dalla legge relativa alla Buona Scuola sono stati adottati dall’esecutivo. Rimane in sospeso il riordino del sistema nazionale d’istruzione, attraverso la redazione di un testo unico che operi una sistematizzazione della disciplina vigente, anche alla luce della giurisprudenza costituzionale e dell’Unione europea. Si è infatti rimandata la legiferazione ad un momento successivo con un’apposita legge delega. Tra i decreti si segnala il D. Lgs. 61 - Revisione dei percorsi dell'istruzione professionale; Il D. Lgs. 63 - Effettività del diritto allo studio; il D. Lgs. 65 - Sistema integrato di educazione e di istruzione dalla nascita sino a sei anni; il D. Lgs. 66 - Promozione dell'inclusione scolastica degli studenti con disabilità.
 
+
+.. admonition:: Raccomandazione 4.5a - Prevedere adeguate misure di prevenzione del disagio e della dispersione scolastica e supportare l’inclusione e l’integrazione attraverso le tecnologie e la formazione ai docenti e alle famiglie
+
+    Prevedere attività di accompagnamento e formazione ai docenti e alle famiglie attraverso il raccordo con i CTS – Centri Territoriali di Supporto indispensabile, così come costruire un’Agenda nazionale di contrasto alla povertà educativa. Inoltre, è importante attivare percorsi di sostegno alla genitorialità, auto-aiuto, rapporto tra generazioni, educazione alla salute e prevenzione, educazione al consumo, prevenzione della violenza domestica, integrazione delle minoranze. Creare in sedi territoriali spazi a disposizione delle famiglie in difficoltà sia da un punto di vista tecnologico che informativo e formativo.
+
 |
 
 .. _h7f47727638467165b804695a262479:
@@ -340,6 +345,19 @@ Finanziamenti
 
 Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni attivate a valere sul PON “Per la Scuola” 2014 – 2020, per complessivi 840 milioni di euro. Le 10 azioni sono state messe a punto e promosse in esplicito raccordo con l’Agenda 2030. Con la Legge di Bilancio 2016 viene istituito il Fondo dedicato al contrasto della povertà educativa minorile dotato di 120 milioni di euro all’anno. Tuttavia il sistema scolastico italiano risulta ancora sottofinanziato: la spesa pubblica per l’istruzione rappresenta solo il 4% del PIL, contro una media europea del 5%. 
 
+
+.. admonition:: Raccomandazione 4.5b - Supportare le scuole nella progettazione e nella realizzazione dei progetti
+
+    Dare un supporto alle scuole nei processi più delicati della formazione:
+    
+    * Nella progettazione dei bandi;
+    
+    * Sulle modalità con cui ricevere, ricercare e rendicontare fondi; 
+    
+    * Nel rapporto con il territorio e con le aziende anche per progetti (sviluppare l’imprenditorialità giovanile). 
+    
+    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE16|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocraticizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti).
+
 |
 
 .. _h1781b5637121a342c773516481b13b:
@@ -348,6 +366,10 @@ Scuola digitale
 ================
 
 Secondo i dati forniti dall’Osservatorio digitale del Miur sono più di 8.000 i docenti animatori digitali formati con il compito di portare innovazione nelle scuole di competenza. L’attività dell’animatore digitale, secondo quanto previsto dal PNSD, dovrebbe essere sostenuta da un finanziamento annuale di 1000 euro a scuola. Riguardo alla disponibilità di dedicata alla didattica digitale, hanno risposto 8088 scuole del I° ciclo e 891 del II° ciclo, per un totale di 8549 scuole, meno del 30% del totale delle oltre 27mila scuole interpellate. La risposta è molto positiva: oltre il 95% di quelle del I° ciclo (7692 scuole) e il 96% di quelle del II° (857 scuole) dicono di avere una connettività dedicata alla didattica digitale. 
+
+.. admonition:: Raccomandazione 4.5c - Coinvolgere nei processi di cambiamento il personale della scuola, adeguandone competenze (digitali e organizzative), ruolo e retribuzione
+
+    I Dirigenti scolastici devono essere coinvolti nel cambiamento della governance della scuola e si deve rafforzare il loro profilo professionale. I DSGA e il personale di segreteria devono aumentare di numero e ricevere competenze adeguate relativamente a: dematerializzazione dei documenti, nuove modalità di documentazione dei progetti messi in atto dalla scuola, organizzazione dei servizi scolastici in modalità cloud. Si deve dare inoltre il giusto riconoscimento economico della professione a docenti e dirigenti scolastici). Identificare, infine, obiettivi strategici di sistema che dovrebbero valere come “missione” per le singole scuole, per il personale dirigente e docente, studenti, genitori, soggetti istituzionali.
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -387,6 +409,10 @@ Secondo i dati forniti dall’Osservatorio digitale del Miur sono più di 8.000 
 .. |STYLE13| replace:: *refilling*
 
 .. |STYLE14| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
+
+.. |STYLE15| replace:: *Science, Technology, Engineering e Mathematics*
+
+.. |STYLE16| replace:: *fundraising*
 
 
 .. |LINK1| raw:: html
