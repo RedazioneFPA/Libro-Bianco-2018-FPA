@@ -419,19 +419,21 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi anni l’accelerazione imposta dal digitale - social network, chat, siti web user-friendly – ha definito i tratti innovativi della nuova comunicazione pubblica. 
+Negli ultimi anni l’accelerazione imposta dal digitale - \ |STYLE33|\ , chat, siti web \ |STYLE34|\  – ha definito i tratti innovativi della nuova comunicazione pubblica. 
 Il rapporto tra cittadini e PA passa attraverso un rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento di una cornice normativa rimasta immutata, quella della legge 150/2000, che ha vissuto in questi 18 anni un lento percorso di attuazione, nonostante contenesse le premesse per una comunicazione capace di rispondere all’esigenza di informare i cittadini.
 
-L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel decreto legislativo n. 97 del 2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del decreto 33 del 2013: raccomanda l’uso sistematico e professionale dei social media e riconosce il ruolo del cittadino-valutatore. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i social network per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
-Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e istruzione e ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. È stata anche firmata una dichiarazione congiunta tra Federazione nazionale della Stampa italiana e l’Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni - Aran -   in cui è stato ribadito che le attività relative all’informazione della pubblica amministrazione (come l'adesione alla Casagit, all’Inpgi) devono essere gestite con le associazioni di categoria (sindacato e giornalisti). Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione.
+L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel D. Lgs. 97/2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del D Lgs. 33/2013: raccomanda l’uso sistematico e professionale dei \ |STYLE35|\  e riconosce il ruolo del cittadino-valutatore. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i \ |STYLE36|\  per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
 
-Il lavoro sulla qualità dei servizi e delle informazioni e sulla qualità del rapporto con il cittadino porta con sé l’esigenza di ripensare ai nuovi linguaggi e alla grammatica dei siti. L’Agenzia per l’Italia digitale ha fornito \ |LINK13|\ , ora in consultazione.
 
-Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK14|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente web analytics, test usabilità, \ |LINK15|\ .
+Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e istruzione e ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. È stata anche firmata una dichiarazione congiunta tra Federazione nazionale della Stampa italiana e l’Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni - Aran - in cui è stato ribadito che le attività relative all’informazione della pubblica amministrazione (come l'adesione alla CASAGIT, all’INPGI) devono essere gestite con le associazioni di categoria (sindacato e giornalisti). Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione.
+
+Il lavoro sulla qualità dei servizi e delle informazioni e sulla qualità del rapporto con il cittadino porta con sé l’esigenza di ripensare ai nuovi linguaggi e alla grammatica dei siti. L’AgID ha fornito \ |LINK13|\ , ora in consultazione.
+
+Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK14|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente \ |STYLE37|\ , test usabilità, \ |LINK15|\ .
 
 .. admonition:: Raccomandazione 2.4a - Promuovere un modello organizzativo unico
 
-    I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE33|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE34|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
+    I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE38|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE39|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
 
 
 .. admonition:: Raccomandazione 2.4b - Inserire la comunicazione nel sistema pianificatorio delle PA
@@ -441,17 +443,17 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 
 .. admonition:: Raccomandazione 2.4c - Promuovere un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni
 
-    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE35|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE36|\  e alle \ |STYLE37|\ ).
+    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE40|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE41|\  e alle \ |STYLE42|\ ).
 
 
 .. admonition:: Raccomandazione 2.4d - Promuovere un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni
 
-    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE38|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE39|\  e alle \ |STYLE40|\ ).
+    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE43|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE44|\  e alle \ |STYLE45|\ ).
 
 
 .. admonition:: Raccomandazione 2.4e - Adottare una nuova legge sulla comunicazione
 
-    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del \ |STYLE41|\ .
+    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del \ |STYLE46|\ .
 
 |
 
@@ -460,7 +462,7 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 2.5 Gestione documentale
 ************************
 
-Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE42|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
+Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE47|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
 
 * il \ |LINK16|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
 
@@ -661,25 +663,35 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE32| replace:: **dal punto di vista pratico è ancora molto difficile individuare modalità coordinate di applicazione delle norme**
 
-.. |STYLE33| replace:: *customer satisfaction*
+.. |STYLE33| replace:: *social network*
 
-.. |STYLE34| replace:: *ocial media manager, social media strategist e community organizer*
+.. |STYLE34| replace:: *user-friendly*
 
-.. |STYLE35| replace:: *mainstream*
+.. |STYLE35| replace:: *social media*
 
-.. |STYLE36| replace:: *hate speech*
+.. |STYLE36| replace:: *social network*
 
-.. |STYLE37| replace:: *fake news*
+.. |STYLE37| replace:: *web analytics*
 
-.. |STYLE38| replace:: *mainstream*
+.. |STYLE38| replace:: *customer satisfaction*
 
-.. |STYLE39| replace:: *hate speech*
+.. |STYLE39| replace:: *ocial media manager, social media strategist e community organizer*
 
-.. |STYLE40| replace:: *fake news*
+.. |STYLE40| replace:: *mainstream*
 
-.. |STYLE41| replace:: *civic hacking*
+.. |STYLE41| replace:: *hate speech*
 
-.. |STYLE42| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
+.. |STYLE42| replace:: *fake news*
+
+.. |STYLE43| replace:: *mainstream*
+
+.. |STYLE44| replace:: *hate speech*
+
+.. |STYLE45| replace:: *fake news*
+
+.. |STYLE46| replace:: *civic hacking*
+
+.. |STYLE47| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
 
 
 .. |LINK1| raw:: html
