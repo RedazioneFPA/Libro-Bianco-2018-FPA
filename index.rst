@@ -3,21 +3,21 @@
 
 \ |IMG1|\ 
 
-.. _h3d5651d6124be4648673b2a244a6:
+.. _h1e4484f123d30447f254436043372:
 
-Libro bianco sull’innovazione edizione 2018 ForumPA
-###################################################
+Libro bianco sull’innovazione, edizione 2018 ForumPA
+####################################################
 
 Il Libro bianco sull'innovazione nasce a conclusione dei lavori del \ |STYLE0|\  (ForumPA) che si è tenuto a Roma dal 22 al 24 maggio 2018 e organizzato da \ |LINK1|\ .
 
-Il Libro bianco sull'innovazione è la raccolta di  (\ |STYLE1|\ )
+Il Libro bianco sull'innovazione è la raccolta di  ………………… (\ |STYLE1|\ )
 
 
 .. toctree::  
     :maxdepth: 2
     :caption: Introduzione
 
-    introduzione-digital360
+    #InnovationFirst
 
 
 .. toctree::  
