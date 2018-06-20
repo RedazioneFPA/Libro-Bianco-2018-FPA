@@ -429,18 +429,31 @@ Il lavoro sulla qualità dei servizi e delle informazioni e sulla qualità del r
 
 Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK14|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente web analytics, test usabilità, \ |LINK15|\ .
 
-\ |STYLE33|\ . 
-I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, customer satisfaction), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, social media manager, social media strategist e community organizer). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
+.. admonition:: Raccomandazione 2.4a - Promuovere un modello organizzativo unico
 
-\ |STYLE34|\ , secondo criteri di valutazione basati su reali indicatori di qualità.
+    I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE33|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE34|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
 
-\ |STYLE35|\ . 
-L’Autorità sui compiti di regolazione ha esplicite competenze nell’ambito del mainstream, nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’hate speech e alle fake news).
 
-\ |STYLE36|\ . 
-Deve sapersi concentrare sulle persone e scardinare l’eccesso di burocrazia che ancora inquina princìpi gestionali e modelli organizzativi pubblici: per questo deve potersi sorreggere su una comunicazione basata su nuovi schemi, nuovi ruoli, nuovi compiti, nuove professionalità. 
+.. admonition:: Raccomandazione 2.4b - Inserire la comunicazione nel sistema pianificatorio delle PA
 
-\ |STYLE37|\ 
+    La comunicazione deve acquisire dignità nel sistema pianificatorio degli enti pubblici e occupare un ruolo nel processo e negli obiettivi generali di performance, secondo criteri di valutazione basati su reali indicatori di qualità.
+
+
+.. admonition:: Raccomandazione 2.4c - Promuovere un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni
+
+    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE35|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE36|\  e alle \ |STYLE37|\ ).
+
+
+.. admonition:: Raccomandazione 2.4d - Promuovere un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni
+
+    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE38|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE39|\  e alle \ |STYLE40|\ ).
+
+
+.. admonition:: Raccomandazione 2.4e - Adottare una nuova legge sulla comunicazione
+
+    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del civic hacking.
+
+\ |STYLE41|\ 
 Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del civic hacking.
 
 |
@@ -450,7 +463,7 @@ Manca invece un forte supporto (politico e normativo) che ne legittimi la funzio
 2.5 Gestione documentale
 ************************
 
-Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE38|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
+Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE42|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
 
 * il \ |LINK16|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
 
@@ -651,17 +664,25 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE32| replace:: **dal punto di vista pratico è ancora molto difficile individuare modalità coordinate di applicazione delle norme**
 
-.. |STYLE33| replace:: **Serve un modello organizzativo unico**
+.. |STYLE33| replace:: *customer satisfaction*
 
-.. |STYLE34| replace:: **La comunicazione deve acquisire dignità nel sistema pianificatorio degli enti pubblici e occupare un ruolo nel processo e negli obiettivi generali di performance**
+.. |STYLE34| replace:: *ocial media manager, social media strategist e community organizer*
 
-.. |STYLE35| replace:: **Si auspica un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni**
+.. |STYLE35| replace:: *mainstream*
 
-.. |STYLE36| replace:: **L’intera organizzazione pubblica deve sapersi adattare velocemente alle trasformazioni sociali e tecnologiche**
+.. |STYLE36| replace:: *hate speech*
 
-.. |STYLE37| replace:: **Serve una nuova legge sulla comunicazione**
+.. |STYLE37| replace:: *fake news*
 
-.. |STYLE38| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
+.. |STYLE38| replace:: *mainstream*
+
+.. |STYLE39| replace:: *hate speech*
+
+.. |STYLE40| replace:: *fake news*
+
+.. |STYLE41| replace:: **Serve una nuova legge sulla comunicazione**
+
+.. |STYLE42| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
 
 
 .. |LINK1| raw:: html
