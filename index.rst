@@ -1,10 +1,6 @@
 
 |REPLACE1|
 
-.. _h761ab401543201137a78553757464:
-
-\ |IMG1|\ ##########
-
 .. _h4c627b4b7731570491e1ae1dc5b5d:
 
 Libro bianco sull’innovazione della PA
@@ -48,7 +44,7 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 
 ..  Important:: 
 
-    \ |IMG2|\  
+    \ |IMG1|\  
     
     Il presente documento è rilasciato da FPA con licenza \ |LINK1|\ 
 
@@ -70,11 +66,7 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
 
 
-.. |IMG1| image:: static/index_1.jpeg
-   :height: 106 px
-   :width: 164 px
-
-.. |IMG2| image:: static/index_2.png
+.. |IMG1| image:: static/index_1.png
    :height: 44 px
    :width: 126 px
    :target: https://creativecommons.org/licenses/by-nc-sa/3.0/it/
