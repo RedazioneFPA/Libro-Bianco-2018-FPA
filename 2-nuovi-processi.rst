@@ -48,7 +48,7 @@ Età, qualifiche e assunzioni
 
 Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa né costa troppo rispetto ai nostri concorrenti europei, è però troppo vecchia, poco qualificata in generale (ha una percentuale di laureati molto più bassa degli altri paesi europei)  e per In particolare compiti specifici a cui oggi è chiamata, è mal distribuita, a causa anche della funzione di ammortizzatore sociale che ha espletato in molte regioni del nostro mezzogiorno. È quindi necessario un’azione che sia soprattutto di riordino organizzativo, che non si può fare “contro”I dipendenti pubblici, ma solo “insieme”a loro e alle loro organizzazioni.
 
-.. admonition:: Raccomandazione 2.1c - Lanciare una grande campagna di reclutamento di giovani leve e nuove professionalità, lavorando anche sull’appetibilità della PA
+.. admonition:: Raccomandazione 2.1c - Lanciare una grande campagna di reclutamento di giovani leve e nuove professionalità
 
     Occorre utilizzare al meglio le norme appena varate sul l’analisi dei fabbisogni e sulle assunzioni per lanciare una grande campagna per reclutare giovani a lavorare per lo sviluppo equo e sostenibile della loro comunità nazionale. Una campagna che cerchi i migliori nelle qualifiche oggi indispensabili, ma che immaginiamo importanti anche per la PA dei prossimi trent’anni. Una PA che non sia fonte di autorizzazioni, certificazioni ed adempimenti, né che lavori ancora su un paradigma bipolare che vede da una parte i cittadini e dall’altra le istituzioni, ma che esca dai “palazzi”per essere regia e stimolo delle forze vitali delle comunità territoriali. Una campagna che cerchi quindi registi dello sviluppo, negoziatori, project manager, analisti e architetti dei dati e tutte quelle professionalità che si espletano nel paradigma della rete. Per far questo, sarà necessario rafforzare il brand della PA come posto di lavoro dinamico, che rende possibile la crescita professionale e le carriere basate sul merito, che sia definitivamente uscito dal paradigma fordista rappresentato plasticamente dal “tornello” e dalla maniacale attenzione alla presenza fisica.
 
@@ -58,7 +58,7 @@ Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa
 
 
 
-.. admonition:: Raccomandazione 2.1d - Rivedere drasticamente il sistema di selezione dei dipendenti pubblici, aggiornando strumenti e criteri di selezione ai nuovi fabbisogni
+.. admonition:: Raccomandazione 2.1d - Rivedere drasticamente il sistema di selezione dei dipendenti pubblici, aggiornando strumenti e criteri di selezione in base ai nuovi fabbisogni
 
     Curare una revisione drastica degli strumenti di selezione del personale pubblico che, se vogliamo che sia all’altezza dei compiti che oggi ha la PA, non può essere reclutato con strumenti così rozzi come sono ora i concorsi che si pongono come principale obiettivo non la ricerca dei migliori, ma il rafforzamento di automatismi che da una parte deprimono le responsabilità dirigenziali, dall’altra,  privilegiano, per evitare qualsiasi contestazione, strumenti poco raffinati che nessuna organizzazione privata userebbe.Test attitudinali, colloqui approfonditi, esame qualificato dei curricoli e delle esperienze, risultati raggiunti anche in altri campi, ma anche propensioni, passioni, responsabilità assunte devono entrare a far parte, almeno per le figure direttive, di qualsiasi processo di selezione che deve quindi essere affidato a strutture competenti e non a commissioni di funzionari che tendano a riprodurre se stessi. Nessun cambiamento della PA sarà possibile senza un deciso cambiamento nell’attirare e scegliere i migliori
 
@@ -113,7 +113,7 @@ La dicotomia tra chi vorrebbe una dirigenza di carriera, diciamo sul modello fra
 
 È però una dicotomia falsa, perché si deve partire dalla constatazione che non esiste un’unica figura dirigenziale, ma che ne possiamo a questo fine definir almeno due. Il manager pubblico, a cui si chiede di gestire un’unità operativa che attui le politiche indicate dalla politica eletta, e il manager responsabile di una funzione autorizzativa, di controllo o di gestione di appalti, convenzioni e concessioni. Mentre per il primo il rapporto fiduciario con la politica è elettivo, per il secondo dobbiamo pensare a salvaguardarne l’indipendenza.
 
-.. admonition:: Raccomandazione 2.1g - inserire titolo
+.. admonition:: Raccomandazione 2.1g - Superare la contrapposizione tra visioni dicotomiche (spoil system vs indipendenza), individuando diverse tipologie di dirigenza
 
     Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di \ |STYLE1|\ &\ |STYLE2|\ , nel secondo verificar una ragionevole rotazione degli incarichi.
 
@@ -129,20 +129,20 @@ Il dirigente della PA del futuro
 
 I dirigenti che sceglieremo oggi saranno quelli che saranno a capo delle amministrazioni peri prossimi decenni. Ci serve un manager moderno, europeo, conscio delle potenzialità della trasformazione digitale, esperto nella gestione e nella crescita delle persone. Il punto è come rendere desiderabile ai migliori il lavoro pubblico, come selezionare il dirigente giusto, come tenerselo e farlo crescere.
 
-.. admonition:: Raccomandazione 2.1h - inserire titolo
+.. admonition:: Raccomandazione 2.1h - Rendere desiderabile e appetibile il lavoro nella PA
 
     Per reclutare i migliori è necessario attuare azioni di informazione presso le università e passare da un atteggiamento di attesa delle candidature ad un atteggiamento di stimolo verso Ie figure potenzialmente più interessanti.
 
 
-.. admonition:: Raccomandazione 2.1i - inserire titolo
+.. admonition:: Raccomandazione 2.1i - Favorire la mobilità dei dirigenti, sia tra mondo pubblico e privato, sia a livello Europeo
 
     Un manager moderno deve poter spaziare su più contesti lavorativi. Deve essere favorita al massimo sia l’osmosi tra il pubblico e il privato che, prevista già dalle riforme Bassanini, non ha trovato applicazione reale nella PA dove la stragrande maggioranza dei dirigenti apicali proviene da una carriera solo pubblica.
-    Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata condicio sine qua non la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti.
+    Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata \ |STYLE3|\  la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti.
 
 
-.. admonition:: Raccomandazione 2.1h - inserire titolo
+.. admonition:: Raccomandazione 2.1l - Prevedere nuone forme di lifelong learning per i dirigenti
 
-    È necessario prevedere per tutta la dirigenza una formazione continua (sulla falsariga della ECM in sanità) che sia basata però non tanto su momenti frontali, quanto sulla costruzione di comunità di pratica trasversali, organizzati anche con le professionalità di soggetti terzi, e su  momenti di \ |STYLE3|\ .
+    È necessario prevedere per tutta la dirigenza una formazione continua (sulla falsariga della ECM in sanità) che sia basata però non tanto su momenti frontali, quanto sulla costruzione di comunità di pratica trasversali, organizzati anche con le professionalità di soggetti terzi, e su momenti di \ |STYLE4|\ .
 
 |
 
@@ -160,9 +160,9 @@ Il ruolo della valutazione
 
 La valutazione, oggetto di innumerevoli e sovrapposte riforme,  è  stata insieme sopravvalutata nei suoi effetti sistemici, minimizzata negli effettivi impatti sia individuali  che per le organizzazioni e infine trascurata nella sua esecuzione.
 
-.. admonition:: Raccomandazione 2.1m - inserire titolo
+.. admonition:: Raccomandazione 2.1m - Promuovere il principio della valutazione come parte integrante della programmazione, stabilendo però obiettivi effettivamente raggiungibili dalle diverse amministrazioni
 
-    È necessario che passi nei comportamenti delle organizzazioni il principio che la valutazione è parte fondamentale della programmazione e che gli indicatori e gli strumenti vanno definiti in quella fase, in questo senso la valutazione deve prendere in considerazione soprattutto gli outcome, i benefici effettivi per il pubblico target. Già il d.kgs. 74/2017 nell’ambito della riforma Madia lo stabilisce con chiarezza individuando degli obiettivi “generali”della Repubblica.
+    È necessario che passi nei comportamenti delle organizzazioni il principio che la valutazione è parte fondamentale della programmazione, e che gli indicatori e gli strumenti vanno definiti in quella fase, in questo senso la valutazione deve prendere in considerazione soprattutto gli \ |STYLE5|\ , i benefici effettivi per il pubblico target. Già il D.lgs. 74/2017 nell’ambito della riforma Madia lo stabilisce con chiarezza individuando degli obiettivi “generali” della Repubblica.
     Sarà poi necessario che gli organismi preposti (in questo momento il Dipartimento della Funzione Pubblica) non assegnino alla valutazione compiti impossibili. Non ha senso valutare organizzazioni che non hanno organici adeguati per numero o competenze, non hanno modelli organizzativi efficaci, non hanno la gestione di adeguate risorse né economiche né strumentali.
 
 .. _h49237f4220751e45162d1b33371a7f4c:
@@ -172,9 +172,9 @@ Gli Organismi Indipendenti di Valutazione
 
 Il d.lgs. n. 74/2017 di riforma del d.lgs. n. 150/2009, interviene modificando il sistema di misurazione delle performance, attribuendo agli OIV nuovi poteri e capacità di iniziativa per il miglioramento della valutazione, con riflessi sull’organizzazione amministrativa, inserendo alcune novità all’interno del processo valutativo con la partecipazione diretta dei cittadini e degli utenti in grado di poter segnalare le proprie osservazioni, incrementando la trasparenza nell’attività pubblica. Tale decreto non sembra aver sortito ancora gli sperati effetti nemmeno nella sua formale esecuzione, se è vero che il monitoraggio del Dipartimento della Funzione Pubblica rileva decine di ritardo e di inadempimenti.
 
-.. admonition:: Raccomandazione 2.1m - inserire titolo
+.. admonition:: Raccomandazione 2.1n - Rivedere criteri di selezione, ruolo e status dei componenti degli OIV
 
-    Sarà necessario curare maggiormente la selezione ( che non può essere solo per titoli e su base volontaristica che trova uno stop solo in assenza dei titoli necessari o se è presente un impedimento di legge), il ruolo e lo status dei valutatori degli OIV. Ridurre al minimo o meglio eliminare gli organismi monocratici dove manca la necessaria dialettica interna. Costruire insieme ai valutatori stessi un  codice deontologico della professione. Curare il mantenimento e l’aggiornamento di competenze e professionalità adeguate e sperimentate attraverso una continua formazione in itinere che sia obbligatoria per la permanenza nell’elenco (una sorta di Coverciano dei valutatori)
+    Sarà necessario curare maggiormente la selezione (che non può essere solo per titoli e su base volontaristica, che trova uno stop solo in assenza dei titoli necessari o se è presente un impedimento di legge), il ruolo e lo status dei valutatori degli OIV. Occorre ridurre al minimo, o meglio eliminare, gli organismi monocratici laddove manca la necessaria dialettica interna. Costruire insieme ai valutatori stessi un  codice deontologico della professione. Curare il mantenimento e l’aggiornamento di competenze e professionalità adeguate e sperimentate attraverso una continua formazione in itinere che sia obbligatoria per la permanenza nell’elenco (una sorta di Coverciano dei valutatori)
 
 .. _h305e3d42636141f525472a356b2f60:
 
@@ -183,9 +183,9 @@ La valutazione da parte dei cittadini
 
 Pur se normato più volte è previsto esplicitamente sia nella Riforma Brunetta che nella Riforma Madia, il contributo del giudizio dei cittadini singoli o associati nella valutazione delle organizzazioni è ancora di là da venire. È mancata tutta la regolamentazione che potesse dar vita alle norme. Ma è mancata soprattutto sia la volontà effettiva di realizzazione di questa rivoluzione copernicana, sia la fiducia che questa avrebbe portato effettivo giovamento. I cittadini quindi sono stati spessissimo richiamati dalle norme, ma mai chiamati davvero a dire la loro.
 
-.. admonition:: Raccomandazione 2.1o - inserire titolo
+.. admonition:: Raccomandazione 2.1o - Avviare forme di auditing civico
 
-    Far partire sperimentazioni serie e verificabili di auditing civico in diverse tipologie di enti attraverso un investimento importante sia di risorse, sia di relazioni con i soggetti della cittadinanza organizzata. Dare evidenza dei risultati delle sperimentazioni e discuterli con la dirigenza apicale degli enti.
+    Occorre avviare sperimentazioni serie e verificabili di auditing civico in diverse tipologie di enti, attraverso un investimento importante sia di risorse, sia di relazioni con i soggetti della cittadinanza organizzata. Occorre inoltre dare evidenza dei risultati delle sperimentazioni e discuterli con la dirigenza apicale degli enti.
 
 |
 
@@ -194,7 +194,7 @@ Pur se normato più volte è previsto esplicitamente sia nella Riforma Brunetta 
 2.2 Nuovi modelli organizzativi
 *******************************
 
-Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero adempimento formale dei dipendenti pubblici, in favore di una crescita a 360 gradi, che  veda un giusto bilanciamento tra digitalizzazione dei processi e \ |STYLE4|\  del personale amministrativo, declinato in tre rivoluzioni trasversali:
+Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero adempimento formale dei dipendenti pubblici, in favore di una crescita a 360 gradi, che  veda un giusto bilanciamento tra digitalizzazione dei processi e \ |STYLE6|\  del personale amministrativo, declinato in tre rivoluzioni trasversali:
 
 #. Concepire la transizione digitale come leva per un’organizzazione efficiente;
 
@@ -207,13 +207,13 @@ Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero 
 Impatti organizzativi della Digital Transformation
 ==================================================
 
-La transizione della PA verso modelli organizzativi adeguati alle sfide dell’innovazione sostenibile non può prescindere da un corretto rapporto con l’evoluzione tecnologica. Una delle principali caratteristiche dell’innovazione digitale è la sua pervasività: \ |STYLE5|\ . Al giorno d’oggi, non ha più senso parlare di IT a supporto del business, in quanto tutti i processi \ |STYLE6|\  dell’ente sono (o dovrebbero essere) intrinsecamente basati sulla tecnologia.
+La transizione della PA verso modelli organizzativi adeguati alle sfide dell’innovazione sostenibile non può prescindere da un corretto rapporto con l’evoluzione tecnologica. Una delle principali caratteristiche dell’innovazione digitale è la sua pervasività: \ |STYLE7|\ . Al giorno d’oggi, non ha più senso parlare di IT a supporto del business, in quanto tutti i processi \ |STYLE8|\  dell’ente sono (o dovrebbero essere) intrinsecamente basati sulla tecnologia.
 
 .. admonition:: Raccomandazione 2.2a - Promuovere nuovi modelli di interazione tra direzione IT e strutture di business, improntati alla collaborazione e al concetto di rete
 
     Molte delle strategie di trasformazione digitale adottate dalle amministrazioni italiane rimangono ancora oggi appannaggio esclusivo della funzione IT. Il risultato è rappresentato da piani concepiti nelle segrete stanze dei tecnologi, di cui le altre funzioni rimangono meri destinatari.
     
-    Una strategia di \ |STYLE7|\ , coerente e di largo respiro, richiede invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare i veri protagonisti dei processi di cambiamento, all’interno di una rete di innovatori, rispetto al quale la direzione IT assumerebbe il ruolo di \ |STYLE8|\ , soggetto catalizzatore della domanda di innovazione e facilitatore del complessivo processo di trasformazione organizzativa e tecnologica. 
+    Una strategia di \ |STYLE9|\ , coerente e di largo respiro, richiede invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare i veri protagonisti dei processi di cambiamento, all’interno di una rete di innovatori, rispetto al quale la direzione IT assumerebbe il ruolo di \ |STYLE10|\ , soggetto catalizzatore della domanda di innovazione e facilitatore del complessivo processo di trasformazione organizzativa e tecnologica. 
     
     Le modalità di interazione potranno poi variare a seconda delle specificità dell’ente, passando dal coinvolgimento dei referenti delle diverse strutture di business nello sviluppo dei progetti strategici in materia di ICT alla presenza stabile di funzionari informatici in ogni direzione e ufficio, al fine di abilitare una vera “contaminazione digitale” (cit. Luca Attias).
 
@@ -230,21 +230,14 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
 .. admonition:: Raccomandazione 2.2c - Ripensare il ruolo del CIO negli enti pubblici, valorizzandone il carattere strategico nel complessivo percorso di ammodernamento della PA
 
-    L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE9|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della tradizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD.
+    L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE11|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della tradizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD.
     
     La relazione finale della \ |LINK1|\  della PA ha evidenziato il grave ritardo delle PA nel rispetto di tale adempimento. Nella prossima legislatura sarà fondamentale monitorare e promuovere l’attuazione alla previsione dell’art 17 del CAD, almeno nelle amministrazioni più grandi.
     
     Nelle amministrazioni più piccole, dove questo modello pare inapplicabile a causa della carenza di competenze e risorse, bisognerà invece promuovere la forma associata per lo svolgimento delle funzioni del responsabile per la transizione al digitale, come previsto dallo stesso art. 17 del CAD.
 
 
-.. admonition:: Raccomandazione 2.2d - Utilizzare la pianificazione del fabbisogno di personale come leva strategica per l’innovazione, ripensando completamente i percorsi di reclutamento
-
-    Il blocco del turnover ha avuto come conseguenza l’impossibilità di approvvigionarsi di nuove competenze: un’intera generazione è stata di fatto esclusa dalla possibilità di entrare nella PA. La progressiva riapertura delle assunzioni rischia tuttavia di tradursi in un boomerang, se i concorsi vengono ancora tarati su competenze tipiche della PA di 20 anni fa.
-    
-    Occorre rimodulare i concorsi su nuovi profili, necessari ad abilitare il percorso di trasformazione organizzativa e tecnologica, approcciando al tema della programmazione del fabbisogno di personale non come mero adempimento, ma come leva di cambiamento e opportunità per introdurre nuove \ |STYLE10|\  che facilitino il concetto di rete (competenze gestionali e di \ |STYLE11|\ ).
-
-
-.. admonition:: Raccomandazione 2.2e - Promuovere la consapevolezza dei benefici legati alla transizione al digitale
+.. admonition:: Raccomandazione 2.2d - Promuovere la consapevolezza dei benefici legati alla transizione al digitale
 
     Il successo dei processi di trasformazione della PA necessita dell’\ |STYLE12|\  dei dipendenti pubblici. Un aspetto ancora molto complesso, a causa di diffidenze culturali, di un timore diffuso verso il cambiamento e da una \ |STYLE13|\  ormai radicata orientata a procedure e adempimenti formali.
     
@@ -573,23 +566,23 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE2| replace:: *balance*
 
-.. |STYLE3| replace:: *coaching*
+.. |STYLE3| replace:: *condicio sine qua non*
 
-.. |STYLE4| replace:: *empowerment*
+.. |STYLE4| replace:: *coaching*
 
-.. |STYLE5| replace:: **non esiste aspetto o attività, all’interno di qualsiasi organizzazione complessa, che non sia interessato dal cambiamento paradigmatico imposto dall’avvento delle tecnologie del digitale**
+.. |STYLE5| replace:: *outcome*
 
-.. |STYLE6| replace:: *core*
+.. |STYLE6| replace:: *empowerment*
 
-.. |STYLE7| replace:: *change management*
+.. |STYLE7| replace:: **non esiste aspetto o attività, all’interno di qualsiasi organizzazione complessa, che non sia interessato dal cambiamento paradigmatico imposto dall’avvento delle tecnologie del digitale**
 
-.. |STYLE8| replace:: *pivot*
+.. |STYLE8| replace:: *core*
 
-.. |STYLE9| replace:: *demand*
+.. |STYLE9| replace:: *change management*
 
-.. |STYLE10| replace:: *skill*
+.. |STYLE10| replace:: *pivot*
 
-.. |STYLE11| replace:: *project management*
+.. |STYLE11| replace:: *demand*
 
 .. |STYLE12| replace:: *engagement*
 
