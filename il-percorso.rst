@@ -23,7 +23,7 @@ Per ciascun tema, abbiamo chiesto alla nostra community di rispondere a tre doma
 
 * quali cose nuova è importante mettere nel programma della prossima legislatura? 
 
-Ne è scaturita un ricco patrimonio di contributi e spunti, in gran parte raccolti nella nostra \ |LINK1|\ .
+Ne è scaturito un ricco patrimonio di contributi e spunti, in gran parte raccolti nella nostra \ |LINK1|\ .
 
 |
 
