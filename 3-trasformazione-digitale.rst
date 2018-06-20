@@ -511,7 +511,7 @@ L’Italia non è dunque all’anno zero, come testimoniato anche da alcuni esem
 
 .. admonition:: Raccomandazione 3.7c - Partire dalle indicazioni del Libro bianco sull’IA nella PA per sviluppare una vera strategia nazionale sul tema
 
-    La futura strategia nazionale sull’intelligenza artificiale dovrà prevedere risorse e obiettivi chiari, dovrà sancire in che modo le nuove applicazioni contribuiranno alla complessiva strategia di ammodernameto della PA, in termini di snellimento burocratico, interoperabilità tra sistemi e creazione di nuove forma di trasparenza.
+    La futura strategia nazionale sull’intelligenza artificiale dovrà prevedere risorse e obiettivi chiari, dovrà sancire in che modo le nuove applicazioni contribuiranno alla complessiva strategia di ammodernamento della PA, in termini di snellimento burocratico, interoperabilità tra sistemi e creazione di nuove forma di trasparenza.
     La strategia dovrà inoltre prevedere la creazione di organismi di governance delle tecnologie legate alle intelligenze artificiali, nonché il coinvolgimento di istituzioni, economisti, sociologi e filosofi. Solo realizzando luoghi istituzionali dove queste forme di dialogo etico e di regolamentazione delle biotecnologie possano avvenire si potrà affrontare una reale ricerca oggettiva del bene
     
 
