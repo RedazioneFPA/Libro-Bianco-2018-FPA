@@ -45,11 +45,7 @@ In questa fase delicata di cambiamento di Legislatura e di Governo appare quanto
 Età, qualifiche e assunzioni
 ----------------------------
 
-.. _h2f696813565b1e557de3c707a49726e:
-
 Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa né costa troppo rispetto ai nostri concorrenti europei, è però troppo vecchia, poco qualificata in generale (ha una percentuale di laureati molto più bassa degli altri paesi europei)  e per In particolare compiti specifici a cui oggi è chiamata, è mal distribuita, a causa anche della funzione di ammortizzatore sociale che ha espletato in molte regioni del nostro mezzogiorno. È quindi necessario un’azione che sia soprattutto di riordino organizzativo, che non si può fare “contro”I dipendenti pubblici, ma solo “insieme”a loro e alle loro organizzazioni.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 .. admonition:: Raccomandazione 2.1c - inserire titolo
 
@@ -80,7 +76,10 @@ Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa
 
 
 
+.. _h1e634c1e1b2236b4274246683e757a:
+
 Organizzazione e modelli flessibili e adattivi
+----------------------------------------------
 
 Spinta da una necessità, pur virtuosa di tagli e di risparmi, è venuta a crescere nelle politiche per il pubblico impiego una tentazione grave di ipercontrollo centralista. tentazione perniciosa perché separa autonomia da responsabilità, ma che spesso si accompagna, insieme alla bramosia del “controllo totale”, a congiunture difficili per la finanza pubblica. questo centralismo efficientista porta con sé ancora due altri gravi pericoli: in primis la tentazione di vedere una notte in cui tutti i gatti sono grigi, in cui tutti i Comuni sono uguali e tutte le aziende pubbliche hanno gli stessi problemi e gli stessi rischi. Ne consegue la continua tendenza a ipernormare, ma anche di dare scarso o nessuno spazio alla diversità, all’autonomia
 
@@ -181,10 +180,10 @@ Il d.lgs. n. 74/2017 di riforma del d.lgs. n. 150/2009, interviene modificando i
 
     Sarà necessario curare maggiormente la selezione ( che non può essere solo per titoli e su base volontaristica che trova uno stop solo in assenza dei titoli necessari o se è presente un impedimento di legge), il ruolo e lo status dei valutatori degli OIV. Ridurre al minimo o meglio eliminare gli organismi monocratici dove manca la necessaria dialettica interna. Costruire insieme ai valutatori stessi un  codice deontologico della professione. Curare il mantenimento e l’aggiornamento di competenze e professionalità adeguate e sperimentate attraverso una continua formazione in itinere che sia obbligatoria per la permanenza nell’elenco (una sorta di Coverciano dei valutatori)
 
-.. _h565548147d5c682b6f63747f69221245:
+.. _h305e3d42636141f525472a356b2f60:
 
-    La valutazione da parte dei cittadini
------------------------------------------
+La valutazione da parte dei cittadini
+-------------------------------------
 
 Pur se normato più volte è previsto esplicitamente sia nella Riforma Brunetta che nella Riforma Madia, il contributo del giudizio dei cittadini singoli o associati nella valutazione delle organizzazioni è ancora di là da venire. È mancata tutta la regolamentazione che potesse dar vita alle norme. Ma è mancata soprattutto sia la volontà effettiva di realizzazione di questa rivoluzione copernicana, sia la fiducia che questa avrebbe portato effettivo giovamento. I cittadini quindi sono stati spessissimo richiamati dalle norme, ma mai chiamati davvero a dire la loro.
 
