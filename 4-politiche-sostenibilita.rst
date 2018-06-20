@@ -83,7 +83,7 @@ Riguardo la comunicazione:
 
 La spesa digitale in Sanità è frammentata e cresce con lentezza.  Le complicazioni introdotte dalle norme sulla trasparenza; dal nuovo codice degli appalti; a volte, la scarsa conoscenza di strumenti di acquisto innovativi (Procedure competitive con negoziazione, Nuovo dialogo competitivo, Partenariato per l’innovazione) da parte delle funzioni aziendali responsabili ha prodotto una burocrazia difensiva che, di fronte a troppe norme non definite, si astiene dal prendere decisioni che possano comportare rischi. Tali vincoli normativi sono incompatibili con chi deve erogare servizi sanitari e con il mandato delle Direzioni Aziendali.
 
-* Diffondere l’uso intelligentemente delle convenzioni Consip: SGI e SPC
+* Diffondere l’uso intelligentemente delle convenzioni Consip: SGI (Sistemi Gestionali Integrati)  e SPC (Servizio Pubblico di Connettività).
 
 * Far precedere le Gare Consip da una fase di analisi dei fabbisogni contestualizzata sui processi standardizzabili in modo da creare le condizioni per un utilizzo uniforme/focalizzato delle convenzioni. 
 
@@ -104,6 +104,10 @@ La spesa digitale in Sanità è frammentata e cresce con lentezza.  Le complicaz
 
 I dati ISTAT mostrano che un tasso di occupazione al 58%, il livello più alto dal 2009, pur "rimanendo 0,7 punti al di sotto del picco del 2008", il valore massimo pre-crisi. Lo stesso discorso vale per il numero di occupati, che sono risultati 23 milioni e 23 mila (con una crescita dell'1,2%, ovvero 265 mila persone in più al lavoro). L'aumento della presenza al lavoro "per il secondo anno consecutivo coinvolge anche i giovani di 15-34 anni, fascia di età in cui gli occupati sono saliti di 45mila unità (+0,9%). \ |STYLE4|\ : Nord, Centro e Sud mostrano infatti tutti un'occupazione in recupero, tuttavia mentre nel Centro-Nord il tasso di occupazione raggiunge livelli pressoché analoghi a quelli del 2008, arrivando al 66,7% nel Nord e 62,8% nel Centro, nel Mezzogiorno l'indicatore è ancora al di sotto del 2008 di 2,0 punti (44,0%). Il tasso di disoccupazione è sceso nel 2017 di 0,5 punti percentuali, dall'11,7% all'11,2% dell'anno precedente: si tratta del livello più basso dal 2013. Calano anche gli inattivi (coloro che non cercano né hanno occupazione). La discesa della disoccupazione "è più forte per i più giovani in confronto ai 35-49enni mentre per gli ultra 50enni aumenta sia il numero di disoccupati sia il tasso di disoccupazione".
 
+.. admonition:: Raccomandazione 4.2a - Favorire un ecosistema che leghi tutti i diversi attori delle politiche per il lavoro, agevolando la nascita di “Reti locali per l’occupabilità” e l’integrazione pubblico-privato
+
+    E’ fondamentale garantire alle persone un ecosistema che offra perpetue opportunità di apprendimento, competenze, abilità, etc. Entrano in campo una serie di soggetti, non solo il settore pubblico che può agire in questa filiera, ma anche i privati. Si coinvolgono non solo le agenzie per il lavoro ma tutta la filiera del lavoro che è anche la filiera formativa (pubblica e privata). Uno scenario complesso, dove deve esserci collaborazione, nel senso di ripartizione e integrazione delle competenze. Si devono favorire solide integrazioni tra scuola, università, imprese, centri e agenzie per l’impiego, fondi interprofessionali, che sono ancora agli albori. 
+
 |
 
 .. _h6f18b668701d1e14511e767856665d:
@@ -117,14 +121,9 @@ L’ANPAL ha provveduto a istituire il nuovo “Incentivo Occupazione Giovani”
 
 Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Sociali ha previsto un conguaglio contributivo per i datori di lavoro che, nel corso del 2017, senza esservi tenuti, assumano giovani di età compresa tra i 15 e i 24 anni, o alternativamente soggetti di età superiore ai 25 anni privi d'impiego regolarmente retribuito da almeno 6 mesi. La sede di lavoro deve essere localizzata in una delle regioni del Sud e il rapporto di lavoro deve necessariamente essere instaurato attraverso un contratto a tempo indeterminato o di apprendistato professionalizzante.
 
-|
+.. admonition:: Raccomandazione 4.2b - Riformare i centri per l’impiego
 
-.. _h30466d3fa51716603e3e2b5a24c:
-
-Alternanza scuola-lavoro
-========================
-
-Al fine di “incrementare l’alternanza scuola-lavoro nel secondo ciclo di istruzione”, così come sancito all’art. 1 comma 7 lettera o) della legge 107/2015, e di promuovere l’occupazione dei giovani in procinto di uscire dal circuito formativo, la legge di bilancio 2016 ha previsto misure di sostegno all’occupazione per i soggetti che abbiano partecipato ai programmi di alternanza scuola-lavoro o svolto un periodo di apprendistato. Si prevede l’esonero dal versamento dei contributi previdenziali (per un periodo massimo di tre anni e nel limite di 3.250 euro all’anno per ciascun lavoratore) per i datori di lavoro che tra l’inizio del 2017 e la fine del 2018 procedano all’assunzione con contratto a tempo indeterminato, entro 6 mesi dall’acquisizione per titolo di studio, di numerose categorie di giovani.
+    I centri pubblici per l’impiego non devono svolgere un compito burocratico, ma fare tutto ciò che può essere funzionale alla persona. Si devono praticare le politiche del lavoro osservando i bisogni della persona. Un soggetto dedicato non tanto e non solo all’incontro domanda offerta, quanto all’orientamento e collocamento mirato, alla formazione, al reskilling della persona mirato a una soluzione lavorativa. 
 
 |
 
@@ -133,7 +132,7 @@ Al fine di “incrementare l’alternanza scuola-lavoro nel secondo ciclo di ist
 Industria 4.0
 =============
 
-Un passo in avanti per favorire l’ammodernamento del sistema produttivo e garantire significativi aumenti di produttività e competitività soprattutto al comparto industriale anche attraverso la digitalizzazione della filiera grazie all’utilizzo delle nuove tecnologie. Approvato in via definitiva con la Legge di Bilancio per il 2017, il Piano prevede: super/iper ammortamento per nuovi investimenti innovativi, il credito d’imposta sugli investimenti in R&S e della nuova Sabatini, che si uniscono alle misure per le start-up e le PMI innovative e al rafforzamento del Fondo Centrale di Garanzia. Il Governo ha stanziato risorse per circa 13 miliardi di euro nel periodo 2017-2024 e stima che solo nel 2017 tali misure possano mobilitare nuovi investimenti privati per circa 10 miliardi di euro.
+Un passo in avanti per favorire l’ammodernamento del sistema produttivo e garantire significativi aumenti di produttività e competitività soprattutto al comparto industriale anche attraverso la digitalizzazione della filiera grazie all’utilizzo delle nuove tecnologie. Approvato in via definitiva con la legge di bilancio 2017, il Piano prevede: super/iper ammortamento per nuovi investimenti innovativi, il credito d’imposta sugli investimenti in R&S e della nuova Sabatini, che si uniscono alle misure per le startup e le PMI innovative e al rafforzamento del Fondo Centrale di Garanzia. Il Governo ha stanziato risorse per circa 13 miliardi di euro nel periodo 2017-2024 e stima che solo nel 2017 tali misure possano mobilitare nuovi investimenti privati per circa 10 miliardi di euro.
 
 |
 
@@ -142,7 +141,7 @@ Un passo in avanti per favorire l’ammodernamento del sistema produttivo e gara
 4.3 Città e territori
 *********************
 
-Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’\ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE8|\ .
+Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’ \ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE8|\ .
 
 Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE9|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE10|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
 
