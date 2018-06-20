@@ -489,10 +489,10 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 
 |
 
-.. _h1821514e204a1f273a6f497d14147a3a:
+.. _h1e3d504878593d44492c3453761b1e1f:
 
-2.6 Procurement
-***************
+2.6 Procurement pubblico
+************************
 
 Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK13|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK14|\  si basa su un nucleo normativo il più possibile asciutto, che dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche. 
 
