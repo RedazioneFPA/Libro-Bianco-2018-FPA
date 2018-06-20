@@ -180,6 +180,8 @@ Il d.lgs. n. 74/2017 di riforma del d.lgs. n. 150/2009, interviene modificando i
 
     Sarà necessario curare maggiormente la selezione (che non può essere solo per titoli e su base volontaristica, che trova uno stop solo in assenza dei titoli necessari o se è presente un impedimento di legge), il ruolo e lo status dei valutatori degli OIV. Occorre ridurre al minimo, o meglio eliminare, gli organismi monocratici laddove manca la necessaria dialettica interna. Costruire insieme ai valutatori stessi un  codice deontologico della professione. Curare il mantenimento e l’aggiornamento di competenze e professionalità adeguate e sperimentate attraverso una continua formazione in itinere che sia obbligatoria per la permanenza nell’elenco (una sorta di Coverciano dei valutatori)
 
+|
+
 .. _h305e3d42636141f525472a356b2f60:
 
 La valutazione da parte dei cittadini
@@ -422,7 +424,6 @@ Negli ultimi anni l’accelerazione imposta dal digitale - \ |STYLE33|\ , chat, 
 Il rapporto tra cittadini e PA passa attraverso un rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento di una cornice normativa rimasta immutata, quella della legge 150/2000, che ha vissuto in questi 18 anni un lento percorso di attuazione, nonostante contenesse le premesse per una comunicazione capace di rispondere all’esigenza di informare i cittadini.
 
 L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel D. Lgs. 97/2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del D Lgs. 33/2013: raccomanda l’uso sistematico e professionale dei \ |STYLE35|\  e riconosce il ruolo del cittadino-valutatore. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i \ |STYLE36|\  per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
-
 
 Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e istruzione e ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. È stata anche firmata una dichiarazione congiunta tra Federazione nazionale della Stampa italiana e l’Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni - Aran - in cui è stato ribadito che le attività relative all’informazione della pubblica amministrazione (come l'adesione alla CASAGIT, all’INPGI) devono essere gestite con le associazioni di categoria (sindacato e giornalisti). Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione.
 
