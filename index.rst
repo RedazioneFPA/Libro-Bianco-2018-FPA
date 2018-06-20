@@ -44,7 +44,7 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 
 ..  Important:: 
 
-    Il presente documento è rilasciato da FPA con licenza Creative Commons \ |LINK1|\ 
+    I contenuti del Libro bianco sono rilasciati da FPA con licenza Creative Commons \ |LINK1|\ 
 
 
 .. bottom of content
