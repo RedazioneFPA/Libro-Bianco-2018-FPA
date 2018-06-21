@@ -32,16 +32,16 @@ Probabilmente, vista anche la lentezza della divulgazione di dati certificati su
 Continuità dell’impegno, reputazione e immagine del lavoro pubblico
 -------------------------------------------------------------------
 
-In questa fase delicata di cambiamento di Legislatura e di Governo appare quanto mai necessario una doppia azione della politica tesa da una parte a non ricominciare da zero cancellando un quinquennio di riforme importanti e ancora non metabolizzate, dall’altra a ridare fiducia e reputazione ad un comparto, come quello del lavoro pubblico, che ha subito negli ultimi dieci anni pesantissimi attacchi che ne hanno minato sia la credibilità sia la fiducia.
+In questa fase delicata di cambiamento di legislatura e di governo appare quanto mai necessario una doppia azione della politica tesa da una parte a non ricominciare da zero cancellando un quinquennio di riforme importanti e ancora non metabolizzate, dall’altra a ridare fiducia e reputazione ad un comparto, come quello del lavoro pubblico, che ha subito negli ultimi dieci anni pesantissimi attacchi che ne hanno minato sia la credibilità sia la fiducia.
 
 .. admonition:: Raccomandazione 2.1a - Adottare una drastica riduzione della produzione normativa in tema di pubblica amministrazione, concentrandosi invece su semplificazione e azioni di accompagnamento
 
-    Si chiede al nuovo Governo una moratoria legislativa sui temi della Pubblica Amministrazione. Basta leggi, o almeno si pratichi una drastica riduzione lasciando solo i provvedimenti che servano a ridurre altre leggi, a diminuire significativamente gli adempimenti, a semplificare i procedimenti e tagliare gli oneri amministrativi in un’azione di semplificazione che richiede tenace pazienza. Non è tempo questo di nuove norme, ma di manuali, di azioni di accompagnamento e di “cura” delle riforme. In particolare per un tema così delicato, come il lavoro pubblico, che interessa la professionalità e la vita stessa di oltre tre milioni di cittadini, è importante impegnarsi in un lavoro continuo orientato alla crescita delle persone in un clima di ritrovata fiducia: fiducia della politica verso l’amministrazione, dei lavoratori pubblici verso la politica, dei cittadini verso entrambi.
+    Si chiede al nuovo governo una moratoria legislativa sui temi della pubblica amministrazione. Basta leggi, o almeno si pratichi una drastica riduzione lasciando solo i provvedimenti che servano a ridurre altre leggi, a diminuire significativamente gli adempimenti, a semplificare i procedimenti e tagliare gli oneri amministrativi in un’azione di semplificazione che richiede tenace pazienza. Non è tempo questo di nuove norme, ma di manuali, di azioni di accompagnamento e di “cura” delle riforme. In particolare per un tema così delicato, come il lavoro pubblico, che interessa la professionalità e la vita stessa di oltre tre milioni di cittadini, è importante impegnarsi in un lavoro continuo orientato alla crescita delle persone in un clima di ritrovata fiducia: fiducia della politica verso l’amministrazione, dei lavoratori pubblici verso la politica, dei cittadini verso entrambi.
 
 
 .. admonition:: Raccomandazione 2.1b - Valorizzare le buone pratiche realizzate dagli enti italiani e promuoverne la diffusione
 
-    Appare necessario, per quell’indispensabile ripristino delle condizioni della fiducia, avere la massima attenzione alle diversità di ogni tipologia di amministrazione, dal piccolo comune al grande ente centrale, mettendo in evidenza sempre le tante eccellenze presenti, nate spesso dell’impegno di una unità organizzativa e dei suoi dirigenti, che devono trovare pubblicità, apprezzamento dell’opinione pubblica, effettivi riconoscimenti da parte del Governo centrale. Anche appoggiandosi a agenzie indipendenti, il Governo dovrebbe curare un catalogo ricco e aggiornato di “buoni esempi”, che porti con sé anche la strumentazione amministrativa utile per replicarlo.
+    Appare necessario, per quell’indispensabile ripristino delle condizioni della fiducia, avere la massima attenzione alle diversità di ogni tipologia di amministrazione, dal piccolo comune al grande ente centrale, mettendo in evidenza sempre le tante eccellenze presenti, nate spesso dell’impegno di una unità organizzativa e dei suoi dirigenti, che devono trovare pubblicità, apprezzamento dell’opinione pubblica, effettivi riconoscimenti da parte del governo centrale. Anche appoggiandosi a agenzie indipendenti, il governo dovrebbe curare un catalogo ricco e aggiornato di “buoni esempi”, che porti con sé anche la strumentazione amministrativa utile per replicarlo.
 
 |
 
@@ -50,11 +50,11 @@ In questa fase delicata di cambiamento di Legislatura e di Governo appare quanto
 Età, qualifiche e assunzioni
 ----------------------------
 
-Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa né costa troppo rispetto ai nostri concorrenti europei, è però troppo vecchia, poco qualificata in generale (ha una percentuale di laureati molto più bassa degli altri paesi europei)  e per In particolare compiti specifici a cui oggi è chiamata, è mal distribuita, a causa anche della funzione di ammortizzatore sociale che ha espletato in molte regioni del nostro mezzogiorno. È quindi necessario un’azione che sia soprattutto di riordino organizzativo, che non si può fare “contro”I dipendenti pubblici, ma solo “insieme”a loro e alle loro organizzazioni.
+Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa né costa troppo rispetto ai nostri concorrenti europei, è però troppo vecchia, poco qualificata in generale (ha una percentuale di laureati molto più bassa degli altri paesi europei)  e per i particolare compiti specifici a cui oggi è chiamata, è mal distribuita, a causa anche della funzione di ammortizzatore sociale che ha espletato in molte regioni del nostro mezzogiorno. È quindi necessario un’azione che sia soprattutto di riordino organizzativo, che non si può fare “contro” i dipendenti pubblici, ma solo “insieme”a loro e alle loro organizzazioni.
 
 .. admonition:: Raccomandazione 2.1c - Lanciare una grande campagna di reclutamento di giovani leve e nuove professionalità
 
-    Occorre utilizzare al meglio le norme appena varate sul l’analisi dei fabbisogni e sulle assunzioni per lanciare una grande campagna per reclutare giovani a lavorare per lo sviluppo equo e sostenibile della loro comunità nazionale. Una campagna che cerchi i migliori nelle qualifiche oggi indispensabili, ma che immaginiamo importanti anche per la PA dei prossimi trent’anni. Una PA che non sia fonte di autorizzazioni, certificazioni ed adempimenti, né che lavori ancora su un paradigma bipolare che vede da una parte i cittadini e dall’altra le istituzioni, ma che esca dai “palazzi”per essere regia e stimolo delle forze vitali delle comunità territoriali. Una campagna che cerchi quindi registi dello sviluppo, negoziatori, project manager, analisti e architetti dei dati e tutte quelle professionalità che si espletano nel paradigma della rete. Per far questo, sarà necessario rafforzare il brand della PA come posto di lavoro dinamico, che rende possibile la crescita professionale e le carriere basate sul merito, che sia definitivamente uscito dal paradigma fordista rappresentato plasticamente dal “tornello” e dalla maniacale attenzione alla presenza fisica.
+    Occorre utilizzare al meglio le norme appena varate sul l’analisi dei fabbisogni e sulle assunzioni per lanciare una grande campagna per reclutare giovani a lavorare per lo sviluppo equo e sostenibile della loro comunità nazionale. Una campagna che cerchi i migliori nelle qualifiche oggi indispensabili, ma che immaginiamo importanti anche per la PA dei prossimi trent’anni. Una PA che non sia fonte di autorizzazioni, certificazioni ed adempimenti, né che lavori ancora su un paradigma bipolare che vede da una parte i cittadini e dall’altra le istituzioni, ma che esca dai “palazzi” per essere regia e stimolo delle forze vitali delle comunità territoriali. Una campagna che cerchi quindi registi dello sviluppo, negoziatori, \ |STYLE0|\ , analisti e architetti dei dati e tutte quelle professionalità che si espletano nel paradigma della rete. Per far questo, sarà necessario rafforzare il brand della PA come posto di lavoro dinamico, che rende possibile la crescita professionale e le carriere basate sul merito, che sia definitivamente uscito dal paradigma fordista rappresentato plasticamente dal tornello e dalla maniacale attenzione alla presenza fisica.
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -64,7 +64,7 @@ Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa
 
 .. admonition:: Raccomandazione 2.1d - Rivedere drasticamente il sistema di selezione dei dipendenti pubblici, aggiornando strumenti e criteri di selezione in base ai nuovi fabbisogni
 
-    Curare una revisione drastica degli strumenti di selezione del personale pubblico che, se vogliamo che sia all’altezza dei compiti che oggi ha la PA, non può essere reclutato con strumenti così rozzi come sono ora i concorsi che si pongono come principale obiettivo non la ricerca dei migliori, ma il rafforzamento di automatismi che da una parte deprimono le responsabilità dirigenziali, dall’altra,  privilegiano, per evitare qualsiasi contestazione, strumenti poco raffinati che nessuna organizzazione privata userebbe.Test attitudinali, colloqui approfonditi, esame qualificato dei curricoli e delle esperienze, risultati raggiunti anche in altri campi, ma anche propensioni, passioni, responsabilità assunte devono entrare a far parte, almeno per le figure direttive, di qualsiasi processo di selezione che deve quindi essere affidato a strutture competenti e non a commissioni di funzionari che tendano a riprodurre se stessi. Nessun cambiamento della PA sarà possibile senza un deciso cambiamento nell’attirare e scegliere i migliori
+    Curare una revisione drastica degli strumenti di selezione del personale pubblico che, se vogliamo che sia all’altezza dei compiti che oggi ha la PA, non può essere reclutato con strumenti così rozzi come sono ora i concorsi che si pongono come principale obiettivo non la ricerca dei migliori, ma il rafforzamento di automatismi che da una parte deprimono le responsabilità dirigenziali, dall’altra,  privilegiano, per evitare qualsiasi contestazione, strumenti poco raffinati che nessuna organizzazione privata userebbe.Test attitudinali, colloqui approfonditi, esame qualificato dei curricoli e delle esperienze, risultati raggiunti anche in altri campi, ma anche propensioni, passioni, responsabilità assunte devono entrare a far parte, almeno per le figure direttive, di qualsiasi processo di selezione che deve quindi essere affidato a strutture competenti e non a commissioni di funzionari che tendano a riprodurre se stessi. Nessun cambiamento della PA sarà possibile senza un deciso cambiamento nell’attirare e scegliere i migliori.
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -83,7 +83,7 @@ Come si legge con grande evidenza dai dati la PA italiana non è troppo numerosa
 Organizzazione e modelli flessibili e adattivi
 ----------------------------------------------
 
-Spinta da una necessità, pur virtuosa di tagli e di risparmi, è venuta a crescere nelle politiche per il pubblico impiego una tentazione grave di ipercontrollo centralista. tentazione perniciosa perché separa autonomia da responsabilità, ma che spesso si accompagna, insieme alla bramosia del “controllo totale”, a congiunture difficili per la finanza pubblica. questo centralismo efficientista porta con sé ancora due altri gravi pericoli: in primis la tentazione di vedere una notte in cui tutti i gatti sono grigi, in cui tutti i Comuni sono uguali e tutte le aziende pubbliche hanno gli stessi problemi e gli stessi rischi. Ne consegue la continua tendenza a ipernormare, ma anche di dare scarso o nessuno spazio alla diversità, all’autonomia
+Spinta da una necessità, pur virtuosa di tagli e di risparmi, è venuta a crescere nelle politiche per il pubblico impiego una tentazione grave di ipercontrollo centralista. tentazione perniciosa perché separa autonomia da responsabilità, ma che spesso si accompagna, insieme alla bramosia del controllo totale, a congiunture difficili per la finanza pubblica. questo centralismo efficientista porta con sé ancora due altri gravi pericoli: in primis la tentazione di vedere una notte in cui tutti i gatti sono grigi, in cui tutti i Comuni sono uguali e tutte le aziende pubbliche hanno gli stessi problemi e gli stessi rischi. Ne consegue la continua tendenza a ipernormare, ma anche di dare scarso o nessuno spazio alla diversità, all’autonomia
 
 L’altro rischio è quello di una continua confusione tra patologia e fisiologia: questo approccio parte dall’idea che poiché esistono patologie, si deve organizzare la vita per prevenire le patologie. Occorre certamente punire le patologie, ma non si può pensare che tutto sia patologico.
 
@@ -112,13 +112,13 @@ Che ce ne fosse bisogno è indubbio: giungla retributiva, carriere chiuse, scars
 Incarichi fiduciari, spoil system, rapporto con la politica
 -----------------------------------------------------------
 
-La dicotomia tra chi vorrebbe una dirigenza di carriera, diciamo sul modello francese (almeno nella sua vulgata, perché anche lì le cose stanno cambiando) del tutto indipendente dalla politica, e chi vorrebbe invece la possibilità di uno \ |STYLE0|\  più ampio dell’attuale, mettendo in luce la necessità che il manager che attua le politiche sia in sintonia con chi le ha disegnate, ha caratterizzato, a cominciare dalle feroci polemiche sui direttori generali dei Comuni, almeno gli ultimi quindici anni.
+La dicotomia tra chi vorrebbe una dirigenza di carriera, diciamo sul modello francese (almeno nella sua vulgata, perché anche lì le cose stanno cambiando) del tutto indipendente dalla politica, e chi vorrebbe invece la possibilità di uno \ |STYLE1|\  più ampio dell’attuale, mettendo in luce la necessità che il manager che attua le politiche sia in sintonia con chi le ha disegnate, ha caratterizzato, a cominciare dalle feroci polemiche sui direttori generali dei Comuni, almeno gli ultimi quindici anni.
 
 È però una dicotomia falsa, perché si deve partire dalla constatazione che non esiste un’unica figura dirigenziale, ma che ne possiamo a questo fine definir almeno due. Il manager pubblico, a cui si chiede di gestire un’unità operativa che attui le politiche indicate dalla politica eletta, e il manager responsabile di una funzione autorizzativa, di controllo o di gestione di appalti, convenzioni e concessioni. Mentre per il primo il rapporto fiduciario con la politica è elettivo, per il secondo dobbiamo pensare a salvaguardarne l’indipendenza.
 
 .. admonition:: Raccomandazione 2.1g - Superare la contrapposizione tra visioni dicotomiche (spoil system vs indipendenza), individuando diverse tipologie di dirigenza
 
-    Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di \ |STYLE1|\ &\ |STYLE2|\ , nel secondo verificar una ragionevole rotazione degli incarichi.
+    Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di \ |STYLE2|\ &\ |STYLE3|\ , nel secondo verificar una ragionevole rotazione degli incarichi.
 
 |
 
@@ -137,12 +137,12 @@ I dirigenti che sceglieremo oggi saranno quelli che saranno a capo delle amminis
 .. admonition:: Raccomandazione 2.1i - Favorire la mobilità dei dirigenti, sia tra mondo pubblico e privato, sia a livello Europeo
 
     Un manager moderno deve poter spaziare su più contesti lavorativi. Deve essere favorita al massimo sia l’osmosi tra il pubblico e il privato che, prevista già dalle riforme Bassanini, non ha trovato applicazione reale nella PA dove la stragrande maggioranza dei dirigenti apicali proviene da una carriera solo pubblica.
-    Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata \ |STYLE3|\  la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti.
+    Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata \ |STYLE4|\  la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti.
 
 
 .. admonition:: Raccomandazione 2.1l - Prevedere nuone forme di lifelong learning per i dirigenti
 
-    È necessario prevedere per tutta la dirigenza una formazione continua (sulla falsariga della ECM in sanità) che sia basata però non tanto su momenti frontali, quanto sulla costruzione di comunità di pratica trasversali, organizzati anche con le professionalità di soggetti terzi, e su momenti di \ |STYLE4|\ .
+    È necessario prevedere per tutta la dirigenza una formazione continua (sulla falsariga della ECM in sanità) che sia basata però non tanto su momenti frontali, quanto sulla costruzione di comunità di pratica trasversali, organizzati anche con le professionalità di soggetti terzi, e su momenti di \ |STYLE5|\ .
 
 |
 
@@ -164,7 +164,7 @@ La valutazione, oggetto di innumerevoli e sovrapposte riforme,  è  stata insiem
 
 .. admonition:: Raccomandazione 2.1m - Promuovere il principio della valutazione come parte integrante della programmazione, stabilendo però obiettivi effettivamente raggiungibili dalle diverse amministrazioni
 
-    È necessario che passi nei comportamenti delle organizzazioni il principio che la valutazione è parte fondamentale della programmazione, e che gli indicatori e gli strumenti vanno definiti in quella fase, in questo senso la valutazione deve prendere in considerazione soprattutto gli \ |STYLE5|\ , i benefici effettivi per il pubblico target. Già il D.lgs. 74/2017 nell’ambito della riforma Madia lo stabilisce con chiarezza individuando degli obiettivi “generali” della Repubblica.
+    È necessario che passi nei comportamenti delle organizzazioni il principio che la valutazione è parte fondamentale della programmazione, e che gli indicatori e gli strumenti vanno definiti in quella fase, in questo senso la valutazione deve prendere in considerazione soprattutto gli \ |STYLE6|\ , i benefici effettivi per il pubblico target. Già il D.lgs. 74/2017 nell’ambito della riforma Madia lo stabilisce con chiarezza individuando degli obiettivi “generali” della Repubblica.
     Sarà poi necessario che gli organismi preposti (in questo momento il Dipartimento della Funzione Pubblica) non assegnino alla valutazione compiti impossibili. Non ha senso valutare organizzazioni che non hanno organici adeguati per numero o competenze, non hanno modelli organizzativi efficaci, non hanno la gestione di adeguate risorse né economiche né strumentali.
 
 |
@@ -200,7 +200,7 @@ Pur se normato più volte è previsto esplicitamente sia nella Riforma Brunetta 
 2.2 Nuovi modelli organizzativi
 *******************************
 
-Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero adempimento formale dei dipendenti pubblici, in favore di una crescita a 360 gradi, che  veda un giusto bilanciamento tra digitalizzazione dei processi e \ |STYLE6|\  del personale amministrativo, declinato in tre rivoluzioni trasversali:
+Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero adempimento formale dei dipendenti pubblici, in favore di una crescita a 360 gradi, che  veda un giusto bilanciamento tra digitalizzazione dei processi e \ |STYLE7|\  del personale amministrativo, declinato in tre rivoluzioni trasversali:
 
 #. Concepire la transizione digitale come leva per un’organizzazione efficiente;
 
@@ -213,13 +213,13 @@ Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero 
 Impatti organizzativi della Digital Transformation
 ==================================================
 
-La transizione della PA verso modelli organizzativi adeguati alle sfide dell’innovazione sostenibile non può prescindere da un corretto rapporto con l’evoluzione tecnologica. Una delle principali caratteristiche dell’innovazione digitale è la sua pervasività: \ |STYLE7|\ . Al giorno d’oggi, non ha più senso parlare di IT a supporto del business, in quanto tutti i processi \ |STYLE8|\  dell’ente sono (o dovrebbero essere) intrinsecamente basati sulla tecnologia.
+La transizione della PA verso modelli organizzativi adeguati alle sfide dell’innovazione sostenibile non può prescindere da un corretto rapporto con l’evoluzione tecnologica. Una delle principali caratteristiche dell’innovazione digitale è la sua pervasività: \ |STYLE8|\ . Al giorno d’oggi, non ha più senso parlare di IT a supporto del business, in quanto tutti i processi \ |STYLE9|\  dell’ente sono (o dovrebbero essere) intrinsecamente basati sulla tecnologia.
 
 .. admonition:: Raccomandazione 2.2a - Promuovere nuovi modelli di interazione tra direzione IT e strutture di business, improntati alla collaborazione e al concetto di rete
 
     Molte delle strategie di trasformazione digitale adottate dalle amministrazioni italiane rimangono ancora oggi appannaggio esclusivo della funzione IT. Il risultato è rappresentato da piani concepiti nelle segrete stanze dei tecnologi, di cui le altre funzioni rimangono meri destinatari.
     
-    Una strategia di \ |STYLE9|\ , coerente e di largo respiro, richiede invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare i veri protagonisti dei processi di cambiamento, all’interno di una rete di innovatori, rispetto al quale la direzione IT assumerebbe il ruolo di \ |STYLE10|\ , soggetto catalizzatore della domanda di innovazione e facilitatore del complessivo processo di trasformazione organizzativa e tecnologica. 
+    Una strategia di \ |STYLE10|\ , coerente e di largo respiro, richiede invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare i veri protagonisti dei processi di cambiamento, all’interno di una rete di innovatori, rispetto al quale la direzione IT assumerebbe il ruolo di \ |STYLE11|\ , soggetto catalizzatore della domanda di innovazione e facilitatore del complessivo processo di trasformazione organizzativa e tecnologica. 
     
     Le modalità di interazione potranno poi variare a seconda delle specificità dell’ente, passando dal coinvolgimento dei referenti delle diverse strutture di business nello sviluppo dei progetti strategici in materia di ICT alla presenza stabile di funzionari informatici in ogni direzione e ufficio, al fine di abilitare una vera “contaminazione digitale” (cit. Luca Attias).
 
@@ -236,7 +236,7 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
 .. admonition:: Raccomandazione 2.2c - Ripensare il ruolo del CIO negli enti pubblici, valorizzandone il carattere strategico nel complessivo percorso di ammodernamento della PA
 
-    L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE11|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della tradizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD.
+    L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE12|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della tradizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD.
     
     La \ |LINK1|\  della \ |LINK2|\  della PA ha evidenziato il grave ritardo delle PA nel rispetto di tale adempimento. Nella prossima legislatura sarà fondamentale monitorare e promuovere l’attuazione alla previsione dell’\ |LINK3|\ , almeno nelle amministrazioni più grandi.
     
@@ -245,9 +245,9 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
 .. admonition:: Raccomandazione 2.2d - Promuovere la consapevolezza dei benefici legati alla transizione al digitale
 
-    Il successo dei processi di trasformazione della PA necessita dell’\ |STYLE12|\  dei dipendenti pubblici. Un aspetto ancora molto complesso, a causa di diffidenze culturali, di un timore diffuso verso il cambiamento e da una \ |STYLE13|\  ormai radicata orientata a procedure e adempimenti formali.
+    Il successo dei processi di trasformazione della PA necessita dell’\ |STYLE13|\  dei dipendenti pubblici. Un aspetto ancora molto complesso, a causa di diffidenze culturali, di un timore diffuso verso il cambiamento e da una \ |STYLE14|\  ormai radicata orientata a procedure e adempimenti formali.
     
-    Per rompere questo circolo vizioso è necessario promuovere la consapevolezza dei benefici legati all’avvento della modalità operativa digitale, aumentando in questo modo il grado di partecipazione e coinvolgimento dei dipendenti nei processi di cambiamento e facilitando così il lavoro dei responsabili di tali processi. In questo senso, lo \ |STYLE14|\  può rappresentare un volano fondamentale per aumentare la percezione dei vantaggi legati al digitale.
+    Per rompere questo circolo vizioso è necessario promuovere la consapevolezza dei benefici legati all’avvento della modalità operativa digitale, aumentando in questo modo il grado di partecipazione e coinvolgimento dei dipendenti nei processi di cambiamento e facilitando così il lavoro dei responsabili di tali processi. In questo senso, lo \ |STYLE15|\  può rappresentare un volano fondamentale per aumentare la percezione dei vantaggi legati al digitale.
 
 |
 
@@ -256,11 +256,11 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 Smart working
 =============
 
-Lo \ |STYLE15|\  (o Lavoro Agile) è una modalità di esecuzione del rapporto di lavoro subordinato caratterizzato dall'assenza di vincoli orari o spaziali e un'organizzazione per fasi, cicli e obiettivi, stabilita mediante accordo tra dipendente e datore di lavoro; una modalità che aiuta il lavoratore a conciliare i tempi di vita e lavoro e, al contempo, favorire la crescita della sua produttività. La \ |LINK4|\  fornisce una definizione puntuale del Lavoro Agile disciplinandone gli aspetti legati all’adozione all’interno delle organizzazioni. È un cambiamento che necessita l’adozione di un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative, accompagnando il cambiamento culturale a tutti i livelli. Lo \ |STYLE16|\  rappresenta, dunque, un nuovo approccio manageriale, nel modo di lavorare e collaborare all’interno di una organizzazione, basato su flessibilità organizzativa, autonomia e responsabilizzazione.
+Lo \ |STYLE16|\  (o Lavoro Agile) è una modalità di esecuzione del rapporto di lavoro subordinato caratterizzato dall'assenza di vincoli orari o spaziali e un'organizzazione per fasi, cicli e obiettivi, stabilita mediante accordo tra dipendente e datore di lavoro; una modalità che aiuta il lavoratore a conciliare i tempi di vita e lavoro e, al contempo, favorire la crescita della sua produttività. La \ |LINK4|\  fornisce una definizione puntuale del Lavoro Agile disciplinandone gli aspetti legati all’adozione all’interno delle organizzazioni. È un cambiamento che necessita l’adozione di un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative, accompagnando il cambiamento culturale a tutti i livelli. Lo \ |STYLE17|\  rappresenta, dunque, un nuovo approccio manageriale, nel modo di lavorare e collaborare all’interno di una organizzazione, basato su flessibilità organizzativa, autonomia e responsabilizzazione.
 
-L’art. 14 della legge Madia introduce la possibilità per le pubbliche amministrazioni di sperimentare nuove modalità spazio-temporali di svolgimento del lavoro. Allo stesso modo, la \ |LINK5|\  sullo \ |STYLE17|\  fornisce le Linee Guida di attuazione della legge Madia, fissando modalità e criteri di utilizzo dell’istituto, e ponendo l’obiettivo di consentire ad almeno il 10% dei dipendenti pubblici, ove lo richiedano, di avvalersi delle nuove modalità spazio-temporali di svolgimento della prestazione lavorativa. 
+L’art. 14 della legge Madia introduce la possibilità per le pubbliche amministrazioni di sperimentare nuove modalità spazio-temporali di svolgimento del lavoro. Allo stesso modo, la \ |LINK5|\  sullo \ |STYLE18|\  fornisce le Linee Guida di attuazione della legge Madia, fissando modalità e criteri di utilizzo dell’istituto, e ponendo l’obiettivo di consentire ad almeno il 10% dei dipendenti pubblici, ove lo richiedano, di avvalersi delle nuove modalità spazio-temporali di svolgimento della prestazione lavorativa. 
 
-Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework moderno e in alcuni casi più avanzato di quelli presenti anche in altri Paesi europei e costituisce un passo avanti nella diffusione dello \ |STYLE18|\  in Italia. Contestualmente, si registra ancora la mancanza di una trasposizione concreta nella struttura organizzativa amministrativa. 
+Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework moderno e in alcuni casi più avanzato di quelli presenti anche in altri Paesi europei e costituisce un passo avanti nella diffusione dello \ |STYLE19|\  in Italia. Contestualmente, si registra ancora la mancanza di una trasposizione concreta nella struttura organizzativa amministrativa. 
 
 
 .. admonition:: Raccomandazione 2.2f - Limitare le conseguenze negative che la burocrazia difensiva può avere sullo smart working
@@ -274,11 +274,11 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
     L’introduzione dell’istituto, che non si configura come telelavoro o forma di conciliazione, risulta prioritario per i seguenti motivi:
     
-    #. valorizzare il potenziale della riforma della PA in termini di meritocrazia e valutazione degli obiettivi e migliorare la qualità del \ |STYLE19|\ ;
+    #. valorizzare il potenziale della riforma della PA in termini di meritocrazia e valutazione degli obiettivi e migliorare la qualità del \ |STYLE20|\ ;
     
     #. accelerare il processo di trasformazione digitale, introducendo strumenti, metodologie, approcci che consentono di preparare un futuro digitale;
     
-    #. innescare pratiche di \ |STYLE20|\  dei lavoratori della PA, dando un credito di fiducia che li porti a una maggiore voglia innovare con un orientamento al servizio e restituzione al cittadino;
+    #. innescare pratiche di \ |STYLE21|\  dei lavoratori della PA, dando un credito di fiducia che li porti a una maggiore voglia innovare con un orientamento al servizio e restituzione al cittadino;
     
     #. possibile risparmio dei costi sul personale impiegato;
     
@@ -299,15 +299,15 @@ Le criticità che si configurano all’interno delle PA per il raggiungimento de
 
 #. Incapacità di mettere a sistema le buone pratiche esistenti.
 
-Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |STYLE21|\ , partendo da quattro priorità di intervento: 
+Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |STYLE22|\ , partendo da quattro priorità di intervento: 
 
-#. \ |STYLE22|\ , intesa come reingegnerizzazione dei processi attraverso le nuove tecnologie rendendoli trasversali; 
+#. \ |STYLE23|\ , intesa come reingegnerizzazione dei processi attraverso le nuove tecnologie rendendoli trasversali; 
 
-#. \ |STYLE23|\  all’interno della pubblica amministrazione; 
+#. \ |STYLE24|\  all’interno della pubblica amministrazione; 
 
-#. \ |STYLE24|\  come prassi di lavoro; 
+#. \ |STYLE25|\  come prassi di lavoro; 
 
-#. \ |STYLE25|\ , dirigenti-manager in grado di accompagnare i propri collaboratori nella transizione digitale.
+#. \ |STYLE26|\ , dirigenti-manager in grado di accompagnare i propri collaboratori nella transizione digitale.
 
 .. admonition:: Raccomandazione 2.2h - E’ necessario creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale
 
@@ -321,7 +321,7 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
     
     #. le competenze di e-leadership (dirigenza)
     
-    Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017 la sperimentazione di auto-valutazione (self-assessment) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello \ |LINK7|\  per gli utenti amministrativi (il modello è stato recentemente \ |LINK8|\  nella sua versione aggiornata dal Team Digitale). 
+    Relativamente al tema delle competenze di base nella PA, AgID ha avviato a fine 2017 la sperimentazione di auto-valutazione (\ |STYLE27|\ ) per ottenere una fotografia delle abilità interne, conoscenze e competenze rispetto al modello \ |LINK7|\  per gli utenti amministrativi (il modello è stato recentemente \ |LINK8|\  nella sua versione aggiornata dal Team Digitale). 
     
 
 
@@ -338,11 +338,11 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
 
 L’applicazione del principio di sussidiarietà orizzontale, contenuto all’ultimo comma dell’Art. 118 Cost., che disciplina l’autonoma iniziativa dei cittadini, ha ricadute dirette in due settori di indagine:
 
-* Nei \ |STYLE26|\  detenute dalle pubbliche amministrazioni ai cittadini, e viceversa, ossia nella gestione delle informazioni rilasciate dai cittadini quotidianamente in qualità di utenti
+* Nei \ |STYLE28|\  detenute dalle pubbliche amministrazioni ai cittadini, e viceversa, ossia nella gestione delle informazioni rilasciate dai cittadini quotidianamente in qualità di utenti
 
-* Nelle \ |STYLE27|\  esistenti a livello locale o centrale
+* Nelle \ |STYLE29|\  esistenti a livello locale o centrale
 
-Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, \ |STYLE28|\ . Dal punto di vista normativo,oggi sono disponibili tre modalità di accesso: 
+Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, \ |STYLE30|\ . Dal punto di vista normativo,oggi sono disponibili tre modalità di accesso: 
 
 #. Accesso agli atti (\ |LINK9|\ );
 
@@ -350,9 +350,9 @@ Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, 
 
 #. Accesso generalizzato previsto dal \ |LINK11|\ . 
 
-Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amministrazioni, responsabili della messa a disposizione dei dati. A questo si aggiunge la \ |STYLE29|\  al di là delle prescrizioni di legge, che favorisca l’emergere di nuove opportunità per conoscere se stesse in relazione ad altre. 
+Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amministrazioni, responsabili della messa a disposizione dei dati. A questo si aggiunge la \ |STYLE31|\  al di là delle prescrizioni di legge, che favorisca l’emergere di nuove opportunità per conoscere se stesse in relazione ad altre. 
 
-Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, \ |STYLE30|\ . Siamo in un reale ibrido, dove il digitale è solo una parte del tangibile\ [#F2]_\ . 
+Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, \ |STYLE32|\ . Siamo in un reale ibrido, dove il digitale è solo una parte del tangibile\ [#F2]_\ . 
 
 |
 
@@ -361,22 +361,16 @@ Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, \ |STYLE30|\ 
 Nuove forme di attivismo civico
 ===============================
 
-Nell’ottica del superamento del rapporto bipolare tra istituzioni e cittadino, emerge l’\ |STYLE31|\ , che limiti la prepotenza burocratica che ha finora caratterizzato le scelte amministrative. 
+Nell’ottica del superamento del rapporto bipolare tra istituzioni e cittadino, emerge l’\ |STYLE33|\ , che limiti la prepotenza burocratica che ha finora caratterizzato le scelte amministrative. 
 
 Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (adesso non distinguiamo più tra cittadinanza analogica e cittadinanza digitale, entrambe pesano allo stesso modo), sia dal punto di vista dei contenuti che i cittadini producono in qualità di utenti (il cittadino come consumatore non agisce più solo come destinatario finale dell’informazione o del processo, ma diventa risorsa per la quantità di informazioni che produce in prima persona, e che condivide).
 
-
-.. admonition:: Raccomandazione 2.3a - Colmare la lacuna che esiste tra l’assessment e il piano della formazione
-
-    Ciò che rimane oscuro è come si passi dal problema alla soluzione, per cui sarebbe prioritario definire una strategia univoca che traduca i risultati dell’assessment iniziale in un piano di formazione immediatamente implementabile. 
-
-
-.. admonition:: Raccomandazione 2.3b - Incentivare l’utilizzo di piattaforme civiche libere
+.. admonition:: Raccomandazione 2.3a - Incentivare l’utilizzo di piattaforme civiche libere
 
     Sarà opportuno favorire sempre di più la creazione e la manutenzione dei luoghi dello scambio di informazioni tra cittadini-utenti, formando i cittadini sui diversi strumenti a disposizione, che diano loro la percezione di come le decisioni sono state prese e per quali finalità. Le informazioni dovrebbero essere non solo disponibili, ma anche fruibili per favorire l’empowerment e l’engagement.
 
 
-.. admonition:: Raccomandazione 2.3c - Innescare un processo di datificazione delle città
+.. admonition:: Raccomandazione 2.3b - Innescare un processo di datificazione delle città
 
     Nella progettazione, ad esempio, di una smart city, i dati forniti dai cittadini come produttori è necessario che diventino beni comuni digitali (digital commons) utili attraverso:
     
@@ -387,11 +381,11 @@ Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (ades
     * Standardizzazione di una cultura civica digitale condivisa  
 
 
-.. admonition:: Raccomandazione 2.3d - Coordinare a livello centrale le buone pratiche territoriali
+.. admonition:: Raccomandazione 2.3c - Coordinare a livello centrale le buone pratiche territoriali
 
     Le nuove forme di attivismo civico sono nate in maniera spontanea, e hanno finora creato esternalità positive per la comunità intera, non incidendo su risorse pubbliche se non in piccola parte, e facendo trarre vantaggio anche alle pubbliche amministrazioni. Il prossimo passo, dovrebbe essere quello da parte delle istituzioni di recuperare la governance dei processi partecipativi, trainando dall’alto il cittadino, mentre quest’ultimo “preme” dal basso. 
     
-    In questo senso, un coordinamento nazionale di quello che è già attivo sui territori  diventa un elemento prioritario nella nuova agenda di governo, che possa fissare degli standard nazionali, limiti di spesa, garanzie di accesso e previsioni di finanziamento regionale, partendo da uno stato dell’arte sulla reale domanda di partecipazione, superando il livello delle linee guida alla consultazione, arrivando a un manuale della partecipazione e dei beni comuni materiali e immateriali (Participation Act). Un primo tentativo su questo punto è stato presentato lo scorso anno in Camera dei Deputati, come una proposta di legge dal titolo “Più democrazia, più sovranità al cittadino”, che ha proposto la modifica di alcuni articoli del TUEL. 
+    In questo senso, un coordinamento nazionale di quello che è già attivo sui territori  diventa un elemento prioritario nella nuova agenda di governo, che possa fissare degli standard nazionali, limiti di spesa, garanzie di accesso e previsioni di finanziamento regionale, partendo da uno stato dell’arte sulla reale domanda di partecipazione, superando il livello delle linee guida alla consultazione, arrivando a un manuale della partecipazione e dei beni comuni materiali e immateriali (\ |STYLE34|\ ). Un primo tentativo su questo punto è stato presentato lo scorso anno in Camera dei Deputati, come una proposta di legge dal titolo “Più democrazia, più sovranità al cittadino”, che ha proposto la modifica di alcuni articoli del TUEL. 
 
 |
 
@@ -400,11 +394,11 @@ Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (ades
 Trasparenza
 ===========
 
-Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra la concezione teorica della messa a disposizione dei dati,e quanto accade nella realtà locali e centrali. Se da un punto di vista normativo il quadro è saturo di indicazioni sulle finalità e obiettivi del rilascio in formato aperto dei dati (dalla legge sul Procedimento Amministrativo al FOIA), \ |STYLE32|\ . 
+Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra la concezione teorica della messa a disposizione dei dati,e quanto accade nella realtà locali e centrali. Se da un punto di vista normativo il quadro è saturo di indicazioni sulle finalità e obiettivi del rilascio in formato aperto dei dati (dalla legge sul Procedimento Amministrativo al FOIA), \ |STYLE35|\ . 
 
-.. admonition:: Raccomandazione 2.3e - Diffondere e monitorare l’effettiva applicazione del diritto di accesso civico
+.. admonition:: Raccomandazione 2.3d - Diffondere e monitorare l’effettiva applicazione del diritto di accesso civico
 
-    Risulta ormai necessario e prioritario dare effettivo seguito alle disposizioni previste dal D.Lgs n°33/2013 e successive modifiche, nonché da quanto introdotto con il FOIA, il Freedom of Information Act italiano. In questo senso, sarà utile - e ormai imprescindibile - favorire la conoscenza e la lettura dei dati da parte dei cittadini, offrendo siti leggibili, percorsi semplificati di accesso alle informazioni, interpretazioni e letture dei dati, interpretazioni e letture chiare sulle modalità di accesso oggi disponibili: l’accesso agli atti (Legge 241/90), l’accesso civico (D.lgs. n. 33/2013) e infine l’accesso generalizzato previsto dal FOIA.
+    Risulta ormai necessario e prioritario dare effettivo seguito alle disposizioni previste dal D.Lgs 33/2013 e successive modifiche, nonché da quanto introdotto con il FOIA, il Freedom of Information Act italiano. In questo senso, sarà utile - e ormai imprescindibile - favorire la conoscenza e la lettura dei dati da parte dei cittadini, offrendo siti leggibili, percorsi semplificati di accesso alle informazioni, interpretazioni e letture dei dati, interpretazioni e letture chiare sulle modalità di accesso oggi disponibili: l’accesso agli atti (legge 241/90), l’accesso civico e infine l’accesso generalizzato previsto dal FOIA.
 
 
 .. admonition:: Raccomandazione 2.3f - Potenziare e valorizzare l’adesione italiana all’Open Government Partnership
@@ -420,20 +414,20 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
 2.4 Comunicazione Pubblica
 **************************
 
-Negli ultimi anni l’accelerazione imposta dal digitale - \ |STYLE33|\ , chat, siti web \ |STYLE34|\  – ha definito i tratti innovativi della nuova comunicazione pubblica. 
+Negli ultimi anni l’accelerazione imposta dal digitale - \ |STYLE36|\ , chat, siti web \ |STYLE37|\  – ha definito i tratti innovativi della nuova comunicazione pubblica. 
 Il rapporto tra cittadini e PA passa attraverso un rilancio dell’attività comunicativa e un nuovo design dei servizi pubblici. Le richieste dei cittadini impongono il superamento di una cornice normativa rimasta immutata, quella della legge 150/2000, che ha vissuto in questi 18 anni un lento percorso di attuazione, nonostante contenesse le premesse per una comunicazione capace di rispondere all’esigenza di informare i cittadini.
 
-L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel D. Lgs. 97/2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del D Lgs. 33/2013: raccomanda l’uso sistematico e professionale dei \ |STYLE35|\  e riconosce il ruolo del cittadino-valutatore. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i \ |STYLE36|\  per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
+L’urgenza di approdare a una PA digitale, trasparente e open è riscontrabile nel D. Lgs. 97/2016, il cosiddetto decreto del FOIA italiano, che conferma molte delle norme del D Lgs. 33/2013: raccomanda l’uso sistematico e professionale dei \ |STYLE38|\  e riconosce il ruolo del cittadino-valutatore. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i \ |STYLE39|\  per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK12|\  e il Piano triennale per l’Informatizzazione delle PA. 
 
 Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e istruzione e ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. È stata anche firmata una dichiarazione congiunta tra Federazione nazionale della Stampa italiana e l’Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni - Aran - in cui è stato ribadito che le attività relative all’informazione della pubblica amministrazione (come l'adesione alla CASAGIT, all’INPGI) devono essere gestite con le associazioni di categoria (sindacato e giornalisti). Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione.
 
 Il lavoro sulla qualità dei servizi e delle informazioni e sulla qualità del rapporto con il cittadino porta con sé l’esigenza di ripensare ai nuovi linguaggi e alla grammatica dei siti. L’AgID ha fornito \ |LINK13|\ , ora in consultazione.
 
-Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK14|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente \ |STYLE37|\ , test usabilità, \ |LINK15|\ .
+Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK14|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente \ |STYLE40|\ , test usabilità, \ |LINK15|\ .
 
 .. admonition:: Raccomandazione 2.4a - Promuovere un modello organizzativo unico
 
-    I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE38|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE39|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
+    I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE41|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE42|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
 
 
 .. admonition:: Raccomandazione 2.4b - Inserire la comunicazione nel sistema pianificatorio delle PA
@@ -443,17 +437,17 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 
 .. admonition:: Raccomandazione 2.4c - Promuovere un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni
 
-    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE40|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE41|\  e alle \ |STYLE42|\ ).
+    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE43|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE44|\  e alle \ |STYLE45|\ ).
 
 
 .. admonition:: Raccomandazione 2.4d - Promuovere un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni
 
-    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE43|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE44|\  e alle \ |STYLE45|\ ).
+    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE46|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE47|\  e alle \ |STYLE48|\ ).
 
 
 .. admonition:: Raccomandazione 2.4e - Adottare una nuova legge sulla comunicazione
 
-    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del \ |STYLE46|\ .
+    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del \ |STYLE49|\ .
 
 |
 
@@ -462,7 +456,7 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 2.5 Gestione documentale
 ************************
 
-Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE47|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
+Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE50|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
 
 * il \ |LINK16|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
 
@@ -597,35 +591,35 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 .. bottom of content
 
 
-.. |STYLE0| replace:: *spoil system*
+.. |STYLE0| replace:: *project manager*
 
-.. |STYLE1| replace:: *check*
+.. |STYLE1| replace:: *spoil system*
 
-.. |STYLE2| replace:: *balance*
+.. |STYLE2| replace:: *check*
 
-.. |STYLE3| replace:: *condicio sine qua non*
+.. |STYLE3| replace:: *balance*
 
-.. |STYLE4| replace:: *coaching*
+.. |STYLE4| replace:: *condicio sine qua non*
 
-.. |STYLE5| replace:: *outcome*
+.. |STYLE5| replace:: *coaching*
 
-.. |STYLE6| replace:: *empowerment*
+.. |STYLE6| replace:: *outcome*
 
-.. |STYLE7| replace:: **non esiste aspetto o attività, all’interno di qualsiasi organizzazione complessa, che non sia interessato dal cambiamento paradigmatico imposto dall’avvento delle tecnologie del digitale**
+.. |STYLE7| replace:: *empowerment*
 
-.. |STYLE8| replace:: *core*
+.. |STYLE8| replace:: **non esiste aspetto o attività, all’interno di qualsiasi organizzazione complessa, che non sia interessato dal cambiamento paradigmatico imposto dall’avvento delle tecnologie del digitale**
 
-.. |STYLE9| replace:: *change management*
+.. |STYLE9| replace:: *core*
 
-.. |STYLE10| replace:: *pivot*
+.. |STYLE10| replace:: *change management*
 
-.. |STYLE11| replace:: *demand*
+.. |STYLE11| replace:: *pivot*
 
-.. |STYLE12| replace:: *engagement*
+.. |STYLE12| replace:: *demand*
 
-.. |STYLE13| replace:: *forma mentis*
+.. |STYLE13| replace:: *engagement*
 
-.. |STYLE14| replace:: *smart working*
+.. |STYLE14| replace:: *forma mentis*
 
 .. |STYLE15| replace:: *smart working*
 
@@ -635,53 +629,53 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE18| replace:: *smart working*
 
-.. |STYLE19| replace:: *management*
+.. |STYLE19| replace:: *smart working*
 
-.. |STYLE20| replace:: *engagement*
+.. |STYLE20| replace:: *management*
 
-.. |STYLE21| replace:: **strumenti trasversali di ascolto, coinvolgimento e partecipazione dei cittadini, collaborazione tra le amministrazioni, programmazione e gestione strategica**
+.. |STYLE21| replace:: *engagement*
 
-.. |STYLE22| replace:: **Ristrutturazione della macchina amministrativa**
+.. |STYLE22| replace:: **strumenti trasversali di ascolto, coinvolgimento e partecipazione dei cittadini, collaborazione tra le amministrazioni, programmazione e gestione strategica**
 
-.. |STYLE23| replace:: **Sviluppo delle competenze digitali**
+.. |STYLE23| replace:: **Ristrutturazione della macchina amministrativa**
 
-.. |STYLE24| replace:: **Collaborazione amministrativa**
+.. |STYLE24| replace:: **Sviluppo delle competenze digitali**
 
-.. |STYLE25| replace:: **Identificazione di e-leader**
+.. |STYLE25| replace:: **Collaborazione amministrativa**
 
-.. |STYLE26| replace:: **meccanismi di rilascio delle informazioni**
+.. |STYLE26| replace:: **Identificazione di e-leader**
 
-.. |STYLE27| replace:: **nuove forme di attivismo civico**
+.. |STYLE27| replace:: *self-assessment*
 
-.. |STYLE28| replace:: **il quadro si mostra generalmente confuso**
+.. |STYLE28| replace:: **meccanismi di rilascio delle informazioni**
 
-.. |STYLE29| replace:: **mancanza di una cultura della trasparenza**
+.. |STYLE29| replace:: **nuove forme di attivismo civico**
 
-.. |STYLE30| replace:: **una realtà che non distingue più tra essere online e offline**
+.. |STYLE30| replace:: **il quadro si mostra generalmente confuso**
 
-.. |STYLE31| replace:: **esigenza di un cambio di paradigma nell’elaborazione delle policy pubbliche**
+.. |STYLE31| replace:: **mancanza di una cultura della trasparenza**
 
-.. |STYLE32| replace:: **dal punto di vista pratico è ancora molto difficile individuare modalità coordinate di applicazione delle norme**
+.. |STYLE32| replace:: **una realtà che non distingue più tra essere online e offline**
 
-.. |STYLE33| replace:: *social network*
+.. |STYLE33| replace:: **esigenza di un cambio di paradigma nell’elaborazione delle policy pubbliche**
 
-.. |STYLE34| replace:: *user-friendly*
+.. |STYLE34| replace:: *Participation Act*
 
-.. |STYLE35| replace:: *social media*
+.. |STYLE35| replace:: **dal punto di vista pratico è ancora molto difficile individuare modalità coordinate di applicazione delle norme**
 
 .. |STYLE36| replace:: *social network*
 
-.. |STYLE37| replace:: *web analytics*
+.. |STYLE37| replace:: *user-friendly*
 
-.. |STYLE38| replace:: *customer satisfaction*
+.. |STYLE38| replace:: *social media*
 
-.. |STYLE39| replace:: *ocial media manager, social media strategist e community organizer*
+.. |STYLE39| replace:: *social network*
 
-.. |STYLE40| replace:: *mainstream*
+.. |STYLE40| replace:: *web analytics*
 
-.. |STYLE41| replace:: *hate speech*
+.. |STYLE41| replace:: *customer satisfaction*
 
-.. |STYLE42| replace:: *fake news*
+.. |STYLE42| replace:: *ocial media manager, social media strategist e community organizer*
 
 .. |STYLE43| replace:: *mainstream*
 
@@ -689,9 +683,15 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE45| replace:: *fake news*
 
-.. |STYLE46| replace:: *civic hacking*
+.. |STYLE46| replace:: *mainstream*
 
-.. |STYLE47| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
+.. |STYLE47| replace:: *hate speech*
+
+.. |STYLE48| replace:: *fake news*
+
+.. |STYLE49| replace:: *civic hacking*
+
+.. |STYLE50| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
 
 
 .. |LINK1| raw:: html
@@ -776,7 +776,7 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |LINK21| raw:: html
 
-    <a href="http://www.regione.toscana.it/documents/10180/11537824/Legge+regionale+N.69+del+2007/e782eb5a-8787-4647-acb6-518b6c56cf8e?version=1.1" target="_blank">Legge 69/2007 della Regione Toscana</a>
+    <a href="http://www.regione.toscana.it/documents/10180/11537824/Legge+regionale+N.69+del+2007/e782eb5a-8787-4647-acb6-518b6c56cf8e?version=1.1" target="_blank">legge 69/2007 della Regione Toscana</a>
 
 
 
