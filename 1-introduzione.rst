@@ -60,4 +60,4 @@ Questo Libro bianco è una tappa importante di questo percorso che ci auguriamo 
 .. [#f3]  Questa metafora venne per prima introdotta da Donald F. Kettle nel suo The Next Government of the United States: Why Our Institutions Fail Us and How to Fix Them, WW Norton & Co, 2008.
 .. [#f4]  Eric Raymond, The cathedral & Bazar, O’Really, 1999.
 .. [#f5]  Geoffrey G. Parker,‎ Marshall W. Van Alstyne,‎ Sangeet Paul Choudary, Platform Revolution: How Networked Markets Are Transforming the Economy and How to Make Them Work for You, W: W. Norton Company, 2016.
-.. [#f6]  Francesco Profumo nella prefazione al libro di Andrea Granelli Città intelligenti? Per una via italiana alle Smart Cities, LibreriaUniversitaria , 2012.
+.. [#f6]  Francesco Profumo nella prefazione al libro di Andrea Granelli Città intelligenti? Per una via italiana alle Smart Cities, LibreriaUniversitaria, 2012.
