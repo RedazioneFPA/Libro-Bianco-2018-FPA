@@ -4,10 +4,10 @@
 Chi siamo, cosa facciamo
 ########################
 
-.. _h3f5645485b44824276214a3477a:
+.. _h2d7d2c15b1315d53654e66222e2761:
 
-Team del Libro Bianco
-*********************
+Team redazionale del Libro Bianco
+*********************************
 
 
 .. admonition:: Team per la redazione del Libro Bianco 2018 su ``Read the Docs``
