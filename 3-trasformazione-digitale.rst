@@ -68,7 +68,7 @@ Rapporto centro-territorio
 
 L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un migliore coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio, supportando gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano e a convergere su standard tecnologici e politiche d’innovazione comuni.
 
-.. admonition:: Raccomandazione 3.1b - Promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto dei soggetti del territorio
+.. admonition:: Raccomandazione 3.1c - Promuovere un maggiore raccordo tra centro e periferia, valorizzando il ruolo di intermediazione svolto da Regioni ed enti di Area vasta a supporto dei soggetti del territorio
 
     Occorre proseguire sulla strada tracciata nel febbraio 2018 con l’approvazione dell’\ |LINK4|\ , accelerando la stipula di accordi o convenzioni territoriali con le singole regioni per abilitare il loro ruolo di coordinamento a livello territoriale e favorire la trasformazione digitale dei servizi pubblici per i cittadini e imprese.
     Il medesimo approccio potrebbe poi essere esteso a Città metropolitane e grandi comuni capoluogo che possono rappresentare un punto di riferimento per gli enti del proprio territorio
@@ -88,7 +88,7 @@ L’esigenza di adeguare la normativa di riferimento alle priorità dell’Agend
 
 Si tratta, rispettivamente, della quinta e sesta revisione del Codice in 13 anni dalla sua pubblicazione. Interventi che vanno a sommarsi alla pletora di norme primarie e secondarie che ha invaso le PA di adempimenti, producendo una stratificazione ricca di retaggi tecnologici che costituiscono ancora oggi un freno al processo di digitalizzazione.
 
-.. admonition:: Raccomandazione 3.1c - Adottare un nuovo approccio alla regolamentazione del digitale, limitando il più possibile gli interventi di carattere legislativo a vantaggio di regolamenti e linee guida
+.. admonition:: Raccomandazione 3.1d - Adottare un nuovo approccio alla regolamentazione del digitale, limitando il più possibile gli interventi di carattere legislativo a vantaggio di regolamenti e linee guida
 
     Il livello legislativo contiene già tutto il necessario, e forse anche di più. Nella prossima legislatura sarà necessario ridurre al minimo l’invasività degli interventi normativi in tema di trasformazione digitale, evitando il rischio di ingessare l’innovazione. Eventuali leggi dovranno definire pochi principi generali e di ampio respiro, semplici ed efficienti, in modo da essere applicate a prescindere alle infrastrutture tecnologiche utilizzate. 
     
