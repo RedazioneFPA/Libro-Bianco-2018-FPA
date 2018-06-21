@@ -4,10 +4,10 @@
 Chi siamo, cosa facciamo
 ########################
 
-.. _h13266f3a6f44405ef1b4d554c23838:
+.. _h3f5645485b44824276214a3477a:
 
-Team del Libro Bianco sull'innovazione della PA
-***********************************************
+Team del Libro Bianco
+*********************
 
 
 .. admonition:: Team per la redazione del Libro Bianco 2018 su ``Read the Docs``
