@@ -14,26 +14,24 @@ Team redazionale del Libro Bianco
 
     \ |STYLE0|\ 
     
-    * Marina Bassi (Redazione FPA)
+    * Marina Bassi (FPA)
     
-    * Andrea Ivan Baldassare (Redazione FPA)
+    * Andrea Ivan Baldassare (FPA)
     
-    * Luigi Rosati (Redazione FPA)
+    * Luigi Rosati (FPA)
     
-    * Patrizia Fortunato (Redazione FPA)
+    * Patrizia Fortunato (FPA)
     
-    * Paola Musolino (Redazione FPA)
+    * Michela Stentella (FPA)
     
-    * Michela Stentella (Redazione FPA)
-    
-    * Eleonora Bove (Redazione FPA)
+    * Eleonora Bove (FPA)
     \ |STYLE1|\  ``Read the Docs``,  \ |STYLE2|\  ``Github``, \ |STYLE3|\  ``hypothes.is`` \ |STYLE4|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
     
-    * Andrea Ivan Baldassare (Redazione FPA)
+    * Andrea Ivan Baldassare (FPA)
     
-    * Marina Bassi (Redazione FPA)
+    * Marina Bassi (FPA)
 
 .. _h1d445122d6a85e43702145916035:
 
@@ -95,7 +93,7 @@ Incontri e Manifestazioni
 
 \ |STYLE17|\ , l’evento nazionale che fornisce ad aziende e Comuni gli strumenti per conoscere, misurare e confrontare il livello di smartness delle città italiane attraverso i dati. Gli elementi distintivi di ICity Lab: l’evento nazionale , ICity Rate (il rapporto che analizza i punti di forza e debolezza delle Smart City e stila la classifica delle città più intelligenti) e la piattaforma tecnologica di data analysis; 
 
-\ |STYLE18|\ , il Forum per l’innovazione per la Salute è organizzato da Allea e FPA. 2 giorni di lavoro, workshop, seminari e momenti di divulgazione scientifica con l’obiettivo di far conoscere l’innovazione per la salute. Tra i maggiori temi di discussione: digitalizzazione dei processi e dei servizi, innovazioni nella diagnostica e nei farmaci, nuove tutele assicurative e coperture dei rischi professionali; 
+\ |STYLE18|\  2 giorni di lavoro a porte chiuse dei vertici delle strutture sanitarie insieme con i manager delle Imprese sui temi centrali per il rinnovamento e la sostenibilità del nostro SSN. Un percorso per valorizzare le cose già fatte ed individuare il modo migliore per aggiungerne di nuove. Un concreto momento di elaborazione collaborativa di proposte coraggiose su Open Data, partecipazione e accountability; comunicazione e social; Formazione e gestione risorse umane; Procurement e PPP; Reengineering dei processi (Process Mining); IT Governance e big data (analitcs); Continuità assistenziale (LTC). Chiusura con un grande evento pubblico; 
 
 \ |STYLE19|\ , eventi di confronto operativo tra le forze attive della Regione, il Governo, i media nazionali e locali e le principali aziende che operano nell’innovazione istituzionale, organizzativa e tecnologica; 
 
@@ -199,7 +197,7 @@ Documenti Societari
 
 .. |STYLE17| replace:: **ICity Lab**
 
-.. |STYLE18| replace:: **S@lute**
+.. |STYLE18| replace:: **FORUM Sanità,**
 
 .. |STYLE19| replace:: **FORUM PA Regionali**
 
