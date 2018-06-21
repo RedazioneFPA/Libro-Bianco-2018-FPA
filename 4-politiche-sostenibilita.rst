@@ -264,10 +264,37 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
     Riconoscere i materiali di cui un oggetto è composto diviene fondamentale per gestire il suo fine vita, aumentando la tracciabilità dei flussi, anche impiegando blockchain, combattendo così l’illegalità.
 
 
-.. admonition:: Raccomandazione 4.4i - Creare uno standard CE
+.. admonition:: Raccomandazione 4.4i - Creare uno standard Circular Economy
 
-    Quando si realizzano gare d’appalto è essenziale esplicitare i requisiti CE, formando però allo stesso tempo le aziende attraverso i processi di innovazione. Serve impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai CAM delle aziende rispondenti ai bandi della PA, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
+    Quando si realizzano gare d’appalto è essenziale esplicitare \ |STYLE9|\ , formando però allo stesso tempo le aziende attraverso i processi di innovazione. Serve impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai CAM delle aziende rispondenti ai bandi della PA, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
     Occorre investire in ricerca e sviluppo, sia presso le università che gli appositi centri (pubblici e privati); sostenere progetti di studio, ricerca e comunicazione per approfondire gli innumerevoli temi dell’economia circolare; sostenere gli incubatori della CE.
+
+|
+
+.. _h37764334d7631644a305d25706f69:
+
+Sharing Economy
+===============
+
+La \ |STYLE10|\  nel nostro Paese si configura come settore in divenire. I numeri di mercato si riferiscono a piccole realtà locali, o piattaforme verticali su risultati specifici e poco impositivi. Eppure le piattaforme collaborative dovrebbero suscitare interesse nella PA e in particolare negli enti locali, favoriti dalla riforma Delrio che consolida la cultura della condivisione di funzioni e servizi nella pubblica amministrazione. 
+
+Dal \ |LINK15|\  nel 2016 ad oggi non sono stati fatti passi avanti così evidenti. La \ |STYLE11|\  è ancora in una fase sperimentale, mentre l’ambito che sta crescendo di più senza dubbio è quello dell’innovazione sociale, cioè tutte quelle realtà che più che orientarsi al mercato lavorano sulle reti di relazioni, quale valore aggiunto della filiera produttiva. Quello che nel nostro Paese dovrebbe essere implementato è la ricomposizione di un tessuto sociale che sia in grado di agire in collaborazione con le pubbliche amministrazioni e gli enti locali. 
+
+In questo momento l’interesse delle piattaforme a operare su scala locale è molto forte, con servizi di comunità urbane e stretti rapporti con decisori sia pubblici che privati, in grado di sostenere le imprese con donazioni e finanziamenti. Su scala nazionale e internazionale, invece, non esistono modelli competitivi (se non riconducibili a piattaforme che usufruiscono di capitali specifici).
+
+.. admonition:: Raccomandazione 4.4l - Riqualificare il tessuto sociale e mettere in produzione l’indotto che può venire dalla creazione di comunità
+
+    L’esigenza è oggi quella di non disperdere risorse per la progettazione, la produzione e la messa a disposizione di servizi che poi non rispondano alle reali esigenze dell’utente. E’ indispensabile captare le potenzialità di soluzioni alternative di tipo giuridico come le piattaforme collaborative, dove il design dei servizi è sempre più mirato, personalizzato ed efficace.
+
+
+.. admonition:: Raccomandazione 4.4m - Riprendere e accelerare il processo di valutazione del ddl sulle piattaforme collaborative basate sull’economia della condivisione
+
+    In particolar modo, rispetto alle disposizioni in materia di semplificazione della fiscalità, relativamente ad un’aliquota fissa per i redditi più bassi, e all’utilizzo del dispositivo del sostituto d'imposta\ [#F1]_\ .
+
+
+.. admonition:: Raccomandazione 4.4n - Implementare business model sostenibili e strumenti finanziari ad hoc
+
+    C’è un intervento da fare sulla costruzione di strumenti ad hoc per le imprese che realmente stanno cercando di crescere, quindi strumenti di \ |STYLE12|\ . Ci sono interventi di tipo culturale da approntare, preparando le persone e avvicinandole al fenomeno. Il nostro resta, comunque, un paese che sta subendo un processo repentino di invecchiamento. Sono tanti gli interventi da fare e che andrebbero fatti, la strada è piuttosto lunga anche dal punto di vista digitale.
 
 |
 
@@ -313,7 +340,7 @@ Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni
     
     * nel rapporto con il territorio e con le aziende anche per progetti (sviluppare l’imprenditorialità giovanile). 
     
-    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE9|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocratizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti).
+    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE13|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocratizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti).
 
 |
 
@@ -365,7 +392,15 @@ La scuola ha bisogno di un profondo rinnovamento per adeguarsi al nuovo scenario
 
 .. |STYLE8| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
 
-.. |STYLE9| replace:: *fundraising*
+.. |STYLE9| replace:: **i requisiti Circular Economy (CE)**
+
+.. |STYLE10| replace:: *sharing economy*
+
+.. |STYLE11| replace:: *sharing economy*
+
+.. |STYLE12| replace:: *venture capital*
+
+.. |STYLE13| replace:: *fundraising*
 
 
 .. |LINK1| raw:: html
@@ -424,6 +459,16 @@ La scuola ha bisogno di un profondo rinnovamento per adeguarsi al nuovo scenario
 
     <a href="http://data.consilium.europa.eu/doc/document/PE-9-2018-INIT/en/pdf" target="_blank">veicoli fuori uso</a>
 
+.. |LINK15| raw:: html
+
+    <a href="http://www.camera.it/leg17/995?sezione=documenti&tipoDoc=lavori_testo_pdl&idLegislatura=17&codice=17PDL0039770&back_to=http://www.camera.it/leg17/126?tab=2-e-leg=17-e-idDocumento=3564-e-sede=-e-tipo" target="_blank">ddl proposto da alcuni parlamentari all’Intergruppo Innovazione</a>
+
+
+
+.. rubric:: Footnotes
+
+.. [#f1]  L’Art. 5 del ddl prevede un’imposta del 10% fino a 10 mila euro di reddito per le piattaforme collaborative, e stabilisce che queste agiscano come sostituto d’imposta. L’articolo 5 disciplina anche i redditi eccedenti tale soglia, che saranno invece cumulati con i redditi da lavoro dipendente o da lavoro autonomo, applicando a questi ultimi l’aliquota corrispondene.
+.. [#f2]  Su questo punto, in data 20 giugno è stata inviata dalla Presidenza della Regione Lazio una proposta di legge al Ministero del Lavoro sulla gig economy.
 
 .. |IMG1| image:: static/4-politiche-sostenibilita_1.png
    :height: 304 px
