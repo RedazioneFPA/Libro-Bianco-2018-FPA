@@ -14,6 +14,10 @@ Team redazionale del Libro Bianco
 
     \ |STYLE0|\ 
     
+    * Carlo Mochi Sismondi (FPA)
+    
+    * Gianni Dominici (FPA)
+    
     * Andrea Ivan Baldassarre (FPA)
     
     * Marina Bassi (FPA)
@@ -24,14 +28,14 @@ Team redazionale del Libro Bianco
     
     * Luigi Rosati (FPA)
     
+    * Giovanna Stagno (FPA)
+    
     * Michela Stentella (FPA)
+    
+    * Antonio Veraldi (FPA)
     \ |STYLE1|\  ``Read the Docs``,  \ |STYLE2|\  ``Github``, \ |STYLE3|\  ``hypothes.is`` \ |STYLE4|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
-    
-    * Andrea Ivan Baldassarre (FPA)
-    
-    * Marina Bassi (FPA)
 
 .. _h1d445122d6a85e43702145916035:
 
