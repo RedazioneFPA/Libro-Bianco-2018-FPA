@@ -22,8 +22,7 @@ Chi siamo, cosa facciamo
     * Michela Stentella (Redazione FPA)
     
     * Eleonora Bove (Redazione FPA)
-    \ |STYLE1|\ 
-    Read the Docs \ |STYLE2|\ 
+    \ |STYLE1|\ Read the Docs\ |STYLE2|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
 
