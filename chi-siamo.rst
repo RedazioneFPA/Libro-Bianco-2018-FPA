@@ -154,7 +154,7 @@ Documenti Societari
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Raccolta dei contenuti, editing dei testi:**
+.. |STYLE0| replace:: **Raccolta dei contenuti, editing dei testi, architettura del documento:**
 
 .. |STYLE1| replace:: **Elaborazione per la visualizzazione dei testi su**
 
