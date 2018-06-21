@@ -167,11 +167,6 @@ Con il procedere della implementazione delle infrastrutture di comunicazione (ba
     Tale raccomandazione vale sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico-privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, finanziati con i risparmi realizzati.
 
 
-.. admonition:: Raccomandazione 4.3i - Attuare una revisione delle regole di acquisizione dei servizi tecnologici-digitali
-
-    Tale raccomandazione vale sia in termini di procedure per il loro acquisto sul mercato sia in termini di modalità di definizione delle partnership pubblico-privato che appaiono cruciali in questi ambiti e che non appaiono regolate in modo efficace dalle attuali normative sugli appalti di servizi. Naturalmente esiste anche un problema di risorse dedicate, quantomeno in termini di deroga ai vincoli di spesa per gli investimenti effettuati in questo ambito, finanziati con i risparmi realizzati.
-
-
 .. admonition:: Raccomandazione 4.3l - Approfondire la questione dell’acquisizione e dell’utilizzo delle informazioni
 
     Anche questo aspetto sembra richiedere un approfondimento della regolazione, principalmente, ma non esclusivamente, relativamente alle problematiche della privacy.
@@ -289,7 +284,8 @@ In questo momento l’interesse delle piattaforme a operare su scala locale è m
 
 .. admonition:: Raccomandazione 4.4m - Riprendere e accelerare il processo di valutazione del ddl sulle piattaforme collaborative basate sull’economia della condivisione
 
-    In particolar modo, rispetto alle disposizioni in materia di semplificazione della fiscalità, relativamente ad un’aliquota fissa per i redditi più bassi, e all’utilizzo del dispositivo del sostituto d'imposta\ [#F1]_\ .
+    In particolar modo, rispetto alle disposizioni in materia di semplificazione della fiscalità, relativamente ad un’aliquota fissa per i redditi più bassi, e all’utilizzo del dispositivo del sostituto d'imposta\ [#F1]_\ \ [#F2]_\ 
+    . 
 
 
 .. admonition:: Raccomandazione 4.4n - Implementare business model sostenibili e strumenti finanziari ad hoc
