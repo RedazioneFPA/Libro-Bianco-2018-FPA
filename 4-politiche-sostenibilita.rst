@@ -314,10 +314,7 @@ In Italia solo l’11,6% dei bambini viene preso in carico dal Comune per i serv
 
     Prevedere attività di accompagnamento e formazione ai docenti e alle famiglie attraverso il raccordo con i CTS – Centri Territoriali di Supporto indispensabile, così come costruire un’Agenda nazionale di contrasto alla povertà educativa. Inoltre, è importante attivare percorsi di sostegno alla genitorialità, auto-aiuto, rapporto tra generazioni, educazione alla salute e prevenzione, educazione al consumo, prevenzione della violenza domestica, integrazione delle minoranze. Creare in sedi territoriali spazi a disposizione delle famiglie in difficoltà sia da un punto di vista tecnologico che informativo e formativo.
 
-.. _h476834441945532458b3a21604f4747:
-
 |
-=
 
 .. _h7f47727638467165b804695a262479:
 
