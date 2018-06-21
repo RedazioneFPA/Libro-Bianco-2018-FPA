@@ -14,17 +14,17 @@ Team redazionale del Libro Bianco
 
     \ |STYLE0|\ 
     
-    * Marina Bassi (FPA)
-    
     * Andrea Ivan Baldassare (FPA)
     
-    * Luigi Rosati (FPA)
+    * Marina Bassi (FPA)
+    
+    * Eleonora Bove (FPA)
     
     * Patrizia Fortunato (FPA)
     
-    * Michela Stentella (FPA)
+    * Luigi Rosati (FPA)
     
-    * Eleonora Bove (FPA)
+    * Michela Stentella (FPA)
     \ |STYLE1|\  ``Read the Docs``,  \ |STYLE2|\  ``Github``, \ |STYLE3|\  ``hypothes.is`` \ |STYLE4|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
