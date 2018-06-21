@@ -25,6 +25,10 @@ Chi siamo, cosa facciamo
     \ |STYLE1|\  ``Read the Docs``, \ |STYLE2|\  ``hypothes.is`` \ |STYLE3|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
+    
+    * Andrea Ivan Baldassare (Redazione FPA)
+    
+    * Marina Bassi (Redazione FPA)
 
 .. _h1d445122d6a85e43702145916035:
 
