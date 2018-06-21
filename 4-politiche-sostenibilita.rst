@@ -34,6 +34,8 @@ In questa situazione di forte divario tra risorse disponibili e bisogni crescent
 
 #. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
 
+|
+
 .. _h95f4e6153347d472c53e1ff53281b:
 
 Rinnovamento organizzativo e tecnologico del Sistema Sanitario
