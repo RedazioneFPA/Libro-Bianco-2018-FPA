@@ -14,7 +14,7 @@ Team redazionale del Libro Bianco
 
     \ |STYLE0|\ 
     
-    * Andrea Ivan Baldassare (FPA)
+    * Andrea Ivan Baldassarre (FPA)
     
     * Marina Bassi (FPA)
     
@@ -29,7 +29,7 @@ Team redazionale del Libro Bianco
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
     
-    * Andrea Ivan Baldassare (FPA)
+    * Andrea Ivan Baldassarre (FPA)
     
     * Marina Bassi (FPA)
 
