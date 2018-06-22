@@ -23,33 +23,118 @@ A fronte di questo la spesa sanitaria pubblica, negli ultimi anni, è stata prat
 
 \ |IMG2|\ 
 
-L’equilibrio necessario non potrà essere raggiunto penalizzando la qualità dei servizi sanitari.  Invece, secondo l’ultimo rapporto Euro Health Consumer Index, l’Italia è passata, tra il 2010 e il 2017, dal 14° al 22° posto delle 35 nazioni censite a livello europeo per performance del sistema sanitario: siamo tra i peggiori Paesi per accessibilità ai servizi e tempi di attesa, gestione dei pazienti anziani sul territorio e possibilità di offrire cure di nuova generazione. 
-In questa situazione di forte divario tra risorse disponibili e bisogni crescenti della popolazione l’unica risposta è l’innovazione indirizzata a:
+Per rispondere a questi fenomeni di radicale cambiamento del quadro sociale e epidemiologico, nella scorsa legislatura, sono state messe in campo iniziative come il Piano Nazionale della Cronicità (PNC) e il Decreto sui nuovi Livelli essenziali di assistenza (LeA). All’interno del Piano triennale per l'Ecosistema Sanità sono stati evidenziati tre progetti a titolo esemplificativo: Fascicolo Sanitario Elettronico, come esempio di infrastruttura abilitante; Centro unico di prenotazione (CUP), da realizzare su tutto il territorio nazionale per favorire l’accesso alle cure e la riduzione dei tempi di attesa; Telemedicina, per migliorare la fruibilità delle cure, dei servizi di diagnosi e della consulenza medica a distanza. Per la riduzione del rischio clinico è stata approvata la \ |STYLE0|\ .
 
-#. Rinnovamento organizzativo e tecnologico.
-
-#. Empowerment del cittadino paziente.
-
-#. Competenze degli operatori sanitari.
-
-#. Capacità di gestione e interazione con i soggetti del mercato dei beni e servizi per la sanità.
+Questi interventi normativi, da soli, non servono a ridurre il forte divario tra risorse disponibili e bisogni crescenti della popolazione. Quello che si rende necessario è un processo di innovazione dei processi del SSN, pena il peggioramento della qualità dei servizi sanitari, come segnala l’ultimo rapporto \ |STYLE1|\ , in cui l’Italia è passata, tra il 2010 e il 2017, dal 14° al 22° posto delle 35 nazioni censite a livello europeo per performance del sistema sanitario.
 
 |
 
-.. _h95f4e6153347d472c53e1ff53281b:
+.. _h3e3221358c4b5f642b3d3c3261b40:
 
-Rinnovamento organizzativo e tecnologico del Sistema Sanitario
-==============================================================
+Rinnovamento organizzativo e tecnologico del SS
+===============================================
 
-Il digitale rappresenta un fattore abilitante fondamentale per lo sviluppo di un modello di cura sostenibile, per l’integrazione dei servizi socio-sanitari tra le istituzioni e la collaborazione dei medici di medicina generale (MMG) e dei pediatri di libera scelta (PLS): tutto questo è abilitato se c'è un sistema informatico efficiente, efficace e che parli tra le regioni e tra le ASL, le aziende ospedaliere (AO) e ospedaliere universitarie (AOU) di una stessa regione.
+Enti centrali, regioni, Aziende sanitarie sono attori chiave nel determinare le scelte di rinnovamento del SSN. Dopo anni di spinte innovatrici isolate e legate a singole personalità, produttrici di eccellenze ma non di pratiche diffuse, dobbiamo registrare un aumento della consapevolezza tra i decisori pubblici (a livello centrale e territoriale) circa la necessità e l’urgenza di una risposta in termini di sistema. Per l’efficacia di questa risposta è necessario chiarire bene ruoli di Ministero, regioni e Aziende sanitarie in una governance con livelli diversi, irrinunciabili, cooperativi nella costruzione di sistemi sanitari regionali orientati all’efficienza, alla qualità dell’assistenza sanitaria e all’innovazione come volano di sviluppo economico. Governo e regioni devono provare a raccordare le politiche, condividere obiettivi, linee guida da trasferire alle Aziende sanitarie. Esse devono essere il vero motore del cambiamento, in funzione della prossimità con i bisogni dei cittadini e degli operatori sanitari. Legittimando e valorizzando (un primo passo è stato fatto con l’Albo dei DG) una classe dirigente, che ha garantito flessibilità e capacità di gestione negli anni più duri del SSN (2010-2015); che sarà essenziale per gestire aziende che diventano sempre più grandi e complesse.
 
-Il 2017, nelle intenzioni del piano “Strategia per la crescita digitale 2014-2020”, avrebbe dovuto essere l’anno di svolta per la digitalizzazione della sanità italiana. All’interno del “Piano Triennale per l’informatica nella PA” (maggio 2017), per l'Ecosistema Sanità sono stati evidenziati tre progetti a titolo esemplificativo: Fascicolo Sanitario Elettronico (FSE), come esempio di infrastruttura abilitante e strumento di condivisione delle informazioni; Centro unico di prenotazione (CUP), da realizzare su tutto il territorio nazionale per favorire l’accesso alle cure e la riduzione dei tempi di attesa; Telemedicina, per migliorare la fruibilità delle cure, dei servizi di diagnosi e della consulenza medica a distanza. rendere interoperabili tra loro i sistemi informatici all'interno di una stessa regione: ospedali che non dialogano con le Asl, distretti che non dialogano con gli ospedali, distretti che non dialogano con altri distretti. Il territorio è il luogo privilegiato per la presa in carico delle persone con cronicità o non autosufficienti e queste situazioni hanno bisogno di valutazione multidimensionale,
+Rinnovamento organizzativo e innovazione tecnologica rappresentano fattori abilitanti fondamentali per la risposta ai nuovi bisogni di salute dei cittadini e per la sostenibilità del SSN. Per cronicità, disabilità, salute mentale, assistenza domiciliare è il SSN che deve prendersi cura del cittadino, riducendo disuguaglianze e difficoltà di accesso ai servizi, assicurando una risposta integrata e duratura. L’innovazione tecnologica è da sostenere con un piano nazionale di investimenti come i fondi per l’Art. 20 della legge n. 67/88, sostenuto però da un sistema di valutazione dei progetti e controllo nell’utilizzo dei fondi più stringente e che premi le regioni capaci. Un’attività di misurazione della qualità dell’assistenza resa ai cittadini, della sostenibilità delle cure, dell’equità di accesso alle cure che sempre più deve diventare uno standard del nostro Servizio sanitario nazionale nelle componenti economico – gestionale, organizzativa, finanziaria e contabile, nonché clinico – assistenziale, di efficacia clinica e dei processi diagnostico – terapeutici, della qualità, sicurezza ed esito delle cure e della trasparenza dei processi.
 
-Sebbene i Fascicoli Sanitari Elettronici siano ancora poco più di 11 milioni, sono ben 17 le regioni che lo hanno attivato e 11 le regioni che hanno aderito all’interoperabilità (dati presenti su \ |LINK1|\ ). Nei sistemi interoperabili si riconosce il fondamento per un piano di continuità tra la rete ospedaliera e l’assistenza territoriale, ossia i percorsi diagnostici terapeutici – PDT.
+La tecnologia (con \ |STYLE2|\ ) sarà lo strumento per mettere a frutto tutte le informazioni e i dati a disposizione. Le persone che devono essere assistite e curate in questo senso diventano fornitori di informazioni utili al rinnovamento dell’organizzazione del SSN.
+
+Tecnologia e organizzazione sono leve fondamentali anche per innovare la logistica sanitaria, da tempo considerata la chiave per migliorare le prestazioni erogate; per contribuire all'efficienza delle nostre strutture sanitarie; per garantire sicurezza a pazienti e operatori. La chiave per rispondere a questi bisogni è da riscontrarsi in:
+
+#. \ |STYLE3|\ , perché diventino asset strategici di sviluppo, anche economico. Attraverso \ |STYLE4|\  logistici esterni e una rete operativa interna; gestione terziarizzata; delocalizzazione in aree idonee; micrologistica, che introduce sistemi gestionali di controllo del flusso magazzino di reparto/somministrazione;
+
+#. \ |STYLE5|\  dei professionisti e degli operatori, in grado di garantire la governance del processo attraverso indicatori di performance e c\ |STYLE6|\ , con la certezza che l’innovazione logistica sia una grande occasione di contrasto al rischio clinico, che si genera in ospedale;
+
+#. \ |STYLE7|\  con la condivisione reale e la gestione sicura dei dati e delle informazioni; i sistemi identificativi.
+
+Alcune regioni hanno realizzato delle esperienze interessanti per alcune fasi del processo logistico, altre hanno definito un percorso progettuale, altre hanno preso atto delle realizzazioni più o meno integrali messe in essere da alcune aziende sanitarie locali/ospedali di punta del loro territorio. Non ci sono, allo stato attuale degli atti, provvedimenti che stabiliscano su scala nazionale indirizzi per costituire soluzioni di logistica sanitaria in ambito regionale.
+
+Sussiste la necessità di definire criteri, standard, indicatori che assicurino che:
+
+* la logistica sanitaria sia una funzione dell'ospedale e, più complessivamente, dell'azienda sanitaria locale;
+
+* la logistica sanitaria assicuri il raggiungimento di uniformi livelli di servizio nel magazzino centrale e cooperi al conseguimento dei livelli di servizio in ambito ospedaliero;
+
+* l'investimento necessario da parte del partner privato per la struttura e l'infrastruttura avvenga sulla base di dati tecnico-amministrativi certi.
 
 .. admonition:: Raccomandazione 4.1a - Spostare le cure dall’ospedale al territorio e definire processi di presa in carico dei sempre più numerosi pazienti cronici
 
     È necessario costruire un modello di presa in carico in cui l'azienda sanitaria svolga un ruolo di regia e integrazione tra gli attori che operano con il cittadino, utilizzando le tecnologie per il telemonitoraggio, la telemedicina, la teleassistenza. Un sistema informatizzato regionale deve essere integrato con le iniziative socio-assistenziali. Altro tema importante è quello dell'assistenza domiciliare integrata, per cui è essenziale mettere in rete i care-giver, anche informali (badanti) e curarne la formazione, potenziare le equipe territoriali e il ruolo dell’infermiere di territorio.
+
+
+.. admonition:: Raccomandazione 4.1b - Realizzare applicazioni per valorizzare il flusso di informazioni che il SSN produce quotidianamente
+
+    Il patrimonio di dati preziosissimi destinati a crescere per mole e rilevanza rischia a causa
+    della digitalizzazione ancora parziale e disomogenea del SSN di rilevarsi nei fatti non disponibile o inutilizzabile. In questo modo si penalizza l’appropriatezza terapeutica e si agisce con ritardo e poca incisività su sprechi e possibili abusi. I dati ci servono per
+    migliorare le performance ed il modello di funzionamento degli Enti del SSN.
+    Sarà opportuno:
+    
+    * Stabilire policy di data governance per avere dati di qualità;
+    
+    * creare un mix di competenze, favorendo la cooperazione strutturata di \ |STYLE8|\  con i leader del cambiamento, i \ |STYLE9|\  e gli esperti di dominio.
+    
+
+
+.. admonition:: Raccomandazione 4.1c - Semplificare il procurement dell’innovazione digitale
+
+    La spesa digitale in Sanità è frammentata e cresce con lentezza. Le complicazioni introdotte dalle norme sulla trasparenza, dal nuovo codice degli appalti, dalla scarsa conoscenza di strumenti di acquisto innovativi (Procedure competitive con negoziazione, nuovo dialogo competitivo, partenariato per l’innovazione) da parte delle funzioni aziendali responsabili, ha prodotto una burocrazia difensiva che, di fronte a troppe norme non definite, si astiene dal prendere decisioni che possano comportare rischi. Tali vincoli normativi sono incompatibili con chi deve erogare servizi sanitari e con il mandato delle Direzioni aziendali. Pertanto è necessario:
+    
+    * Diffondere l’uso intelligentemente delle convenzioni Consip: SGI e SPC;
+    
+    * far precedere le gare Consip da una fase di analisi dei fabbisogni contestualizzata sui processi standardizzabili in modo da creare le condizioni per un utilizzo uniforme/focalizzato delle convenzioni;
+    
+    * creare un catalogo delle soluzioni e Certificazione soluzioni (Ministero della Salute, AGID, IASO, FederSanità, Agenas, ASSINTER, UniIndustria, Confindustria Digitale);
+    
+    * realizzare un Osservatorio nazionale dei prezzi;
+    
+    * sviluppare competenze all’interno delle Centrali acquisti (ma anche all’interno di
+    
+    * regioni, ASL, AO, AOU) e favorire l’integrazione tra le figure preposte nelle organizzazioni all’innovazione con la funzione acquisti;
+    
+    * redigere manuali operativi per indicare come si utilizzano gli strumenti di \ |STYLE10|\  innovativo (sottoporre proposta ad ANAC e Corte dei Conti).
+
+
+.. admonition:: Raccomandazione 4.1d - Definire piani di indirizzo di logistica sanitaria
+
+    La definizione di tali piani dovrà tradursi, nell’ambito nazionale, in:
+    
+    * Definizione di un apposito piano indirizzi (ad integrazione di quelli vigenti per il SSN) per prevedere \ |STYLE11|\  logistici, esterni all'ospedale, in ciascuna regione, aventi livelli di servizio coerenti con la fruizione dei beni trattati (ad esempio, tempo massimo di percorrenza dall'\ |STYLE12|\  all'ospedale, magazzino sanitario dedicato, modalità della scorta unica, ecc.);
+    
+    * disciplinare le forniture ospedaliere di farmaci per dosi unitarie;
+    
+    * determinare nella legge di bilancio 2018 le risorse economiche dedicate alla realizzazione di hub logistici sanitari e l'allestimento di infrastrutture di rete ad alta velocità connesse.
+    
+    Per l'ambito regionale, invece, in:
+    
+    * una programmazione specifica di ciascuna Regione (quale strumento di affiancamento della programmazione sanitaria) di insediamento degli \ |STYLE13|\  dedicati alla sanità, prevedendone uno per 1,5 milioni di abitanti od area vasta subregionale o bacino regionale;
+    
+    * la definizione di alcune caratteristiche generali dell'hub: tipologia di gestionale informatico, integrazioni con l'ambito economico-contabile e quello clinico-documentale, servizio di convalida e di vigilanza della Farmacia ospedaliera, estensione o meno all'ambito di preparazione di farmaci, ecc.;
+    
+    * formulare le varie modalità giuridiche di realizzazione degli hub, anche a seguito di soluzioni di PPP od altre partecipazioni di operatori privati;
+    
+    * definire la misura, come i livelli minimi di logistica sanitaria, di alcuni indicatori ormai consolidati nell'esperienza logistica, quali l'indice di rotazione delle scorte, la giacenza media di magazzino, ecc. distintamente per tipologia di bene.
+
+
+.. admonition:: Raccomandazione 4.1e - Costruire rapporto di fiducia tra cittadini e enti della sanità
+
+    Il cittadino deve essere sempre più al centro del SS, attivo e partecipe nella corretta gestione della propria salute. Anche in questo ambito il digitale può giocare un ruolo fondamentale.
+    
+    Riguardo l’accesso ai servizi, sarà indispensabile:
+    
+    * attuare un approccio multicanale, tradizionale e digitale (incrementare la diffusione di SPID, attraverso la consegna di credenziali presso le strutture di cura o indagine diagnostica);
+    
+    * semplificare l’accesso reso difficile da interpretazione rigida e formale della protezione dei dati personali;
+    
+    * adottare tecnologie il più possibile simili a quelle d’uso comune (come le App);
+    
+    * accelerare il processo di diffusione del FSE (con PDTA integrati)
+    
+    Riguardo la comunicazione, invece:
+    
+    * spostare la comunicazione circa i servizi offerti e la prevenzione dai siti internet degli enti agli strumenti che i cittadini ritengono propri (\ |STYLE14|\ );
+    
+    * profilazione degli assistiti (cfr. raccomandazione dati) per personalizzare l'informazione, la comunicazione e i canali.
 
 |
 
@@ -71,9 +156,9 @@ I dati ISTAT mostrano che un tasso di occupazione al 58%, il livello più alto d
 Occupazione giovanile
 =====================
 
-Secondo Eurostat, nel 2017 i NEET italiani (\ |STYLE0|\ ) sono il 25,7%, dieci punti sopra la media europea che è pari al 14,3%. Emergono differenze tra le diverse aree del Paese: secondo ISTAT, infatti, i NEET sono il 17% al Nord, il 20,4% al Centro e il 34,2% nel Mezzogiorno. La crisi ha profondamente cambiato anche l’incidenza dei NEET con riferimento al livello di istruzione: se, infatti, nel 2008 questi erano maggiormente diffusi fra i giovani con solo la licenza media, negli anni della crisi la crescita ha riguardato principalmente giovani con medio e alto titolo di studio. Oggi l’incidenza dei NEET è simile sia per i giovani con licenza media (22,7%) sia per quelli con diploma o laurea (22,9%), mentre è significativamente superiore per chi ha un diploma di scuola superiore (26,1%).
+Secondo Eurostat, nel 2017 i NEET italiani (\ |STYLE15|\ ) sono il 25,7%, dieci punti sopra la media europea che è pari al 14,3%. Emergono differenze tra le diverse aree del Paese: secondo ISTAT, infatti, i NEET sono il 17% al Nord, il 20,4% al Centro e il 34,2% nel Mezzogiorno. La crisi ha profondamente cambiato anche l’incidenza dei NEET con riferimento al livello di istruzione: se, infatti, nel 2008 questi erano maggiormente diffusi fra i giovani con solo la licenza media, negli anni della crisi la crescita ha riguardato principalmente giovani con medio e alto titolo di studio. Oggi l’incidenza dei NEET è simile sia per i giovani con licenza media (22,7%) sia per quelli con diploma o laurea (22,9%), mentre è significativamente superiore per chi ha un diploma di scuola superiore (26,1%).
 
-L’ANPAL ha provveduto a istituire il nuovo “Incentivo Occupazione Giovani” per promuovere l’occupazione dei NEET di età compresa tra i 16 e i 29 anni che hanno aderito al programma. Si tratta di una misura rivolta ai datori di lavoro che effettuino assunzioni di giovani da gennaio 2017 a dicembre 2018, con contratto a tempo indeterminato (anche \ |STYLE1|\ ), contratto di apprendistato professionalizzante o contratto a tempo determinato della durata di almeno 6 mesi. Le risorse stanziate ammontano a circa 200 milioni di euro e sono indirizzate a tutto il territorio nazionale, ad eccezione della Provincia Autonoma di Bolzano. A fine giugno 2017 le domande presentate erano state quasi 50.000, di cui oltre il 60% sono state confermate.
+L’ANPAL ha provveduto a istituire il nuovo “Incentivo Occupazione Giovani” per promuovere l’occupazione dei NEET di età compresa tra i 16 e i 29 anni che hanno aderito al programma. Si tratta di una misura rivolta ai datori di lavoro che effettuino assunzioni di giovani da gennaio 2017 a dicembre 2018, con contratto a tempo indeterminato (anche \ |STYLE16|\ ), contratto di apprendistato professionalizzante o contratto a tempo determinato della durata di almeno 6 mesi. Le risorse stanziate ammontano a circa 200 milioni di euro e sono indirizzate a tutto il territorio nazionale, ad eccezione della Provincia Autonoma di Bolzano. A fine giugno 2017 le domande presentate erano state quasi 50.000, di cui oltre il 60% sono state confermate.
 
 Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Sociali ha previsto un conguaglio contributivo per i datori di lavoro che, nel corso del 2017, senza esservi tenuti, assumano giovani di età compresa tra i 15 e i 24 anni, o alternativamente soggetti di età superiore ai 25 anni privi d'impiego regolarmente retribuito da almeno 6 mesi. La sede di lavoro deve essere localizzata in una delle regioni del Sud e il rapporto di lavoro deve necessariamente essere instaurato attraverso un contratto a tempo indeterminato o di apprendistato professionalizzante.
 
@@ -93,9 +178,9 @@ Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Socia
 4.3 Città e territori
 *********************
 
-Con l’approvazione della \ |LINK2|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’ \ |LINK3|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE2|\ .
+Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’ \ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE17|\ .
 
-Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE3|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE4|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
+Sul tema delle risorse a disposizione delle città e del territorio, fa fede il \ |STYLE18|\  cui afferiscono 892,9 milioni di euro della politica di coesione, e il cosiddetto \ |STYLE19|\  pubblicato nel maggio del 2016. Tra i soggetti beneficiari del bando, oltre ai comuni capoluogo, anche le Città metropolitane, enti di recente istituzione e quindi chiamate per la prima volta ad agire nelle politiche di rigenerazione urbana, intesa come politica di area vasta. L'intervento arriva a mobilitare quasi 4 miliardi di euro complessivi. A questo si aggiungono i 16 Patti per il Sud: uno per ognuna delle 8 Regioni (Abruzzo, Molise, Campania, Basilicata, Puglia, Calabria, Sicilia, Sardegna), uno per ognuna delle 7 Città Metropolitane (Napoli, Bari, Reggio Calabria, Messina, Catania, Palermo, Cagliari) e il Contratto Istituzionale di Sviluppo (CIS) di Taranto. I Patti declinano concretamente gli interventi che costituiscono l’asse portante del Masterplan per il Mezzogiorno.
 
 |
 
@@ -108,12 +193,12 @@ Un passaggio necessario è quello di ripensare l’agenda delle priorità della 
 
 .. admonition:: Raccomandazione 4.3a - Adottare un’Agenda urbana nazionale che assuma la forma di un patto tra amministrazione centrale e autorità urbane
 
-    L’Agenda urbana nazionale dovrebbe: essere uno strumento concreto attraverso il quale perseguire obiettivi di grande impatto e interesse pubblico e avere al centro i temi della sostenibilità come proposto dall’“\ |LINK4|\ ” elaborata da ASviS, Urban@it e ad ANCI, che individua gli obiettivi che le aree urbane devono raggiungere per attuare la \ |LINK5|\  e le politiche necessarie.
+    L’Agenda urbana nazionale dovrebbe: essere uno strumento concreto attraverso il quale perseguire obiettivi di grande impatto e interesse pubblico e avere al centro i temi della sostenibilità come proposto dall’“\ |LINK3|\ ” elaborata da ASviS, Urban@it e ad ANCI, che individua gli obiettivi che le aree urbane devono raggiungere per attuare la \ |LINK4|\  e le politiche necessarie.
 
 
 .. admonition:: Raccomandazione 4.3b - Individuare un punto di riferimento all’interno dell’amministrazione centrale che abbia il compito di coordinare le politiche per le città e di definire l’Agenda urbana nazionale
 
-    Quest’ultimo punto fa parte dei \ |LINK6|\  che sono stati \ |LINK7|\  del Paese.
+    Quest’ultimo punto fa parte dei \ |LINK5|\  che sono stati \ |LINK6|\  del Paese.
 
 
 .. admonition:: Raccomandazione 4.3c - Recuperare e sviluppare l’esperienza del Bando periferie
@@ -128,7 +213,7 @@ Un passaggio necessario è quello di ripensare l’agenda delle priorità della 
 
 .. admonition:: Raccomandazione 4.3e - Realizzare una Strategia per le aree urbane
 
-    Riprendere la logica della \ |LINK8|\  avviata nel settembre 2012 dall’allora Ministro per la Coesione Territoriale Fabrizio Barca con il supporto di un Comitato Tecnico Aree Interne costituito allo scopo. Obiettivo della Strategia: garantire l'accessibilità a servizi essenziali, quali istruzione, mobilità e sanità, nei territori interni rurali e prevede per ciascuna area-progetto una strategia di sviluppo con una serie di interventi da attuare attraverso un Accordo di Programma Quadro (APQ). Gli interventi previsti dall'APQ sono finanziati a valere sui Fondi europei e sulle risorse stanziate dalla legge di Stabilità.
+    Riprendere la logica della \ |LINK7|\  avviata nel settembre 2012 dall’allora Ministro per la Coesione Territoriale Fabrizio Barca con il supporto di un Comitato Tecnico Aree Interne costituito allo scopo. Obiettivo della Strategia: garantire l'accessibilità a servizi essenziali, quali istruzione, mobilità e sanità, nei territori interni rurali e prevede per ciascuna area-progetto una strategia di sviluppo con una serie di interventi da attuare attraverso un Accordo di Programma Quadro (APQ). Gli interventi previsti dall'APQ sono finanziati a valere sui Fondi europei e sulle risorse stanziate dalla legge di Stabilità.
 
 
 .. admonition:: Raccomandazione 4.3f - Dare seguito al PON Metro, realizzando i progetti approvati
@@ -142,7 +227,7 @@ Un passaggio necessario è quello di ripensare l’agenda delle priorità della 
 Poteri locali e associazionismo comunale
 ========================================
 
-La \ |LINK9|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termini entro i quali i comuni con popolazione inferiore ai 5 mila abitanti (fino a 3 mila se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, come quello della \ |LINK10|\ . 
+La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termini entro i quali i comuni con popolazione inferiore ai 5 mila abitanti (fino a 3 mila se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, come quello della \ |LINK9|\ . 
 
 .. admonition:: Raccomandazione 4.3g - Attuare la riforma Delrio, lavorare a un riordino e a una riforma organica dei poteri locali
 
@@ -195,7 +280,7 @@ La priorità per il futuro è quindi l’attuazione dell’Accordo di Parigi nel
 Strategia Nazionale Energetica (SEN)
 ====================================
 
-La \ |STYLE5|\  rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030. 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta.
+La \ |STYLE20|\  rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030. 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta.
 
 La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefigge, assume valore non soltanto per i contenuti che esprime ma anche per il modello partecipativo adottato, essendo il frutto di un percorso partecipato a cui hanno contribuito regioni, EELL e oltre 250 tra associazioni, imprese e mondo della ricerca.
 
@@ -234,15 +319,15 @@ L'economia circolare segna il passaggio da un modello lineare di produzione a un
 
 * Riscoprire i giacimenti di materia scartata come fonte di materia prima: raccolta dei rifiuti, riciclo, riutilizzo, gestione degli output produttivi, scarti agricoli (bioeconomia);
 
-* Fine dello spreco d’uso del prodotto (\ |STYLE6|\ ), prima ancora di essere scartato. Favorire condivisione e uso collettivo, con l’introduzione di prodotti di business;
+* Fine dello spreco d’uso del prodotto (\ |STYLE21|\ ), prima ancora di essere scartato. Favorire condivisione e uso collettivo, con l’introduzione di prodotti di business;
 
-* Fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, \ |STYLE7|\ , ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
+* Fermare la morte prematura della materia. Allungamento tempi di vita del prodotto, facilità di riparazione, upgrading, sostituzione, \ |STYLE22|\ , ecc., sono alcune delle strategie necessarie da adottare per ritardare il più possibile la rigenerazione/riciclo della materia.
 
 Un ampio slancio a questa economia è dato dal ruolo svolto dalla PA nell’adozione di atti autoritativi, nelle attività di programmazione, negli impegni di regolazione del mercato delle imprese, nel creare nuove opportunità e pratiche di condivisione. 
 
-\ |STYLE8|\ . Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571, di accordi internazionali, come l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
+\ |STYLE23|\ . Questo obbligo si incardina in un contesto di normativa di derivazione comunitaria, di atti di indirizzo comunitari, di comunicazioni della Commissione Europea sull’economia circolare - COM (2014) 398 e COM (2015) 614 - e sull’uso efficiente delle risorse - COM (2011) 21 e COM (2011) 571, di accordi internazionali, come l’Accordo sul clima di Parigi, che impongono l’adozione di tutte le misure efficaci per promuovere modelli di economia circolare, l’efficienza nell’uso delle risorse e dell’energia, il minor impiego e dispersione di sostanze chimiche pericolose.
 
-Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui \ |LINK11|\ , sulle \ |LINK12|\ , sugli \ |LINK13|\  e sui \ |LINK14|\ , pensato per combinare ambientalismo e crescita economica.
+Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasburgo lo scorso aprile, ha dato il via libera al cosiddetto “Pacchetto sull’Economia Circolare”, costituito da quattro direttive sui \ |LINK10|\ , sulle \ |LINK11|\ , sugli \ |LINK12|\  e sui \ |LINK13|\ , pensato per combinare ambientalismo e crescita economica.
 
 .. admonition:: Raccomandazione 4.4f - Recepire con rapidità le Direttive ed anticipare strategie importanti come eco-design, strategia sulla plastica, rafforzamento della responsabilità estesa di prodotto
 
@@ -261,7 +346,7 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 
 .. admonition:: Raccomandazione 4.4i - Creare uno standard Circular Economy
 
-    Quando si realizzano gare d’appalto è essenziale esplicitare \ |STYLE9|\ , formando però allo stesso tempo le aziende attraverso i processi di innovazione. Serve impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai CAM delle aziende rispondenti ai bandi della PA, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
+    Quando si realizzano gare d’appalto è essenziale esplicitare \ |STYLE24|\ , formando però allo stesso tempo le aziende attraverso i processi di innovazione. Serve impiegare le certificazioni ambientali e sociali esistenti. Se si analizza la conformità ai CAM delle aziende rispondenti ai bandi della PA, in particolare in relazione al CAM edilizia 2017, notiamo come l’adesione totale a questi obiettivi si riscontra solamente nel 6% dei partecipanti.
     Occorre investire in ricerca e sviluppo, sia presso le università che gli appositi centri (pubblici e privati); sostenere progetti di studio, ricerca e comunicazione per approfondire gli innumerevoli temi dell’economia circolare; sostenere gli incubatori della CE.
 
 |
@@ -271,9 +356,9 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 Sharing Economy
 ===============
 
-La \ |STYLE10|\  nel nostro Paese si configura come settore in divenire. I numeri di mercato si riferiscono a piccole realtà locali, o piattaforme verticali su risultati specifici e poco impositivi. Eppure le piattaforme collaborative dovrebbero suscitare interesse nella PA e in particolare negli enti locali, favoriti dalla riforma Delrio che consolida la cultura della condivisione di funzioni e servizi nella pubblica amministrazione. 
+La \ |STYLE25|\  nel nostro Paese si configura come settore in divenire. I numeri di mercato si riferiscono a piccole realtà locali, o piattaforme verticali su risultati specifici e poco impositivi. Eppure le piattaforme collaborative dovrebbero suscitare interesse nella PA e in particolare negli enti locali, favoriti dalla riforma Delrio che consolida la cultura della condivisione di funzioni e servizi nella pubblica amministrazione. 
 
-Dal \ |LINK15|\  nel 2016 ad oggi non sono stati fatti passi avanti così evidenti. La \ |STYLE11|\  è ancora in una fase sperimentale, mentre l’ambito che sta crescendo di più senza dubbio è quello dell’innovazione sociale, cioè tutte quelle realtà che più che orientarsi al mercato lavorano sulle reti di relazioni, quale valore aggiunto della filiera produttiva. Quello che nel nostro Paese dovrebbe essere implementato è la ricomposizione di un tessuto sociale che sia in grado di agire in collaborazione con le pubbliche amministrazioni e gli enti locali. 
+Dal \ |LINK14|\  nel 2016 ad oggi non sono stati fatti passi avanti così evidenti. La \ |STYLE26|\  è ancora in una fase sperimentale, mentre l’ambito che sta crescendo di più senza dubbio è quello dell’innovazione sociale, cioè tutte quelle realtà che più che orientarsi al mercato lavorano sulle reti di relazioni, quale valore aggiunto della filiera produttiva. Quello che nel nostro Paese dovrebbe essere implementato è la ricomposizione di un tessuto sociale che sia in grado di agire in collaborazione con le pubbliche amministrazioni e gli enti locali. 
 
 In questo momento l’interesse delle piattaforme a operare su scala locale è molto forte, con servizi di comunità urbane e stretti rapporti con decisori sia pubblici che privati, in grado di sostenere le imprese con donazioni e finanziamenti. Su scala nazionale e internazionale, invece, non esistono modelli competitivi (se non riconducibili a piattaforme che usufruiscono di capitali specifici).
 
@@ -290,7 +375,7 @@ In questo momento l’interesse delle piattaforme a operare su scala locale è m
 
 .. admonition:: Raccomandazione 4.4n - Implementare business model sostenibili e strumenti finanziari ad hoc
 
-    C’è un intervento da fare sulla costruzione di strumenti ad hoc per le imprese che realmente stanno cercando di crescere, quindi strumenti di \ |STYLE12|\ . Ci sono interventi di tipo culturale da approntare, preparando le persone e avvicinandole al fenomeno. Il nostro resta, comunque, un paese che sta subendo un processo repentino di invecchiamento. Sono tanti gli interventi da fare e che andrebbero fatti, la strada è piuttosto lunga anche dal punto di vista digitale.
+    C’è un intervento da fare sulla costruzione di strumenti ad hoc per le imprese che realmente stanno cercando di crescere, quindi strumenti di \ |STYLE27|\ . Ci sono interventi di tipo culturale da approntare, preparando le persone e avvicinandole al fenomeno. Il nostro resta, comunque, un paese che sta subendo un processo repentino di invecchiamento. Sono tanti gli interventi da fare e che andrebbero fatti, la strada è piuttosto lunga anche dal punto di vista digitale.
 
 |
 
@@ -333,7 +418,7 @@ Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni
     
     * nel rapporto con il territorio e con le aziende anche per progetti (sviluppare l’imprenditorialità giovanile). 
     
-    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE13|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocratizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti).
+    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE28|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocratizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti).
 
 |
 
@@ -367,42 +452,72 @@ La scuola ha bisogno di un profondo rinnovamento per adeguarsi al nuovo scenario
 .. bottom of content
 
 
-.. |STYLE0| replace:: *Not in education, employment or training*
+.. |STYLE0| replace:: **legge Gelli-Bianco sulla responsabilità professionale (legge n. 24/2017)**
 
-.. |STYLE1| replace:: *part-time*
+.. |STYLE1| replace:: *Euro Health Consumer Index*
 
-.. |STYLE2| replace:: **riflessione sulla definizione di un’Agenda urbana come strumento di perseguimento degli obiettivi di grande impatto e interesse pubblico**
+.. |STYLE2| replace:: *big data*
 
-.. |STYLE3| replace:: **PON “Città metropolitane 2014 – 2020”**
+.. |STYLE3| replace:: **Innovazione organizzativa delle strutture**
 
-.. |STYLE4| replace:: **Bando periferie, il “Bando per il programma straordinario di intervento per la riqualificazione urbana e la sicurezza delle periferie delle città metropolitane e dei comuni capoluogo di provincia”**
+.. |STYLE4| replace:: *hub*
 
-.. |STYLE5| replace:: **Strategia Energetica Nazionale**
+.. |STYLE5| replace:: **Innovazione delle competenze (capacity building) manageriali e specifiche**
 
-.. |STYLE6| replace:: *unused value*
+.. |STYLE6| replace:: *ustomer satisfacion*
 
-.. |STYLE7| replace:: *refilling*
+.. |STYLE7| replace:: **Innovazione tecnologica**
 
-.. |STYLE8| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
+.. |STYLE8| replace:: *data scientist*
 
-.. |STYLE9| replace:: **i requisiti Circular Economy (CE)**
+.. |STYLE9| replace:: *process owner*
 
-.. |STYLE10| replace:: *sharing economy*
+.. |STYLE10| replace:: *procurement*
 
-.. |STYLE11| replace:: *sharing economy*
+.. |STYLE11| replace:: *hub*
 
-.. |STYLE12| replace:: *venture capital*
+.. |STYLE12| replace:: *hub*
 
-.. |STYLE13| replace:: *fundraising*
+.. |STYLE13| replace:: *hub*
+
+.. |STYLE14| replace:: *social network*
+
+.. |STYLE15| replace:: *Not in education, employment or training*
+
+.. |STYLE16| replace:: *part-time*
+
+.. |STYLE17| replace:: **riflessione sulla definizione di un’Agenda urbana come strumento di perseguimento degli obiettivi di grande impatto e interesse pubblico**
+
+.. |STYLE18| replace:: **PON “Città metropolitane 2014 – 2020”**
+
+.. |STYLE19| replace:: **Bando periferie, il “Bando per il programma straordinario di intervento per la riqualificazione urbana e la sicurezza delle periferie delle città metropolitane e dei comuni capoluogo di provincia”**
+
+.. |STYLE20| replace:: **Strategia Energetica Nazionale**
+
+.. |STYLE21| replace:: *unused value*
+
+.. |STYLE22| replace:: *refilling*
+
+.. |STYLE23| replace:: **Con D.Lgs 50/2016, il GPP è diventato obbligatorio ed è stata garantita l’applicazione dei CAM (Criteri Ambientali Minimi) nelle gare pubbliche**
+
+.. |STYLE24| replace:: **i requisiti Circular Economy (CE)**
+
+.. |STYLE25| replace:: *sharing economy*
+
+.. |STYLE26| replace:: *sharing economy*
+
+.. |STYLE27| replace:: *venture capital*
+
+.. |STYLE28| replace:: *fundraising*
 
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.fascicolosanitario.gov.it/" target="_blank">www.fascicolosanitario.gov.it</a>
+    <a href="http://asvis.it/public/asvis/files/AgendaUrbana.pdf" target="_blank">Strategia Nazionale per lo Sviluppo Sostenibile (SNSvS)</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://asvis.it/public/asvis/files/AgendaUrbana.pdf" target="_blank">Strategia Nazionale per lo Sviluppo Sostenibile (SNSvS)</a>
+    <a href="http://asvis.it/public/asvis/files/AgendaUrbana.pdf" target="_blank">Agenda per lo sviluppo urbano sostenibile</a>
 
 .. |LINK3| raw:: html
 
@@ -410,49 +525,45 @@ La scuola ha bisogno di un profondo rinnovamento per adeguarsi al nuovo scenario
 
 .. |LINK4| raw:: html
 
-    <a href="http://asvis.it/public/asvis/files/AgendaUrbana.pdf" target="_blank">Agenda per lo sviluppo urbano sostenibile</a>
+    <a href="http://www.minambiente.it/pagina/la-strategia-nazionale-lo-sviluppo-sostenibile" target="_blank">Strategia Nazionale per lo Sviluppo Sostenibile</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://www.minambiente.it/pagina/la-strategia-nazionale-lo-sviluppo-sostenibile" target="_blank">Strategia Nazionale per lo Sviluppo Sostenibile</a>
+    <a href="http://asvis.it/home/46-2589/il-video-appello-di-giovanninibrper-una-legislatura-sostenibile#.WqlRNejOXcs" target="_blank">10 punti di ASviS</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://asvis.it/home/46-2589/il-video-appello-di-giovanninibrper-una-legislatura-sostenibile#.WqlRNejOXcs" target="_blank">10 punti di ASviS</a>
+    <a href="http://asvis.it/home/46-2694/ladesione-di-partiti-e-movimenti-allappello-asvis-per-una-legislatura-sostenibile#.WqlRX-jOXct" target="_blank">sottoscritti dalle principali forze politiche</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://asvis.it/home/46-2694/ladesione-di-partiti-e-movimenti-allappello-asvis-per-una-legislatura-sostenibile#.WqlRX-jOXct" target="_blank">sottoscritti dalle principali forze politiche</a>
+    <a href="http://www.agenziacoesione.gov.it/it/arint" target="_blank">Strategia nazionale per lo sviluppo delle “Aree interne”</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.agenziacoesione.gov.it/it/arint" target="_blank">Strategia nazionale per lo sviluppo delle “Aree interne”</a>
+    <a href="http://def.finanze.it/DocTribFrontend/getAttoNormativoDetail.do?ACTION=getArticolo&id=%7b30A3563D-685F-4C90-A0CE-DE89F3CF78EA%7d&codiceOrdinamento=300010001120000&articolo=Articolo%201-com1120" target="_blank">legge 205/2017</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://def.finanze.it/DocTribFrontend/getAttoNormativoDetail.do?ACTION=getArticolo&id=%7b30A3563D-685F-4C90-A0CE-DE89F3CF78EA%7d&codiceOrdinamento=300010001120000&articolo=Articolo%201-com1120" target="_blank">legge 205/2017</a>
+    <a href="http://www.gazzettaufficiale.it/eli/id/2014/4/7/14G00069/sg" target="_blank">legge Delrio 56/2014</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://www.gazzettaufficiale.it/eli/id/2014/4/7/14G00069/sg" target="_blank">legge Delrio 56/2014</a>
+    <a href="http://data.consilium.europa.eu/doc/document/PE-11-2018-INIT/en/pdf" target="_blank">rifiuti</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://data.consilium.europa.eu/doc/document/PE-11-2018-INIT/en/pdf" target="_blank">rifiuti</a>
+    <a href="http://data.consilium.europa.eu/doc/document/PE-10-2018-INIT/en/pdf" target="_blank">discariche</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://data.consilium.europa.eu/doc/document/PE-10-2018-INIT/en/pdf" target="_blank">discariche</a>
+    <a href="http://data.consilium.europa.eu/doc/document/PE-12-2018-INIT/en/pdf" target="_blank">imballaggi</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://data.consilium.europa.eu/doc/document/PE-12-2018-INIT/en/pdf" target="_blank">imballaggi</a>
-
-.. |LINK14| raw:: html
-
     <a href="http://data.consilium.europa.eu/doc/document/PE-9-2018-INIT/en/pdf" target="_blank">veicoli fuori uso</a>
 
-.. |LINK15| raw:: html
+.. |LINK14| raw:: html
 
     <a href="http://www.camera.it/leg17/995?sezione=documenti&tipoDoc=lavori_testo_pdl&idLegislatura=17&codice=17PDL0039770&back_to=http://www.camera.it/leg17/126?tab=2-e-leg=17-e-idDocumento=3564-e-sede=-e-tipo" target="_blank">ddl proposto da alcuni parlamentari all’Intergruppo Innovazione</a>
 
