@@ -44,15 +44,13 @@ Team redazionale del Libro Bianco
 FPA
 ***
 
-\ |LINK2|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile.
-
-\ |STYLE5|\  \ |STYLE6|\  
+\ |LINK2|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. \ |STYLE5|\  \ |STYLE6|\  
 
 * \ |STYLE7|\  per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
 
 * \ |STYLE8|\  delle amministrazioni e dei soggetti coinvolti nei processi di modernizzazione della PA: imprese, soggetti intermedi, cittadini;
 
-* \ |STYLE9|\  emergenti per individuare, studiare e promuovere l’applicazione di nuovi modelli di government;
+* \ |STYLE9|\  emergenti per individuare, studiare e promuovere l’applicazione di nuovi modelli di governance;
 
 * \ |STYLE10|\  sviluppate da imprese e amministrazioni, con lo scopo di favorirne la diffusione e il riuso.
 
@@ -152,6 +150,15 @@ Formazione
 
 \ |STYLE30|\ : dispositivo di empowerment dedicato alle persone che lavorano nella PA, orientato alla costruzione di capacity building, nell'ottica di contribuire a rendere le amministrazioni realmente efficienti ed efficaci nello svolgimento delle proprie funzioni. L’offerta Academia PA poggia su un modello pensato per essere customizzato in risposta alle esigenze della singola organizzazione. Per questo, sia in termini di format che in termini di tematiche, ciascun progetto di empowerment è il risultato di un confronto e di un’attività di design personalizzato condotto da FPA in stretta collaborazione con l’amministrazione coinvolta.
 
+.. _h703a45211329124128437175870674d:
+
+Il Gruppo Digital360
+********************
+
+Digital360 ha la missione di accompagnare le imprese e le pubbliche amministrazioni nella comprensione e nell’attuazione della Trasformazione Digitale e dell’Innovazione imprenditoriale,e favorirne l’incontro con i migliori fornitori tecnologici, attraverso una piattaforma multicanale unica in Italia (\ |STYLE31|\ ) composta da contenuti editoriali, comunicazione, lead generation, eventi, \ |STYLE32|\ , \ |STYLE33|\ .
+
+Per far questo Digital360 integra un mix multisciplinare e multiculturale di professionalità e competenze: professori universitari, giornalisti, consulenti, ricercatori, professionisti degli eventi, ed esperti di comunicazione, tutti accomunati da una grande passione e missione: il digitale e l’innovazione, visti come motori della crescita e dell’ammodernamento di questo Paese. 
+
 --------
 
 .. _h794f3451616192671630526203d18:
@@ -228,6 +235,12 @@ Documenti Societari
 .. |STYLE29| replace:: **FPA Academy Premium**
 
 .. |STYLE30| replace:: **Accademia PA**
+
+.. |STYLE31| replace:: *MatchMaing Platform*
+
+.. |STYLE32| replace:: *advisory*
+
+.. |STYLE33| replace:: *advocacy*
 
 
 .. |LINK1| raw:: html
