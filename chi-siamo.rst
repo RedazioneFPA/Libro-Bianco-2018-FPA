@@ -35,7 +35,7 @@ Team redazionale del Libro Bianco
     * Michela Stentella (FPA)
     
     * Antonio Veraldi (FPA)
-    \ |STYLE1|\  ``Read the Docs``,  \ |STYLE2|\  ``Github``, \ |STYLE3|\  ``hypothes.is`` \ |STYLE4|\ 
+    \ |STYLE1|\  ``Read the Docs``,  \ |STYLE2|\  ``Github``, \ |STYLE3|\  ``hypothes.is`` \ [#F1]_\   \ |STYLE4|\ 
     
     * \ |LINK1|\  (Comune di Palermo, OpendataSicilia)
 
@@ -259,3 +259,8 @@ Documenti Societari
 
     <a href="https://profilo.forumpa.it/wp-content/uploads/2018/03/FPA_Modello_Organizzativo_PARTE_GENERALE_DEF.pdf" target="_blank">Modello di Organizzazione, Gestione e Controllo</a>
 
+
+
+.. rubric:: Footnotes
+
+.. [#f1]  grazie ad Andrea Borruso (@aborruso) per le informazioni su come fare l'embedding di hypothes.is all'interno di un sito Reas The Docs
