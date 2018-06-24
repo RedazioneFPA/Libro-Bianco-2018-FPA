@@ -263,4 +263,4 @@ Documenti Societari
 
 .. rubric:: Footnotes
 
-.. [#f1]  grazie ad Andrea Borruso (@aborruso) per le informazioni su come fare l'embedding di hypothes.is all'interno di un sito Read The Docs
+.. [#f1]  grazie ad Andrea Borruso ( `@aborruso <https://twitter.com/aborruso>`__ ) per le informazioni su come fare l'embedding di hypothes.is all'interno di un sito Read The Docs
