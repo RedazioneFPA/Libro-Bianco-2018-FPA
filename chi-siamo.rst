@@ -26,6 +26,8 @@ Team redazionale del Libro Bianco
     
     * Patrizia Fortunato (FPA)
     
+    * Paola Musollino (FPA)
+    
     * Massimiliano Roma (FPA)
     
     * Luigi Rosati (FPA)
