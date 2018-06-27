@@ -423,7 +423,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
     
     Formazione e accompagnamento sono quindi necessarie all’interno della PA tra gli operatori e le persone che sono coinvolte nel processo di apertura affinché sviluppino conoscenze e competenze di base, tecniche e approfondimenti. In questo caso l’operazione può collocarsi anche a monte del processo di selezione dei corsi-concorsi, attraverso l’inserimento di moduli formativi specifici dedicati al tema dei dati aperti.
     
-    Interessanti percorsi formativi sono rappresentati anche da occasioni quali "hackathon", "opendataday" e "webinar" come anche corsi online (noti quelli del FormezPA). Le comunità civiche attive sugli open data portano, altresì, avanti iniziative formative preziosissime per migliorare le competenze digitali sui dati aperti di dipendenti e dirigenti della PA. Sarebbe auspicabile accompagnare e sensibilizzare le PA ad intraprendere attività come queste per contribuire al processo di formazione in materia open data.
+    Interessanti percorsi formativi sono rappresentati anche da occasioni quali "hackathon", "opendataday" e "webinar" come anche corsi online. Le comunità civiche attive sugli open data portano, altresì, avanti iniziative formative preziosissime per migliorare le competenze digitali sui dati aperti di dipendenti e dirigenti della PA. Sarebbe auspicabile accompagnare e sensibilizzare le PA ad intraprendere attività come queste per contribuire al processo di formazione in materia open data.
 
 
 .. admonition:: Raccomandazione 3.6g - Definire un modello di governance del dato e progettare automatismi organizzativi e tecnologici
