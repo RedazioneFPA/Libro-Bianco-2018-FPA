@@ -441,6 +441,7 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 
     I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE42|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE43|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
 
+\ [#F3]_\ 
 
 .. admonition:: Raccomandazione 2.4b - Inserire la comunicazione nel sistema pianificatorio delle PA
 
@@ -798,3 +799,4 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. [#f1]  Dati Ragioneria dello Stato, 2016
 .. [#f2]  Il concetto è stato elaborato da Luciano Florindi in The Onlife Manifesto. Being Human in a Hyperconnected Era (2015), e da lui ribadito  all'evento Human Digital Transformation il 15 Gennaio 2018 alla Camera dei Deputati  `https://www.youtube.com/watch?v=G3WqDJ3EbMw <https://www.youtube.com/watch?v=G3WqDJ3EbMw>`__  (a partire da 1h42min).
+.. [#f3]  Proposta avanzata dall’ `Assocazione PA Social <https://www.pasocial.info/>`__ 
