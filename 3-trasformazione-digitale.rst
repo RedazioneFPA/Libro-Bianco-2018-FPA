@@ -412,7 +412,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
 .. admonition:: Raccomandazione 3.6e - Puntare sulla qualità, e non sulla quantità dei dataset da pubblicare
 
-    L’innesco di meccanismi virtuali di coinvolgimento e monitoraggio/valutazione della qualità dei dataset pubblicati è senz’altro un vantaggio.
+    L’innesco di meccanismi virtuosi di coinvolgimento e monitoraggio/valutazione della qualità dei dataset pubblicati è senz’altro un vantaggio.
     La qualità del dato e sua disponibilità (\ |STYLE69|\  e non data on demand) sono infine strettamente collegati per garantire un processo di liberazione realmente efficace e utile.
 
 
