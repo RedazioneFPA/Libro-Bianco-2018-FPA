@@ -26,7 +26,7 @@ Il Libro bianco resterà \ |LINK5|\ . Alla fine del periodo di consultazione del
 
 \ |STYLE4|\ 
 
-Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti.
+Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti, grazie ad un servizio di ``feed RSS`` fornito dalla piattaforma hypothes.is.
 
 |REPLACE1|
 
