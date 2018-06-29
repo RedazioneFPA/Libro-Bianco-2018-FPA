@@ -47,7 +47,7 @@ Nella tabella di seguito riportata sono elencati tutti i commenti inseriti nelle
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="500px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEb8M42_WhXppQr1UCIRXQ-7Cuw_xpBCCUyzr-t-mOqGbGmVCcM5Ckp5gQR7Uvqc_0K_wbqJIxrWB/pubhtml?gid=0&single=true"></iframe>
+    <iframe width="100%" height="500px" frameBorder="1" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEb8M42_WhXppQr1UCIRXQ-7Cuw_xpBCCUyzr-t-mOqGbGmVCcM5Ckp5gQR7Uvqc_0K_wbqJIxrWB/pubhtml?gid=0&single=true"></iframe>
 
 .. |LINK1| raw:: html
 
