@@ -22,7 +22,7 @@ I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is
 
 \ |STYLE3|\ 
 
-Il Libro bianco resterà \ |LINK6|\ . Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
+Il Libro bianco resterà \ |LINK6|\ . Alla fine del periodo di consultazione tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
 
 \ |STYLE4|\ 
 
