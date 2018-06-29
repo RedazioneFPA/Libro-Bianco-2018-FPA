@@ -4,13 +4,13 @@
 Partecipa alla redazione del Libro bianco
 #########################################
 
-Il Libro bianco sull'innovazione della Pubblica Amministrazione è in consultazione per un ampia condivisione. Al fine di offrire la possibilità di partecipazione è stata predisposta una modalità di interazione da parte degli utenti attraverso l'uso dello strumento \ |LINK1|\  curato dal team \ |LINK2|\ . 
+Il Libro bianco sull'innovazione della Pubblica Amministrazione è \ |LINK1|\ . Al fine di offrire la possibilità di partecipazione è stata predisposta una modalità di interazione da parte degli utenti attraverso l'uso dello strumento \ |LINK2|\  curato dal team \ |LINK3|\ . 
 
 \ |STYLE0|\ 
 
 In qualsiasi pagina del Libro è possibile selezionare una parola o una frase e automaticamente si aprirà una finestra in cui è possibile editare testo per il commento.
 
-Per usare questo strumento (\ |LINK3|\ ) è necessario creare un account \ |STYLE1|\ , ma è procedura semplice che necessita di pochi secondi.
+Per usare questo strumento (\ |LINK4|\ ) è necessario creare un account \ |STYLE1|\ , ma è procedura semplice che necessita di pochi secondi.
 
 Ogni commento è pubblico e viene inserito online lateralmente al corpo del testo immediatamente dopo l'editing del commento stesso.
 
@@ -18,11 +18,11 @@ Ogni commento è pubblico e viene inserito online lateralmente al corpo del test
 
 \ |STYLE2|\ 
 
-I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is con \ |LINK4|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
+I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is con \ |LINK5|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
 
 \ |STYLE3|\ 
 
-Il Libro bianco resterà \ |LINK5|\ . Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
+Il Libro bianco resterà \ |LINK6|\ . Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
 
 \ |STYLE4|\ 
 
@@ -51,21 +51,25 @@ Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nel
 
 .. |LINK1| raw:: html
 
-    <a href="https://via.hypothes.is" target="_blank">via.hypothes.is</a>
+    <a href="http://www.forumpa.it/riforma-pa/libro-bianco-sullinnovazione-ora-in-consultazione-pubblica" target="_blank">in consultazione fino al 15 settembre 2018 per un ampia condivisione</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://web.hypothes.is" target="_blank">web.hypothes.is</a>
+    <a href="https://via.hypothes.is" target="_blank">via.hypothes.is</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://via.hypothes.is" target="_blank">via.hypothes.is</a>
+    <a href="https://web.hypothes.is" target="_blank">web.hypothes.is</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">licenza CC 0 (pubblico dominio)</a>
+    <a href="https://via.hypothes.is" target="_blank">via.hypothes.is</a>
 
 .. |LINK5| raw:: html
+
+    <a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">licenza CC 0 (pubblico dominio)</a>
+
+.. |LINK6| raw:: html
 
     <a href="http://www.forumpa.it/riforma-pa/libro-bianco-sullinnovazione-ora-in-consultazione-pubblica" target="_blank">in consultazione pubblica fino al 15 settembre 2018</a>
 
