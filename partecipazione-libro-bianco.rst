@@ -18,7 +18,7 @@ Ogni commento è pubblico e viene inserito online lateralmente al corpo del test
 
 Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
 
-|
+\ |STYLE2|\ 
 
 In questa tabella di seguito sono elencati tutti i commenti effettuati nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti.
 
@@ -31,6 +31,8 @@ In questa tabella di seguito sono elencati tutti i commenti effettuati nelle sez
 .. |STYLE0| replace:: **hypothesis**
 
 .. |STYLE1| replace:: **Licenza**
+
+.. |STYLE2| replace:: **Elenco dei commenti**
 
 
 .. |REPLACE1| raw:: html
