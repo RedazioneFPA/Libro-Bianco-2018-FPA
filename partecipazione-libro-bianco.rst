@@ -22,11 +22,11 @@ I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is
 
 \ |STYLE3|\ 
 
-Il Libro bianco resterà \ |LINK6|\ . Alla fine del periodo di consultazione tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
+Il Libro bianco resterà \ |LINK6|\ . Alla fine del periodo di consultazione, tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
 
 \ |STYLE4|\ 
 
-Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti, grazie ad un servizio di ``feed RSS`` fornito dalla piattaforma hypothes.is.
+Nella tabella di seguito riportata sono elencati tutti i commenti inseriti nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti, grazie ad un servizio di ``feed RSS`` fornito dalla piattaforma hypothes.is.
 
 |REPLACE1|
 
