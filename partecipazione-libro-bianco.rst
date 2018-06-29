@@ -20,7 +20,7 @@ Alla fine del periodo di consultazione del Libro bianco tutti i commenti verrann
 
 \ |STYLE2|\ 
 
-In questa tabella di seguito sono elencati tutti i commenti effettuati nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti.
+Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti.
 
 |REPLACE1|
 
