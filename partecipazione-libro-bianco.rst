@@ -6,19 +6,25 @@ Partecipa alla redazione del Libro bianco
 
 Il Libro bianco sull'innovazione della Pubblica Amministrazione è in consultazione per un ampia condivisione. Al fine di offrire la possibilità di partecipazione è stata predisposta una modalità di interazione da parte degli utenti attraverso l'uso dello strumento \ |LINK1|\  curato dal team \ |LINK2|\ . 
 
+\ |STYLE0|\ 
+
 In qualsiasi pagina del Libro è possibile selezionare una parola o una frase e automaticamente si aprirà una finestra in cui è possibile editare testo per il commento.
 
-Per usare questo strumento (\ |LINK3|\ ) è necessario creare un account \ |STYLE0|\ , ma è procedura semplice che necessita di pochi secondi.
+Per usare questo strumento (\ |LINK3|\ ) è necessario creare un account \ |STYLE1|\ , ma è procedura semplice che necessita di pochi secondi.
 
 Ogni commento è pubblico e viene inserito online lateralmente al corpo del testo immediatamente dopo l'editing del commento stesso.
 
 \ |IMG1|\ 
 
-\ |STYLE1|\  - i commenti editati dagli utenti vengono rilasciati con \ |LINK4|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
+\ |STYLE2|\ 
+
+I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is con \ |LINK4|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
+
+\ |STYLE3|\ 
 
 Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
 
-\ |STYLE2|\ 
+\ |STYLE4|\ 
 
 Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti.
 
@@ -28,11 +34,15 @@ Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nel
 .. bottom of content
 
 
-.. |STYLE0| replace:: **hypothesis**
+.. |STYLE0| replace:: **Come funziona**
 
-.. |STYLE1| replace:: **Licenza**
+.. |STYLE1| replace:: **hypothes.is**
 
-.. |STYLE2| replace:: **Elenco dei commenti**
+.. |STYLE2| replace:: **Licenza dei commenti**
+
+.. |STYLE3| replace:: **Integrazione dei commenti nel Libro bianco**
+
+.. |STYLE4| replace:: **Elenco dei commenti postati**
 
 
 .. |REPLACE1| raw:: html
