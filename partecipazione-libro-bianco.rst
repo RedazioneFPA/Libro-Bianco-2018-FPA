@@ -22,7 +22,7 @@ I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is
 
 \ |STYLE3|\ 
 
-Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
+Il Libro bianco resterà \ |LINK5|\ . Alla fine del periodo di consultazione del Libro bianco tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
 
 \ |STYLE4|\ 
 
@@ -64,6 +64,10 @@ Nella tabella di seguito riportata sono elencati tutti i commenti effettuati nel
 .. |LINK4| raw:: html
 
     <a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">licenza CC 0 (pubblico dominio)</a>
+
+.. |LINK5| raw:: html
+
+    <a href="http://www.forumpa.it/riforma-pa/libro-bianco-sullinnovazione-ora-in-consultazione-pubblica" target="_blank">in consultazione pubblica fino al 15 settembre 2018</a>
 
 
 .. |IMG1| image:: static/partecipazione-libro-bianco_1.png
