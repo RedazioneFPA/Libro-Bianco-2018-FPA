@@ -101,7 +101,7 @@ Si tratta, rispettivamente, della quinta e sesta revisione del Codice in 13 anni
 3.2 Servizi e piattaforme per la cittadinanza digitale
 ******************************************************
 
-Secondo i dati del DESI 2018, l’Italia continua a far registrare prestazioni altalenanti in tema di eGovernment, posizionandosi al \ |STYLE7|\  nella nella dimensione \ |STYLE8|\ 
+Secondo i dati del DESI 2018, l’Italia continua a far registrare prestazioni altalenanti in tema di eGovernment, posizionandosi al \ |STYLE7|\  nella dimensione \ |STYLE8|\ 
 
 L’Italia conferma i risultati discreti per livello di disponibilità di servizi online della PA, con risultati superiori (\ |STYLE9|\ ivello di completezza dei servizi online) o poco inferiori (servizi pubblici digitali per le aziende) alla media UE, ma si attesta all’ultimo posto tra i Paesi UE per numero di utenti dei servizi di eGovernment\ [#F4]_\ . Un dato peggiore di quello registrato per l'uso di altre tipologie di servizi online, ma cui fa da contraltare il dato sull’utilizzo dei servizi di sanità digitale, rispetto al quale l’Italia si posizione all’8° posto nella UE 28.
 
