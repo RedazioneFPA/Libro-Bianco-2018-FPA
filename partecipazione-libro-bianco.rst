@@ -18,17 +18,21 @@ Ogni commento è pubblico e viene inserito online lateralmente al corpo del test
 
 \ |STYLE2|\ 
 
-I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is con \ |LINK5|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
+|REPLACE1|
 
 \ |STYLE3|\ 
 
-Il Libro bianco resterà \ |LINK6|\ . Alla fine del periodo di consultazione, tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
+I commenti editati dagli utenti vengono rilasciati dalla piattaforma hypothes.is con \ |LINK5|\ , e possono essere riutilizzati da chiunque per qualsiasi scopo.
 
 \ |STYLE4|\ 
 
+Il Libro bianco resterà \ |LINK6|\ . Alla fine del periodo di consultazione, tutti i commenti verranno esaminati dal Team FPA per l'integrazione nella versione finale da inviare al nuovo Governo.
+
+\ |STYLE5|\ 
+
 Nella tabella di seguito riportata sono elencati tutti i commenti inseriti nelle sezioni del Libro bianco in ordine temporale. La tabella si aggiorna automaticamente ad ogni commento editato dagli utenti, grazie ad un servizio di ``feed RSS`` fornito dalla piattaforma hypothes.is.
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
@@ -38,14 +42,20 @@ Nella tabella di seguito riportata sono elencati tutti i commenti inseriti nelle
 
 .. |STYLE1| replace:: **hypothes.is**
 
-.. |STYLE2| replace:: **Licenza dei commenti**
+.. |STYLE2| replace:: **Di seguito un video tutorial sul funzionamento dello strumento di partecipazione**
 
-.. |STYLE3| replace:: **Integrazione dei commenti nel Libro bianco**
+.. |STYLE3| replace:: **Licenza dei commenti**
 
-.. |STYLE4| replace:: **Elenco dei commenti postati**
+.. |STYLE4| replace:: **Integrazione dei commenti nel Libro bianco**
+
+.. |STYLE5| replace:: **Elenco dei commenti postati**
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe width="854" height="480" src="https://www.youtube.com/embed/xO5o7X3-j8E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <b>Breve video (1’50”)</b>
+.. |REPLACE2| raw:: html
 
     <iframe width="100%" height="800px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEb8M42_WhXppQr1UCIRXQ-7Cuw_xpBCCUyzr-t-mOqGbGmVCcM5Ckp5gQR7Uvqc_0K_wbqJIxrWB/pubhtml?gid=0&single=true"></iframe>
 
