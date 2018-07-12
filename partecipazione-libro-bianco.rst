@@ -42,7 +42,7 @@ Nella tabella di seguito riportata sono elencati tutti i commenti inseriti nelle
 
 .. |STYLE1| replace:: **hypothes.is**
 
-.. |STYLE2| replace:: **Di seguito un video tutorial sul funzionamento dello strumento di partecipazione**
+.. |STYLE2| replace:: **Di seguito un breve video tutorial sul funzionamento dello strumento di partecipazione**
 
 .. |STYLE3| replace:: **Licenza dei commenti**
 
@@ -53,8 +53,7 @@ Nella tabella di seguito riportata sono elencati tutti i commenti inseriti nelle
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="854" height="480" src="https://www.youtube.com/embed/xO5o7X3-j8E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <b>Breve video (1’50”)</b>
+    <iframe width="800" height="480" src="https://www.youtube.com/embed/xO5o7X3-j8E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="800px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEb8M42_WhXppQr1UCIRXQ-7Cuw_xpBCCUyzr-t-mOqGbGmVCcM5Ckp5gQR7Uvqc_0K_wbqJIxrWB/pubhtml?gid=0&single=true"></iframe>
