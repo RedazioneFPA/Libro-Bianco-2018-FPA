@@ -248,7 +248,7 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
 .. admonition:: Raccomandazione 2.2c - Ripensare il ruolo del CIO negli enti pubblici, valorizzandone il carattere strategico nel complessivo percorso di ammodernamento della PA
 
-    L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE13|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della tradizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD.
+    L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE13|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della transizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD.
     
     La \ |LINK1|\  della \ |LINK2|\  della PA ha evidenziato il grave ritardo delle PA nel rispetto di tale adempimento. Nella prossima legislatura sarà fondamentale monitorare e promuovere l’attuazione alla previsione dell’\ |LINK3|\ , almeno nelle amministrazioni più grandi.
     
