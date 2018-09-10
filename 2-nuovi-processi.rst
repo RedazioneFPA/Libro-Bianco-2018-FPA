@@ -453,14 +453,9 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
     L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE44|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE45|\  e alle \ |STYLE46|\ ).
 
 
-.. admonition:: Raccomandazione 2.4d - Promuovere un aggiornamento delle competenze dell'Autorità per le Garanzie nelle Comunicazioni
+.. admonition:: Raccomandazione 2.4d - Adottare una nuova legge sulla comunicazione
 
-    L’Autorità, nel quadro dei suoi compiti di regolazione, ha esplicite competenze nell’ambito del \ |STYLE47|\ , nella comunicazione tradizionale e nella comunicazione 1.0, in cui sono evidenti le identità e le responsabilità editoriali dei soggetti e delle imprese; ha pochissimi poteri, se non quelli di moral suasion, nei confronti degli over the top (si pensi alla non attendibilità e affidabilità di alcune notizie, all’\ |STYLE48|\  e alle \ |STYLE49|\ ).
-
-
-.. admonition:: Raccomandazione 2.4e - Adottare una nuova legge sulla comunicazione
-
-    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del \ |STYLE50|\ .
+    Manca invece un forte supporto (politico e normativo) che ne legittimi la funzione strategica e di coordinamento e che, al tempo stesso, riveda le convenzioni sull’essere lavoratori / comunicatori istituzionali nell’era del \ |STYLE47|\ .
 
 |
 
@@ -469,7 +464,7 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 2.5 Gestione documentale
 ************************
 
-Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE51|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
+Oggi sono ancora poche le pubbliche amministrazioni che hanno definito piani concreti finalizzati a rendere operativa una sistematica trasformazione digitale delle loro attività e della produzione documentaria che ne deriva. \ |STYLE48|\ . A livello normativo, nell’ultimo anno, si segnalano alcune particolari iniziative:
 
 * il \ |LINK16|\  che ha, per alcuni ambiti, affrontato in modo nuovo temi che sembravano definiti e consolidati;
 
@@ -698,15 +693,9 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 
 .. |STYLE46| replace:: *fake news*
 
-.. |STYLE47| replace:: *mainstream*
+.. |STYLE47| replace:: *civic hacking*
 
-.. |STYLE48| replace:: *hate speech*
-
-.. |STYLE49| replace:: *fake news*
-
-.. |STYLE50| replace:: *civic hacking*
-
-.. |STYLE51| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
+.. |STYLE48| replace:: **Non si è ancora consapevoli del difficile livello di sostenibilità economica di alcune soluzioni e della immaturità delle piattaforme e delle infrastrutture digitali disponibili**
 
 
 .. |LINK1| raw:: html
