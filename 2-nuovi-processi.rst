@@ -321,7 +321,7 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
 
 #. \ |STYLE27|\ , dirigenti-manager in grado di accompagnare i propri collaboratori nella transizione digitale.
 
-.. admonition:: Raccomandazione 2.2h - E’ necessario creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale
+.. admonition:: Raccomandazione 2.2h - Creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale
 
     Nel capitolo sulla \ |LINK6|\  è stata ribadita la necessità di coordinamento tra soggetti diversi nel ruolo, nella funzione e nell’organizzazione. A fare da raccordo tra questi l’Agenzia per l’Italia digitale, che ha il compito di guidare le attività relative all’evoluzione strategica del sistema informativo della pubblica amministrazione.
     
